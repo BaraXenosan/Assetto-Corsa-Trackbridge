@@ -1,0 +1,56 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "T_537da1f630168004a0c8e3d1e849e659a39c8997ec333b1e921bd69d4c4349e8",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_537da1f630168004a0c8e3d1e849e659a39c8997ec333b1e921bd69d4c4349e8",
+    "Properties": {
+      "ImportedSize": {
+        "X": 4,
+        "Y": 4
+      },
+      "LightingGuid": "4DE2CF1E-43CA0CFD-F8AD5C94-10E1ED5A"
+    },
+    "SizeX": 4,
+    "SizeY": 4,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT1",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 8,
+          "SizeOnDisk": 8,
+          "OffsetInFile": "0x6F5"
+        },
+        "SizeX": 4,
+        "SizeY": 4,
+        "SizeZ": 1
+      },
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 8,
+          "SizeOnDisk": 8,
+          "OffsetInFile": "0x71D"
+        },
+        "SizeX": 2,
+        "SizeY": 2,
+        "SizeZ": 1
+      },
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 8,
+          "SizeOnDisk": 8,
+          "OffsetInFile": "0x745"
+        },
+        "SizeX": 1,
+        "SizeY": 1,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

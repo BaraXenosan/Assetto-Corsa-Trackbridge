@@ -1,0 +1,532 @@
+[
+  {
+    "Type": "Material",
+    "Name": "M_Map_road",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Material'",
+    "Package": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_Map_road",
+    "Properties": {
+      "ShadingModel": "MSM_Unlit",
+      "ShadingModels": {
+        "ShadingModelField": 1
+      },
+      "bCanMaskedBeAssumedOpaque": true,
+      "StateId": "BFF73A98-430902C3-CDD5E9A0-52D9AB9C"
+    },
+    "LoadedMaterialResources": [
+      {
+        "LoadedShaderMap": {
+          "ShaderMapId": {
+            "QualityLevel": "Num",
+            "FeatureLevel": "SM5",
+            "CookedShaderMapIdHash": "AE163E1F2F6CA0D66B4EDD4B03E4C9D723AEB8A8",
+            "LayoutParams": {
+              "MaxFieldAlignment": 8,
+              "Flags": "Flag_Initialized, Flag_AlignBases"
+            }
+          },
+          "Content": {
+            "OrderedMeshShaderMaps": [
+              {
+                "VertexFactoryTypeName": "FLocalVertexFactory",
+                "ShaderHash": [],
+                "ShaderTypes": [
+                  "FLumenCardPS<false>",
+                  "TBasePassPSFNoLightMapPolicy",
+                  "FLumenCardVS",
+                  "TBasePassVSFNoLightMapPolicy"
+                ],
+                "ShaderPermutations": [
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "Shaders": [
+                  {
+                    "Bindings": {
+                      "StructureLayoutHash": 0,
+                      "RootParameterBufferIndex": 65535
+                    },
+                    "ParameterMapInfo": {
+                      "UniformBuffers": [
+                        {
+                          "BaseIndex": 0
+                        },
+                        {
+                          "BaseIndex": 1
+                        }
+                      ],
+                      "TextureSamplers": [],
+                      "SRVs": [],
+                      "LooseParameterBuffers": [],
+                      "Hash": 0
+                    },
+                    "UniformBufferParameterStructs": [
+                      "View"
+                    ],
+                    "UniformBufferParameters": [
+                      {
+                        "BaseIndex": 0
+                      }
+                    ],
+                    "Type": "FLumenCardPS<false>",
+                    "VFType": "FLocalVertexFactory",
+                    "Target": {
+                      "Frequency": "SF_Pixel",
+                      "Platform": "SP_PCD3D_SM5"
+                    },
+                    "ResourceIndex": 1,
+                    "NumInstructions": 29,
+                    "SortKey": 3533646174
+                  },
+                  {
+                    "Bindings": {
+                      "StructureLayoutHash": 0,
+                      "RootParameterBufferIndex": 65535
+                    },
+                    "ParameterMapInfo": {
+                      "UniformBuffers": [
+                        {
+                          "BaseIndex": 0
+                        },
+                        {
+                          "BaseIndex": 1
+                        }
+                      ],
+                      "TextureSamplers": [],
+                      "SRVs": [],
+                      "LooseParameterBuffers": [],
+                      "Hash": 0
+                    },
+                    "UniformBufferParameterStructs": [
+                      "View"
+                    ],
+                    "UniformBufferParameters": [
+                      {
+                        "BaseIndex": 0
+                      }
+                    ],
+                    "Type": "TBasePassPSFNoLightMapPolicy",
+                    "VFType": "FLocalVertexFactory",
+                    "Target": {
+                      "Frequency": "SF_Pixel",
+                      "Platform": "SP_PCD3D_SM5"
+                    },
+                    "ResourceIndex": 2,
+                    "NumInstructions": 78,
+                    "SortKey": 578540895
+                  },
+                  {
+                    "Bindings": {
+                      "StructureLayoutHash": 0,
+                      "RootParameterBufferIndex": 65535
+                    },
+                    "ParameterMapInfo": {
+                      "UniformBuffers": [
+                        {
+                          "BaseIndex": 0
+                        },
+                        {
+                          "BaseIndex": 1
+                        }
+                      ],
+                      "TextureSamplers": [],
+                      "SRVs": [],
+                      "LooseParameterBuffers": [],
+                      "Hash": 0
+                    },
+                    "UniformBufferParameterStructs": [
+                      "View",
+                      "LocalVF"
+                    ],
+                    "UniformBufferParameters": [
+                      {
+                        "BaseIndex": 0
+                      },
+                      {
+                        "BaseIndex": 1
+                      }
+                    ],
+                    "Type": "FLumenCardVS",
+                    "VFType": "FLocalVertexFactory",
+                    "Target": {
+                      "Frequency": "SF_Vertex",
+                      "Platform": "SP_PCD3D_SM5"
+                    },
+                    "ResourceIndex": 3,
+                    "NumInstructions": 108,
+                    "SortKey": 1516221570
+                  },
+                  {
+                    "Bindings": {
+                      "StructureLayoutHash": 0,
+                      "RootParameterBufferIndex": 65535
+                    },
+                    "ParameterMapInfo": {
+                      "UniformBuffers": [
+                        {
+                          "BaseIndex": 0
+                        },
+                        {
+                          "BaseIndex": 1
+                        }
+                      ],
+                      "TextureSamplers": [],
+                      "SRVs": [],
+                      "LooseParameterBuffers": [],
+                      "Hash": 0
+                    },
+                    "UniformBufferParameterStructs": [
+                      "View",
+                      "LocalVF"
+                    ],
+                    "UniformBufferParameters": [
+                      {
+                        "BaseIndex": 0
+                      },
+                      {
+                        "BaseIndex": 1
+                      }
+                    ],
+                    "Type": "TBasePassVSFNoLightMapPolicy",
+                    "VFType": "FLocalVertexFactory",
+                    "Target": {
+                      "Frequency": "SF_Vertex",
+                      "Platform": "SP_PCD3D_SM5"
+                    },
+                    "ResourceIndex": 0,
+                    "NumInstructions": 250,
+                    "SortKey": 2504115025
+                  }
+                ],
+                "ShaderPipelines": [],
+                "ShaderPlatform": "SP_PCD3D_SM5"
+              }
+            ],
+            "MaterialCompilationOutput": {
+              "UniformExpressionSet": {
+                "UniformVectorPreshaders": [],
+                "UniformScalarPreshaders": [],
+                "UniformScalarParameters": [],
+                "UniformVectorParameters": [],
+                "UniformParameterEvaluations": [],
+                "UniformPreshaders": [
+                  {
+                    "FieldIndex": 0,
+                    "NumFields": 1,
+                    "OpcodeOffset": 0,
+                    "OpcodeSize": 3
+                  },
+                  {
+                    "FieldIndex": 1,
+                    "NumFields": 1,
+                    "OpcodeOffset": 3,
+                    "OpcodeSize": 9
+                  },
+                  {
+                    "FieldIndex": 2,
+                    "NumFields": 1,
+                    "OpcodeOffset": 12,
+                    "OpcodeSize": 9
+                  }
+                ],
+                "UniformPreshaderFields": [
+                  {
+                    "BufferOffset": 0,
+                    "ComponentIndex": 0,
+                    "Type": "Float4"
+                  },
+                  {
+                    "BufferOffset": 4,
+                    "ComponentIndex": 0,
+                    "Type": "Float1"
+                  },
+                  {
+                    "BufferOffset": 5,
+                    "ComponentIndex": 0,
+                    "Type": "Float3"
+                  }
+                ],
+                "UniformNumericParameters": [
+                  {
+                    "ParameterInfo": {
+                      "Name": "SelectionColor",
+                      "Index": -1,
+                      "Association": "GlobalParameter"
+                    },
+                    "ParameterType": "Vector",
+                    "DefaultValueOffset": 0,
+                    "Value": {
+                      "R": 0.0,
+                      "G": 0.0,
+                      "B": 0.0,
+                      "A": 0.0,
+                      "Hex": "000000"
+                    }
+                  }
+                ],
+                "UniformTextureParameters": [
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  []
+                ],
+                "UniformExternalTextureParameters": [],
+                "UniformTextureCollectionParameters": null,
+                "UniformPreshaderBufferSize": 2,
+                "UniformPreshaderData": {
+                  "Names": [],
+                  "NamesOffset": null,
+                  "StructTypes": [],
+                  "StructComponentTypes": [],
+                  "Data": "AwAAAwAAJAED////AwAAJAMAAQL/",
+                  "bPreshader2": false,
+                  "bPreFixup": false,
+                  "Preshader2TemporarySize": 0
+                },
+                "DefaultValues": "AAAAAAAAAAAAAAAAAAAAAA==",
+                "VTStacks": [],
+                "MaterialCacheTagStacks": null,
+                "ParameterCollections": [],
+                "UniformBufferLayoutInitializer": {
+                  "Name": "Material",
+                  "Resources": [
+                    {
+                      "MemberOffset": 32,
+                      "MemberType": "UBMT_SAMPLER"
+                    },
+                    {
+                      "MemberOffset": 40,
+                      "MemberType": "UBMT_SAMPLER"
+                    }
+                  ],
+                  "GraphResources": [],
+                  "GraphTextures": [],
+                  "GraphBuffers": [],
+                  "GraphUniformBuffers": [],
+                  "UniformBuffers": [],
+                  "Hash": 3670272,
+                  "ConstantBufferSize": 48,
+                  "RenderTargetsOffset": 65535,
+                  "StaticSlot": 255,
+                  "BindingFlags": "Shader",
+                  "Flags": "None"
+                },
+                "CompactUniformsVSOptional": null
+              },
+              "UserSceneTextureInputs": [],
+              "UsedSceneTextures": 0,
+              "UsedPathTracingBufferTextures": 0,
+              "StrataMaterialCompilationOutput": null,
+              "UsedDBufferTextures": 7,
+              "RuntimeVirtualTextureOutputAttributeMask": 0,
+              "b1": 0,
+              "b2": 0,
+              "b3": 0
+            },
+            "ShaderContentHash": "39C936A457E74A172E47F93012286B9B832EE1DB",
+            "UserSceneTextureOutput": "None",
+            "UserTextureDivisorX": 0,
+            "UserTextureDivisorY": 0,
+            "ResolutionRelativeToInput": "None",
+            "ShaderHash": [],
+            "ShaderTypes": [],
+            "ShaderPermutations": [],
+            "Shaders": [],
+            "ShaderPipelines": [],
+            "ShaderPlatform": "SP_PCD3D_SM5"
+          },
+          "PointerTable": {
+            "Types": [
+              "FLumenCardPS<false>",
+              "TBasePassPSFNoLightMapPolicy",
+              "FLumenCardVS",
+              "TBasePassVSFNoLightMapPolicy"
+            ],
+            "VFTypes": [
+              "FLocalVertexFactory"
+            ],
+            "TypeDependencies": [
+              {
+                "Name": "FMaterialShaderMapContent",
+                "SavedLayoutSize": 548,
+                "SavedLayoutHash": "1714EC36FC83A335D8C8BA3E4AD6FB034B17C7E5"
+              },
+              {
+                "Name": "FMeshMaterialShaderMap",
+                "SavedLayoutSize": 104,
+                "SavedLayoutHash": "44B1B6651B31660352F5130752F160445DEC8D39"
+              },
+              {
+                "Name": "FHashedName",
+                "SavedLayoutSize": 8,
+                "SavedLayoutHash": "30FD5AF790B755E56B0409FC43602589073952BB"
+              },
+              {
+                "Name": "FLumenCardPS<false>",
+                "SavedLayoutSize": 264,
+                "SavedLayoutHash": "FD6CA491C5FC0CE9B85ABADBBDD4912CD804C705"
+              },
+              {
+                "Name": "FShaderUniformBufferParameterInfo",
+                "SavedLayoutSize": 2,
+                "SavedLayoutHash": "49B92EF4F1FF8CF8CDAD2DDA1063B7AB70A0BA67"
+              },
+              {
+                "Name": "FShaderUniformBufferParameter",
+                "SavedLayoutSize": 2,
+                "SavedLayoutHash": "BDF329B25A04BFD9313361CD47C5163218B8537A"
+              },
+              {
+                "Name": "TBasePassPSFNoLightMapPolicy",
+                "SavedLayoutSize": 272,
+                "SavedLayoutHash": "B08957B08340D0A597408AF0BAAEB516E0E7CA47"
+              },
+              {
+                "Name": "FLumenCardVS",
+                "SavedLayoutSize": 264,
+                "SavedLayoutHash": "632C85231B3D82D6B6C7B446C0C129AA777A9AFD"
+              },
+              {
+                "Name": "FLocalVertexFactoryShaderParameters",
+                "SavedLayoutSize": 22,
+                "SavedLayoutHash": "AC1A437FDC42E3432CC66409573A167E09487E70"
+              },
+              {
+                "Name": "TBasePassVSFNoLightMapPolicy",
+                "SavedLayoutSize": 272,
+                "SavedLayoutHash": "9452CEDD58E9B10FF4177557BD2194A19C9C6C5D"
+              },
+              {
+                "Name": "FMaterialUniformPreshaderHeader",
+                "SavedLayoutSize": 16,
+                "SavedLayoutHash": "0AEB93F9BC8D33EA7738D143B6AC90B7242422E5"
+              },
+              {
+                "Name": "FMaterialUniformPreshaderField",
+                "SavedLayoutSize": 9,
+                "SavedLayoutHash": "A46F91DF56615B329F0AA139A9B7117610DBAD61"
+              },
+              {
+                "Name": "FMaterialNumericParameterInfo",
+                "SavedLayoutSize": 28,
+                "SavedLayoutHash": "78AC4B12B8749DE7603037C3AFFD5CFCDFEEE51B"
+              },
+              {
+                "Name": "FRHIUniformBufferResource",
+                "SavedLayoutSize": 3,
+                "SavedLayoutHash": "DFA870A8F26FFB9125A0524DEC8D3D1B81753244"
+              }
+            ]
+          },
+          "ResourceHash": null,
+          "Code": {
+            "ResourceHash": "339480B91B85805E5BA5F962671A53DD1DE35369",
+            "ShaderHashes": [
+              "51C34195C9D108C045B8404303B9522C6BD30C4D",
+              "5E299FD2BAE352EE1AD7A355495D6BBB0439C8D9",
+              "5FD57B2243A7F58A96AB1729E209C16CA6741127",
+              "82B45F5A6BA9C0F775271E51D5C164C3E1CB2A5E"
+            ],
+            "ShaderEntries": [
+              {
+                "Code": "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",
+                "UncompressedSize": 8445,
+                "Frequency": "SF_Vertex"
+              },
+              {
+                "Code": "jAoAAp+IAp0AAAAAAAAAAAABcgKqFbsTAAE4AAAAAERYQkPQsav2Ob4BR7LJWF99H45JAQAAAIgFAAADLADoTAFJU0dOtAAFAAAACIAKAAMPBwsBD4kBApYDAKIJBFRFWENPT1JEAFBSSU1JVElWRV9JRFNWX1Bvc2l0aW9uSXNGcm9udEZhY2UAq6urT1NHTlwIUAEBAgJTVl9UYXJnZXQAq6tTSEVYNAQNAWoIAAFZBEaOIIxiGAADchAQ8gFlACAAAQJoAjYIAkAAAE9iCT5PYgk+AACAPzgAAAdyABAAAACWFCYZMgoBAEYCEIBBRgL2Hw4B9o+LgD+CEAAAB4IBRAAABToAEA9WBQkGRhIApgoBAAAIMlYFgCARBgAQRqYKEgGAf4B/fycBBxIaCioyRgAPIEYAAD8APwDCAQAAAAALhyDNzEy/zcxMvw0GgD8/PzQKIAIABYICAT4BcAUAdRoCBVZpZXcACQAAAE1hdGVyaWFsAG0EAAAAAAAAADYAAAAAALPAmY+Hh4eHnZKZkpadmZmZuTLZoZFZmTlBOKGRubm5h4ePhySHhz6ZqXg42dnZuYeHNJKVLJk4SJc4mZmakdnZmZEhkUGHJYeWszKRYbmZPWCyyqGZMilgKlFdWURLSFl4wMpBOdJ50tF4YHj4+bE6uqo5QPKZKXDy2Zl4OJKaoXn4yJG6Oblg+aC5WjCJsWKSknnAMJm5fEmqQIchOEHKOEiZmaGRiZFaeDiambmRO5uZmf//MAEEABsAAQIBAQEDAgIAAAAAAQAAAAAADRB9Po+Ors8AAEIYiAgUMAxcvBgsOBAADAgsCFAc9ETsjHo8IFQIHIRoOKAcQCSwCLCMmCAcKCCgKAgc4Mx8FAR86CwIiCwQNCiIqNwAAAA=",
+                "UncompressedSize": 1502,
+                "Frequency": "SF_Pixel"
+              },
+              {
+                "Code": "jAoABO+IBO0BAAAAAwAAAAACbAAt/////wIAqhW7EwABOABEWEJD7zyhlz/Qo7/JCqFTQ3+wdIgLLBABXAEAAElTR07cBgAAAAiYCgMPCwGhAAIBAa4DD8AEzAkFVEVYQ09PUkQAUFJJTUlUSVZFX0QAVkVMT0NUWV9QUkVWX1BPUwBTVl9Qb3NpdGlvbklzRnJvbnRGYWNlAKtPU0dORAgAOAAEBFRhcmdldACrq1NIRVgkCgAAUIkCaggAAVkERo4gjqIAAAQAcBAQYggAAxIQEAIQ8gNkIAAEBGUAAAPyIARoAgYLcgCWhyAAAUDNzEy/zcxMv83MTL8yDQaARgIQAAA/Pz8mCADQAACCCgFAAAAqAACniwKDgIOZGToAAHAQAAAHIB8ABAMyABAQRoAggEEAgOaKgb+/AAcy9h82AAAFwqYeCLICQMCAP0ICOhDyDgIOAAAHcgL2DwABfQISAx8DAgLmigAIABACggAqKjEKAkAABgQQAAEeAAAIDgECK0sAAAaAgQHmCgEPIARFqLQ+Rai0Pv//PgD//z5VBxIQVgAABQoJgACAN5rNzDUzAAdCAD///4I6ABIBNgAACBUBNAAACgACADEIggqAII04CPJWFTEyCgYQMKYaMgBGDgEzcgKCTCMBcgIARnIjD/IDBgIqABMSGRoECgMAEgUaDAZwIipCOgJGgkAIAwABBDIAAAxKSgMAAwWAP4A/gD8DgQI8GgIAKguARrYTRrYTPwoAABoKASo4bxKDRRoDOzEHNw/2DxUBOCAAAKaIgiAAPgAAAXAFAgB1GgJWaWV3AAkAAABNYXRlcmlhbABtBAAAAAAAAAA2AAAAAAFroJIl+biHYYeHJjKZkoeanZk5OTnZuTm5mZKhWKGRuUA5uTk5h4eNj4eHhyKHhzyS+aE42bEgh4eckpWsmThIr5mPIZGZmaQ5JlCZkTIzRZGHpZFB0lWZmaGRPjmPkYtMkrEwtHmomSRAMzG1Okg4MikomaIwejI9yppRmbEimZmyIMFRmUWxIniR+VmhkaGR2bmZ8pF5kKo5mZm52ZFBWrE9SHjgTDE5mWE4XJp5wJIxiZF5h7E4x5GieJlEmTh5KCSOIniReUiyeCh4eLC5mdmRRXiokSWhkXnAkXqreZG6skCZkUHyQXjy2VmS2Xn4qMG50ZlReDB5mfmZspGamTm5OjiZmZl5oJmZ+XmZmdmZ+pi5+fioufm4SLFIMjGhsVqZXGCZOSiZObnJkpLCYDmZmVmZOXh6eEk5OItc+XiweeBZeZhJWLkoeLFIQHnA/fg4QEJ4qJF5SJFB+kh4WJEikbmZOTlqN5w5//8wAmgAYAABAQIBAAABAQMBAAABAQABAgAAAgMEAQIABAMFAAMAAAMBBQAFAQQBBQAAAgAAAwEAAQMFAAAGAAAEBAQAAAQAAAAABAAEAQEEAggIAAAKFBA7ADxeAF50Pdtejm6fnwAAmwwYUFxMCBgUMOgYHAgMnBhQEBAM/DgMpyCELDQ4tCRsJBQDnPDMJAiAzAvcNGAUUDRkCBwI9EBkICRBKIwwdGhIlEzE3CyQpLQcbBQwCJAkJHAccDBwWKh8LADoRCBgKHCgjCgIMFAIFGgsYHSgJCxEuAgc1Fh4tGwc8Aw09JDIKJjYxLSMtOwkTNCQMCQ4eKi86Pz8BHBAgBPXAAAA",
+                "UncompressedSize": 3074,
+                "Frequency": "SF_Pixel"
+              },
+              {
+                "Code": "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",
+                "UncompressedSize": 4061,
+                "Frequency": "SF_Vertex"
+              }
+            ],
+            "ShaderCodeResources": []
+          },
+          "ShaderPlatform": "SP_PCD3D_SM5",
+          "FrozenArchive": {
+            "LayoutParameters": {
+              "MaxFieldAlignment": 8,
+              "Flags": "Flag_Initialized, Flag_AlignBases"
+            },
+            "VTables": [],
+            "ScriptNames": [
+              {
+                "Name": "SelectionColor",
+                "Patches": [
+                  {
+                    "Offset": 2012
+                  }
+                ]
+              }
+            ],
+            "MinimalNames": []
+          }
+        }
+      }
+    ],
+    "CachedExpressionData": {
+      "RuntimeEntries": {
+        "ParameterInfoSet": []
+      },
+      "RuntimeEntries[1]": {
+        "ParameterInfoSet": []
+      },
+      "RuntimeEntries[2]": {
+        "ParameterInfoSet": []
+      },
+      "RuntimeEntries[3]": {
+        "ParameterInfoSet": []
+      },
+      "RuntimeEntries[4]": {
+        "ParameterInfoSet": []
+      },
+      "RuntimeEntries[5]": {
+        "ParameterInfoSet": []
+      },
+      "ScalarPrimitiveDataIndexValues": [],
+      "VectorPrimitiveDataIndexValues": [],
+      "ScalarValues": [],
+      "VectorValues": [],
+      "DoubleVectorValues": [],
+      "TextureValues": [],
+      "FontValues": [],
+      "FontPageValues": [],
+      "RuntimeVirtualTextureValues": [],
+      "ReferencedTextures": [],
+      "FunctionInfos": [],
+      "ParameterCollectionInfos": [],
+      "GrassTypes": [],
+      "MaterialLayers": {
+        "Layers": [],
+        "Blends": []
+      },
+      "DynamicParameterNames": [],
+      "QualityLevelsUsed": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "bHasMaterialLayers": false,
+      "bHasRuntimeVirtualTextureOutput": false,
+      "bHasSceneColor": false,
+      "bHasPerInstanceCustomData": false,
+      "bHasPerInstanceRandom": false,
+      "bHasVertexInterpolator": false,
+      "PropertyConnectedBitmask": 1
+    }
+  }
+]

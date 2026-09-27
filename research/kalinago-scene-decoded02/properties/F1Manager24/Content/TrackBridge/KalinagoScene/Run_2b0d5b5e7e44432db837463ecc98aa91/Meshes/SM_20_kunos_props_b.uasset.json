@@ -1,0 +1,548 @@
+[
+  {
+    "Type": "BodySetup",
+    "Name": "BodySetup_0",
+    "Flags": "RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'BodySetup'",
+    "Outer": {
+      "ObjectName": "StaticMesh'SM_20_kunos_props_b'",
+      "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_20_kunos_props_b.2"
+    },
+    "Properties": {
+      "DefaultInstance": {
+        "ObjectType": "ECC_WorldStatic",
+        "CollisionProfileName": "BlockAll"
+      }
+    },
+    "BodySetupGuid": "A72F85F642471193BD0A89AC59AC437F",
+    "CookedFormatData": {
+      "PhysXPC": {
+        "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+        "ElementCount": 12592274,
+        "SizeOnDisk": 12592274,
+        "OffsetInFile": "0x1C6A1A1"
+      }
+    }
+  },
+  {
+    "Type": "NavCollision",
+    "Name": "NavCollision_0",
+    "Flags": "RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'NavCollision'",
+    "Outer": {
+      "ObjectName": "StaticMesh'SM_20_kunos_props_b'",
+      "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_20_kunos_props_b.2"
+    },
+    "CookedFormatData": {
+      "NavCollision_Chaos": {
+        "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+        "ElementCount": 21,
+        "SizeOnDisk": 21,
+        "OffsetInFile": "0x286C67B"
+      }
+    }
+  },
+  {
+    "Type": "StaticMesh",
+    "Name": "SM_20_kunos_props_b",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StaticMesh'",
+    "Package": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_20_kunos_props_b",
+    "Properties": {
+      "StaticMaterials": [
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_20_kunos_props_b_0'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_20_kunos_props_b_0.0"
+          },
+          "MaterialSlotName": "material_0",
+          "ImportedMaterialSlotName": "material_0",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 11.5015135,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_20_kunos_props_b_1'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_20_kunos_props_b_1.0"
+          },
+          "MaterialSlotName": "material_1",
+          "ImportedMaterialSlotName": "material_1",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 20.374619,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_20_kunos_props_b_2'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_20_kunos_props_b_2.0"
+          },
+          "MaterialSlotName": "material_2",
+          "ImportedMaterialSlotName": "material_2",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 18.661598,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_20_kunos_props_b_3'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_20_kunos_props_b_3.0"
+          },
+          "MaterialSlotName": "material_3",
+          "ImportedMaterialSlotName": "material_3",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 599.40173,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_20_kunos_props_b_4'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_20_kunos_props_b_4.0"
+          },
+          "MaterialSlotName": "material_4",
+          "ImportedMaterialSlotName": "material_4",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 371.79822,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_20_kunos_props_b_5'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_20_kunos_props_b_5.0"
+          },
+          "MaterialSlotName": "material_5",
+          "ImportedMaterialSlotName": "material_5",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 371.79898,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_20_kunos_props_b_6'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_20_kunos_props_b_6.0"
+          },
+          "MaterialSlotName": "material_6",
+          "ImportedMaterialSlotName": "material_6",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 226.28522,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_20_kunos_props_b_7'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_20_kunos_props_b_7.0"
+          },
+          "MaterialSlotName": "material_7",
+          "ImportedMaterialSlotName": "material_7",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 1682.2162,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_20_kunos_props_b_8'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_20_kunos_props_b_8.0"
+          },
+          "MaterialSlotName": "material_8",
+          "ImportedMaterialSlotName": "material_8",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 695.57556,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_20_kunos_props_b_9'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_20_kunos_props_b_9.0"
+          },
+          "MaterialSlotName": "material_9",
+          "ImportedMaterialSlotName": "material_9",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 1695.7356,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_20_kunos_props_b_10'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_20_kunos_props_b_10.0"
+          },
+          "MaterialSlotName": "material_10",
+          "ImportedMaterialSlotName": "material_10",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 257.56436,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_20_kunos_props_b_11'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_20_kunos_props_b_11.0"
+          },
+          "MaterialSlotName": "material_11",
+          "ImportedMaterialSlotName": "material_11",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 1248.7612,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_20_kunos_props_b_12'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_20_kunos_props_b_12.0"
+          },
+          "MaterialSlotName": "material_12",
+          "ImportedMaterialSlotName": "material_12",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 3528.5369,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_20_kunos_props_b_13'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_20_kunos_props_b_13.0"
+          },
+          "MaterialSlotName": "material_13",
+          "ImportedMaterialSlotName": "material_13",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 4317.8896,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        }
+      ],
+      "LightmapUVDensity": 3481.9822,
+      "LightMapResolution": 64,
+      "ExtendedBounds": {
+        "Origin": {
+          "X": -9819.834,
+          "Y": 45005.6,
+          "Z": 2057.2405
+        },
+        "BoxExtent": {
+          "X": 70880.93,
+          "Y": 83359.375,
+          "Z": 3242.468
+        },
+        "SphereRadius": 96250.05144906252
+      }
+    },
+    "BodySetup": {
+      "ObjectName": "BodySetup'SM_20_kunos_props_b:BodySetup_0'",
+      "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_20_kunos_props_b.0"
+    },
+    "NavCollision": {
+      "ObjectName": "NavCollision'SM_20_kunos_props_b:NavCollision_0'",
+      "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_20_kunos_props_b.1"
+    },
+    "LightingGuid": "FBBA0424-4EA47F2E-DD4EE8BF-97BC491D",
+    "RenderData": {
+      "LODs": [
+        {
+          "Sections": [
+            {
+              "MaterialIndex": 0,
+              "FirstIndex": 0,
+              "NumTriangles": 20,
+              "MinVertexIndex": 0,
+              "MaxVertexIndex": 39,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 1,
+              "FirstIndex": 60,
+              "NumTriangles": 10,
+              "MinVertexIndex": 40,
+              "MaxVertexIndex": 61,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 2,
+              "FirstIndex": 90,
+              "NumTriangles": 22,
+              "MinVertexIndex": 62,
+              "MaxVertexIndex": 107,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 3,
+              "FirstIndex": 156,
+              "NumTriangles": 921,
+              "MinVertexIndex": 108,
+              "MaxVertexIndex": 1422,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 4,
+              "FirstIndex": 2919,
+              "NumTriangles": 8,
+              "MinVertexIndex": 1423,
+              "MaxVertexIndex": 1438,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 5,
+              "FirstIndex": 2943,
+              "NumTriangles": 16,
+              "MinVertexIndex": 1439,
+              "MaxVertexIndex": 1470,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 6,
+              "FirstIndex": 2991,
+              "NumTriangles": 11060,
+              "MinVertexIndex": 1471,
+              "MaxVertexIndex": 18670,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 7,
+              "FirstIndex": 36171,
+              "NumTriangles": 10410,
+              "MinVertexIndex": 18671,
+              "MaxVertexIndex": 45883,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 8,
+              "FirstIndex": 67401,
+              "NumTriangles": 6560,
+              "MinVertexIndex": 45884,
+              "MaxVertexIndex": 51667,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 9,
+              "FirstIndex": 87081,
+              "NumTriangles": 39576,
+              "MinVertexIndex": 51668,
+              "MaxVertexIndex": 119330,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 10,
+              "FirstIndex": 205809,
+              "NumTriangles": 2700,
+              "MinVertexIndex": 119331,
+              "MaxVertexIndex": 125784,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 11,
+              "FirstIndex": 213909,
+              "NumTriangles": 21804,
+              "MinVertexIndex": 125785,
+              "MaxVertexIndex": 163693,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 12,
+              "FirstIndex": 279321,
+              "NumTriangles": 15427,
+              "MinVertexIndex": 163694,
+              "MaxVertexIndex": 193492,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 13,
+              "FirstIndex": 325602,
+              "NumTriangles": 99868,
+              "MinVertexIndex": 193493,
+              "MaxVertexIndex": 299428,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            }
+          ],
+          "MaxDeviation": 0.0,
+          "PositionVertexBuffer": {
+            "Stride": 12,
+            "NumVertices": 299429
+          },
+          "VertexBuffer": {
+            "NumTexCoords": 1,
+            "NumVertices": 299429,
+            "Strides": -1,
+            "UseHighPrecisionTangentBasis": false,
+            "UseFullPrecisionUVs": false
+          },
+          "ColorVertexBuffer": {
+            "Stride": 0,
+            "NumVertices": 0
+          },
+          "CardRepresentationData": {
+            "Bounds": {
+              "Min": {
+                "X": -80701.766,
+                "Y": -38354.773,
+                "Z": -1186.2275
+              },
+              "Max": {
+                "X": 61062.094,
+                "Y": 128365.98,
+                "Z": 5300.7085
+              },
+              "IsValid": 1
+            },
+            "MaxLodLevel": 0,
+            "bMostlyTwoSided": false,
+            "CardBuildData": []
+          }
+        }
+      ],
+      "NaniteResources": {
+        "StreamablePages": {
+          "BulkDataFlags": "BULKDATA_None",
+          "ElementCount": 0,
+          "SizeOnDisk": 0,
+          "OffsetInFile": "0x38D28A5"
+        },
+        "AssemblyTransforms": [],
+        "AssemblyBoneAttachmentData": null,
+        "BoneIndices": null,
+        "VoxelMaterialsMask": 0,
+        "MeshBounds": null,
+        "PageRangeLookup": null,
+        "NumRootPages": 0,
+        "PositionPrecision": 0,
+        "NormalPrecision": 0,
+        "NumInputTriangles": 0,
+        "NumInputVertices": 0,
+        "NumInputMeshes": 0,
+        "NumInputTexCoords": 0,
+        "NumClusters": 0,
+        "NumInputCurves": 0,
+        "ResourceFlags": "NONE"
+      },
+      "Bounds": {
+        "Origin": {
+          "X": -9819.834,
+          "Y": 45005.6,
+          "Z": 2057.2405
+        },
+        "BoxExtent": {
+          "X": 70880.93,
+          "Y": 83359.375,
+          "Z": 3242.468
+        },
+        "SphereRadius": 96250.055
+      },
+      "bLODsShareStaticLighting": true,
+      "ScreenSize": [
+        2.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  }
+]

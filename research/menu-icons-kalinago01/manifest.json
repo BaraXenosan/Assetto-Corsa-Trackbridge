@@ -1,0 +1,19 @@
+{
+  "installable": false,
+  "variants": [
+    "Background",
+    "Large",
+    "LargeDark",
+    "Medium",
+    "Small",
+    "SmallDark",
+    "SmallLight"
+  ],
+  "source": "kalinago-fit03",
+  "unmodified": [
+    "Minimap (already replaced in 1003)",
+    "Sectors",
+    "Speed"
+  ],
+  "runtimeVerified": false
+}

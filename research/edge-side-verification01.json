@@ -1,0 +1,30 @@
+{
+  "installable": false,
+  "entries": 1026,
+  "hypotheses": [
+    {
+      "positiveLeftWidth": "m_insideEdge",
+      "classificationErrors": 40,
+      "nearBoundary": 4
+    },
+    {
+      "positiveLeftWidth": "m_outsideEdge",
+      "classificationErrors": 339,
+      "nearBoundary": 2
+    },
+    {
+      "positiveLeftWidth": "m_insideEdge",
+      "rule": "road and pit corridors overlap",
+      "classificationErrors": 0
+    },
+    {
+      "positiveLeftWidth": "m_outsideEdge",
+      "rule": "road and pit corridors overlap",
+      "classificationErrors": 158
+    }
+  ],
+  "limitations": [
+    "Tests whether serialized pit-road overlap is consistent with positive-left edge widths",
+    "Does not prove off-track surface classifications"
+  ]
+}

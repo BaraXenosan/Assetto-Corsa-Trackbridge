@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "installable": false,
+  "root": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks",
+  "overlayDirectory": null,
+  "version": "GAME_UE5_1",
+  "cue4Parse": "1.2.2.0",
+  "createdUtc": "2026-09-27T13:12:51.3475786Z",
+  "files": 116594,
+  "metadataOnly": false,
+  "readShaderMaps": false,
+  "mappingFile": null,
+  "mappingSha256": null,
+  "results": [
+    {
+      "package": "F1Manager24/Content/UIGameface/img/minimap/minimapBahrainBackground.svg",
+      "status": "raw-file",
+      "bytes": 19919,
+      "sha256": "9ffe65e6bdf387ad5c7b0399c87524e7fe1fd9468c9d3112d140e5c16403c3b6"
+    },
+    {
+      "package": "F1Manager24/Content/UIGameface/img/minimap/minimapBahrainLarge.svg",
+      "status": "raw-file",
+      "bytes": 5219,
+      "sha256": "b5e4ac4531884541b88c6f05fa2a8ebfcca2fd536df9c3d6b36b06c3c34484d0"
+    },
+    {
+      "package": "F1Manager24/Content/UIGameface/img/minimap/minimapBahrainLargeDark.svg",
+      "status": "raw-file",
+      "bytes": 5213,
+      "sha256": "09fea068f2aee8deb45bb789ed7bd6a1957c1a9750f9addea1d6eea0438b8e6d"
+    },
+    {
+      "package": "F1Manager24/Content/UIGameface/img/minimap/minimapBahrainMedium.svg",
+      "status": "raw-file",
+      "bytes": 4941,
+      "sha256": "a545e05e1ba4f2e1f3c84ad9dce6e009ded265501553c66f0f04c2dcd9902e3a"
+    },
+    {
+      "package": "F1Manager24/Content/UIGameface/img/minimap/minimapBahrainMinimap.svg",
+      "status": "raw-file",
+      "bytes": 35399,
+      "sha256": "0018d643b593d6c816454d4f57edd91e18f13bb3feb5df1fb3ec9adaa64c4333"
+    },
+    {
+      "package": "F1Manager24/Content/UIGameface/img/minimap/minimapBahrainSectors.svg",
+      "status": "raw-file",
+      "bytes": 151393,
+      "sha256": "d7865c42f012242b2d770248541ed27aa0c24972863023609a96b3b4c4dbcd35"
+    },
+    {
+      "package": "F1Manager24/Content/UIGameface/img/minimap/minimapBahrainSmall.svg",
+      "status": "raw-file",
+      "bytes": 7620,
+      "sha256": "14d0b5fccceec3e061a360fbd1b8963b245c2f0d0de0973e1cfdece018b87166"
+    },
+    {
+      "package": "F1Manager24/Content/UIGameface/img/minimap/minimapBahrainSmallDark.svg",
+      "status": "raw-file",
+      "bytes": 4662,
+      "sha256": "81b9890e7bbadfef27651feffb022497d4a38ad3c31a5b455b612db8944856d6"
+    },
+    {
+      "package": "F1Manager24/Content/UIGameface/img/minimap/minimapBahrainSmallLight.svg",
+      "status": "raw-file",
+      "bytes": 4663,
+      "sha256": "f0cdd080c738aad4e9169e1006cda8f50af12ebed434cdd959b7b96bb44923b7"
+    },
+    {
+      "package": "F1Manager24/Content/UIGameface/img/minimap/minimapBahrainSpeed.svg",
+      "status": "raw-file",
+      "bytes": 138338,
+      "sha256": "09f1c6dd44ae29442af76a908edad5fdef24bc8c2005f24765881fec43b20ca7"
+    }
+  ],
+  "scope": "Property export for research; no cooking, packaging or game validation."
+}

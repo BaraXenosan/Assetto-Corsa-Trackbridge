@@ -1,0 +1,71 @@
+{
+  "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_10_trees_3d.uasset",
+  "metadataOnly": false,
+  "Name": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_10_trees_3d",
+  "names": [
+    "BlockAll",
+    "material",
+    "NavCollision_Chaos",
+    "PhysXPC",
+    "BodySetup",
+    "NavCollision",
+    "SM_10_trees_3d",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_10_trees_3d"
+  ],
+  "exports": [
+    {
+      "index": 0,
+      "name": "BodySetup_0",
+      "type": "/Script/Engine.BodySetup",
+      "outer": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_10_trees_3d.SM_10_trees_3d",
+      "serialOffset": 0,
+      "serialSize": 29860591
+    },
+    {
+      "index": 1,
+      "name": "NavCollision_0",
+      "type": "/Script/NavigationSystem.NavCollision",
+      "outer": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_10_trees_3d.SM_10_trees_3d",
+      "serialOffset": 29860591,
+      "serialSize": 91
+    },
+    {
+      "index": 2,
+      "name": "SM_10_trees_3d",
+      "type": "/Script/Engine.StaticMesh",
+      "outer": null,
+      "serialOffset": 29860682,
+      "serialSize": 37486024
+    }
+  ],
+  "imports": [
+    "/Script/Engine.Default__BodySetup",
+    "/Script/Engine.BodySetup",
+    "/Script/Engine.StaticMesh",
+    "/Script/NavigationSystem.NavCollision",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_10_trees_3d_0.M_10_trees_3d_0",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_10_trees_3d_1.M_10_trees_3d_1",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_10_trees_3d_2.M_10_trees_3d_2",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_10_trees_3d_3.M_10_trees_3d_3",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_10_trees_3d_4.M_10_trees_3d_4",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_10_trees_3d_5.M_10_trees_3d_5",
+    "/Script/NavigationSystem.Default__NavCollision",
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "/Script/Engine",
+    "/Script/NavigationSystem",
+    "/Script/Engine.Default__StaticMesh"
+  ],
+  "dependencies": [
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_10_trees_3d_2",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_10_trees_3d_3",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_10_trees_3d_1",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_10_trees_3d_5",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_10_trees_3d_4",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_10_trees_3d_0"
+  ]
+}

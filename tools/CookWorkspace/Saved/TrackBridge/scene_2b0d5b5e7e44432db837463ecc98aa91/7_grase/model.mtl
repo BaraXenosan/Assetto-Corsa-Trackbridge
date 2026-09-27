@@ -1,0 +1,21 @@
+# Approximate diffuse only. AC shader settings in materials.json.
+newmtl material_0
+Kd 1 1 1
+map_Kd textures/0_WATER.DDS
+
+newmtl material_1
+Kd 1 1 1
+map_Kd textures/2_FOREST.DDS
+
+newmtl material_2
+Kd 1 1 1
+map_Kd textures/3_EDGE_SAND.DDS
+
+newmtl material_3
+Kd 1 1 1
+map_Kd textures/9_SAND.DDS
+
+newmtl material_4
+Kd 1 1 1
+map_Kd textures/11_GRASB.DDS
+

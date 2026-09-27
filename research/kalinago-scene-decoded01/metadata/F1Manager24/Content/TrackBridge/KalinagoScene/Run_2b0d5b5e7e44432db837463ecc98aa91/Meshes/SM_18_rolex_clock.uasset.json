@@ -1,0 +1,59 @@
+{
+  "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_18_rolex_clock.uasset",
+  "metadataOnly": false,
+  "Name": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_18_rolex_clock",
+  "names": [
+    "BlockAll",
+    "material",
+    "NavCollision_Chaos",
+    "PhysXPC",
+    "BodySetup",
+    "NavCollision",
+    "SM_18_rolex_clock",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_18_rolex_clock"
+  ],
+  "exports": [
+    {
+      "index": 0,
+      "name": "BodySetup_0",
+      "type": "/Script/Engine.BodySetup",
+      "outer": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_18_rolex_clock.SM_18_rolex_clock",
+      "serialOffset": 0,
+      "serialSize": 51385
+    },
+    {
+      "index": 1,
+      "name": "NavCollision_0",
+      "type": "/Script/NavigationSystem.NavCollision",
+      "outer": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_18_rolex_clock.SM_18_rolex_clock",
+      "serialOffset": 51385,
+      "serialSize": 91
+    },
+    {
+      "index": 2,
+      "name": "SM_18_rolex_clock",
+      "type": "/Script/Engine.StaticMesh",
+      "outer": null,
+      "serialOffset": 51476,
+      "serialSize": 63270
+    }
+  ],
+  "imports": [
+    "/Script/Engine.Default__BodySetup",
+    "/Script/Engine.BodySetup",
+    "/Script/Engine.StaticMesh",
+    "/Script/NavigationSystem.NavCollision",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_18_rolex_clock_0.M_18_rolex_clock_0",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_18_rolex_clock_1.M_18_rolex_clock_1",
+    "/Script/NavigationSystem.Default__NavCollision",
+    null,
+    null,
+    "/Script/Engine",
+    "/Script/NavigationSystem",
+    "/Script/Engine.Default__StaticMesh"
+  ],
+  "dependencies": [
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_18_rolex_clock_1",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_18_rolex_clock_0"
+  ]
+}

@@ -1,0 +1,654 @@
+[
+  {
+    "Type": "BoxComponent",
+    "Name": "BoxComponent0",
+    "Flags": "RF_Transactional | RF_DefaultSubObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'BoxComponent'",
+    "Outer": {
+      "ObjectName": "LevelBounds'Lvl_Bahrain_FullScreenMap:PersistentLevel.LevelBounds_1'",
+      "ObjectPath": "/Game/Circuits/Bahrain/FullScreenMap/Lvl_Bahrain_FullScreenMap.3"
+    },
+    "Properties": {
+      "AreaClassOverride": {
+        "ObjectName": "Class'NavArea_Obstacle'",
+        "ObjectPath": "/Script/NavigationSystem"
+      },
+      "bUseSystemDefaultObstacleAreaClass": false,
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "RelativeLocation": {
+        "X": 0.0012207031,
+        "Y": 0.0012207031,
+        "Z": -5000.0
+      },
+      "RelativeScale3D": {
+        "X": 3445.9995,
+        "Y": 3445.9976,
+        "Z": 3446.0022
+      }
+    }
+  },
+  {
+    "Type": "BP_BAH_FullScreenMap_Visuals_C",
+    "Name": "BP_BAH_FullScreenMap_Visuals_2",
+    "Flags": "RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "BlueprintGeneratedClass'/Game/Circuits/Bahrain/FullScreenMap/BP_BAH_FullScreenMap_Visuals.BP_BAH_FullScreenMap_Visuals_C'",
+    "Outer": {
+      "ObjectName": "Level'Lvl_Bahrain_FullScreenMap:PersistentLevel'",
+      "ObjectPath": "/Game/Circuits/Bahrain/FullScreenMap/Lvl_Bahrain_FullScreenMap.2"
+    },
+    "Template": {
+      "ObjectName": "BP_BAH_FullScreenMap_Visuals_C'Default__BP_BAH_FullScreenMap_Visuals_C'",
+      "ObjectPath": "/Game/Circuits/Bahrain/FullScreenMap/BP_BAH_FullScreenMap_Visuals.1"
+    },
+    "Properties": {
+      "DRS": {
+        "ObjectName": "StaticMeshComponent'Lvl_Bahrain_FullScreenMap:PersistentLevel.BP_BAH_FullScreenMap_Visuals_2.DRS'",
+        "ObjectPath": "/Game/Circuits/Bahrain/FullScreenMap/Lvl_Bahrain_FullScreenMap.10"
+      },
+      "trees_mesh": {
+        "ObjectName": "StaticMeshComponent'Lvl_Bahrain_FullScreenMap:PersistentLevel.BP_BAH_FullScreenMap_Visuals_2.trees_mesh'",
+        "ObjectPath": "/Game/Circuits/Bahrain/FullScreenMap/Lvl_Bahrain_FullScreenMap.14"
+      },
+      "buildings_mesh": {
+        "ObjectName": "StaticMeshComponent'Lvl_Bahrain_FullScreenMap:PersistentLevel.BP_BAH_FullScreenMap_Visuals_2.buildings_mesh'",
+        "ObjectPath": "/Game/Circuits/Bahrain/FullScreenMap/Lvl_Bahrain_FullScreenMap.8"
+      },
+      "BG_mesh": {
+        "ObjectName": "StaticMeshComponent'Lvl_Bahrain_FullScreenMap:PersistentLevel.BP_BAH_FullScreenMap_Visuals_2.BG_mesh'",
+        "ObjectPath": "/Game/Circuits/Bahrain/FullScreenMap/Lvl_Bahrain_FullScreenMap.7"
+      },
+      "kerb_mesh": {
+        "ObjectName": "StaticMeshComponent'Lvl_Bahrain_FullScreenMap:PersistentLevel.BP_BAH_FullScreenMap_Visuals_2.kerb_mesh'",
+        "ObjectPath": "/Game/Circuits/Bahrain/FullScreenMap/Lvl_Bahrain_FullScreenMap.12"
+      },
+      "track_mesh": {
+        "ObjectName": "StaticMeshComponent'Lvl_Bahrain_FullScreenMap:PersistentLevel.BP_BAH_FullScreenMap_Visuals_2.track_mesh'",
+        "ObjectPath": "/Game/Circuits/Bahrain/FullScreenMap/Lvl_Bahrain_FullScreenMap.13"
+      },
+      "circle_mesh": {
+        "ObjectName": "StaticMeshComponent'Lvl_Bahrain_FullScreenMap:PersistentLevel.BP_BAH_FullScreenMap_Visuals_2.circle_mesh'",
+        "ObjectPath": "/Game/Circuits/Bahrain/FullScreenMap/Lvl_Bahrain_FullScreenMap.9"
+      },
+      "ground_mesh": {
+        "ObjectName": "StaticMeshComponent'Lvl_Bahrain_FullScreenMap:PersistentLevel.BP_BAH_FullScreenMap_Visuals_2.ground_mesh'",
+        "ObjectPath": "/Game/Circuits/Bahrain/FullScreenMap/Lvl_Bahrain_FullScreenMap.11"
+      },
+      "DefaultSceneRoot": {
+        "ObjectName": "SceneComponent'Lvl_Bahrain_FullScreenMap:PersistentLevel.BP_BAH_FullScreenMap_Visuals_2.DefaultSceneRoot'",
+        "ObjectPath": "/Game/Circuits/Bahrain/FullScreenMap/Lvl_Bahrain_FullScreenMap.6"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent'Lvl_Bahrain_FullScreenMap:PersistentLevel.BP_BAH_FullScreenMap_Visuals_2.DefaultSceneRoot'",
+        "ObjectPath": "/Game/Circuits/Bahrain/FullScreenMap/Lvl_Bahrain_FullScreenMap.6"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "SceneComponent'Lvl_Bahrain_FullScreenMap:PersistentLevel.BP_BAH_FullScreenMap_Visuals_2.DefaultSceneRoot'",
+          "ObjectPath": "/Game/Circuits/Bahrain/FullScreenMap/Lvl_Bahrain_FullScreenMap.6"
+        },
+        {
+          "ObjectName": "StaticMeshComponent'Lvl_Bahrain_FullScreenMap:PersistentLevel.BP_BAH_FullScreenMap_Visuals_2.ground_mesh'",
+          "ObjectPath": "/Game/Circuits/Bahrain/FullScreenMap/Lvl_Bahrain_FullScreenMap.11"
+        },
+        {
+          "ObjectName": "StaticMeshComponent'Lvl_Bahrain_FullScreenMap:PersistentLevel.BP_BAH_FullScreenMap_Visuals_2.circle_mesh'",
+          "ObjectPath": "/Game/Circuits/Bahrain/FullScreenMap/Lvl_Bahrain_FullScreenMap.9"
+        },
+        {
+          "ObjectName": "StaticMeshComponent'Lvl_Bahrain_FullScreenMap:PersistentLevel.BP_BAH_FullScreenMap_Visuals_2.track_mesh'",
+          "ObjectPath": "/Game/Circuits/Bahrain/FullScreenMap/Lvl_Bahrain_FullScreenMap.13"
+        },
+        {
+          "ObjectName": "StaticMeshComponent'Lvl_Bahrain_FullScreenMap:PersistentLevel.BP_BAH_FullScreenMap_Visuals_2.kerb_mesh'",
+          "ObjectPath": "/Game/Circuits/Bahrain/FullScreenMap/Lvl_Bahrain_FullScreenMap.12"
+        },
+        {
+          "ObjectName": "StaticMeshComponent'Lvl_Bahrain_FullScreenMap:PersistentLevel.BP_BAH_FullScreenMap_Visuals_2.BG_mesh'",
+          "ObjectPath": "/Game/Circuits/Bahrain/FullScreenMap/Lvl_Bahrain_FullScreenMap.7"
+        },
+        {
+          "ObjectName": "StaticMeshComponent'Lvl_Bahrain_FullScreenMap:PersistentLevel.BP_BAH_FullScreenMap_Visuals_2.buildings_mesh'",
+          "ObjectPath": "/Game/Circuits/Bahrain/FullScreenMap/Lvl_Bahrain_FullScreenMap.8"
+        },
+        {
+          "ObjectName": "StaticMeshComponent'Lvl_Bahrain_FullScreenMap:PersistentLevel.BP_BAH_FullScreenMap_Visuals_2.trees_mesh'",
+          "ObjectPath": "/Game/Circuits/Bahrain/FullScreenMap/Lvl_Bahrain_FullScreenMap.14"
+        },
+        {
+          "ObjectName": "StaticMeshComponent'Lvl_Bahrain_FullScreenMap:PersistentLevel.BP_BAH_FullScreenMap_Visuals_2.DRS'",
+          "ObjectPath": "/Game/Circuits/Bahrain/FullScreenMap/Lvl_Bahrain_FullScreenMap.10"
+        }
+      ]
+    },
+    "ActorLabel": "BP_BAH_FullScreenMap_Visuals"
+  },
+  {
+    "Type": "Level",
+    "Name": "PersistentLevel",
+    "Flags": "RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Level'",
+    "Outer": {
+      "ObjectName": "World'Lvl_Bahrain_FullScreenMap'",
+      "ObjectPath": "/Game/Circuits/Bahrain/FullScreenMap/Lvl_Bahrain_FullScreenMap.15"
+    },
+    "Properties": {
+      "Model": {
+        "ObjectName": "Model'Lvl_Bahrain_FullScreenMap:PersistentLevel.Model_3'",
+        "ObjectPath": "/Game/Circuits/Bahrain/FullScreenMap/Lvl_Bahrain_FullScreenMap.4"
+      },
+      "StreamingTextureGuids": [
+        "D5F387A5-475254AB-A5269586-19542C26",
+        "6AFA5825-4991AEE3-ECDD3B8B-D5345888",
+        "176EE41E-465BFAB6-AEB85FBB-C9FCAD8F",
+        "9C995DBB-453D9568-054E658F-761F0E1F",
+        "DE7F91FA-4D57CF4C-A115CABE-2AF1225E"
+      ],
+      "LevelBuildDataId": "F37F0200-49017C4E-7C1FF2B3-86D5A339",
+      "MapBuildData": {
+        "ObjectName": "MapBuildDataRegistry'Lvl_Bahrain_FullScreenMap_BuiltData'",
+        "ObjectPath": "/Game/Circuits/Bahrain/FullScreenMap/Lvl_Bahrain_FullScreenMap_BuiltData.0"
+      },
+      "WorldSettings": {
+        "ObjectName": "WorldSettings'Lvl_Bahrain_FullScreenMap:PersistentLevel.WorldSettings_1'",
+        "ObjectPath": "/Game/Circuits/Bahrain/FullScreenMap/Lvl_Bahrain_FullScreenMap.16"
+      }
+    },
+    "Actors": [
+      {
+        "ObjectName": "WorldSettings'Lvl_Bahrain_FullScreenMap:PersistentLevel.WorldSettings_1'",
+        "ObjectPath": "/Game/Circuits/Bahrain/FullScreenMap/Lvl_Bahrain_FullScreenMap.16"
+      },
+      null,
+      {
+        "ObjectName": "BP_BAH_FullScreenMap_Visuals_C'Lvl_Bahrain_FullScreenMap:PersistentLevel.BP_BAH_FullScreenMap_Visuals_2'",
+        "ObjectPath": "/Game/Circuits/Bahrain/FullScreenMap/Lvl_Bahrain_FullScreenMap.1"
+      },
+      {
+        "ObjectName": "LevelBounds'Lvl_Bahrain_FullScreenMap:PersistentLevel.LevelBounds_1'",
+        "ObjectPath": "/Game/Circuits/Bahrain/FullScreenMap/Lvl_Bahrain_FullScreenMap.3"
+      }
+    ],
+    "URL": {
+      "Protocol": "unreal",
+      "Host": "",
+      "Port": 7777,
+      "Valid": true,
+      "Map": "/Engine/Maps/Entry",
+      "Op": [],
+      "Portal": ""
+    },
+    "Model": {
+      "ObjectName": "Model'Lvl_Bahrain_FullScreenMap:PersistentLevel.Model_3'",
+      "ObjectPath": "/Game/Circuits/Bahrain/FullScreenMap/Lvl_Bahrain_FullScreenMap.4"
+    },
+    "ModelComponents": [],
+    "LevelScriptActor": null,
+    "NavListStart": null,
+    "NavListEnd": null,
+    "PrecomputedVisibilityHandler": {
+      "PrecomputedVisibilityCellBucketOriginXY": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "PrecomputedVisibilityCellSizeXY": 0.0,
+      "PrecomputedVisibilityCellSizeZ": 0.0,
+      "PrecomputedVisibilityCellBucketSizeXY": 0,
+      "PrecomputedVisibilityNumCellBuckets": 0,
+      "PrecomputedVisibilityCellBuckets": []
+    },
+    "PrecomputedVolumeDistanceField": {
+      "VolumeMaxDistance": 0.0,
+      "VolumeBox": {
+        "Min": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Max": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "IsValid": 0
+      },
+      "VolumeSizeX": 0,
+      "VolumeSizeY": 0,
+      "VolumeSizeZ": 0,
+      "Data": []
+    }
+  },
+  {
+    "Type": "LevelBounds",
+    "Name": "LevelBounds_1",
+    "Flags": "RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'LevelBounds'",
+    "Outer": {
+      "ObjectName": "Level'Lvl_Bahrain_FullScreenMap:PersistentLevel'",
+      "ObjectPath": "/Game/Circuits/Bahrain/FullScreenMap/Lvl_Bahrain_FullScreenMap.2"
+    },
+    "Properties": {
+      "BoxComponent": {
+        "ObjectName": "BoxComponent'Lvl_Bahrain_FullScreenMap:PersistentLevel.LevelBounds_1.BoxComponent0'",
+        "ObjectPath": "/Game/Circuits/Bahrain/FullScreenMap/Lvl_Bahrain_FullScreenMap.0"
+      },
+      "RootComponent": {
+        "ObjectName": "BoxComponent'Lvl_Bahrain_FullScreenMap:PersistentLevel.LevelBounds_1.BoxComponent0'",
+        "ObjectPath": "/Game/Circuits/Bahrain/FullScreenMap/Lvl_Bahrain_FullScreenMap.0"
+      }
+    },
+    "ActorLabel": "LevelBounds"
+  },
+  {
+    "Type": "Model",
+    "Name": "Model_3",
+    "Flags": "RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Model'",
+    "Outer": {
+      "ObjectName": "Level'Lvl_Bahrain_FullScreenMap:PersistentLevel'",
+      "ObjectPath": "/Game/Circuits/Bahrain/FullScreenMap/Lvl_Bahrain_FullScreenMap.2"
+    },
+    "Bounds": {
+      "Origin": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "BoxExtent": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "SphereRadius": 0.0
+    },
+    "Vectors": [],
+    "Points": [],
+    "Nodes": [],
+    "Surfs": [],
+    "NumSharedSides": 4,
+    "VertexBuffer": {
+      "Vertices": []
+    },
+    "LightingGuid": "B07B4521-462DDC16-BBCB929B-3ECB0058",
+    "LightmassSettings": [
+      {
+        "bUseTwoSidedLighting": false,
+        "bShadowIndirectOnly": false,
+        "bUseEmissiveForStaticLighting": false,
+        "bUseVertexNormalForHemisphereGather": false,
+        "EmissiveLightFalloffExponent": 8.0,
+        "EmissiveLightExplicitInfluenceRadius": 0.0,
+        "EmissiveBoost": 1.0,
+        "DiffuseBoost": 1.0,
+        "SpecularBoost": 0.0,
+        "FullyOccludedSamplesFraction": 1.0
+      }
+    ]
+  },
+  {
+    "Type": "NavigationSystemConfig",
+    "Name": "NavigationSystemConfig_0",
+    "Flags": "RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'NavigationSystemConfig'",
+    "Outer": {
+      "ObjectName": "WorldSettings'Lvl_Bahrain_FullScreenMap:PersistentLevel.WorldSettings_1'",
+      "ObjectPath": "/Game/Circuits/Bahrain/FullScreenMap/Lvl_Bahrain_FullScreenMap.16"
+    },
+    "Properties": {
+      "NavigationSystemClass": {
+        "AssetPathName": "/Script/NavigationSystem.NavigationSystemV1",
+        "SubPathString": ""
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "DefaultSceneRoot",
+    "Flags": "RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'SceneComponent'",
+    "Outer": {
+      "ObjectName": "BP_BAH_FullScreenMap_Visuals_C'Lvl_Bahrain_FullScreenMap:PersistentLevel.BP_BAH_FullScreenMap_Visuals_2'",
+      "ObjectPath": "/Game/Circuits/Bahrain/FullScreenMap/Lvl_Bahrain_FullScreenMap.1"
+    },
+    "Template": {
+      "ObjectName": "SceneComponent'BP_FullScreenMap_Visuals_C:DefaultSceneRoot_GEN_VARIABLE'",
+      "ObjectPath": "/Game/Actors/BaseActors/BP_FullscreenMap_Visuals.3"
+    },
+    "Properties": {
+      "RelativeLocation": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": -5000.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "BG_mesh",
+    "Flags": "RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StaticMeshComponent'",
+    "Outer": {
+      "ObjectName": "BP_BAH_FullScreenMap_Visuals_C'Lvl_Bahrain_FullScreenMap:PersistentLevel.BP_BAH_FullScreenMap_Visuals_2'",
+      "ObjectPath": "/Game/Circuits/Bahrain/FullScreenMap/Lvl_Bahrain_FullScreenMap.1"
+    },
+    "Template": {
+      "ObjectName": "StaticMeshComponent'BP_FullScreenMap_Visuals_C:BG_mesh_GEN_VARIABLE'",
+      "ObjectPath": "/Game/Actors/BaseActors/BP_FullscreenMap_Visuals.14"
+    },
+    "Properties": {
+      "bEvaluateWorldPositionOffsetInRayTracing": true,
+      "LightmapType": "ELightmapType::ForceVolumetric",
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent'Lvl_Bahrain_FullScreenMap:PersistentLevel.BP_BAH_FullScreenMap_Visuals_2.DefaultSceneRoot'",
+        "ObjectPath": "/Game/Circuits/Bahrain/FullScreenMap/Lvl_Bahrain_FullScreenMap.6"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "buildings_mesh",
+    "Flags": "RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StaticMeshComponent'",
+    "Outer": {
+      "ObjectName": "BP_BAH_FullScreenMap_Visuals_C'Lvl_Bahrain_FullScreenMap:PersistentLevel.BP_BAH_FullScreenMap_Visuals_2'",
+      "ObjectPath": "/Game/Circuits/Bahrain/FullScreenMap/Lvl_Bahrain_FullScreenMap.1"
+    },
+    "Template": {
+      "ObjectName": "StaticMeshComponent'BP_FullScreenMap_Visuals_C:buildings_mesh_GEN_VARIABLE'",
+      "ObjectPath": "/Game/Actors/BaseActors/BP_FullscreenMap_Visuals.15"
+    },
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh'SM_BAH_Buildings'",
+        "ObjectPath": "/Game/Circuits/Bahrain/FullScreenMap/Models/SM_BAH_Buildings.2"
+      },
+      "bEvaluateWorldPositionOffsetInRayTracing": true,
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant'MI_BAH_Fullscreenmap_Buildings'",
+          "ObjectPath": "/Game/Circuits/Bahrain/FullScreenMap/Materials/MI_BAH_Fullscreenmap_Buildings.0"
+        }
+      ],
+      "LightmapType": "ELightmapType::ForceVolumetric",
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent'Lvl_Bahrain_FullScreenMap:PersistentLevel.BP_BAH_FullScreenMap_Visuals_2.DefaultSceneRoot'",
+        "ObjectPath": "/Game/Circuits/Bahrain/FullScreenMap/Lvl_Bahrain_FullScreenMap.6"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "circle_mesh",
+    "Flags": "RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StaticMeshComponent'",
+    "Outer": {
+      "ObjectName": "BP_BAH_FullScreenMap_Visuals_C'Lvl_Bahrain_FullScreenMap:PersistentLevel.BP_BAH_FullScreenMap_Visuals_2'",
+      "ObjectPath": "/Game/Circuits/Bahrain/FullScreenMap/Lvl_Bahrain_FullScreenMap.1"
+    },
+    "Template": {
+      "ObjectName": "StaticMeshComponent'BP_FullScreenMap_Visuals_C:circle_mesh_GEN_VARIABLE'",
+      "ObjectPath": "/Game/Actors/BaseActors/BP_FullscreenMap_Visuals.16"
+    },
+    "Properties": {
+      "bEvaluateWorldPositionOffsetInRayTracing": true,
+      "LightmapType": "ELightmapType::ForceVolumetric",
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent'Lvl_Bahrain_FullScreenMap:PersistentLevel.BP_BAH_FullScreenMap_Visuals_2.DefaultSceneRoot'",
+        "ObjectPath": "/Game/Circuits/Bahrain/FullScreenMap/Lvl_Bahrain_FullScreenMap.6"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "DRS",
+    "Flags": "RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StaticMeshComponent'",
+    "Outer": {
+      "ObjectName": "BP_BAH_FullScreenMap_Visuals_C'Lvl_Bahrain_FullScreenMap:PersistentLevel.BP_BAH_FullScreenMap_Visuals_2'",
+      "ObjectPath": "/Game/Circuits/Bahrain/FullScreenMap/Lvl_Bahrain_FullScreenMap.1"
+    },
+    "Template": {
+      "ObjectName": "StaticMeshComponent'BP_FullScreenMap_Visuals_C:DRS_GEN_VARIABLE'",
+      "ObjectPath": "/Game/Actors/BaseActors/BP_FullscreenMap_Visuals.17"
+    },
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh'SM_BAH_DRS'",
+        "ObjectPath": "/Game/Circuits/Bahrain/FullScreenMap/Models/SM_BAH_DRS.2"
+      },
+      "OverrideMaterials": [
+        {
+          "ObjectName": "Material'M_Fullscreenmap_DRS'",
+          "ObjectPath": "/Game/MasterMaterials/FullScreenMap/M_Fullscreenmap_DRS.0"
+        }
+      ],
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent'Lvl_Bahrain_FullScreenMap:PersistentLevel.BP_BAH_FullScreenMap_Visuals_2.DefaultSceneRoot'",
+        "ObjectPath": "/Game/Circuits/Bahrain/FullScreenMap/Lvl_Bahrain_FullScreenMap.6"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "ground_mesh",
+    "Flags": "RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StaticMeshComponent'",
+    "Outer": {
+      "ObjectName": "BP_BAH_FullScreenMap_Visuals_C'Lvl_Bahrain_FullScreenMap:PersistentLevel.BP_BAH_FullScreenMap_Visuals_2'",
+      "ObjectPath": "/Game/Circuits/Bahrain/FullScreenMap/Lvl_Bahrain_FullScreenMap.1"
+    },
+    "Template": {
+      "ObjectName": "StaticMeshComponent'BP_FullScreenMap_Visuals_C:ground_mesh_GEN_VARIABLE'",
+      "ObjectPath": "/Game/Actors/BaseActors/BP_FullscreenMap_Visuals.18"
+    },
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh'SM_BAH_Ground'",
+        "ObjectPath": "/Game/Circuits/Bahrain/FullScreenMap/Models/SM_BAH_Ground.2"
+      },
+      "bEvaluateWorldPositionOffsetInRayTracing": true,
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant'MI_BAH_Fullscreenmap_Grounding'",
+          "ObjectPath": "/Game/Circuits/Bahrain/FullScreenMap/Materials/MI_BAH_Fullscreenmap_Grounding.0"
+        }
+      ],
+      "LightmapType": "ELightmapType::ForceVolumetric",
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent'Lvl_Bahrain_FullScreenMap:PersistentLevel.BP_BAH_FullScreenMap_Visuals_2.DefaultSceneRoot'",
+        "ObjectPath": "/Game/Circuits/Bahrain/FullScreenMap/Lvl_Bahrain_FullScreenMap.6"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "kerb_mesh",
+    "Flags": "RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StaticMeshComponent'",
+    "Outer": {
+      "ObjectName": "BP_BAH_FullScreenMap_Visuals_C'Lvl_Bahrain_FullScreenMap:PersistentLevel.BP_BAH_FullScreenMap_Visuals_2'",
+      "ObjectPath": "/Game/Circuits/Bahrain/FullScreenMap/Lvl_Bahrain_FullScreenMap.1"
+    },
+    "Template": {
+      "ObjectName": "StaticMeshComponent'BP_FullScreenMap_Visuals_C:kerb_mesh_GEN_VARIABLE'",
+      "ObjectPath": "/Game/Actors/BaseActors/BP_FullscreenMap_Visuals.19"
+    },
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh'SM_BAH_Kerbs'",
+        "ObjectPath": "/Game/Circuits/Bahrain/FullScreenMap/Models/SM_BAH_Kerbs.2"
+      },
+      "bEvaluateWorldPositionOffsetInRayTracing": true,
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant'MI_BAH_Fullscreenmap_Kerbs'",
+          "ObjectPath": "/Game/Circuits/Bahrain/FullScreenMap/Materials/MI_BAH_Fullscreenmap_Kerbs.0"
+        }
+      ],
+      "LightmapType": "ELightmapType::ForceVolumetric",
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent'Lvl_Bahrain_FullScreenMap:PersistentLevel.BP_BAH_FullScreenMap_Visuals_2.DefaultSceneRoot'",
+        "ObjectPath": "/Game/Circuits/Bahrain/FullScreenMap/Lvl_Bahrain_FullScreenMap.6"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "track_mesh",
+    "Flags": "RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StaticMeshComponent'",
+    "Outer": {
+      "ObjectName": "BP_BAH_FullScreenMap_Visuals_C'Lvl_Bahrain_FullScreenMap:PersistentLevel.BP_BAH_FullScreenMap_Visuals_2'",
+      "ObjectPath": "/Game/Circuits/Bahrain/FullScreenMap/Lvl_Bahrain_FullScreenMap.1"
+    },
+    "Template": {
+      "ObjectName": "StaticMeshComponent'BP_FullScreenMap_Visuals_C:track_mesh_GEN_VARIABLE'",
+      "ObjectPath": "/Game/Actors/BaseActors/BP_FullscreenMap_Visuals.21"
+    },
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh'SM_BAH_Track'",
+        "ObjectPath": "/Game/Circuits/Bahrain/FullScreenMap/Models/SM_BAH_Track.2"
+      },
+      "bEvaluateWorldPositionOffsetInRayTracing": true,
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant'MI_BAH_FullscreenMap_Track'",
+          "ObjectPath": "/Game/Circuits/Bahrain/FullScreenMap/Materials/MI_BAH_FullscreenMap_Track.0"
+        }
+      ],
+      "LightmapType": "ELightmapType::ForceVolumetric",
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent'Lvl_Bahrain_FullScreenMap:PersistentLevel.BP_BAH_FullScreenMap_Visuals_2.DefaultSceneRoot'",
+        "ObjectPath": "/Game/Circuits/Bahrain/FullScreenMap/Lvl_Bahrain_FullScreenMap.6"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "trees_mesh",
+    "Flags": "RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StaticMeshComponent'",
+    "Outer": {
+      "ObjectName": "BP_BAH_FullScreenMap_Visuals_C'Lvl_Bahrain_FullScreenMap:PersistentLevel.BP_BAH_FullScreenMap_Visuals_2'",
+      "ObjectPath": "/Game/Circuits/Bahrain/FullScreenMap/Lvl_Bahrain_FullScreenMap.1"
+    },
+    "Template": {
+      "ObjectName": "StaticMeshComponent'BP_FullScreenMap_Visuals_C:trees_mesh_GEN_VARIABLE'",
+      "ObjectPath": "/Game/Actors/BaseActors/BP_FullscreenMap_Visuals.22"
+    },
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh'SM_BAH_Trees'",
+        "ObjectPath": "/Game/Circuits/Bahrain/FullScreenMap/Models/SM_BAH_Trees.2"
+      },
+      "bEvaluateWorldPositionOffsetInRayTracing": true,
+      "OverrideMaterials": [
+        {
+          "ObjectName": "Material'M_Fullscreenmap_Trees'",
+          "ObjectPath": "/Game/MasterMaterials/FullScreenMap/M_Fullscreenmap_Trees.0"
+        }
+      ],
+      "LightmapType": "ELightmapType::ForceVolumetric",
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent'Lvl_Bahrain_FullScreenMap:PersistentLevel.BP_BAH_FullScreenMap_Visuals_2.DefaultSceneRoot'",
+        "ObjectPath": "/Game/Circuits/Bahrain/FullScreenMap/Lvl_Bahrain_FullScreenMap.6"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "World",
+    "Name": "Lvl_Bahrain_FullScreenMap",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'World'",
+    "Package": "/Game/Circuits/Bahrain/FullScreenMap/Lvl_Bahrain_FullScreenMap",
+    "PersistentLevel": {
+      "ObjectName": "Level'Lvl_Bahrain_FullScreenMap:PersistentLevel'",
+      "ObjectPath": "/Game/Circuits/Bahrain/FullScreenMap/Lvl_Bahrain_FullScreenMap.2"
+    },
+    "ExtraReferencedObjects": [],
+    "StreamingLevels": []
+  },
+  {
+    "Type": "WorldSettings",
+    "Name": "WorldSettings_1",
+    "Flags": "RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'WorldSettings'",
+    "Outer": {
+      "ObjectName": "Level'Lvl_Bahrain_FullScreenMap:PersistentLevel'",
+      "ObjectPath": "/Game/Circuits/Bahrain/FullScreenMap/Lvl_Bahrain_FullScreenMap.2"
+    },
+    "Properties": {
+      "bEnableNavigationSystem": false,
+      "NavigationSystemConfig": {
+        "ObjectName": "NavigationSystemConfig'Lvl_Bahrain_FullScreenMap:PersistentLevel.WorldSettings_1.NavigationSystemConfig_0'",
+        "ObjectPath": "/Game/Circuits/Bahrain/FullScreenMap/Lvl_Bahrain_FullScreenMap.5"
+      },
+      "BookmarkArray": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    "ActorLabel": "WorldSettings1"
+  }
+]

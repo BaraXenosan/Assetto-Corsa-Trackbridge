@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "installable": false,
+  "root": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks",
+  "overlayDirectory": "C:\\Users\\BaraXenosan\\AppData\\Local\\ACTrackBridge\\repair-pack02",
+  "version": "GAME_UE5_1",
+  "cue4Parse": "1.2.2.0",
+  "createdUtc": "2026-09-25T16:12:41.6852108Z",
+  "files": 123982,
+  "metadataOnly": false,
+  "readShaderMaps": true,
+  "mappingFile": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\research\\runtime_20260921\\5.1.1-498643+++volta24+game+1.11.0-F1Manager24\\Mappings\\5.1.1-498643+++volta24+game+1.11.0-F1Manager24.usmap",
+  "mappingSha256": "5f6b0a3d8a2517ef2a6b442c897d68d5f3104f3c40e68bd9a7f53d0e37ac4dc2",
+  "results": [
+    {
+      "package": "F1Manager24/Content/Circuits/Bahrain/Lvl_Bahrain.umap",
+      "container": "TrackBridge_Kalinago_1002_P.utoc",
+      "output": "properties/F1Manager24/Content/Circuits/Bahrain/Lvl_Bahrain.umap.json",
+      "exports": 208
+    },
+    {
+      "package": "F1Manager24/Content/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Props.umap",
+      "container": "TrackBridge_Kalinago_1002_P.utoc",
+      "output": "properties/F1Manager24/Content/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Props.umap.json",
+      "exports": 2874
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/KalinagoVisual.umap",
+      "container": "TrackBridge_Kalinago_1002_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/KalinagoVisual.umap.json",
+      "exports": 1545
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_1_00_kalinago.uasset",
+      "container": "TrackBridge_Kalinago_1002_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_1_00_kalinago.uasset.json",
+      "exports": 3
+    },
+    {
+      "package": "F1Manager24/Content/UIGameface/img/minimap/minimapBahrainMinimap.svg",
+      "status": "raw-file",
+      "bytes": 12543,
+      "sha256": "6b206a8c87442d5ee687704b7ec012b4dde76966324bdfc0d688418db5c75669"
+    },
+    {
+      "package": "Engine/Content/BasicShapes/Cube.uasset",
+      "container": "pakchunk0-Windows.utoc",
+      "output": "properties/Engine/Content/BasicShapes/Cube.uasset.json",
+      "exports": 3
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_Map_road.uasset",
+      "container": "TrackBridge_Kalinago_1002_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_Map_road.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_Map_pit.uasset",
+      "container": "TrackBridge_Kalinago_1002_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_Map_pit.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_Map_drs.uasset",
+      "container": "TrackBridge_Kalinago_1002_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_Map_drs.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_Map_ground.uasset",
+      "container": "TrackBridge_Kalinago_1002_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_Map_ground.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_OpenGarageDoors.uasset",
+      "container": "TrackBridge_Kalinago_1002_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_OpenGarageDoors.uasset.json",
+      "exports": 1
+    }
+  ],
+  "scope": "Property export for research; no cooking, packaging or game validation."
+}

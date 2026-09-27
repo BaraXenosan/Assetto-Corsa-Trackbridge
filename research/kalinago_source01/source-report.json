@@ -1,0 +1,233 @@
+{
+  "installable": false,
+  "targetSlot": "Bahrain",
+  "sourceTrack": "00_kalinago",
+  "layout": "gp_2024",
+  "policy": "All Kalinago geometry and driving inputs come from these source files. Bahrain supplies the target schema only.",
+  "race": {
+    "points": 3612,
+    "extraRecords": 3612,
+    "gridFlag": 1,
+    "unparsedTailBytes": 1982868,
+    "ranges": {
+      "speed": {
+        "min": 18.339054107666016,
+        "max": 89.48870086669922
+      },
+      "gas": {
+        "min": 0,
+        "max": 1
+      },
+      "brake": {
+        "min": 0,
+        "max": 1
+      },
+      "obsoleteLatG": {
+        "min": 0,
+        "max": 0
+      },
+      "radius": {
+        "min": 21.876523971557617,
+        "max": 41599364
+      },
+      "sideLeft": {
+        "min": 1.0506417751312256,
+        "max": 14.168767929077148
+      },
+      "sideRight": {
+        "min": 0.8841745257377625,
+        "max": 14.910696983337402
+      },
+      "camber": {
+        "min": -0.03217678889632225,
+        "max": 0.06160052865743637
+      },
+      "direction": {
+        "min": -1,
+        "max": 1
+      },
+      "normalX": {
+        "min": -0.04976322874426842,
+        "max": 0.07026943564414978
+      },
+      "normalY": {
+        "min": 0.9974383115768433,
+        "max": 1
+      },
+      "normalZ": {
+        "min": -0.05955776572227478,
+        "max": 0.057599909603595734
+      },
+      "length": {
+        "min": 1.4667845964431763,
+        "max": 7.639963150024414
+      },
+      "forwardX": {
+        "min": -0.9999991655349731,
+        "max": 0.9998999238014221
+      },
+      "forwardY": {
+        "min": -0.06497310847043991,
+        "max": 0.07128077000379562
+      },
+      "forwardZ": {
+        "min": -0.9999856352806091,
+        "max": 0.9999426007270813
+      },
+      "tag": {
+        "min": 0,
+        "max": 0
+      },
+      "grade": {
+        "min": -0.06511068344116211,
+        "max": 0.07146254926919937
+      }
+    }
+  },
+  "pit": {
+    "points": 579,
+    "extraRecords": 579,
+    "missingWidthRecords": 579,
+    "ranges": {
+      "speed": {
+        "min": 5.515864372253418,
+        "max": 43.829959869384766
+      },
+      "gas": {
+        "min": 0,
+        "max": 1
+      },
+      "brake": {
+        "min": 0,
+        "max": 0.928776741027832
+      },
+      "obsoleteLatG": {
+        "min": 0,
+        "max": 0
+      },
+      "radius": {
+        "min": 0,
+        "max": 0
+      },
+      "sideLeft": {
+        "min": 0,
+        "max": 0
+      },
+      "sideRight": {
+        "min": 0,
+        "max": 0
+      },
+      "camber": {
+        "min": 0,
+        "max": 0
+      },
+      "direction": {
+        "min": 1,
+        "max": 1
+      },
+      "normalX": {
+        "min": 0,
+        "max": 0
+      },
+      "normalY": {
+        "min": 0,
+        "max": 0
+      },
+      "normalZ": {
+        "min": 0,
+        "max": 0
+      },
+      "length": {
+        "min": 0,
+        "max": 0
+      },
+      "forwardX": {
+        "min": 0,
+        "max": 0
+      },
+      "forwardY": {
+        "min": 0,
+        "max": 0
+      },
+      "forwardZ": {
+        "min": 0,
+        "max": 0
+      },
+      "tag": {
+        "min": 0,
+        "max": 0
+      },
+      "grade": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "sideCsv": {
+    "left": 7309,
+    "right": 6538
+  },
+  "configuration": {
+    "models_gp_2024.ini": "[MODEL_0]\r\nFILE=00_kalinago.kn5\r\nPOSITION=0,0,0\r\nROTATION=0,0,0\r\n\r\n[MODEL_1]\r\nFILE=track.kn5\r\nPOSITION=0,0,0\r\nROTATION=0,0,0\r\n\r\n[MODEL_2]\r\nFILE=curbs_walls.kn5\r\nPOSITION=0,0,0\r\nROTATION=0,0,0\r\n\r\n[MODEL_3]\r\nFILE=timing_gp.kn5\r\nPOSITION=0,0,0\r\nROTATION=0,0,0\r\n\r\n[MODEL_4]\r\nFILE=startlights.kn5\r\nPOSITION=0,0,0\r\nROTATION=0,0,0\r\n\r\n[MODEL_5]\r\nFILE=mountains.kn5\r\nPOSITION=0,0,0\r\nROTATION=0,0,0\r\n\r\n[MODEL_6]\r\nFILE=grase.kn5\r\nPOSITION=0,0,0\r\nROTATION=0,0,0\r\n\r\n[MODEL_7]\r\nFILE=trees_1.kn5\r\nPOSITION=0,0,0\r\nROTATION=0,0,0\r\n\r\n[MODEL_8]\r\nFILE=trees_2.kn5\r\nPOSITION=0,0,0\r\nROTATION=0,0,0\r\n\r\n[MODEL_9]\r\nFILE=trees_3d.kn5\r\nPOSITION=0,0,0\r\nROTATION=0,0,0\r\n\r\n[MODEL_10]\r\nFILE=treewalls.kn5\r\nPOSITION=0,0,0\r\nROTATION=0,0,0\r\n\r\n[MODEL_11]\r\nFILE=mystery_box.kn5\r\nPOSITION=0,0,0\r\nROTATION=0,0,0\r\n\r\n[MODEL_12]\r\nFILE=crowd.kn5\r\nPOSITION=0,0,0\r\nROTATION=0,0,0\r\n\r\n[MODEL_13]\r\nFILE=skidmarks.kn5\r\nPOSITION=0,0,0\r\nROTATION=0,0,0\r\n\r\n[MODEL_14]\r\nFILE=lights.kn5\r\nPOSITION=0,0,0\r\nROTATION=0,0,0\r\n\r\n[MODEL_15]\r\nFILE=layout_gp.kn5\r\nPOSITION=0,0,0\r\nROTATION=0,0,0\r\n\r\n[MODEL_16]\r\nFILE=ads_f1.kn5\r\nPOSITION=0,0,0\r\nROTATION=0,0,0\r\n\r\n[MODEL_17]\r\nFILE=rolex_clock.kn5\r\nPOSITION=0,0,0\r\nROTATION=0,0,0\r\n\r\n[MODEL_18]\r\nFILE=kunos_props_a.kn5\r\nPOSITION=0,0,0\r\nROTATION=0,0,0\r\n\r\n[MODEL_19]\r\nFILE=kunos_props_b.kn5\r\nPOSITION=0,0,0\r\nROTATION=0,0,0\r\n\r\n[MODEL_20]\r\nFILE=2024.kn5\r\nPOSITION=0,0,0\r\nROTATION=0,0,0\r\n\r\n[MODEL_21]\r\nFILE=flags_f1.kn5\r\nPOSITION=0,0,0\r\nROTATION=0,0,0\r\n\r\n[MODEL_22]\r\nFILE=reverb.kn5\r\nPOSITION=0,0,0\r\nROTATION=0,0,0",
+    "gp_2024/data/drs_zones.ini": "[ZONE_0]\r\nDETECTION=0.7\r\nSTART=0.807\r\nEND=0.95\r\n\r\n[ZONE_1]\r\nDETECTION=0.95\r\nSTART=0.993\r\nEND=0.064\r\n\r\n",
+    "gp_2024/data/ai_hints.ini": "; start\r\n[HINT_0]\r\nSTART=0\r\nEND=0.065\r\nVALUE=1.5\r\n\r\n; turns 1-2\r\n[HINT_1]\r\nSTART=07\r\nEND=0.105\r\nVALUE=1.1\r\n\r\n[DANGER_0]\r\nSTART=0.07\r\nEND=0.09\r\nLEFT=1\r\nRIGHT=0\r\n\r\n; turn 3 (easy flat)\r\n[HINT_2]\r\nSTART=0.105\r\nEND=0.19\r\nVALUE=1.5\r\n\r\n; turn 4 braking\r\n[BRAKEHINT_0]\r\nSTART=0.195\r\nEND=0.202\r\nVALUE=1.1\r\n\r\n; turns 5-6 (flat)\r\n[HINT_3]\r\nSTART=0.22\r\nEND=0.265\r\nVALUE=1.3\r\n\r\n[DANGER_1]\r\nSTART=0.24\r\nEND=0.26\r\nLEFT=0\r\nRIGHT=1\r\n\r\n; turn 7 (easy flat)\r\n[HINT_4]\r\nSTART=0.265\r\nEND=0.3\r\nVALUE=1.5\r\n\r\n; turns 8-9 (flat)\r\n[HINT_5]\r\nSTART=0.305\r\nEND=0.36\r\nVALUE=1.3\r\n\r\n; turn 10 hairpin\r\n[BRAKEHINT_1]\r\nSTART=0.355\r\nEND=0.375\r\nVALUE=1.1\r\n\r\n; turn 11 S (don't cut)\r\n[HINT_6]\r\nSTART=0.44\r\nEND=0.49\r\nVALUE=1.2\r\n\r\n[DANGER_2]\r\nSTART=0.45\r\nEND=0.47\r\nLEFT=0\r\nRIGHT=1\r\n\r\n; turn 12 S exit (don't cut)\r\n[HINT_7]\r\nSTART=0.475\r\nEND=0.5\r\nVALUE=1.4\r\n\r\n[BRAKEHINT_2]\r\nSTART=0.475\r\nEND=0.5\r\nVALUE=1.6\r\n\r\n[DANGER_3]\r\nSTART=0.472\r\nEND=0.495\r\nLEFT=1\r\nRIGHT=0\r\n\r\n; turn 13 kink\r\n\r\n; turn 14 fast left\r\n[HINT_8]\r\nSTART=0.5\r\nEND=0.65\r\nVALUE=1.3\r\n\r\n; turn 15 hairpin\r\n[BRAKEHINT_3]\r\nSTART=0.65\r\nEND=0.67\r\nVALUE=1.1\r\n\r\n; turn 16 fast right (easy flat)\r\n[HINT_9]\r\nSTART=0.7\r\nEND=0.85\r\nVALUE=1.5\r\n\r\n; turn 17 kink right\r\n\r\n; turn 18 kink left\r\n\r\n; turn 19 last corner\r\n[BRAKEHINT_4]\r\nSTART=0.94\r\nEND=0.965\r\nVALUE=1.1\r\n\r\n; turn 19 exit\r\n[HINT_10]\r\nSTART=0.97\r\nEND=1\r\nVALUE=1.5",
+    "gp_2024/data/surfaces.ini": "[SURFACE_0]\r\nKEY=PITLANE\r\nFRICTION=0.86\r\nDAMPING=0\r\nWAV=\r\nWAV_PITCH=0\r\nFF_EFFECT=NULL\r\nDIRT_ADDITIVE=0\r\nBLACK_FLAG_TIME=0\r\nIS_VALID_TRACK=1\r\nSIN_HEIGHT=0\r\nSIN_LENGTH=0\r\nIS_PITLANE=1\r\nVIBRATION_GAIN=0\r\nVIBRATION_LENGTH=0\r\n\r\n[SURFACE_1]\r\nKEY=FASTLANE\r\nFRICTION=0.96\r\nDAMPING=0\r\nWAV=\r\nWAV_PITCH=0\r\nFF_EFFECT=NULL\r\nDIRT_ADDITIVE=0\r\nBLACK_FLAG_TIME=0\r\nIS_VALID_TRACK=1\r\nSIN_HEIGHT=0\r\nSIN_LENGTH=0\r\nIS_PITLANE=1\r\nVIBRATION_GAIN=0\r\nVIBRATION_LENGTH=0\r\n\r\n[SURFACE_2]\r\nKEY=TRACKA\r\nFRICTION=0.97\r\nDAMPING=0\r\nWAV=\r\nWAV_PITCH=0\r\nFF_EFFECT=NULL\r\nDIRT_ADDITIVE=0\r\nBLACK_FLAG_TIME=0\r\nIS_VALID_TRACK=1\r\nSIN_HEIGHT=0\r\nSIN_LENGTH=0\r\nIS_PITLANE=0\r\nVIBRATION_GAIN=0\r\nVIBRATION_LENGTH=0\r\n\r\n[SURFACE_3]\r\nKEY=TRACKN\r\nFRICTION=0.985\r\nDAMPING=0\r\nWAV=\r\nWAV_PITCH=0\r\nFF_EFFECT=NULL\r\nDIRT_ADDITIVE=0\r\nBLACK_FLAG_TIME=0\r\nIS_VALID_TRACK=1\r\nSIN_HEIGHT=0\r\nSIN_LENGTH=0\r\nIS_PITLANE=0\r\nVIBRATION_GAIN=0\r\nVIBRATION_LENGTH=0\r\n\r\n[SURFACE_4]\r\nKEY=TRACKP\r\nFRICTION=0.95\r\nDAMPING=0\r\nWAV=\r\nWAV_PITCH=0\r\nFF_EFFECT=NULL\r\nDIRT_ADDITIVE=0\r\nBLACK_FLAG_TIME=0\r\nIS_VALID_TRACK=1\r\nSIN_HEIGHT=0\r\nSIN_LENGTH=0\r\nIS_PITLANE=0\r\nVIBRATION_GAIN=0\r\nVIBRATION_LENGTH=0\r\n\r\n[SURFACE_5]\r\nKEY=TARM\r\nFRICTION=0.95\r\nDAMPING=0\r\nWAV=\r\nWAV_PITCH=0\r\nFF_EFFECT=NULL\r\nDIRT_ADDITIVE=0\r\nBLACK_FLAG_TIME=0\r\nIS_VALID_TRACK=0\r\nSIN_HEIGHT=0\r\nSIN_LENGTH=0\r\nIS_PITLANE=0\r\nVIBRATION_GAIN=0\r\nVIBRATION_LENGTH=0\r\n\r\n[SURFACE_6]\r\nKEY=CONC\r\nFRICTION=0.93\r\nDAMPING=0\r\nWAV=\r\nWAV_PITCH=0\r\nFF_EFFECT=NULL\r\nDIRT_ADDITIVE=0.01\r\nBLACK_FLAG_TIME=0\r\nIS_VALID_TRACK=0\r\nSIN_HEIGHT=0\r\nSIN_LENGTH=0\r\nIS_PITLANE=0\r\nVIBRATION_GAIN=0\r\nVIBRATION_LENGTH=0\r\n\r\n[SURFACE_7]\r\nKEY=PAINT\r\nFRICTION=0.92\r\nDAMPING=0\r\nWAV=\r\nWAV_PITCH=0\r\nFF_EFFECT=NULL\r\nDIRT_ADDITIVE=0\r\nBLACK_FLAG_TIME=0\r\nIS_VALID_TRACK=0\r\nSIN_HEIGHT=0\r\nSIN_LENGTH=0\r\nIS_PITLANE=0\r\nVIBRATION_GAIN=0\r\nVIBRATION_LENGTH=0\r\n\r\n[SURFACE_8]\r\nKEY=PENALTY\r\nFRICTION=0.91\r\nDAMPING=0\r\nWAV=\r\nWAV_PITCH=0\r\nFF_EFFECT=NULL\r\nDIRT_ADDITIVE=0\r\nBLACK_FLAG_TIME=2\r\nIS_VALID_TRACK=0\r\nSIN_HEIGHT=0\r\nSIN_LENGTH=0\r\nIS_PITLANE=0\r\nVIBRATION_GAIN=0\r\nVIBRATION_LENGTH=0\r\n\r\n[SURFACE_9]\r\nKEY=CURBA\r\nFRICTION=0.92\r\nDAMPING=0\r\nWAV=\r\nWAV_PITCH=1.2\r\nFF_EFFECT=1\r\nDIRT_ADDITIVE=0\r\nBLACK_FLAG_TIME=0\r\nIS_VALID_TRACK=1\r\nSIN_HEIGHT=0\r\nSIN_LENGTH=0\r\nIS_PITLANE=0\r\nVIBRATION_GAIN=0\r\nVIBRATION_LENGTH=0\r\n\r\n[SURFACE_10]\r\nKEY=CURBR\r\nFRICTION=0.91\r\nDAMPING=0\r\nWAV=kerb.wav\r\nWAV_PITCH=2\r\nFF_EFFECT=1\r\nDIRT_ADDITIVE=0\r\nBLACK_FLAG_TIME=0\r\nIS_VALID_TRACK=1\r\nSIN_HEIGHT=0\r\nSIN_LENGTH=0\r\nIS_PITLANE=0\r\nVIBRATION_GAIN=0.2\r\nVIBRATION_LENGTH=1.0\r\n\r\n[SURFACE_11]\r\nKEY=CURBE\r\nFRICTION=0.92\r\nDAMPING=0\r\nWAV=old.wav\r\nWAV_PITCH=1.5\r\nFF_EFFECT=1\r\nDIRT_ADDITIVE=0.0\r\nBLACK_FLAG_TIME=0\r\nIS_VALID_TRACK=0\r\nSIN_HEIGHT=0.01\r\nSIN_LENGTH=0.25\r\nIS_PITLANE=0\r\nVIBRATION_GAIN=0.25\r\nVIBRATION_LENGTH=1.5\r\n\r\n[SURFACE_12]\r\nKEY=CURBX\r\nFRICTION=0.90\r\nDAMPING=0\r\nWAV=old.wav\r\nWAV_PITCH=1\r\nFF_EFFECT=1\r\nDIRT_ADDITIVE=0\r\nBLACK_FLAG_TIME=0\r\nIS_VALID_TRACK=0\r\nSIN_HEIGHT=0\r\nSIN_LENGTH=0\r\nIS_PITLANE=0\r\nVIBRATION_GAIN=0.15\r\nVIBRATION_LENGTH=1.0\r\n\r\n[SURFACE_13]\r\nKEY=ASTRO\r\nFRICTION=0.8\r\nDAMPING=0\r\nWAV=extraturf.wav\r\nWAV_PITCH=0\r\nFF_EFFECT=NULL\r\nDIRT_ADDITIVE=0.03\r\nBLACK_FLAG_TIME=0\r\nIS_VALID_TRACK=0\r\nSIN_HEIGHT=0\r\nSIN_LENGTH=0\r\nIS_PITLANE=0\r\nVIBRATION_GAIN=0\r\nVIBRATION_LENGTH=0\r\n\r\n[SURFACE_14]\r\nKEY=ANTICUT\r\nFRICTION=0.8\r\nDAMPING=0\r\nWAV=\r\nWAV_PITCH=0\r\nFF_EFFECT=1\r\nDIRT_ADDITIVE=0\r\nBLACK_FLAG_TIME=0\r\nIS_VALID_TRACK=0\r\nSIN_HEIGHT=0\r\nSIN_LENGTH=0\r\nIS_PITLANE=0\r\nVIBRATION_GAIN=0.5\r\nVIBRATION_LENGTH=2.0\r\n\r\n[SURFACE_15]\r\nKEY=DRAIN\r\nFRICTION=0.7\r\nDAMPING=0\r\nWAV=extraturf.wav\r\nWAV_PITCH=0\r\nFF_EFFECT=NULL\r\nDIRT_ADDITIVE=0\r\nBLACK_FLAG_TIME=0\r\nIS_VALID_TRACK=0\r\nSIN_HEIGHT=0\r\nSIN_LENGTH=0\r\nIS_PITLANE=0\r\nVIBRATION_GAIN=0.1\r\nVIBRATION_LENGTH=0.15\r\n\r\n[SURFACE_16]\r\nKEY=DIRT\r\nFRICTION=0.8\r\nDAMPING=0.01\r\nWAV=gravel.wav\r\nWAV_PITCH=0\r\nFF_EFFECT=NULL\r\nDIRT_ADDITIVE=10.0\r\nBLACK_FLAG_TIME=0\r\nIS_VALID_TRACK=0\r\nSIN_HEIGHT=0.02\r\nSIN_LENGTH=0.5\r\nIS_PITLANE=0\r\nVIBRATION_GAIN=0.2\r\nVIBRATION_LENGTH=0.5\r\n\r\n[SURFACE_17]\r\nKEY=GRAS\r\nFRICTION=0.7\r\nDAMPING=0.015\r\nWAV=grass.wav\r\nWAV_PITCH=0\r\nFF_EFFECT=NULL\r\nDIRT_ADDITIVE=0.5\r\nIS_VALID_TRACK=0\r\nBLACK_FLAG_TIME=0\r\nSIN_HEIGHT=0.03\r\nSIN_LENGTH=0.5\r\nIS_PITLANE=0\r\nVIBRATION_GAIN=0.2\r\nVIBRATION_LENGTH=0.6\r\n\r\n[SURFACE_18]\r\nKEY=GRAVEL\r\nFRICTION=0.85\r\nDAMPING=0.08\r\nWAV=sand.wav\r\nWAV_PITCH=0\r\nFF_EFFECT=NULL\r\nDIRT_ADDITIVE=10.0\r\nBLACK_FLAG_TIME=0\r\nIS_VALID_TRACK=0\r\nSIN_HEIGHT=0.05\r\nSIN_LENGTH=0.07\r\nIS_PITLANE=0\r\nVIBRATION_GAIN=0.4\r\nVIBRATION_LENGTH=0.3"
+  },
+  "provenance": [
+    {
+      "relativePath": "gp_2024/ai/fast_lane.ai",
+      "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\sources\\kalinago_v092\\content\\tracks\\00_kalinago\\gp_2024\\ai\\fast_lane.ai",
+      "bytes": 2315196,
+      "sha256": "52d2612e7451fd10559f70abfb1e16d1f7a6804497a904b90aa31c46964266e9"
+    },
+    {
+      "relativePath": "gp_2024/ai/pit_lane.ai",
+      "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\sources\\kalinago_v092\\content\\tracks\\00_kalinago\\gp_2024\\ai\\pit_lane.ai",
+      "bytes": 53292,
+      "sha256": "267c45b466476e61e0dcc5b6234bf8b7398d40ebe459cace4da9911082dd06e2"
+    },
+    {
+      "relativePath": "models_gp_2024.ini",
+      "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\sources\\kalinago_v092\\content\\tracks\\00_kalinago\\models_gp_2024.ini",
+      "bytes": 1490,
+      "sha256": "b3cb99ddefc74f82952937f8cd142e31a3bf27d47cd247572b6ebc1256f31ec3"
+    },
+    {
+      "relativePath": "gp_2024/data/drs_zones.ini",
+      "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\sources\\kalinago_v092\\content\\tracks\\00_kalinago\\gp_2024\\data\\drs_zones.ini",
+      "bytes": 102,
+      "sha256": "4325b5d0759cef26f181faa776d622f2223db9787c2ae1d0f8b9e41f0e4f2260"
+    },
+    {
+      "relativePath": "gp_2024/data/ai_hints.ini",
+      "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\sources\\kalinago_v092\\content\\tracks\\00_kalinago\\gp_2024\\data\\ai_hints.ini",
+      "bytes": 1332,
+      "sha256": "3ce55c47037b083913fedbfd8e3636e5baf618bac3df10ba74ca107ce6bd1e88"
+    },
+    {
+      "relativePath": "gp_2024/data/surfaces.ini",
+      "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\sources\\kalinago_v092\\content\\tracks\\00_kalinago\\gp_2024\\data\\surfaces.ini",
+      "bytes": 4356,
+      "sha256": "4f1e59dd425dc22a2e6931a01b85cb68837aa47237f498d4b78fc928cb462e60"
+    },
+    {
+      "relativePath": "gp_2024/data/side_l.csv",
+      "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\sources\\kalinago_v092\\content\\tracks\\00_kalinago\\gp_2024\\data\\side_l.csv",
+      "bytes": 268682,
+      "sha256": "beea3f9a8e4152e4e9591e3e766382a93fe7d3887600ee0e3456c69b6bef580f"
+    },
+    {
+      "relativePath": "gp_2024/data/side_r.csv",
+      "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\sources\\kalinago_v092\\content\\tracks\\00_kalinago\\gp_2024\\data\\side_r.csv",
+      "bytes": 240264,
+      "sha256": "73beb9246c212392d7ad9a237dca6c04a8fa1a6f52144d443cb3005791d0c977"
+    }
+  ],
+  "unresolved": [
+    "AI speed units and F1M speed/corner semantics",
+    "side CSV axis convention must be matched to KN5/AI before use",
+    "Zero pit widths require boundaries from track geometry",
+    "AI grid tail preserved in original input but not interpreted",
+    "Source hints are preserved verbatim, including any malformed values"
+  ]
+}

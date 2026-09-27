@@ -1,0 +1,29 @@
+{
+  "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_10_trees_3d_1.uasset",
+  "metadataOnly": false,
+  "Name": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_10_trees_3d_1",
+  "names": [
+    "M_10_trees_3d",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_10_trees_3d"
+  ],
+  "exports": [
+    {
+      "index": 0,
+      "name": "M_10_trees_3d_1",
+      "type": "/Script/Engine.Material",
+      "outer": null,
+      "serialOffset": 0,
+      "serialSize": 36877
+    }
+  ],
+  "imports": [
+    "/Script/Engine.Material",
+    "/Script/Engine.Default__Material",
+    null,
+    "/Script/Engine",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_c457166a007208f833b9545bfab2a401fad135023ab61e4f0473dcd587fdc060.T_c457166a007208f833b9545bfab2a401fad135023ab61e4f0473dcd587fdc060"
+  ],
+  "dependencies": [
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_c457166a007208f833b9545bfab2a401fad135023ab61e4f0473dcd587fdc060"
+  ]
+}

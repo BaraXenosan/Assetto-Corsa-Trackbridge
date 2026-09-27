@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "Material",
+    "Name": "M_16_layout_gp_2",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Material'",
+    "Package": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_16_layout_gp_2",
+    "Properties": {
+      "BlendMode": "BLEND_Masked",
+      "OpacityMaskClipValue": 0.5,
+      "TwoSided": true,
+      "StateId": "7ED77A95-464E8B2F-CE69E7B4-3A5961EF"
+    },
+    "LoadedMaterialResources": [],
+    "CachedExpressionData": {
+      "RuntimeEntries": {
+        "ParameterInfoSet": []
+      },
+      "RuntimeEntries[1]": {
+        "ParameterInfoSet": []
+      },
+      "RuntimeEntries[2]": {
+        "ParameterInfoSet": []
+      },
+      "RuntimeEntries[3]": {
+        "ParameterInfoSet": []
+      },
+      "RuntimeEntries[4]": {
+        "ParameterInfoSet": []
+      },
+      "RuntimeEntries[5]": {
+        "ParameterInfoSet": []
+      },
+      "ScalarPrimitiveDataIndexValues": [],
+      "VectorPrimitiveDataIndexValues": [],
+      "ScalarValues": [],
+      "VectorValues": [],
+      "DoubleVectorValues": [],
+      "TextureValues": [],
+      "FontValues": [],
+      "FontPageValues": [],
+      "RuntimeVirtualTextureValues": [],
+      "ReferencedTextures": [
+        {
+          "ObjectName": "Texture2D'T_9906dea78f49087f11ee9b2aa3072dbd46b59193c7c5cefd86868e1119457e9e'",
+          "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_9906dea78f49087f11ee9b2aa3072dbd46b59193c7c5cefd86868e1119457e9e.0"
+        }
+      ],
+      "FunctionInfos": [],
+      "ParameterCollectionInfos": [],
+      "GrassTypes": [],
+      "MaterialLayers": {
+        "Layers": [],
+        "Blends": []
+      },
+      "DynamicParameterNames": [],
+      "QualityLevelsUsed": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "bHasMaterialLayers": false,
+      "bHasRuntimeVirtualTextureOutput": false,
+      "bHasSceneColor": false,
+      "bHasPerInstanceCustomData": false,
+      "bHasPerInstanceRandom": false,
+      "bHasVertexInterpolator": false,
+      "PropertyConnectedBitmask": 292
+    },
+    "ReferencedTextures": [
+      {
+        "ObjectName": "Texture2D'T_9906dea78f49087f11ee9b2aa3072dbd46b59193c7c5cefd86868e1119457e9e'",
+        "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_9906dea78f49087f11ee9b2aa3072dbd46b59193c7c5cefd86868e1119457e9e.0"
+      }
+    ]
+  }
+]

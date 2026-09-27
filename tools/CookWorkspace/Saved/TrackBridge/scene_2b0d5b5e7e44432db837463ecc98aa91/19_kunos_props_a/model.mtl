@@ -1,0 +1,45 @@
+# Approximate diffuse only. AC shader settings in materials.json.
+newmtl material_0
+Kd 1 1 1
+map_Kd textures/0_KUNOS_MARSHALT.DDS
+
+newmtl material_1
+Kd 1 1 1
+map_Kd textures/0_KUNOS_MARSHALT.DDS
+
+newmtl material_2
+Kd 1 1 1
+map_Kd textures/1_KUNOS_MARSHALF.DDS
+
+newmtl material_3
+Kd 1 1 1
+map_Kd textures/2_KUNOS_RECOVERY.DDS
+
+newmtl material_4
+Kd 1 1 1
+map_Kd textures/3_KUNOS_AMBULANCE.DDS
+
+newmtl material_5
+Kd 1 1 1
+map_Kd textures/4_KUNOS_VEHICLESB.DDS
+
+newmtl material_6
+Kd 1 1 1
+map_Kd textures/5_KUNOS_VEHICLESA.DDS
+
+newmtl material_7
+Kd 1 1 1
+map_Kd textures/6_KUNOS_PITPROPS.DDS
+
+newmtl material_8
+Kd 1 1 1
+map_Kd textures/7_driver_suit2.dds
+
+newmtl material_9
+Kd 1 1 1
+map_Kd textures/8_driver_face.dds
+
+newmtl material_10
+Kd 1 1 1
+map_Kd textures/9_ac_crew.dds
+

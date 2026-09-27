@@ -1,0 +1,12 @@
+[
+  {
+    "path": "Engine/Content/BasicShapes/Cube.uasset",
+    "bytes": 11867,
+    "sha256": "cf22fd78d3fa18fcce9d1d9d8f046a97c64bb17ce9a627944f6349043a606bfe"
+  },
+  {
+    "path": "Engine/Content/BasicShapes/Cube.ubulk",
+    "bytes": 121292,
+    "sha256": "b184da6195047c9107109743da4443a1eb1b28791cb54949e4649d3ee7a37eb2"
+  }
+]

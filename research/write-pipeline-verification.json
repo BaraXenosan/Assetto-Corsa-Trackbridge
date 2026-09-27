@@ -1,0 +1,26 @@
+{
+  "installable": false,
+  "unchangedRoundtrip": {
+    "exports": 208,
+    "differences": [
+      {
+        "path": "exports.2.CookedFormatData.PhysXPC.OffsetInFile",
+        "before": "0x10D3E9",
+        "after": "0x10D562"
+      },
+      {
+        "path": "exports.3.CookedFormatData.PhysXPC.OffsetInFile",
+        "before": "0x10D7F3",
+        "after": "0x10D96C"
+      }
+    ]
+  },
+  "editProbe": {
+    "container": "TrackBridge_Bahrain_Probe_P.utoc",
+    "field": "RaceTrackSpline.m_trackNodes[0].m_maxSpeed",
+    "before": 400,
+    "after": 399,
+    "allOtherRaceSimFieldsEqual": true
+  },
+  "inGameTest": false
+}

@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "installable": false,
+  "root": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks",
+  "overlayDirectory": null,
+  "version": "GAME_UE5_1",
+  "cue4Parse": "1.2.2.0",
+  "createdUtc": "2026-09-25T11:28:01.9336751Z",
+  "files": 116589,
+  "metadataOnly": false,
+  "readShaderMaps": false,
+  "mappingFile": null,
+  "mappingSha256": null,
+  "results": [
+    {
+      "package": "F1Manager24/Content/UIGameface/img/minimap/minimapBahrainMinimap.svg",
+      "status": "raw-file",
+      "bytes": 12543,
+      "sha256": "6b206a8c87442d5ee687704b7ec012b4dde76966324bdfc0d688418db5c75669"
+    }
+  ],
+  "scope": "Property export for research; no cooking, packaging or game validation."
+}

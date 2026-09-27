@@ -1,0 +1,903 @@
+{
+  "installable": false,
+  "exports": [
+    {
+      "index": 72,
+      "name": "CameraComponent",
+      "Properties": {
+        "TrackNodeID": 0,
+        "LastTrackNodeID": 4
+      }
+    },
+    {
+      "index": 166,
+      "name": "SceneComponent",
+      "Properties": {
+        "RelativeLocation": {
+          "X": -12385.548631697504,
+          "Y": -2944.9525312890664,
+          "Z": 1050.1958862188264
+        },
+        "RelativeRotation": {
+          "Pitch": -20,
+          "Yaw": -43.229280964458034,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 73,
+      "name": "CameraComponent",
+      "Properties": {
+        "TrackNodeID": 32,
+        "LastTrackNodeID": 45
+      }
+    },
+    {
+      "index": 167,
+      "name": "SceneComponent",
+      "Properties": {
+        "RelativeLocation": {
+          "X": 39690.36046172421,
+          "Y": -21332.239422035185,
+          "Z": 1552.9877662658691
+        },
+        "RelativeRotation": {
+          "Pitch": -20,
+          "Yaw": -42.75942181791791,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 74,
+      "name": "CameraComponent",
+      "Properties": {
+        "TrackNodeID": 45,
+        "LastTrackNodeID": 60
+      }
+    },
+    {
+      "index": 168,
+      "name": "SceneComponent",
+      "Properties": {
+        "RelativeLocation": {
+          "X": 52952.64005297087,
+          "Y": 17814.753517945373,
+          "Z": 764.4088983535767
+        },
+        "RelativeRotation": {
+          "Pitch": -20,
+          "Yaw": 17.704951494482742,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 75,
+      "name": "CameraComponent",
+      "Properties": {
+        "TrackNodeID": 55,
+        "LastTrackNodeID": 66
+      }
+    },
+    {
+      "index": 169,
+      "name": "SceneComponent",
+      "Properties": {
+        "RelativeLocation": {
+          "X": 46411.455007779776,
+          "Y": 48622.44922376926,
+          "Z": -15.85702896118164
+        },
+        "RelativeRotation": {
+          "Pitch": -20,
+          "Yaw": -10.356903580740791,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 76,
+      "name": "CameraComponent",
+      "Properties": {
+        "TrackNodeID": 60,
+        "LastTrackNodeID": 69
+      }
+    },
+    {
+      "index": 170,
+      "name": "SceneComponent",
+      "Properties": {
+        "RelativeLocation": {
+          "X": 42656.31666551688,
+          "Y": 52258.28913698092,
+          "Z": -70.40338516235352
+        },
+        "RelativeRotation": {
+          "Pitch": -20,
+          "Yaw": -253.6276682284443,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 77,
+      "name": "CameraComponent",
+      "Properties": {
+        "TrackNodeID": 63,
+        "LastTrackNodeID": 73
+      }
+    },
+    {
+      "index": 171,
+      "name": "SceneComponent",
+      "Properties": {
+        "RelativeLocation": {
+          "X": 25185.471709155543,
+          "Y": 48800.32973441451,
+          "Z": 801.2870907783508
+        },
+        "RelativeRotation": {
+          "Pitch": -20,
+          "Yaw": -268.90333790073055,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 78,
+      "name": "CameraComponent",
+      "Properties": {
+        "TrackNodeID": 69,
+        "LastTrackNodeID": 76
+      }
+    },
+    {
+      "index": 172,
+      "name": "SceneComponent",
+      "Properties": {
+        "RelativeLocation": {
+          "X": 3313.9253697170166,
+          "Y": 48507.50633209523,
+          "Z": 984.6346944570541
+        },
+        "RelativeRotation": {
+          "Pitch": -20,
+          "Yaw": -229.85653030350625,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 79,
+      "name": "CameraComponent",
+      "Properties": {
+        "TrackNodeID": 76,
+        "LastTrackNodeID": 79
+      }
+    },
+    {
+      "index": 173,
+      "name": "SceneComponent",
+      "Properties": {
+        "RelativeLocation": {
+          "X": -23193.382230841176,
+          "Y": 43146.37316373922,
+          "Z": 2067.949676513672
+        },
+        "RelativeRotation": {
+          "Pitch": -20,
+          "Yaw": 66.05304432792695,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 80,
+      "name": "CameraComponent",
+      "Properties": {
+        "TrackNodeID": 79,
+        "LastTrackNodeID": 88
+      }
+    },
+    {
+      "index": 174,
+      "name": "SceneComponent",
+      "Properties": {
+        "RelativeLocation": {
+          "X": -44460.245762947285,
+          "Y": 55834.551309177776,
+          "Z": 2975.223731994629
+        },
+        "RelativeRotation": {
+          "Pitch": -20,
+          "Yaw": 45.99050930136221,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 81,
+      "name": "CameraComponent",
+      "Properties": {
+        "TrackNodeID": 88,
+        "LastTrackNodeID": 98
+      }
+    },
+    {
+      "index": 175,
+      "name": "SceneComponent",
+      "Properties": {
+        "RelativeLocation": {
+          "X": -57739.285520485624,
+          "Y": 92488.9922954138,
+          "Z": 4291.7388916015625
+        },
+        "RelativeRotation": {
+          "Pitch": -20,
+          "Yaw": -18.155663820704902,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 82,
+      "name": "CameraComponent",
+      "Properties": {
+        "TrackNodeID": 98,
+        "LastTrackNodeID": 106
+      }
+    },
+    {
+      "index": 176,
+      "name": "SceneComponent",
+      "Properties": {
+        "RelativeLocation": {
+          "X": -56943.664946830846,
+          "Y": 115797.55041300732,
+          "Z": 5172.4456787109375
+        },
+        "RelativeRotation": {
+          "Pitch": -20,
+          "Yaw": -240.53855639137709,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 83,
+      "name": "CameraComponent",
+      "Properties": {
+        "TrackNodeID": 0,
+        "LastTrackNodeID": 4
+      }
+    },
+    {
+      "index": 177,
+      "name": "SceneComponent",
+      "Properties": {
+        "RelativeLocation": {
+          "X": -12385.548631697504,
+          "Y": -2944.9525312890664,
+          "Z": 1050.1958862188264
+        },
+        "RelativeRotation": {
+          "Pitch": -20,
+          "Yaw": -43.229280964458034,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 84,
+      "name": "CameraComponent",
+      "Properties": {
+        "TrackNodeID": 4,
+        "LastTrackNodeID": 10
+      }
+    },
+    {
+      "index": 178,
+      "name": "SceneComponent",
+      "Properties": {
+        "RelativeLocation": {
+          "X": 9715.736171533968,
+          "Y": 20777.70968113315,
+          "Z": 1027.9586613178253
+        },
+        "RelativeRotation": {
+          "Pitch": -20,
+          "Yaw": -45.35136844272622,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 85,
+      "name": "CameraComponent",
+      "Properties": {
+        "TrackNodeID": 108,
+        "LastTrackNodeID": 112
+      }
+    },
+    {
+      "index": 179,
+      "name": "SceneComponent",
+      "Properties": {
+        "RelativeLocation": {
+          "X": -70827.4090094942,
+          "Y": 80673.45451198277,
+          "Z": 4832.706832885742
+        },
+        "RelativeRotation": {
+          "Pitch": -20,
+          "Yaw": -143.63294663034463,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 86,
+      "name": "CameraComponent",
+      "Properties": {
+        "TrackNodeID": 106,
+        "LastTrackNodeID": 125
+      }
+    },
+    {
+      "index": 180,
+      "name": "SceneComponent",
+      "Properties": {
+        "RelativeLocation": {
+          "X": -74377.9139307173,
+          "Y": 91812.45282768017,
+          "Z": 5026.828384399414
+        },
+        "RelativeRotation": {
+          "Pitch": -20,
+          "Yaw": -168.40841579713899,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 87,
+      "name": "CameraComponent",
+      "Properties": {
+        "TrackNodeID": 111,
+        "LastTrackNodeID": 127
+      }
+    },
+    {
+      "index": 181,
+      "name": "SceneComponent",
+      "Properties": {
+        "RelativeLocation": {
+          "X": -54848.8113609614,
+          "Y": 63053.73546206814,
+          "Z": 3843.0862426757812
+        },
+        "RelativeRotation": {
+          "Pitch": -20,
+          "Yaw": -134.19201391756863,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 88,
+      "name": "CameraComponent",
+      "Properties": {
+        "TrackNodeID": 125,
+        "LastTrackNodeID": 0
+      }
+    },
+    {
+      "index": 182,
+      "name": "SceneComponent",
+      "Properties": {
+        "RelativeLocation": {
+          "X": -23712.022669604572,
+          "Y": -12844.317355806204,
+          "Z": 1247.136402130127
+        },
+        "RelativeRotation": {
+          "Pitch": -20,
+          "Yaw": -80.81144252903997,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 89,
+      "name": "CameraComponent",
+      "Properties": {
+        "TrackNodeID": 4,
+        "LastTrackNodeID": 14
+      }
+    },
+    {
+      "index": 183,
+      "name": "SceneComponent",
+      "Properties": {
+        "RelativeLocation": {
+          "X": 9715.736171533968,
+          "Y": 20777.70968113315,
+          "Z": 1027.9586613178253
+        },
+        "RelativeRotation": {
+          "Pitch": -20,
+          "Yaw": -45.35136844272622,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 90,
+      "name": "CameraComponent",
+      "Properties": {
+        "TrackNodeID": 147,
+        "LastTrackNodeID": 156
+      }
+    },
+    {
+      "index": 184,
+      "name": "SceneComponent",
+      "Properties": {
+        "RelativeLocation": {
+          "X": 13117.937518414545,
+          "Y": 14994.248228856017,
+          "Z": 1026.556106326341
+        },
+        "RelativeRotation": {
+          "Pitch": -20,
+          "Yaw": -226.7729571111859,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 91,
+      "name": "CameraComponent",
+      "Properties": {
+        "TrackNodeID": 12,
+        "LastTrackNodeID": 18
+      }
+    },
+    {
+      "index": 185,
+      "name": "SceneComponent",
+      "Properties": {
+        "RelativeLocation": {
+          "X": 32641.33220100295,
+          "Y": 17010.0753734248,
+          "Z": 1250.9609699249268
+        },
+        "RelativeRotation": {
+          "Pitch": -20,
+          "Yaw": -208.9200802562553,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 92,
+      "name": "CameraComponent",
+      "Properties": {
+        "TrackNodeID": 10,
+        "LastTrackNodeID": 19
+      }
+    },
+    {
+      "index": 186,
+      "name": "SceneComponent",
+      "Properties": {
+        "RelativeLocation": {
+          "X": 33662.43538731542,
+          "Y": 21368.036421999248,
+          "Z": 1252.3004531860352
+        },
+        "RelativeRotation": {
+          "Pitch": -20,
+          "Yaw": -184.5961122309044,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 93,
+      "name": "CameraComponent",
+      "Properties": {
+        "TrackNodeID": 19,
+        "LastTrackNodeID": 22
+      }
+    },
+    {
+      "index": 187,
+      "name": "SceneComponent",
+      "Properties": {
+        "RelativeLocation": {
+          "X": 24606.350496884206,
+          "Y": -5199.1125459446475,
+          "Z": 600.2537727355957
+        },
+        "RelativeRotation": {
+          "Pitch": -20,
+          "Yaw": -159.42030735798681,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 94,
+      "name": "CameraComponent",
+      "Properties": {
+        "TrackNodeID": 22,
+        "LastTrackNodeID": 33
+      }
+    },
+    {
+      "index": 188,
+      "name": "SceneComponent",
+      "Properties": {
+        "RelativeLocation": {
+          "X": 33148.78301769995,
+          "Y": -27504.34773975125,
+          "Z": 1530.5266857147217
+        },
+        "RelativeRotation": {
+          "Pitch": -20,
+          "Yaw": -150.61160526194936,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 95,
+      "name": "CameraComponent",
+      "Properties": {
+        "TrackNodeID": 23,
+        "LastTrackNodeID": 33
+      }
+    },
+    {
+      "index": 189,
+      "name": "SceneComponent",
+      "Properties": {
+        "RelativeLocation": {
+          "X": 33945.88725042618,
+          "Y": -29079.32156854654,
+          "Z": 1537.253189086914
+        },
+        "RelativeRotation": {
+          "Pitch": -20,
+          "Yaw": -135.2739991562353,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 96,
+      "name": "CameraComponent",
+      "Properties": {
+        "TrackNodeID": 22,
+        "LastTrackNodeID": 32
+      }
+    },
+    {
+      "index": 190,
+      "name": "SceneComponent",
+      "Properties": {
+        "RelativeLocation": {
+          "X": 33148.78301769995,
+          "Y": -27504.34773975125,
+          "Z": 1530.5266857147217
+        },
+        "RelativeRotation": {
+          "Pitch": -20,
+          "Yaw": -150.61160526194936,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 97,
+      "name": "CameraComponent",
+      "Properties": {
+        "TrackNodeID": 130,
+        "LastTrackNodeID": 141
+      }
+    },
+    {
+      "index": 191,
+      "name": "SceneComponent",
+      "Properties": {
+        "RelativeLocation": {
+          "X": -27609.721291739348,
+          "Y": -6860.7424114005225,
+          "Z": 1230.873097152466
+        },
+        "RelativeRotation": {
+          "Pitch": -20,
+          "Yaw": -74.41673485083234,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 98,
+      "name": "CameraComponent",
+      "Properties": {
+        "TrackNodeID": 136,
+        "LastTrackNodeID": 141
+      }
+    },
+    {
+      "index": 192,
+      "name": "SceneComponent",
+      "Properties": {
+        "RelativeLocation": {
+          "X": -20328.947449816184,
+          "Y": -15103.571162691467,
+          "Z": 1193.7111616134644
+        },
+        "RelativeRotation": {
+          "Pitch": -20,
+          "Yaw": -33.0197327280665,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 99,
+      "name": "CameraComponent",
+      "Properties": {
+        "TrackNodeID": 141,
+        "LastTrackNodeID": 147
+      }
+    },
+    {
+      "index": 193,
+      "name": "SceneComponent",
+      "Properties": {
+        "RelativeLocation": {
+          "X": -11564.943134446548,
+          "Y": -6733.80990865058,
+          "Z": 1026.3062566518784
+        },
+        "RelativeRotation": {
+          "Pitch": -20,
+          "Yaw": 46.85257874630122,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 100,
+      "name": "CameraComponent",
+      "Properties": {
+        "TrackNodeID": 150,
+        "LastTrackNodeID": 152
+      }
+    },
+    {
+      "index": 194,
+      "name": "SceneComponent",
+      "Properties": {
+        "RelativeLocation": {
+          "X": 22066.949022999856,
+          "Y": 23960.947446293456,
+          "Z": 1022.8756219148636
+        },
+        "RelativeRotation": {
+          "Pitch": -20,
+          "Yaw": -226.23884676130757,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 101,
+      "name": "CameraComponent",
+      "Properties": {
+        "TrackNodeID": 104,
+        "LastTrackNodeID": 109
+      }
+    },
+    {
+      "index": 195,
+      "name": "SceneComponent",
+      "Properties": {
+        "RelativeLocation": {
+          "X": -74534.02214388031,
+          "Y": 100119.99295693656,
+          "Z": 4989.475250244141
+        },
+        "RelativeRotation": {
+          "Pitch": -20,
+          "Yaw": -180.36184509324872,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 103,
+      "name": "CameraComponent",
+      "Properties": {
+        "TrackNodeID": 11,
+        "LastTrackNodeID": 16
+      }
+    },
+    {
+      "index": 197,
+      "name": "SceneComponent",
+      "Properties": {
+        "RelativeLocation": {
+          "X": 33436.80754119869,
+          "Y": 19319.17199534359,
+          "Z": 1256.8724348620208
+        },
+        "RelativeRotation": {
+          "Pitch": -20,
+          "Yaw": -198.08919115514823,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 104,
+      "name": "CameraComponent",
+      "Properties": {
+        "TrackNodeID": 35,
+        "LastTrackNodeID": 37
+      }
+    },
+    {
+      "index": 198,
+      "name": "SceneComponent",
+      "Properties": {
+        "RelativeLocation": {
+          "X": 43747.88707296351,
+          "Y": -17773.326363221957,
+          "Z": 1400.5608558654785
+        },
+        "RelativeRotation": {
+          "Pitch": -20,
+          "Yaw": -44.02331501551305,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 106,
+      "name": "CameraComponent",
+      "Properties": {
+        "TrackNodeID": 122
+      }
+    },
+    {
+      "index": 201,
+      "name": "SceneComponent",
+      "Properties": {
+        "RelativeLocation": {
+          "X": -24623.16574757304,
+          "Y": -9977.231995705723,
+          "Z": 1239.5112991333008
+        }
+      }
+    },
+    {
+      "index": 153,
+      "name": "HelicamPosition",
+      "Properties": {
+        "StartNodeID": 122,
+        "RelativeLocation": {
+          "X": -26761.8896484375,
+          "Y": -10492.848205566406,
+          "Z": 7239.511299133301
+        }
+      }
+    },
+    {
+      "index": 154,
+      "name": "HelicamPosition",
+      "Properties": {
+        "StartNodeID": 110,
+        "RelativeLocation": {
+          "X": -62114.691162109375,
+          "Y": 67079.13818359375,
+          "Z": 10242.741394042969
+        }
+      }
+    },
+    {
+      "index": 155,
+      "name": "HelicamPosition",
+      "Properties": {
+        "StartNodeID": 98,
+        "RelativeLocation": {
+          "X": -58025.7080078125,
+          "Y": 117713.0615234375,
+          "Z": 11172.445678710938
+        }
+      }
+    },
+    {
+      "index": 156,
+      "name": "HelicamPosition",
+      "Properties": {
+        "StartNodeID": 16,
+        "RelativeLocation": {
+          "X": 23258.511352539062,
+          "Y": 6277.397155761719,
+          "Z": 6815.9459233284
+        }
+      }
+    },
+    {
+      "index": 157,
+      "name": "HelicamPosition",
+      "Properties": {
+        "StartNodeID": 31,
+        "RelativeLocation": {
+          "X": 39919.42138671875,
+          "Y": -25071.705627441406,
+          "Z": 7580.600214004517
+        }
+      }
+    },
+    {
+      "index": 158,
+      "name": "HelicamPosition",
+      "Properties": {
+        "StartNodeID": 51,
+        "RelativeLocation": {
+          "X": 46626.49230957031,
+          "Y": 36344.00329589844,
+          "Z": 6464.886426925659
+        }
+      }
+    },
+    {
+      "index": 159,
+      "name": "HelicamPosition",
+      "Properties": {
+        "StartNodeID": 4,
+        "RelativeLocation": {
+          "X": 11261.80191040039,
+          "Y": 19212.564086914062,
+          "Z": 7027.958661317825
+        }
+      }
+    },
+    {
+      "index": 160,
+      "name": "HelicamPosition",
+      "Properties": {
+        "StartNodeID": 72,
+        "RelativeLocation": {
+          "X": -4704.819488525391,
+          "Y": 43524.639892578125,
+          "Z": 7386.180019378662
+        }
+      }
+    },
+    {
+      "index": 161,
+      "name": "HelicamPosition",
+      "Properties": {
+        "StartNodeID": 82,
+        "RelativeLocation": {
+          "X": -54172.552490234375,
+          "Y": 68871.28295898438,
+          "Z": 9598.61011505127
+        }
+      }
+    }
+  ],
+  "limitations": [
+    "Camera coverage uses fractional node mapping; requires viewing every sector",
+    "Spline cinematics and zoom curves still need adaptation"
+  ]
+}

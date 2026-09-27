@@ -1,0 +1,13 @@
+{
+  "authoring": {
+    "actors": 239,
+    "garageMarkers": 22,
+    "mapObjects": 0
+  },
+  "scene": {
+    "actors": 1017,
+    "garageMarkers": 22,
+    "mapObjects": 753
+  },
+  "passed": true
+}

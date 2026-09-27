@@ -1,0 +1,2038 @@
+[
+  {
+    "Type": "BodySetup",
+    "Name": "BodySetup_0",
+    "Flags": "RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'BodySetup'",
+    "Outer": {
+      "ObjectName": "StaticMesh'SM_1_00_kalinago'",
+      "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_1_00_kalinago.2"
+    },
+    "Properties": {
+      "DefaultInstance": {
+        "ObjectType": "ECC_WorldStatic",
+        "CollisionProfileName": "BlockAll"
+      }
+    },
+    "BodySetupGuid": "A561E4DD49424837C5B731B76E28B7E1",
+    "CookedFormatData": {
+      "PhysXPC": {
+        "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+        "ElementCount": 40885340,
+        "SizeOnDisk": 40885340,
+        "OffsetInFile": "0x5C52AA3"
+      }
+    }
+  },
+  {
+    "Type": "NavCollision",
+    "Name": "NavCollision_0",
+    "Flags": "RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'NavCollision'",
+    "Outer": {
+      "ObjectName": "StaticMesh'SM_1_00_kalinago'",
+      "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_1_00_kalinago.2"
+    },
+    "CookedFormatData": {
+      "NavCollision_Chaos": {
+        "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+        "ElementCount": 21,
+        "SizeOnDisk": 21,
+        "OffsetInFile": "0x8350747"
+      }
+    }
+  },
+  {
+    "Type": "StaticMesh",
+    "Name": "SM_1_00_kalinago",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StaticMesh'",
+    "Package": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_1_00_kalinago",
+    "Properties": {
+      "StaticMaterials": [
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_1_00_kalinago_0'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_0.0"
+          },
+          "MaterialSlotName": "material_0",
+          "ImportedMaterialSlotName": "material_0",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 1821.5692,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_1_00_kalinago_1'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_1.0"
+          },
+          "MaterialSlotName": "material_1",
+          "ImportedMaterialSlotName": "material_1",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 127.67397,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_1_00_kalinago_2'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_2.0"
+          },
+          "MaterialSlotName": "material_2",
+          "ImportedMaterialSlotName": "material_2",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 268.32858,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_1_00_kalinago_3'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_3.0"
+          },
+          "MaterialSlotName": "material_3",
+          "ImportedMaterialSlotName": "material_3",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 87.99411,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_1_00_kalinago_4'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_4.0"
+          },
+          "MaterialSlotName": "material_4",
+          "ImportedMaterialSlotName": "material_4",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 329.4539,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_1_00_kalinago_5'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_5.0"
+          },
+          "MaterialSlotName": "material_5",
+          "ImportedMaterialSlotName": "material_5",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 308.6158,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_1_00_kalinago_6'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_6.0"
+          },
+          "MaterialSlotName": "material_6",
+          "ImportedMaterialSlotName": "material_6",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 309.94778,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_1_00_kalinago_7'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_7.0"
+          },
+          "MaterialSlotName": "material_7",
+          "ImportedMaterialSlotName": "material_7",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 358.78317,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_1_00_kalinago_8'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_8.0"
+          },
+          "MaterialSlotName": "material_8",
+          "ImportedMaterialSlotName": "material_8",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 214.68335,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_OpenGarageDoors'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_OpenGarageDoors.0"
+          },
+          "MaterialSlotName": "material_9",
+          "ImportedMaterialSlotName": "material_9",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 345.639,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_1_00_kalinago_10'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_10.0"
+          },
+          "MaterialSlotName": "material_10",
+          "ImportedMaterialSlotName": "material_10",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 202.88821,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_1_00_kalinago_11'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_11.0"
+          },
+          "MaterialSlotName": "material_11",
+          "ImportedMaterialSlotName": "material_11",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 86.72476,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_1_00_kalinago_12'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_12.0"
+          },
+          "MaterialSlotName": "material_12",
+          "ImportedMaterialSlotName": "material_12",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 437.2227,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_1_00_kalinago_13'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_13.0"
+          },
+          "MaterialSlotName": "material_13",
+          "ImportedMaterialSlotName": "material_13",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 540.5375,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_1_00_kalinago_14'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_14.0"
+          },
+          "MaterialSlotName": "material_14",
+          "ImportedMaterialSlotName": "material_14",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 109.0935,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_1_00_kalinago_15'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_15.0"
+          },
+          "MaterialSlotName": "material_15",
+          "ImportedMaterialSlotName": "material_15",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 249.73183,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_1_00_kalinago_16'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_16.0"
+          },
+          "MaterialSlotName": "material_16",
+          "ImportedMaterialSlotName": "material_16",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 568.4161,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_1_00_kalinago_17'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_17.0"
+          },
+          "MaterialSlotName": "material_17",
+          "ImportedMaterialSlotName": "material_17",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 1555.3685,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_1_00_kalinago_18'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_18.0"
+          },
+          "MaterialSlotName": "material_18",
+          "ImportedMaterialSlotName": "material_18",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 241.94934,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_1_00_kalinago_19'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_19.0"
+          },
+          "MaterialSlotName": "material_19",
+          "ImportedMaterialSlotName": "material_19",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 49.997322,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_1_00_kalinago_20'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_20.0"
+          },
+          "MaterialSlotName": "material_20",
+          "ImportedMaterialSlotName": "material_20",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 2582.7437,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_1_00_kalinago_21'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_21.0"
+          },
+          "MaterialSlotName": "material_21",
+          "ImportedMaterialSlotName": "material_21",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 5226.181,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_1_00_kalinago_23'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_23.0"
+          },
+          "MaterialSlotName": "material_23",
+          "ImportedMaterialSlotName": "material_23",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 26.692122,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_1_00_kalinago_24'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_24.0"
+          },
+          "MaterialSlotName": "material_24",
+          "ImportedMaterialSlotName": "material_24",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 152.94594,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_1_00_kalinago_25'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_25.0"
+          },
+          "MaterialSlotName": "material_25",
+          "ImportedMaterialSlotName": "material_25",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 373.1215,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_OpenGarageDoors'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_OpenGarageDoors.0"
+          },
+          "MaterialSlotName": "material_26",
+          "ImportedMaterialSlotName": "material_26",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 146.06198,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_1_00_kalinago_27'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_27.0"
+          },
+          "MaterialSlotName": "material_27",
+          "ImportedMaterialSlotName": "material_27",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 284.4135,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_1_00_kalinago_28'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_28.0"
+          },
+          "MaterialSlotName": "material_28",
+          "ImportedMaterialSlotName": "material_28",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 234.44975,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_1_00_kalinago_29'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_29.0"
+          },
+          "MaterialSlotName": "material_29",
+          "ImportedMaterialSlotName": "material_29",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 57.96541,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_1_00_kalinago_30'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_30.0"
+          },
+          "MaterialSlotName": "material_30",
+          "ImportedMaterialSlotName": "material_30",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 67.148056,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_1_00_kalinago_31'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_31.0"
+          },
+          "MaterialSlotName": "material_31",
+          "ImportedMaterialSlotName": "material_31",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 67.14801,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_1_00_kalinago_32'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_32.0"
+          },
+          "MaterialSlotName": "material_32",
+          "ImportedMaterialSlotName": "material_32",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 196.29823,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_1_00_kalinago_33'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_33.0"
+          },
+          "MaterialSlotName": "material_33",
+          "ImportedMaterialSlotName": "material_33",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 49.999992,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_1_00_kalinago_34'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_34.0"
+          },
+          "MaterialSlotName": "material_34",
+          "ImportedMaterialSlotName": "material_34",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 380.2173,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_1_00_kalinago_35'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_35.0"
+          },
+          "MaterialSlotName": "material_35",
+          "ImportedMaterialSlotName": "material_35",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 156.81235,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_1_00_kalinago_36'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_36.0"
+          },
+          "MaterialSlotName": "material_36",
+          "ImportedMaterialSlotName": "material_36",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 106.86008,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_1_00_kalinago_37'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_37.0"
+          },
+          "MaterialSlotName": "material_37",
+          "ImportedMaterialSlotName": "material_37",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 244.89536,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_1_00_kalinago_38'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_38.0"
+          },
+          "MaterialSlotName": "material_38",
+          "ImportedMaterialSlotName": "material_38",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 125.99804,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_1_00_kalinago_39'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_39.0"
+          },
+          "MaterialSlotName": "material_39",
+          "ImportedMaterialSlotName": "material_39",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 1802.5771,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_1_00_kalinago_40'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_40.0"
+          },
+          "MaterialSlotName": "material_40",
+          "ImportedMaterialSlotName": "material_40",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 397.76813,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_1_00_kalinago_41'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_41.0"
+          },
+          "MaterialSlotName": "material_41",
+          "ImportedMaterialSlotName": "material_41",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 1862.8165,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_1_00_kalinago_42'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_42.0"
+          },
+          "MaterialSlotName": "material_42",
+          "ImportedMaterialSlotName": "material_42",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 1600.5952,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_1_00_kalinago_43'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_43.0"
+          },
+          "MaterialSlotName": "material_43",
+          "ImportedMaterialSlotName": "material_43",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 563.747,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_1_00_kalinago_44'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_44.0"
+          },
+          "MaterialSlotName": "material_44",
+          "ImportedMaterialSlotName": "material_44",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 103.6333,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_1_00_kalinago_45'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_45.0"
+          },
+          "MaterialSlotName": "material_45",
+          "ImportedMaterialSlotName": "material_45",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 801.5125,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_1_00_kalinago_46'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_46.0"
+          },
+          "MaterialSlotName": "material_46",
+          "ImportedMaterialSlotName": "material_46",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 2386.9695,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_1_00_kalinago_47'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_47.0"
+          },
+          "MaterialSlotName": "material_47",
+          "ImportedMaterialSlotName": "material_47",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 2838.0688,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_1_00_kalinago_48'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_48.0"
+          },
+          "MaterialSlotName": "material_48",
+          "ImportedMaterialSlotName": "material_48",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 10709.516,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_1_00_kalinago_49'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_49.0"
+          },
+          "MaterialSlotName": "material_49",
+          "ImportedMaterialSlotName": "material_49",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 335.23962,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_1_00_kalinago_50'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_50.0"
+          },
+          "MaterialSlotName": "material_50",
+          "ImportedMaterialSlotName": "material_50",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 297.21768,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_1_00_kalinago_51'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_51.0"
+          },
+          "MaterialSlotName": "material_51",
+          "ImportedMaterialSlotName": "material_51",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 1263.6392,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_1_00_kalinago_52'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_52.0"
+          },
+          "MaterialSlotName": "material_52",
+          "ImportedMaterialSlotName": "material_52",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 4372.323,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_1_00_kalinago_53'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_53.0"
+          },
+          "MaterialSlotName": "material_53",
+          "ImportedMaterialSlotName": "material_53",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 1988.681,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_1_00_kalinago_54'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_54.0"
+          },
+          "MaterialSlotName": "material_54",
+          "ImportedMaterialSlotName": "material_54",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 4301.477,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_1_00_kalinago_55'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_55.0"
+          },
+          "MaterialSlotName": "material_55",
+          "ImportedMaterialSlotName": "material_55",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 1600.6073,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_1_00_kalinago_56'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_56.0"
+          },
+          "MaterialSlotName": "material_56",
+          "ImportedMaterialSlotName": "material_56",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 143.56697,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_1_00_kalinago_57'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_57.0"
+          },
+          "MaterialSlotName": "material_57",
+          "ImportedMaterialSlotName": "material_57",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 502.67227,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_1_00_kalinago_58'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_58.0"
+          },
+          "MaterialSlotName": "material_58",
+          "ImportedMaterialSlotName": "material_58",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 120.00005,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_1_00_kalinago_59'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_59.0"
+          },
+          "MaterialSlotName": "material_59",
+          "ImportedMaterialSlotName": "material_59",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 147.67085,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_1_00_kalinago_60'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_60.0"
+          },
+          "MaterialSlotName": "material_60",
+          "ImportedMaterialSlotName": "material_60",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 432.26526,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_1_00_kalinago_61'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_61.0"
+          },
+          "MaterialSlotName": "material_61",
+          "ImportedMaterialSlotName": "material_61",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 221.40623,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_1_00_kalinago_62'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_62.0"
+          },
+          "MaterialSlotName": "material_62",
+          "ImportedMaterialSlotName": "material_62",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 201.13928,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_1_00_kalinago_63'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_63.0"
+          },
+          "MaterialSlotName": "material_63",
+          "ImportedMaterialSlotName": "material_63",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 30.7411,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_1_00_kalinago_64'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_64.0"
+          },
+          "MaterialSlotName": "material_64",
+          "ImportedMaterialSlotName": "material_64",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 213.19034,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_1_00_kalinago_65'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_65.0"
+          },
+          "MaterialSlotName": "material_65",
+          "ImportedMaterialSlotName": "material_65",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 1395.3928,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_1_00_kalinago_66'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_66.0"
+          },
+          "MaterialSlotName": "material_66",
+          "ImportedMaterialSlotName": "material_66",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 86.868614,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_1_00_kalinago_67'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_67.0"
+          },
+          "MaterialSlotName": "material_67",
+          "ImportedMaterialSlotName": "material_67",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 360.6288,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        },
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'M_1_00_kalinago_68'",
+            "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_68.0"
+          },
+          "MaterialSlotName": "material_68",
+          "ImportedMaterialSlotName": "material_68",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 307.7357,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        }
+      ],
+      "LightmapUVDensity": 2516.4692,
+      "LightMapResolution": 64,
+      "ExtendedBounds": {
+        "Origin": {
+          "X": -3271.586,
+          "Y": 41765.875,
+          "Z": 3425.0
+        },
+        "BoxExtent": {
+          "X": 230853.72,
+          "Y": 153356.06,
+          "Z": 7325.0
+        },
+        "SphereRadius": 276710.66366310493
+      }
+    },
+    "BodySetup": {
+      "ObjectName": "BodySetup'SM_1_00_kalinago:BodySetup_0'",
+      "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_1_00_kalinago.0"
+    },
+    "NavCollision": {
+      "ObjectName": "NavCollision'SM_1_00_kalinago:NavCollision_0'",
+      "ObjectPath": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_1_00_kalinago.1"
+    },
+    "LightingGuid": "49523CE5-4CC7B4D5-8B935C80-83ED18F2",
+    "RenderData": {
+      "LODs": [
+        {
+          "Sections": [
+            {
+              "MaterialIndex": 0,
+              "FirstIndex": 0,
+              "NumTriangles": 1478,
+              "MinVertexIndex": 0,
+              "MaxVertexIndex": 2667,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 1,
+              "FirstIndex": 4434,
+              "NumTriangles": 1557,
+              "MinVertexIndex": 2668,
+              "MaxVertexIndex": 5772,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 2,
+              "FirstIndex": 9105,
+              "NumTriangles": 36,
+              "MinVertexIndex": 5773,
+              "MaxVertexIndex": 5844,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 3,
+              "FirstIndex": 9213,
+              "NumTriangles": 3046,
+              "MinVertexIndex": 5845,
+              "MaxVertexIndex": 11412,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 4,
+              "FirstIndex": 18351,
+              "NumTriangles": 6394,
+              "MinVertexIndex": 11413,
+              "MaxVertexIndex": 23338,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 5,
+              "FirstIndex": 37533,
+              "NumTriangles": 1536,
+              "MinVertexIndex": 23339,
+              "MaxVertexIndex": 25980,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 6,
+              "FirstIndex": 42141,
+              "NumTriangles": 3568,
+              "MinVertexIndex": 25981,
+              "MaxVertexIndex": 32212,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 7,
+              "FirstIndex": 52845,
+              "NumTriangles": 1246,
+              "MinVertexIndex": 32213,
+              "MaxVertexIndex": 33776,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 8,
+              "FirstIndex": 56583,
+              "NumTriangles": 18718,
+              "MinVertexIndex": 33777,
+              "MaxVertexIndex": 70774,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 9,
+              "FirstIndex": 112737,
+              "NumTriangles": 220,
+              "MinVertexIndex": 70775,
+              "MaxVertexIndex": 71214,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 10,
+              "FirstIndex": 113397,
+              "NumTriangles": 10188,
+              "MinVertexIndex": 71215,
+              "MaxVertexIndex": 86206,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 11,
+              "FirstIndex": 143961,
+              "NumTriangles": 122864,
+              "MinVertexIndex": 86207,
+              "MaxVertexIndex": 239761,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 12,
+              "FirstIndex": 512553,
+              "NumTriangles": 3836,
+              "MinVertexIndex": 239762,
+              "MaxVertexIndex": 246471,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 13,
+              "FirstIndex": 524061,
+              "NumTriangles": 7370,
+              "MinVertexIndex": 246472,
+              "MaxVertexIndex": 254619,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 14,
+              "FirstIndex": 546171,
+              "NumTriangles": 13589,
+              "MinVertexIndex": 254620,
+              "MaxVertexIndex": 276862,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 15,
+              "FirstIndex": 586938,
+              "NumTriangles": 195672,
+              "MinVertexIndex": 276863,
+              "MaxVertexIndex": 505502,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 16,
+              "FirstIndex": 1173954,
+              "NumTriangles": 7440,
+              "MinVertexIndex": 505503,
+              "MaxVertexIndex": 513814,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 17,
+              "FirstIndex": 1196274,
+              "NumTriangles": 14949,
+              "MinVertexIndex": 513815,
+              "MaxVertexIndex": 530227,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 18,
+              "FirstIndex": 1241121,
+              "NumTriangles": 67,
+              "MinVertexIndex": 530228,
+              "MaxVertexIndex": 530297,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 19,
+              "FirstIndex": 1241322,
+              "NumTriangles": 108,
+              "MinVertexIndex": 530298,
+              "MaxVertexIndex": 530433,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 20,
+              "FirstIndex": 1241646,
+              "NumTriangles": 48,
+              "MinVertexIndex": 530434,
+              "MaxVertexIndex": 530513,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 21,
+              "FirstIndex": 1241790,
+              "NumTriangles": 300,
+              "MinVertexIndex": 530514,
+              "MaxVertexIndex": 530812,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 22,
+              "FirstIndex": 1242690,
+              "NumTriangles": 40724,
+              "MinVertexIndex": 530813,
+              "MaxVertexIndex": 611610,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 23,
+              "FirstIndex": 1364862,
+              "NumTriangles": 5776,
+              "MinVertexIndex": 611611,
+              "MaxVertexIndex": 621278,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 24,
+              "FirstIndex": 1382190,
+              "NumTriangles": 379,
+              "MinVertexIndex": 621279,
+              "MaxVertexIndex": 621723,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 25,
+              "FirstIndex": 1383327,
+              "NumTriangles": 72,
+              "MinVertexIndex": 621724,
+              "MaxVertexIndex": 621867,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 26,
+              "FirstIndex": 1383543,
+              "NumTriangles": 2562,
+              "MinVertexIndex": 593695,
+              "MaxVertexIndex": 625699,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 27,
+              "FirstIndex": 1391229,
+              "NumTriangles": 8405,
+              "MinVertexIndex": 84536,
+              "MaxVertexIndex": 638130,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 28,
+              "FirstIndex": 1416444,
+              "NumTriangles": 36,
+              "MinVertexIndex": 638131,
+              "MaxVertexIndex": 638202,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 29,
+              "FirstIndex": 1416552,
+              "NumTriangles": 18,
+              "MinVertexIndex": 638203,
+              "MaxVertexIndex": 638256,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 30,
+              "FirstIndex": 1416606,
+              "NumTriangles": 18,
+              "MinVertexIndex": 638204,
+              "MaxVertexIndex": 638274,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 31,
+              "FirstIndex": 1416660,
+              "NumTriangles": 304,
+              "MinVertexIndex": 638275,
+              "MaxVertexIndex": 638882,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 32,
+              "FirstIndex": 1417572,
+              "NumTriangles": 2,
+              "MinVertexIndex": 638883,
+              "MaxVertexIndex": 638886,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 33,
+              "FirstIndex": 1417578,
+              "NumTriangles": 2150,
+              "MinVertexIndex": 638887,
+              "MaxVertexIndex": 642868,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 34,
+              "FirstIndex": 1424028,
+              "NumTriangles": 15117,
+              "MinVertexIndex": 642869,
+              "MaxVertexIndex": 662200,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 35,
+              "FirstIndex": 1469379,
+              "NumTriangles": 6564,
+              "MinVertexIndex": 662201,
+              "MaxVertexIndex": 675240,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 36,
+              "FirstIndex": 1489071,
+              "NumTriangles": 3637,
+              "MinVertexIndex": 627620,
+              "MaxVertexIndex": 680399,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 37,
+              "FirstIndex": 1499982,
+              "NumTriangles": 2068,
+              "MinVertexIndex": 680400,
+              "MaxVertexIndex": 683167,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 38,
+              "FirstIndex": 1506186,
+              "NumTriangles": 3468,
+              "MinVertexIndex": 683168,
+              "MaxVertexIndex": 690043,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 39,
+              "FirstIndex": 1516590,
+              "NumTriangles": 29450,
+              "MinVertexIndex": 690044,
+              "MaxVertexIndex": 740418,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 40,
+              "FirstIndex": 1604940,
+              "NumTriangles": 16,
+              "MinVertexIndex": 740419,
+              "MaxVertexIndex": 740450,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 41,
+              "FirstIndex": 1604988,
+              "NumTriangles": 116,
+              "MinVertexIndex": 740451,
+              "MaxVertexIndex": 740578,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 42,
+              "FirstIndex": 1605336,
+              "NumTriangles": 840,
+              "MinVertexIndex": 740579,
+              "MaxVertexIndex": 741632,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 43,
+              "FirstIndex": 1607856,
+              "NumTriangles": 1232,
+              "MinVertexIndex": 741633,
+              "MaxVertexIndex": 743308,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 44,
+              "FirstIndex": 1611552,
+              "NumTriangles": 8858,
+              "MinVertexIndex": 743309,
+              "MaxVertexIndex": 753972,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 45,
+              "FirstIndex": 1638126,
+              "NumTriangles": 2303,
+              "MinVertexIndex": 753973,
+              "MaxVertexIndex": 756110,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 46,
+              "FirstIndex": 1645035,
+              "NumTriangles": 3900,
+              "MinVertexIndex": 756111,
+              "MaxVertexIndex": 759783,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 47,
+              "FirstIndex": 1656735,
+              "NumTriangles": 12322,
+              "MinVertexIndex": 759784,
+              "MaxVertexIndex": 771215,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 48,
+              "FirstIndex": 1693701,
+              "NumTriangles": 2556,
+              "MinVertexIndex": 771216,
+              "MaxVertexIndex": 774078,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 49,
+              "FirstIndex": 1701369,
+              "NumTriangles": 27204,
+              "MinVertexIndex": 749346,
+              "MaxVertexIndex": 802163,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 50,
+              "FirstIndex": 1782981,
+              "NumTriangles": 908,
+              "MinVertexIndex": 802164,
+              "MaxVertexIndex": 803111,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 51,
+              "FirstIndex": 1785705,
+              "NumTriangles": 5600,
+              "MinVertexIndex": 803112,
+              "MaxVertexIndex": 806651,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 52,
+              "FirstIndex": 1802505,
+              "NumTriangles": 6645,
+              "MinVertexIndex": 806652,
+              "MaxVertexIndex": 814610,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 53,
+              "FirstIndex": 1822440,
+              "NumTriangles": 13505,
+              "MinVertexIndex": 814611,
+              "MaxVertexIndex": 823184,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 54,
+              "FirstIndex": 1862955,
+              "NumTriangles": 856,
+              "MinVertexIndex": 823185,
+              "MaxVertexIndex": 824222,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 55,
+              "FirstIndex": 1865523,
+              "NumTriangles": 4560,
+              "MinVertexIndex": 824223,
+              "MaxVertexIndex": 832678,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 56,
+              "FirstIndex": 1879203,
+              "NumTriangles": 9936,
+              "MinVertexIndex": 832679,
+              "MaxVertexIndex": 847580,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 57,
+              "FirstIndex": 1909011,
+              "NumTriangles": 4,
+              "MinVertexIndex": 847581,
+              "MaxVertexIndex": 847588,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 58,
+              "FirstIndex": 1909023,
+              "NumTriangles": 15795,
+              "MinVertexIndex": 847589,
+              "MaxVertexIndex": 860035,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 59,
+              "FirstIndex": 1956408,
+              "NumTriangles": 24416,
+              "MinVertexIndex": 860036,
+              "MaxVertexIndex": 884611,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 60,
+              "FirstIndex": 2029656,
+              "NumTriangles": 1032,
+              "MinVertexIndex": 884612,
+              "MaxVertexIndex": 885683,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 61,
+              "FirstIndex": 2032752,
+              "NumTriangles": 508,
+              "MinVertexIndex": 885684,
+              "MaxVertexIndex": 886651,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 62,
+              "FirstIndex": 2034276,
+              "NumTriangles": 1056,
+              "MinVertexIndex": 886652,
+              "MaxVertexIndex": 888459,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 63,
+              "FirstIndex": 2037444,
+              "NumTriangles": 8,
+              "MinVertexIndex": 888460,
+              "MaxVertexIndex": 888475,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 64,
+              "FirstIndex": 2037468,
+              "NumTriangles": 13540,
+              "MinVertexIndex": 888476,
+              "MaxVertexIndex": 901105,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 65,
+              "FirstIndex": 2078088,
+              "NumTriangles": 11332,
+              "MinVertexIndex": 901106,
+              "MaxVertexIndex": 913033,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 66,
+              "FirstIndex": 2112084,
+              "NumTriangles": 58,
+              "MinVertexIndex": 913034,
+              "MaxVertexIndex": 913095,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            },
+            {
+              "MaterialIndex": 67,
+              "FirstIndex": 2112258,
+              "NumTriangles": 2335,
+              "MinVertexIndex": 913096,
+              "MaxVertexIndex": 915540,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            }
+          ],
+          "MaxDeviation": 0.0,
+          "PositionVertexBuffer": {
+            "Stride": 12,
+            "NumVertices": 915541
+          },
+          "VertexBuffer": {
+            "NumTexCoords": 1,
+            "NumVertices": 915541,
+            "Strides": -1,
+            "UseHighPrecisionTangentBasis": false,
+            "UseFullPrecisionUVs": false
+          },
+          "ColorVertexBuffer": {
+            "Stride": 0,
+            "NumVertices": 0
+          },
+          "CardRepresentationData": {
+            "Bounds": {
+              "Min": {
+                "X": -234126.31,
+                "Y": -111591.19,
+                "Z": -3901.0
+              },
+              "Max": {
+                "X": 227583.12,
+                "Y": 195122.94,
+                "Z": 10751.0
+              },
+              "IsValid": 1
+            },
+            "MaxLodLevel": 0,
+            "bMostlyTwoSided": false,
+            "CardBuildData": [
+              {
+                "OBB": {
+                  "AxisX": {
+                    "X": 1.0,
+                    "Y": 0.0,
+                    "Z": 0.0
+                  },
+                  "AxisY": {
+                    "X": 0.0,
+                    "Y": 1.0,
+                    "Z": 0.0
+                  },
+                  "AxisZ": {
+                    "X": 0.0,
+                    "Y": 0.0,
+                    "Z": 1.0
+                  },
+                  "Origin": {
+                    "X": -3271.5938,
+                    "Y": 41765.86,
+                    "Z": 3425.0
+                  },
+                  "Extent": {
+                    "X": 230854.72,
+                    "Y": 153357.06,
+                    "Z": 7336.0
+                  }
+                },
+                "LODLevel": 0,
+                "AxisAlignedDirectionIndex": 5
+              }
+            ]
+          }
+        }
+      ],
+      "NaniteResources": {
+        "StreamablePages": {
+          "BulkDataFlags": "BULKDATA_None",
+          "ElementCount": 0,
+          "SizeOnDisk": 0,
+          "OffsetInFile": "0xB8A1CA9"
+        },
+        "AssemblyTransforms": [],
+        "AssemblyBoneAttachmentData": null,
+        "BoneIndices": null,
+        "VoxelMaterialsMask": 0,
+        "MeshBounds": null,
+        "PageRangeLookup": null,
+        "NumRootPages": 0,
+        "PositionPrecision": 0,
+        "NormalPrecision": 0,
+        "NumInputTriangles": 0,
+        "NumInputVertices": 0,
+        "NumInputMeshes": 0,
+        "NumInputTexCoords": 0,
+        "NumClusters": 0,
+        "NumInputCurves": 0,
+        "ResourceFlags": "NONE"
+      },
+      "Bounds": {
+        "Origin": {
+          "X": -3271.586,
+          "Y": 41765.875,
+          "Z": 3425.0
+        },
+        "BoxExtent": {
+          "X": 230853.72,
+          "Y": 153356.06,
+          "Z": 7325.0
+        },
+        "SphereRadius": 276710.66
+      },
+      "bLODsShareStaticLighting": true,
+      "ScreenSize": [
+        2.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  }
+]

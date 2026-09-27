@@ -1,0 +1,56 @@
+{
+  "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_5_startlights.uasset",
+  "metadataOnly": false,
+  "Name": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_5_startlights",
+  "names": [
+    "BlockAll",
+    "material",
+    "NavCollision_Chaos",
+    "PhysXPC",
+    "BodySetup",
+    "NavCollision",
+    "SM_5_startlights",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_5_startlights"
+  ],
+  "exports": [
+    {
+      "index": 0,
+      "name": "BodySetup_0",
+      "type": "/Script/Engine.BodySetup",
+      "outer": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_5_startlights.SM_5_startlights",
+      "serialOffset": 0,
+      "serialSize": 38133
+    },
+    {
+      "index": 1,
+      "name": "NavCollision_0",
+      "type": "/Script/NavigationSystem.NavCollision",
+      "outer": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_5_startlights.SM_5_startlights",
+      "serialOffset": 38133,
+      "serialSize": 91
+    },
+    {
+      "index": 2,
+      "name": "SM_5_startlights",
+      "type": "/Script/Engine.StaticMesh",
+      "outer": null,
+      "serialOffset": 38224,
+      "serialSize": 53474
+    }
+  ],
+  "imports": [
+    "/Script/Engine.Default__BodySetup",
+    "/Script/Engine.BodySetup",
+    "/Script/Engine.StaticMesh",
+    "/Script/NavigationSystem.NavCollision",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_5_startlights_0.M_5_startlights_0",
+    "/Script/NavigationSystem.Default__NavCollision",
+    null,
+    "/Script/Engine",
+    "/Script/NavigationSystem",
+    "/Script/Engine.Default__StaticMesh"
+  ],
+  "dependencies": [
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_5_startlights_0"
+  ]
+}

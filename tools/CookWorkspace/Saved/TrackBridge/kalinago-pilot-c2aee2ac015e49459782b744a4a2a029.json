@@ -1,0 +1,42 @@
+{
+  "installable": false,
+  "passed": false,
+  "runId": "c2aee2ac015e49459782b744a4a2a029",
+  "engineVersion": "5.1.1-23901901+++UE5+Release-5.1",
+  "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\2_track\\collision.obj",
+  "sourceSha256": "ad7337c1155dd9640e09606cf3b8bf0856ec4aca7daddec91164ede70481626d",
+  "staging": {
+    "vertices": 219588,
+    "normals": 219588,
+    "faces": 405465,
+    "sourceBoundsCm": {
+      "min": [
+        -122873.55957,
+        -109856.567383,
+        -1215.410614
+      ],
+      "max": [
+        227577.539063,
+        195121.923828,
+        4683.536148
+      ]
+    }
+  },
+  "asset": "/Game/TrackBridge/KalinagoPilot/Run_c2aee2ac015e49459782b744a4a2a029/KalinagoRoad.KalinagoRoad",
+  "boundsCm": {
+    "min": [
+      -122873.5625,
+      -109856.5703125,
+      -1215.41064453125
+    ],
+    "max": [
+      227577.546875,
+      195121.921875,
+      4683.5361328125
+    ]
+  },
+  "maxBoundsErrorCm": 0.007811999996192753,
+  "triangles": 405449,
+  "sections": 1,
+  "error": "Imported road bounds or triangle count differ from source"
+}

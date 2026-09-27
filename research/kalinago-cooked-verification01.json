@@ -1,0 +1,37 @@
+{
+  "passed": true,
+  "installable": false,
+  "asset": "/Game/TrackBridge/KalinagoPilot/Run_fc07c325ea3d4a62b8b71ec94ad1aaf8/KalinagoRoad.KalinagoRoad",
+  "triangles": 405449,
+  "maxBoundsErrorCm": 0.005499999999301508,
+  "sourceContainer": "TrackBridge_Kalinago_Pilot_P.utoc",
+  "dependencies": [
+    {
+      "packageName": "/Engine/EngineMaterials/WorldGridMaterial",
+      "file": "Engine/Content/EngineMaterials/WorldGridMaterial.uasset",
+      "present": true
+    }
+  ],
+  "containers": [
+    {
+      "name": "TrackBridge_Kalinago_Pilot_P.pak",
+      "bytes": 347,
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+    },
+    {
+      "name": "TrackBridge_Kalinago_Pilot_P.ucas",
+      "bytes": 47194374,
+      "sha256": "fc563e10f4e9dabbdaeefcd5dc05d0fa08911b0989108de42c401f880eca8087"
+    },
+    {
+      "name": "TrackBridge_Kalinago_Pilot_P.utoc",
+      "bytes": 9179,
+      "sha256": "599110897332e6d2254ec0bd006f49b78d4e625c13a63545bb38e90783358ccd"
+    }
+  ],
+  "limitations": [
+    "Independent cooked mesh deserialization only; game loading not tested",
+    "Default material; full materials and collision behavior not validated",
+    "No Kalinago race component installed"
+  ]
+}

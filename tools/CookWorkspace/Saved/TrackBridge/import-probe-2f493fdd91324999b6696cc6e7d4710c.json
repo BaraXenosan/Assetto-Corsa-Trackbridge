@@ -1,0 +1,20 @@
+{
+  "installable": false,
+  "passed": false,
+  "runId": "2f493fdd91324999b6696cc6e7d4710c",
+  "engineVersion": "5.1.1-23901901+++UE5+Release-5.1",
+  "asset": "/Game/TrackBridge/Probes/Run_2f493fdd91324999b6696cc6e7d4710c/CoordinateProbe.CoordinateProbe",
+  "minimumCm": [
+    0.0,
+    -200.0,
+    0.0
+  ],
+  "maximumCm": [
+    100.0,
+    0.0,
+    300.0
+  ],
+  "triangles": 4,
+  "maxBoundsErrorCm": 200.0,
+  "error": "Import changed axes, scale, origin, or topology; do not batch import"
+}

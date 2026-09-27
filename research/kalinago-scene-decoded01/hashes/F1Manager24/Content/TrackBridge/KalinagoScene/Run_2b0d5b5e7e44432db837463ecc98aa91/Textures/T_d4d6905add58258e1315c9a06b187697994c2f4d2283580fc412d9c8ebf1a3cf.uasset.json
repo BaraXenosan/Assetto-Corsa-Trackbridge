@@ -1,0 +1,17 @@
+[
+  {
+    "path": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_d4d6905add58258e1315c9a06b187697994c2f4d2283580fc412d9c8ebf1a3cf.uasset",
+    "bytes": 1751,
+    "sha256": "266649ab1e992672d6d5ecb83cdb900d8327a5346bc9d8dae3dafa2aa055b388"
+  },
+  {
+    "path": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_d4d6905add58258e1315c9a06b187697994c2f4d2283580fc412d9c8ebf1a3cf.ubulk",
+    "bytes": 2795520,
+    "sha256": "a34a2ecaccc7031480b0e00849444eefd49d7df1729849e5c2b8643d84017b37"
+  },
+  {
+    "path": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_d4d6905add58258e1315c9a06b187697994c2f4d2283580fc412d9c8ebf1a3cf.uptnl",
+    "bytes": 8388608,
+    "sha256": "7e4148fa3e78d6e0f6e8453c3fcaed875ee65cac6b1a186f88187c37e1ed9b10"
+  }
+]

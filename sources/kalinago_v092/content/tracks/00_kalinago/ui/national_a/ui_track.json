@@ -1,0 +1,21 @@
+{
+  "name": "Kalinago Circuit National A",
+  "description": "National A Layout",
+  "tags" : [
+    "00", 
+    "fictional",
+    "circuit"
+  ],
+  "geotags": [
+    "15°26'02.28 N",
+    "61°15'33.63 W"
+  ],
+  "length": "3831",
+  "width": "12-15",
+  "pitboxes": "36",
+  "run": "clockwise",
+  "author": "doublezero",
+  "version": "0.9.2",
+  "year": 2024,
+  "url": "https://www.youtube.com/user/AISimRacing"
+}

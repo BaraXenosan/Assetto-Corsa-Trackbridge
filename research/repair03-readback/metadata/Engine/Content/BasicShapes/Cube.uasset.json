@@ -1,0 +1,56 @@
+{
+  "package": "Engine/Content/BasicShapes/Cube.uasset",
+  "metadataOnly": false,
+  "Name": "/Engine/BasicShapes/Cube",
+  "names": [
+    "BlockAll",
+    "NavCollision_Chaos",
+    "PhysXPC",
+    "WorldGridMaterial",
+    "BodySetup",
+    "NavCollision",
+    "Cube",
+    "/Engine/BasicShapes/Cube"
+  ],
+  "exports": [
+    {
+      "index": 0,
+      "name": "BodySetup_1",
+      "type": "/Script/Engine.BodySetup",
+      "outer": "/Engine/BasicShapes/Cube.Cube",
+      "serialOffset": 1361,
+      "serialSize": 2655
+    },
+    {
+      "index": 1,
+      "name": "NavCollision_1",
+      "type": "/Script/NavigationSystem.NavCollision",
+      "outer": "/Engine/BasicShapes/Cube.Cube",
+      "serialOffset": 4016,
+      "serialSize": 431
+    },
+    {
+      "index": 2,
+      "name": "Cube",
+      "type": "/Script/Engine.StaticMesh",
+      "outer": null,
+      "serialOffset": 4447,
+      "serialSize": 8157
+    }
+  ],
+  "imports": [
+    "/Script/Engine.Default__BodySetup",
+    "/Script/Engine.BodySetup",
+    "/Script/Engine.StaticMesh",
+    "/Script/NavigationSystem.NavCollision",
+    "/Engine/EngineMaterials/WorldGridMaterial.WorldGridMaterial",
+    "/Script/NavigationSystem.Default__NavCollision",
+    null,
+    "/Script/Engine",
+    "/Script/NavigationSystem",
+    "/Script/Engine.Default__StaticMesh"
+  ],
+  "dependencies": [
+    "/Engine/EngineMaterials/WorldGridMaterial"
+  ]
+}

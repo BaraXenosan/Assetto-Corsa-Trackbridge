@@ -1,0 +1,10 @@
+# Asymmetric coordinate probe, centimetres. Expected bounds [0,0,0]..[100,200,300].
+o CoordinateProbe
+v 0 0 0
+v 100 0 0
+v 0 200 0
+v 0 0 300
+f 1 3 2
+f 1 2 4
+f 1 4 3
+f 2 3 4

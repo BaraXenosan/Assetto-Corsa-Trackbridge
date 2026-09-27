@@ -1,0 +1,22 @@
+'use strict';
+const assert = require('assert/strict');
+const { validateLiveTrack } = require('../validate-live-track');
+const fit = require('../research/kalinago-fit03.json');
+const stock = require('../research/bahrain_live04/snapshot.json');
+assert.equal(validateLiveTrack(fit, stock).passed, false, 'Stock Bahrain must never pass');
+// Synthetic positive fixture, not evidence of a game session.
+const synthetic = structuredClone(stock);
+synthetic.tracks[0].raceCount = fit.topology.raceNodeCount;
+synthetic.tracks[0].pitCount = fit.topology.pitNodeCount;
+synthetic.tracks[0].nodes = fit.topology.positionsCm.map((p, index) => ({ index, position: [p.X, p.Y, p.Z] }));
+assert.equal(validateLiveTrack(fit, synthetic).passed, true);
+assert.equal(validateLiveTrack(fit, synthetic).raceValidated, false);
+synthetic.tracks[0].nodes[5].position[0] += 1;
+assert.equal(validateLiveTrack(fit, synthetic).passed, false);
+synthetic.tracks[0].nodes[5].position[0] -= 1;
+synthetic.errors = 1;
+assert.equal(validateLiveTrack(fit, synthetic).passed, false);
+synthetic.errors = 0;
+synthetic.world = '/Game/Menu';
+assert.equal(validateLiveTrack(fit, synthetic).passed, false);
+console.log('Live identity checks: stock rejection, synthetic match, drift, read errors, wrong world passed');

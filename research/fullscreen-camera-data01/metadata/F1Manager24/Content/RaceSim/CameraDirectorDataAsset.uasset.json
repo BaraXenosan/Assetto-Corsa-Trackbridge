@@ -1,0 +1,35 @@
+{
+  "package": "F1Manager24/Content/RaceSim/CameraDirectorDataAsset.uasset",
+  "metadataOnly": false,
+  "Name": "/Game/RaceSim/CameraDirectorDataAsset",
+  "names": [
+    "ERaceSimEventType::AttemptOvertake",
+    "ERaceSimEventType::CollisionWithBarrier",
+    "ERaceSimEventType::CollisionWithCar",
+    "ERaceSimEventType::EndPitStop",
+    "ERaceSimEventType::FailedOvertake",
+    "ERaceSimEventType::NewBestLap",
+    "ERaceSimEventType::PitStopMistake",
+    "ERaceSimEventType::RaceWon",
+    "ERaceSimEventType::Spin",
+    "ERaceSimEventType::SuccesfullOvertake",
+    "CameraDirectorDataAsset",
+    "/Game/RaceSim/CameraDirectorDataAsset"
+  ],
+  "exports": [
+    {
+      "index": 0,
+      "name": "CameraDirectorDataAsset",
+      "type": "/Script/RaceSim.CameraDirectorDataAsset",
+      "outer": null,
+      "serialOffset": 1067,
+      "serialSize": 160
+    }
+  ],
+  "imports": [
+    "/Script/RaceSim.Default__CameraDirectorDataAsset",
+    "/Script/RaceSim.CameraDirectorDataAsset",
+    "/Script/RaceSim"
+  ],
+  "dependencies": []
+}

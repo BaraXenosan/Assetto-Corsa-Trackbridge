@@ -1,0 +1,29 @@
+{
+  "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_18_rolex_clock_0.uasset",
+  "metadataOnly": false,
+  "Name": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_18_rolex_clock_0",
+  "names": [
+    "M_18_rolex_clock",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_18_rolex_clock"
+  ],
+  "exports": [
+    {
+      "index": 0,
+      "name": "M_18_rolex_clock_0",
+      "type": "/Script/Engine.Material",
+      "outer": null,
+      "serialOffset": 0,
+      "serialSize": 36877
+    }
+  ],
+  "imports": [
+    "/Script/Engine.Material",
+    "/Script/Engine.Default__Material",
+    null,
+    "/Script/Engine",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_5295bf624a79d42e652aca935f8676f897ba169c3f1b1add8698dd9e3f8e2ed0.T_5295bf624a79d42e652aca935f8676f897ba169c3f1b1add8698dd9e3f8e2ed0"
+  ],
+  "dependencies": [
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_5295bf624a79d42e652aca935f8676f897ba169c3f1b1add8698dd9e3f8e2ed0"
+  ]
+}

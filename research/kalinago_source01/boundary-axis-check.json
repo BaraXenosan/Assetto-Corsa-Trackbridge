@@ -1,0 +1,34 @@
+{
+  "installable": false,
+  "method": "nearest 3D AI point, every eighth CSV record; hypothesis comparison only",
+  "sides": {
+    "side_l": {
+      "unchanged": {
+        "samples": 914,
+        "medianM": 153.668246740071,
+        "p95M": 1071.4212461371928,
+        "maxM": 1106.7870920447206
+      },
+      "negateZ": {
+        "samples": 914,
+        "medianM": 4.566033911379758,
+        "p95M": 11.649116929894483,
+        "maxM": 14.183251815606928
+      }
+    },
+    "side_r": {
+      "unchanged": {
+        "samples": 818,
+        "medianM": 149.33786727228235,
+        "p95M": 1063.7004966604927,
+        "maxM": 1093.6256329942332
+      },
+      "negateZ": {
+        "samples": 818,
+        "medianM": 5.084652269913793,
+        "p95M": 9.861064469451545,
+        "maxM": 14.90914850892636
+      }
+    }
+  }
+}

@@ -1,0 +1,11651 @@
+[
+  {
+    "name": "windows_trans",
+    "shader": "ksPerPixelReflection",
+    "blend": 1,
+    "alphaTest": 0,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.20000000298023224,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.10000000149011612,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          150,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelC",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelEXP",
+        "values": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "isAdditive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelMaxLevel",
+        "values": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "CLASS.DDS"
+      }
+    ]
+  },
+  {
+    "name": "windows_solid",
+    "shader": "ksPerPixelReflection",
+    "blend": 0,
+    "alphaTest": 0,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.20000000298023224,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.10000000149011612,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          150,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelC",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelEXP",
+        "values": [
+          0.5,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "isAdditive",
+        "values": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelMaxLevel",
+        "values": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "WINDOW.DDS"
+      }
+    ]
+  },
+  {
+    "name": "class",
+    "shader": "ksPerPixelReflection",
+    "blend": 1,
+    "alphaTest": 0,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.20000000298023224,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.10000000149011612,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          0.10000000149011612,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          150,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelC",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelEXP",
+        "values": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "isAdditive",
+        "values": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelMaxLevel",
+        "values": [
+          0.5,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "CLASS.DDS"
+      }
+    ]
+  },
+  {
+    "name": "digiflags",
+    "shader": "ksPerPixelReflection",
+    "blend": 0,
+    "alphaTest": 0,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.30000001192092896,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.25,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          0.10000000149011612,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          100,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelC",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelEXP",
+        "values": [
+          3,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "isAdditive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelMaxLevel",
+        "values": [
+          0.20000000298023224,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "DIGIFLAGS.DDS"
+      }
+    ]
+  },
+  {
+    "name": "fencec",
+    "shader": "ksPerPixelNM_UV2",
+    "blend": 0,
+    "alphaTest": 0,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.30000001192092896,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.20000000298023224,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          0.05000000074505806,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          10,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "FENCEC.DDS"
+      },
+      {
+        "name": "txNormal",
+        "slot": 1,
+        "texture": "FENCEC_NORM.DDS"
+      }
+    ]
+  },
+  {
+    "name": "saferwall",
+    "shader": "ksPerPixelNM",
+    "blend": 0,
+    "alphaTest": 0,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.30000001192092896,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.25,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          0.10000000149011612,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          50,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelC",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelEXP",
+        "values": [
+          4,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "nmObjectSpace",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "isAdditive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelMaxLevel",
+        "values": [
+          0.20000000298023224,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "boh",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "WALL_SAFER.DDS"
+      },
+      {
+        "name": "txNormal",
+        "slot": 1,
+        "texture": "WALL_SAFER_NORM.DDS"
+      }
+    ]
+  },
+  {
+    "name": "wall_bricks",
+    "shader": "ksPerPixelNM",
+    "blend": 0,
+    "alphaTest": 0,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.30000001192092896,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.25,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          0.10000000149011612,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          15,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelC",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelEXP",
+        "values": [
+          10,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "nmObjectSpace",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "isAdditive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelMaxLevel",
+        "values": [
+          0.10000000149011612,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "boh",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "WALL_BRICKS.DDS"
+      },
+      {
+        "name": "txNormal",
+        "slot": 1,
+        "texture": "WALL_BRICKS_NORM.DDS"
+      }
+    ]
+  },
+  {
+    "name": "wallstone",
+    "shader": "ksPerPixelNM",
+    "blend": 0,
+    "alphaTest": 0,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.20000000298023224,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.20000000298023224,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          0.05000000074505806,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          10,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelC",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelEXP",
+        "values": [
+          8,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "nmObjectSpace",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "isAdditive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelMaxLevel",
+        "values": [
+          0.10000000149011612,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "boh",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "WALLSTONE.DDS"
+      },
+      {
+        "name": "txNormal",
+        "slot": 1,
+        "texture": "WALLSTONE_NORM.DDS"
+      }
+    ]
+  },
+  {
+    "name": "xcolors",
+    "shader": "ksPerPixelNM",
+    "blend": 0,
+    "alphaTest": 0,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.30000001192092896,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.25,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          0.10000000149011612,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          30,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelC",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelEXP",
+        "values": [
+          5,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "nmObjectSpace",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "isAdditive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelMaxLevel",
+        "values": [
+          0.20000000298023224,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "boh",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "XCOLORS.DDS"
+      },
+      {
+        "name": "txNormal",
+        "slot": 1,
+        "texture": "NORMAL.DDS"
+      }
+    ]
+  },
+  {
+    "name": "gar_doora",
+    "shader": "ksPerPixelNM",
+    "blend": 0,
+    "alphaTest": 0,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.30000001192092896,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.25,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          0.5,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          30,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelC",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelEXP",
+        "values": [
+          3,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "nmObjectSpace",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "isAdditive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelMaxLevel",
+        "values": [
+          0.20000000298023224,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "boh",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "GAR_DOORA.DDS"
+      },
+      {
+        "name": "txNormal",
+        "slot": 1,
+        "texture": "GAR_DOORA_NORM.DDS"
+      }
+    ]
+  },
+  {
+    "name": "gar_wall",
+    "shader": "ksPerPixelNM",
+    "blend": 0,
+    "alphaTest": 0,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.3499999940395355,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.30000001192092896,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          0.05000000074505806,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          30,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelC",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelEXP",
+        "values": [
+          8,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "nmObjectSpace",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "isAdditive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelMaxLevel",
+        "values": [
+          0.20000000298023224,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "boh",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "GAR_WALL.DDS"
+      },
+      {
+        "name": "txNormal",
+        "slot": 1,
+        "texture": "GAR_WALL_NORM.DDS"
+      }
+    ]
+  },
+  {
+    "name": "metalpole",
+    "shader": "ksPerPixelNM",
+    "blend": 0,
+    "alphaTest": 0,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.30000001192092896,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.25,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          0.10000000149011612,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          30,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelC",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelEXP",
+        "values": [
+          4,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "nmObjectSpace",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "isAdditive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelMaxLevel",
+        "values": [
+          0.05000000074505806,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "boh",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "METALPOLE.DDS"
+      },
+      {
+        "name": "txNormal",
+        "slot": 1,
+        "texture": "NORMAL.DDS"
+      }
+    ]
+  },
+  {
+    "name": "tecprowall",
+    "shader": "ksPerPixelNM",
+    "blend": 0,
+    "alphaTest": 0,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.30000001192092896,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.25,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          0.10000000149011612,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          20,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelC",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelEXP",
+        "values": [
+          7,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "nmObjectSpace",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "isAdditive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelMaxLevel",
+        "values": [
+          0.10000000149011612,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "boh",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "WALL_TECPRO.DDS"
+      },
+      {
+        "name": "txNormal",
+        "slot": 1,
+        "texture": "WALL_TECPRO_NORM.DDS"
+      }
+    ]
+  },
+  {
+    "name": "tirewall",
+    "shader": "ksPerPixelNM",
+    "blend": 0,
+    "alphaTest": 0,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.30000001192092896,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.25,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          0.10000000149011612,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          20,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelC",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelEXP",
+        "values": [
+          8,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "nmObjectSpace",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "isAdditive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelMaxLevel",
+        "values": [
+          0.10000000149011612,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "boh",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "WALL_TIRES.DDS"
+      },
+      {
+        "name": "txNormal",
+        "slot": 1,
+        "texture": "WALL_TIRES_NORM.DDS"
+      }
+    ]
+  },
+  {
+    "name": "xgrey",
+    "shader": "ksPerPixelNM",
+    "blend": 0,
+    "alphaTest": 0,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.30000001192092896,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.25,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          0.20000000298023224,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          30,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelC",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelEXP",
+        "values": [
+          4,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "nmObjectSpace",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "isAdditive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelMaxLevel",
+        "values": [
+          0.5,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "boh",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "XGREY.DDS"
+      },
+      {
+        "name": "txNormal",
+        "slot": 1,
+        "texture": "NORMAL.DDS"
+      }
+    ]
+  },
+  {
+    "name": "grail",
+    "shader": "ksPerPixelNM",
+    "blend": 0,
+    "alphaTest": 0,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.30000001192092896,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.25,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          0.20000000298023224,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          50,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelC",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelEXP",
+        "values": [
+          6,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "nmObjectSpace",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "isAdditive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelMaxLevel",
+        "values": [
+          0.10000000149011612,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "boh",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "GRAIL.DDS"
+      },
+      {
+        "name": "txNormal",
+        "slot": 1,
+        "texture": "GRAIL_NORM.DDS"
+      }
+    ]
+  },
+  {
+    "name": "walla",
+    "shader": "ksPerPixelNM",
+    "blend": 0,
+    "alphaTest": 0,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.30000001192092896,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.25,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          0.05000000074505806,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          20,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelC",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelEXP",
+        "values": [
+          8,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "nmObjectSpace",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "isAdditive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelMaxLevel",
+        "values": [
+          0.10000000149011612,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "boh",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "WALLA.DDS"
+      },
+      {
+        "name": "txNormal",
+        "slot": 1,
+        "texture": "WALLA_NORM.DDS"
+      }
+    ]
+  },
+  {
+    "name": "curbs",
+    "shader": "ksPerPixelNM",
+    "blend": 0,
+    "alphaTest": 0,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.30000001192092896,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.25,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          0.05000000074505806,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          20,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelC",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelEXP",
+        "values": [
+          9,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "nmObjectSpace",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "isAdditive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelMaxLevel",
+        "values": [
+          0.05000000074505806,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "boh",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "CURBS.DDS"
+      },
+      {
+        "name": "txNormal",
+        "slot": 1,
+        "texture": "CURBS_NORM.DDS"
+      }
+    ]
+  },
+  {
+    "name": "astro",
+    "shader": "ksPerPixelNM",
+    "blend": 0,
+    "alphaTest": 0,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.30000001192092896,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.20000000298023224,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          0.05000000074505806,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          15,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelC",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelEXP",
+        "values": [
+          15,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "nmObjectSpace",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "isAdditive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelMaxLevel",
+        "values": [
+          0.05000000074505806,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "boh",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "ASTRO.DDS"
+      },
+      {
+        "name": "txNormal",
+        "slot": 1,
+        "texture": "ASTRO_NORM.DDS"
+      }
+    ]
+  },
+  {
+    "name": "digiflagf",
+    "shader": "ksPerPixelAlpha",
+    "blend": 0,
+    "alphaTest": 0,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.30000001192092896,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.20000000298023224,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          10,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "alpha",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "DIGIFLAG.DDS"
+      }
+    ]
+  },
+  {
+    "name": "saucer_light",
+    "shader": "ksPerPixel",
+    "blend": 0,
+    "alphaTest": 0,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.5879999995231628,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.5879999995231628,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          0.8999999761581421,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          10,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "XCOLORS.DDS"
+      }
+    ]
+  },
+  {
+    "name": "saucer",
+    "shader": "ksPerPixel",
+    "blend": 0,
+    "alphaTest": 0,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.5879999995231628,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.5879999995231628,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          0.8999999761581421,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          10,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "XCOLORS.DDS"
+      }
+    ]
+  },
+  {
+    "name": "xpink",
+    "shader": "ksPerPixel",
+    "blend": 0,
+    "alphaTest": 0,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.5879999995231628,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.5879999995231628,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          0.8999999761581421,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          10,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "XPINK.dds"
+      }
+    ]
+  },
+  {
+    "name": "winframe",
+    "shader": "ksPerPixel",
+    "blend": 0,
+    "alphaTest": 0,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.30000001192092896,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.25,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          0.10000000149011612,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          15,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "WIN_FRAME.DDS"
+      }
+    ]
+  },
+  {
+    "name": "xblack",
+    "shader": "ksPerPixel",
+    "blend": 0,
+    "alphaTest": 0,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.30000001192092896,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.25,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          0.05000000074505806,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          30,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "XBLACK.DDS"
+      }
+    ]
+  },
+  {
+    "name": "ceiling",
+    "shader": "ksPerPixel",
+    "blend": 0,
+    "alphaTest": 0,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.4000000059604645,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.25,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          0.10000000149011612,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          10,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "CEILING.DDS"
+      }
+    ]
+  },
+  {
+    "name": "gar_doorb",
+    "shader": "ksPerPixel",
+    "blend": 0,
+    "alphaTest": 0,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.30000001192092896,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.20000000298023224,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          0.10000000149011612,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          20,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "GAR_DOORB.DDS"
+      }
+    ]
+  },
+  {
+    "name": "gar_inside",
+    "shader": "ksPerPixel",
+    "blend": 0,
+    "alphaTest": 0,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.25,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.20000000298023224,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          0.05000000074505806,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          10,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "xBEIGE.DDS"
+      }
+    ]
+  },
+  {
+    "name": "gar_conc",
+    "shader": "ksPerPixel",
+    "blend": 0,
+    "alphaTest": 0,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.30000001192092896,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.25,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          0.10000000149011612,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          10,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "GAR_CONC.DDS"
+      }
+    ]
+  },
+  {
+    "name": "digiflagc",
+    "shader": "ksPerPixel",
+    "blend": 0,
+    "alphaTest": 0,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.30000001192092896,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.20000000298023224,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          10,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "DIGIFLAG.DDS"
+      }
+    ]
+  },
+  {
+    "name": "digiflagb",
+    "shader": "ksPerPixel",
+    "blend": 0,
+    "alphaTest": 0,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.30000001192092896,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.20000000298023224,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          10,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "DIGIFLAG.DDS"
+      }
+    ]
+  },
+  {
+    "name": "digiflaga",
+    "shader": "ksPerPixel",
+    "blend": 0,
+    "alphaTest": 0,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.30000001192092896,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.20000000298023224,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          10,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "DIGIFLAG.DDS"
+      }
+    ]
+  },
+  {
+    "name": "brkmarkers",
+    "shader": "ksPerPixel",
+    "blend": 0,
+    "alphaTest": 0,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.3499999940395355,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.25,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          0.05000000074505806,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          20,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "BRKMARKERS.DDS"
+      }
+    ]
+  },
+  {
+    "name": "digiflagd",
+    "shader": "ksPerPixel",
+    "blend": 0,
+    "alphaTest": 0,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.30000001192092896,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.20000000298023224,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          10,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "DIGIFLAG.DDS"
+      }
+    ]
+  },
+  {
+    "name": "startlight",
+    "shader": "ksPerPixel",
+    "blend": 0,
+    "alphaTest": 0,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.30000001192092896,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.25,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          0.05000000074505806,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          10,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "STARTLIGHT.DDS"
+      }
+    ]
+  },
+  {
+    "name": "null",
+    "shader": "ksPerPixel",
+    "blend": 0,
+    "alphaTest": 0,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.30000001192092896,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.20000000298023224,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          0.15000000596046448,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          20,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "NULL.dds"
+      }
+    ]
+  },
+  {
+    "name": "mstation",
+    "shader": "ksPerPixel",
+    "blend": 0,
+    "alphaTest": 0,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.30000001192092896,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.25,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          0.10000000149011612,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          20,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "MSTATION.DDS"
+      }
+    ]
+  },
+  {
+    "name": "wallb",
+    "shader": "ksPerPixel",
+    "blend": 0,
+    "alphaTest": 0,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.30000001192092896,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.25,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          0.05000000074505806,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          30,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "WALLB.DDS"
+      }
+    ]
+  },
+  {
+    "name": "tirewalltop",
+    "shader": "ksPerPixel",
+    "blend": 0,
+    "alphaTest": 0,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.30000001192092896,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.25,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          0.10000000149011612,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          20,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "WALL_TIRESTOP.DDS"
+      }
+    ]
+  },
+  {
+    "name": "gstanda",
+    "shader": "ksPerPixel",
+    "blend": 0,
+    "alphaTest": 0,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.30000001192092896,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.25,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          0.10000000149011612,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          20,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "GSTANDA.DDS"
+      }
+    ]
+  },
+  {
+    "name": "wallc",
+    "shader": "ksPerPixel",
+    "blend": 0,
+    "alphaTest": 0,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.30000001192092896,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.20000000298023224,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          0.10000000149011612,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          10,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "WALLC.DDS"
+      }
+    ]
+  },
+  {
+    "name": "dirtwall",
+    "shader": "ksMultilayer_fresnel_nm",
+    "blend": 0,
+    "alphaTest": 0,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.30000001192092896,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.25,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          10,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "multR",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "multG",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "multB",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "multA",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "magicMult",
+        "values": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelC",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelEXP",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelMaxLevel",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "tarmacSpecularMultiplier",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "detailNMMult",
+        "values": [
+          0,
+          2,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "DIRTWALL.DDS"
+      },
+      {
+        "name": "txMask",
+        "slot": 1,
+        "texture": "DIRTWALL_MASK.DDS"
+      },
+      {
+        "name": "txDetailR",
+        "slot": 2,
+        "texture": "GRASS_MULT.dds"
+      },
+      {
+        "name": "txDetailG",
+        "slot": 3,
+        "texture": "CHECKERBOARD.DDS"
+      },
+      {
+        "name": "txDetailB",
+        "slot": 4,
+        "texture": "DIRT_MULT.DDS"
+      },
+      {
+        "name": "txDetailA",
+        "slot": 5,
+        "texture": "CHECKERBOARD.DDS"
+      },
+      {
+        "name": "txDetailNM",
+        "slot": 21,
+        "texture": "GRASB_NORM.DDS"
+      }
+    ]
+  },
+  {
+    "name": "dirt",
+    "shader": "ksMultilayer_fresnel_nm",
+    "blend": 0,
+    "alphaTest": 0,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.30000001192092896,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.25,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          20,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "multR",
+        "values": [
+          0.699999988079071,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "multG",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "multB",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "multA",
+        "values": [
+          0,
+          0.699999988079071,
+          0.699999988079071,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "magicMult",
+        "values": [
+          0.8999999761581421,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelC",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelEXP",
+        "values": [
+          9,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelMaxLevel",
+        "values": [
+          0.10000000149011612,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "tarmacSpecularMultiplier",
+        "values": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "detailNMMult",
+        "values": [
+          0,
+          2,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "DIRT.DDS"
+      },
+      {
+        "name": "txMask",
+        "slot": 1,
+        "texture": "MASK.DDS"
+      },
+      {
+        "name": "txDetailR",
+        "slot": 2,
+        "texture": "DIRT_MULT.DDS"
+      },
+      {
+        "name": "txDetailG",
+        "slot": 3,
+        "texture": "CHECKERBOARD.DDS"
+      },
+      {
+        "name": "txDetailB",
+        "slot": 4,
+        "texture": "CHECKERBOARD.DDS"
+      },
+      {
+        "name": "txDetailA",
+        "slot": 5,
+        "texture": "DIRT_MULT.DDS"
+      },
+      {
+        "name": "txDetailNM",
+        "slot": 21,
+        "texture": "GRASB_NORM.DDS"
+      }
+    ]
+  },
+  {
+    "name": "stripes",
+    "shader": "ksMultilayer_fresnel_nm",
+    "blend": 0,
+    "alphaTest": 0,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.30000001192092896,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.25,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          25,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "multR",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "multG",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "multB",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "multA",
+        "values": [
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "magicMult",
+        "values": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelC",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelEXP",
+        "values": [
+          10,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelMaxLevel",
+        "values": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "tarmacSpecularMultiplier",
+        "values": [
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "detailNMMult",
+        "values": [
+          0,
+          8,
+          8,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "STRIPES.DDS"
+      },
+      {
+        "name": "txMask",
+        "slot": 1,
+        "texture": "MASK.DDS"
+      },
+      {
+        "name": "txDetailR",
+        "slot": 2,
+        "texture": "CHECKERBOARD.DDS"
+      },
+      {
+        "name": "txDetailG",
+        "slot": 3,
+        "texture": "CHECKERBOARD.DDS"
+      },
+      {
+        "name": "txDetailB",
+        "slot": 4,
+        "texture": "CHECKERBOARD.DDS"
+      },
+      {
+        "name": "txDetailA",
+        "slot": 5,
+        "texture": "ROAD_MULT.DDS"
+      },
+      {
+        "name": "txDetailNM",
+        "slot": 21,
+        "texture": "ROAD_NORM.DDS"
+      }
+    ]
+  },
+  {
+    "name": "drain",
+    "shader": "ksMultilayer_fresnel_nm",
+    "blend": 0,
+    "alphaTest": 0,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.30000001192092896,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.25,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          30,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "multR",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "multG",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "multB",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "multA",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "magicMult",
+        "values": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelC",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelEXP",
+        "values": [
+          7,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelMaxLevel",
+        "values": [
+          0.10000000149011612,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "tarmacSpecularMultiplier",
+        "values": [
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "detailNMMult",
+        "values": [
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "DRAIN.DDS"
+      },
+      {
+        "name": "txMask",
+        "slot": 1,
+        "texture": "MASK.DDS"
+      },
+      {
+        "name": "txDetailR",
+        "slot": 2,
+        "texture": "CHECKERBOARD.DDS"
+      },
+      {
+        "name": "txDetailG",
+        "slot": 3,
+        "texture": "CHECKERBOARD.DDS"
+      },
+      {
+        "name": "txDetailB",
+        "slot": 4,
+        "texture": "CHECKERBOARD.DDS"
+      },
+      {
+        "name": "txDetailA",
+        "slot": 5,
+        "texture": "CHECKERBOARD.DDS"
+      },
+      {
+        "name": "txDetailNM",
+        "slot": 21,
+        "texture": "DRAIN_NORM.DDS"
+      }
+    ]
+  },
+  {
+    "name": "tarmac",
+    "shader": "ksMultilayer_fresnel_nm",
+    "blend": 0,
+    "alphaTest": 0,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.30000001192092896,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.25,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          25,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "multR",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "multG",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "multB",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "multA",
+        "values": [
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "magicMult",
+        "values": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelC",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelEXP",
+        "values": [
+          9,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelMaxLevel",
+        "values": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "tarmacSpecularMultiplier",
+        "values": [
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "detailNMMult",
+        "values": [
+          0,
+          8,
+          8,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "TARMAC.DDS"
+      },
+      {
+        "name": "txMask",
+        "slot": 1,
+        "texture": "MASK.DDS"
+      },
+      {
+        "name": "txDetailR",
+        "slot": 2,
+        "texture": "CHECKERBOARD.DDS"
+      },
+      {
+        "name": "txDetailG",
+        "slot": 3,
+        "texture": "CHECKERBOARD.DDS"
+      },
+      {
+        "name": "txDetailB",
+        "slot": 4,
+        "texture": "CHECKERBOARD.DDS"
+      },
+      {
+        "name": "txDetailA",
+        "slot": 5,
+        "texture": "ROAD_MULT.DDS"
+      },
+      {
+        "name": "txDetailNM",
+        "slot": 21,
+        "texture": "ROAD_NORM.DDS"
+      }
+    ]
+  },
+  {
+    "name": "roadold",
+    "shader": "ksMultilayer_fresnel_nm",
+    "blend": 0,
+    "alphaTest": 0,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.30000001192092896,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.25,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          30,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "multR",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "multG",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "multB",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "multA",
+        "values": [
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "magicMult",
+        "values": [
+          0.699999988079071,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelC",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelEXP",
+        "values": [
+          10,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelMaxLevel",
+        "values": [
+          0.30000001192092896,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "tarmacSpecularMultiplier",
+        "values": [
+          3,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "detailNMMult",
+        "values": [
+          0,
+          16,
+          256,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "ROADOLD.DDS"
+      },
+      {
+        "name": "txMask",
+        "slot": 1,
+        "texture": "MASK.DDS"
+      },
+      {
+        "name": "txDetailR",
+        "slot": 2,
+        "texture": "CHECKERBOARD.DDS"
+      },
+      {
+        "name": "txDetailG",
+        "slot": 3,
+        "texture": "CHECKERBOARD.DDS"
+      },
+      {
+        "name": "txDetailB",
+        "slot": 4,
+        "texture": "CHECKERBOARD.DDS"
+      },
+      {
+        "name": "txDetailA",
+        "slot": 5,
+        "texture": "ROAD_MULTB.dds"
+      },
+      {
+        "name": "txDetailNM",
+        "slot": 21,
+        "texture": "ROAD_NORM.DDS"
+      }
+    ]
+  },
+  {
+    "name": "roadh",
+    "shader": "ksMultilayer_fresnel_nm",
+    "blend": 0,
+    "alphaTest": 0,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.30000001192092896,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.25,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          20,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "multR",
+        "values": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "multG",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "multB",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "multA",
+        "values": [
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "magicMult",
+        "values": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelC",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelEXP",
+        "values": [
+          10,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelMaxLevel",
+        "values": [
+          0.20000000298023224,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "tarmacSpecularMultiplier",
+        "values": [
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "detailNMMult",
+        "values": [
+          0,
+          8,
+          128,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "ROADH.DDS"
+      },
+      {
+        "name": "txMask",
+        "slot": 1,
+        "texture": "MASK.DDS"
+      },
+      {
+        "name": "txDetailR",
+        "slot": 2,
+        "texture": "ROAD_MULTB.dds"
+      },
+      {
+        "name": "txDetailG",
+        "slot": 3,
+        "texture": "CHECKERBOARD.DDS"
+      },
+      {
+        "name": "txDetailB",
+        "slot": 4,
+        "texture": "CHECKERBOARD.DDS"
+      },
+      {
+        "name": "txDetailA",
+        "slot": 5,
+        "texture": "ROAD_MULTB.dds"
+      },
+      {
+        "name": "txDetailNM",
+        "slot": 21,
+        "texture": "ROAD_NORM.DDS"
+      }
+    ]
+  },
+  {
+    "name": "grasb",
+    "shader": "ksMultilayer_fresnel_nm",
+    "blend": 0,
+    "alphaTest": 0,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.30000001192092896,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.25,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          10,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "multR",
+        "values": [
+          0.10000000149011612,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "multG",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "multB",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "multA",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "magicMult",
+        "values": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelC",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelEXP",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelMaxLevel",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "tarmacSpecularMultiplier",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "detailNMMult",
+        "values": [
+          0,
+          2,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "GRASB.DDS"
+      },
+      {
+        "name": "txMask",
+        "slot": 1,
+        "texture": "MASK.DDS"
+      },
+      {
+        "name": "txDetailR",
+        "slot": 2,
+        "texture": "GRASS_MULT.DDS"
+      },
+      {
+        "name": "txDetailG",
+        "slot": 3,
+        "texture": "CHECKERBOARD.DDS"
+      },
+      {
+        "name": "txDetailB",
+        "slot": 4,
+        "texture": "CHECKERBOARD.DDS"
+      },
+      {
+        "name": "txDetailA",
+        "slot": 5,
+        "texture": "CHECKERBOARD.DDS"
+      },
+      {
+        "name": "txDetailNM",
+        "slot": 21,
+        "texture": "GRASB_NORM.DDS"
+      }
+    ]
+  },
+  {
+    "name": "paint",
+    "shader": "ksMultilayer_fresnel_nm",
+    "blend": 0,
+    "alphaTest": 0,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.30000001192092896,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.25,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          20,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "multR",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "multG",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "multB",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "multA",
+        "values": [
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "magicMult",
+        "values": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelC",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelEXP",
+        "values": [
+          10,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelMaxLevel",
+        "values": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "tarmacSpecularMultiplier",
+        "values": [
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "detailNMMult",
+        "values": [
+          0,
+          8,
+          8,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "PAINT.DDS"
+      },
+      {
+        "name": "txMask",
+        "slot": 1,
+        "texture": "MASK.DDS"
+      },
+      {
+        "name": "txDetailR",
+        "slot": 2,
+        "texture": "CHECKERBOARD.DDS"
+      },
+      {
+        "name": "txDetailG",
+        "slot": 3,
+        "texture": "CHECKERBOARD.DDS"
+      },
+      {
+        "name": "txDetailB",
+        "slot": 4,
+        "texture": "CHECKERBOARD.DDS"
+      },
+      {
+        "name": "txDetailA",
+        "slot": 5,
+        "texture": "ROAD_MULT.DDS"
+      },
+      {
+        "name": "txDetailNM",
+        "slot": 21,
+        "texture": "ROAD_NORM.DDS"
+      }
+    ]
+  },
+  {
+    "name": "conc",
+    "shader": "ksMultilayer_fresnel_nm",
+    "blend": 0,
+    "alphaTest": 0,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.30000001192092896,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.20000000298023224,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          20,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "multR",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "multG",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "multB",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "multA",
+        "values": [
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "magicMult",
+        "values": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelC",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelEXP",
+        "values": [
+          10,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelMaxLevel",
+        "values": [
+          0.15000000596046448,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "tarmacSpecularMultiplier",
+        "values": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "detailNMMult",
+        "values": [
+          0,
+          8,
+          8,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "CONCRETE.DDS"
+      },
+      {
+        "name": "txMask",
+        "slot": 1,
+        "texture": "MASK.DDS"
+      },
+      {
+        "name": "txDetailR",
+        "slot": 2,
+        "texture": "CHECKERBOARD.DDS"
+      },
+      {
+        "name": "txDetailG",
+        "slot": 3,
+        "texture": "CHECKERBOARD.DDS"
+      },
+      {
+        "name": "txDetailB",
+        "slot": 4,
+        "texture": "CHECKERBOARD.DDS"
+      },
+      {
+        "name": "txDetailA",
+        "slot": 5,
+        "texture": "CONCRETE_MULT.dds"
+      },
+      {
+        "name": "txDetailNM",
+        "slot": 21,
+        "texture": "ROAD_NORM.DDS"
+      }
+    ]
+  },
+  {
+    "name": "roadpit",
+    "shader": "ksMultilayer_fresnel_nm",
+    "blend": 0,
+    "alphaTest": 0,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.30000001192092896,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.25,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          20,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "multR",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "multG",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "multB",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "multA",
+        "values": [
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "magicMult",
+        "values": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelC",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelEXP",
+        "values": [
+          20,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelMaxLevel",
+        "values": [
+          0.20000000298023224,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "tarmacSpecularMultiplier",
+        "values": [
+          0.5,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "detailNMMult",
+        "values": [
+          0,
+          8,
+          16,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "ROADP.DDS"
+      },
+      {
+        "name": "txMask",
+        "slot": 1,
+        "texture": "MASK.DDS"
+      },
+      {
+        "name": "txDetailR",
+        "slot": 2,
+        "texture": "CHECKERBOARD.DDS"
+      },
+      {
+        "name": "txDetailG",
+        "slot": 3,
+        "texture": "CHECKERBOARD.DDS"
+      },
+      {
+        "name": "txDetailB",
+        "slot": 4,
+        "texture": "CHECKERBOARD.DDS"
+      },
+      {
+        "name": "txDetailA",
+        "slot": 5,
+        "texture": "ROAD_MULT.DDS"
+      },
+      {
+        "name": "txDetailNM",
+        "slot": 21,
+        "texture": "ROAD_NORM.DDS"
+      }
+    ]
+  },
+  {
+    "name": "roadnew",
+    "shader": "ksMultilayer_fresnel_nm",
+    "blend": 0,
+    "alphaTest": 0,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.30000001192092896,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.20000000298023224,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          20,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "multR",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "multG",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "multB",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "multA",
+        "values": [
+          0,
+          0.8999999761581421,
+          0.8999999761581421,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "magicMult",
+        "values": [
+          0.800000011920929,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelC",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelEXP",
+        "values": [
+          10,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelMaxLevel",
+        "values": [
+          0.4000000059604645,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "tarmacSpecularMultiplier",
+        "values": [
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "detailNMMult",
+        "values": [
+          0,
+          16,
+          128,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "ROADN.DDS"
+      },
+      {
+        "name": "txMask",
+        "slot": 1,
+        "texture": "MASK.DDS"
+      },
+      {
+        "name": "txDetailR",
+        "slot": 2,
+        "texture": "CHECKERBOARD.DDS"
+      },
+      {
+        "name": "txDetailG",
+        "slot": 3,
+        "texture": "CHECKERBOARD.DDS"
+      },
+      {
+        "name": "txDetailB",
+        "slot": 4,
+        "texture": "CHECKERBOARD.DDS"
+      },
+      {
+        "name": "txDetailA",
+        "slot": 5,
+        "texture": "ROAD_MULTB.dds"
+      },
+      {
+        "name": "txDetailNM",
+        "slot": 21,
+        "texture": "ROAD_NORM.DDS"
+      }
+    ]
+  },
+  {
+    "name": "grasa",
+    "shader": "ksMultilayer_fresnel_nm",
+    "blend": 0,
+    "alphaTest": 0,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.30000001192092896,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.25,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          10,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "multR",
+        "values": [
+          0.20000000298023224,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "multG",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "multB",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "multA",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "magicMult",
+        "values": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelC",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelEXP",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelMaxLevel",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "tarmacSpecularMultiplier",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "detailNMMult",
+        "values": [
+          0,
+          2,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "GRASA.DDS"
+      },
+      {
+        "name": "txMask",
+        "slot": 1,
+        "texture": "MASK.DDS"
+      },
+      {
+        "name": "txDetailR",
+        "slot": 2,
+        "texture": "GRASS_MULT.DDS"
+      },
+      {
+        "name": "txDetailG",
+        "slot": 3,
+        "texture": "CHECKERBOARD.DDS"
+      },
+      {
+        "name": "txDetailB",
+        "slot": 4,
+        "texture": "CHECKERBOARD.DDS"
+      },
+      {
+        "name": "txDetailA",
+        "slot": 5,
+        "texture": "CHECKERBOARD.DDS"
+      },
+      {
+        "name": "txDetailNM",
+        "slot": 21,
+        "texture": "GRASB_NORM.DDS"
+      }
+    ]
+  },
+  {
+    "name": "roada",
+    "shader": "ksMultilayer_fresnel_nm",
+    "blend": 0,
+    "alphaTest": 0,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.30000001192092896,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.25,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          20,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "multR",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "multG",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "multB",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "multA",
+        "values": [
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "magicMult",
+        "values": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelC",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelEXP",
+        "values": [
+          9,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelMaxLevel",
+        "values": [
+          0.5,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "tarmacSpecularMultiplier",
+        "values": [
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "detailNMMult",
+        "values": [
+          0,
+          16,
+          128,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "ROADA.DDS"
+      },
+      {
+        "name": "txMask",
+        "slot": 1,
+        "texture": "MASK.DDS"
+      },
+      {
+        "name": "txDetailR",
+        "slot": 2,
+        "texture": "CHECKERBOARD.DDS"
+      },
+      {
+        "name": "txDetailG",
+        "slot": 3,
+        "texture": "CHECKERBOARD.DDS"
+      },
+      {
+        "name": "txDetailB",
+        "slot": 4,
+        "texture": "CHECKERBOARD.DDS"
+      },
+      {
+        "name": "txDetailA",
+        "slot": 5,
+        "texture": "ROAD_MULT.DDS"
+      },
+      {
+        "name": "txDetailNM",
+        "slot": 21,
+        "texture": "ROAD_NORM.DDS"
+      }
+    ]
+  },
+  {
+    "name": "gravel",
+    "shader": "ksMultilayer",
+    "blend": 0,
+    "alphaTest": 0,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.30000001192092896,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.25,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          0.05000000074505806,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          20,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "multR",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "multG",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "multB",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "multA",
+        "values": [
+          0,
+          0.699999988079071,
+          0.699999988079071,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "magicMult",
+        "values": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "boh",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "GRAVEL.DDS"
+      },
+      {
+        "name": "txMask",
+        "slot": 1,
+        "texture": "MASK.DDS"
+      },
+      {
+        "name": "txDetailR",
+        "slot": 2,
+        "texture": "CHECKERBOARD.DDS"
+      },
+      {
+        "name": "txDetailG",
+        "slot": 3,
+        "texture": "CHECKERBOARD.DDS"
+      },
+      {
+        "name": "txDetailB",
+        "slot": 4,
+        "texture": "CHECKERBOARD.DDS"
+      },
+      {
+        "name": "txDetailA",
+        "slot": 5,
+        "texture": "GRAVEL_MULT.dds"
+      }
+    ]
+  },
+  {
+    "name": "railing",
+    "shader": "ksPerPixelAT_NM",
+    "blend": 0,
+    "alphaTest": 1,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.30000001192092896,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.25,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          0.20000000298023224,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          40,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "RAILING.DDS"
+      },
+      {
+        "name": "txNormal",
+        "slot": 1,
+        "texture": "RAILING_NORM.DDS"
+      }
+    ]
+  },
+  {
+    "name": "gstand_seats",
+    "shader": "ksPerPixelAT_NM",
+    "blend": 0,
+    "alphaTest": 1,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.25,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.15000000596046448,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          0.05000000074505806,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          50,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "GSTAND_SEATS.DDS"
+      },
+      {
+        "name": "txNormal",
+        "slot": 1,
+        "texture": "GSTAND_SEATS_NORM.DDS"
+      }
+    ]
+  },
+  {
+    "name": "alonso",
+    "shader": "ksPerPixelAT",
+    "blend": 0,
+    "alphaTest": 1,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.30000001192092896,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.20000000298023224,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          0.05000000074505806,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          10,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0.5,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "alonso.dds"
+      }
+    ]
+  },
+  {
+    "name": "edge_road",
+    "shader": "ksPerPixelAT",
+    "blend": 0,
+    "alphaTest": 1,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.25,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.25,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          0.05000000074505806,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          25,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "EDGE_ROAD.DDS"
+      }
+    ]
+  },
+  {
+    "name": "roadlines_a",
+    "shader": "ksPerPixelAT",
+    "blend": 0,
+    "alphaTest": 1,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.25,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.25,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          0.10000000149011612,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          25,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "ROADLINES_A.DDS"
+      }
+    ]
+  },
+  {
+    "name": "tree_hedge",
+    "shader": "ksPerPixelAT",
+    "blend": 0,
+    "alphaTest": 1,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.30000001192092896,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.20000000298023224,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          10,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "TREE_HEDGE.DDS"
+      }
+    ]
+  },
+  {
+    "name": "fenceb",
+    "shader": "ksPerPixelAT",
+    "blend": 0,
+    "alphaTest": 1,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.30000001192092896,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.20000000298023224,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          0.10000000149011612,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          30,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0.4000000059604645,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "FENCEB.dds"
+      }
+    ]
+  },
+  {
+    "name": "fencepit",
+    "shader": "ksPerPixelAT",
+    "blend": 0,
+    "alphaTest": 1,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.30000001192092896,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.20000000298023224,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          0.10000000149011612,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          10,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0.30000001192092896,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "FENCEPIT.DDS"
+      }
+    ]
+  },
+  {
+    "name": "metalgirder",
+    "shader": "ksPerPixelAT",
+    "blend": 0,
+    "alphaTest": 1,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.30000001192092896,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.20000000298023224,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          0.20000000298023224,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          10,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "METALGIRDER.DDS"
+      }
+    ]
+  },
+  {
+    "name": "gstandroof",
+    "shader": "ksPerPixelAT",
+    "blend": 1,
+    "alphaTest": 0,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.30000001192092896,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.25,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          10,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "GSTANDROOF.DDS"
+      }
+    ]
+  },
+  {
+    "name": "fencea",
+    "shader": "ksPerPixelAT",
+    "blend": 0,
+    "alphaTest": 1,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.30000001192092896,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.25,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          0.10000000149011612,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          30,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0.25,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "FENCEA.dds"
+      }
+    ]
+  },
+  {
+    "name": "edge_dirt",
+    "shader": "ksGrass",
+    "blend": 0,
+    "alphaTest": 1,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.30000001192092896,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.25,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          10,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "scale",
+        "values": [
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "gain",
+        "values": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "boh",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "EDGE_DIRT.DDS"
+      },
+      {
+        "name": "txVariation",
+        "slot": 1,
+        "texture": "DIRT_MULT.DDS"
+      }
+    ]
+  },
+  {
+    "name": "edge_gravel",
+    "shader": "ksGrass",
+    "blend": 0,
+    "alphaTest": 1,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.30000001192092896,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.25,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          0.05000000074505806,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          20,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "scale",
+        "values": [
+          0,
+          0.699999988079071,
+          0.699999988079071,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "gain",
+        "values": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "boh",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "EDGE_GRAVEL.DDS"
+      },
+      {
+        "name": "txVariation",
+        "slot": 1,
+        "texture": "GRAVEL_MULT.dds"
+      }
+    ]
+  }
+]

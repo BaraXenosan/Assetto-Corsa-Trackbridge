@@ -1,0 +1,5 @@
+# Approximate diffuse only. AC shader settings in materials.json.
+newmtl material_0
+Kd 1 1 1
+map_Kd textures/0_TREESC.DDS
+

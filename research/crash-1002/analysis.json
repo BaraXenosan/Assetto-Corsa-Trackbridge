@@ -1,0 +1,16 @@
+{
+  "installable": false,
+  "faultRva": "0x225c536",
+  "instruction": "cmp byte ptr [rcx + 0xb90], 0",
+  "registerRCX": "0xeeffffff08",
+  "fieldFromLocalSDK": "RaceSimCameraComponent.DoesCameraHaveCooldownAfterUse",
+  "invalidReadAddress": "0xef00000a98",
+  "confirmedMappingBug": {
+    "oldLapLengthM": 384.1835174560547,
+    "correctLapLengthM": 5345.803527832031,
+    "reason": "runtime chainage starts at finish node 106; maximum segment end is total, not array tail"
+  },
+  "candidate": "1003",
+  "gameValidationPending": true,
+  "rootCauseProven": false
+}

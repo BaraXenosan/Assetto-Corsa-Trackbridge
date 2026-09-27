@@ -1,0 +1,29 @@
+{
+  "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_0.uasset",
+  "metadataOnly": false,
+  "Name": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_0",
+  "names": [
+    "M_1_00_kalinago",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago"
+  ],
+  "exports": [
+    {
+      "index": 0,
+      "name": "M_1_00_kalinago_0",
+      "type": "/Script/Engine.Material",
+      "outer": null,
+      "serialOffset": 0,
+      "serialSize": 46390
+    }
+  ],
+  "imports": [
+    "/Script/Engine.Material",
+    "/Script/Engine.Default__Material",
+    null,
+    "/Script/Engine",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_e68d15a62f5d3dfe8d1a81df72b2a941972962d89954a403a8f21147ff26e6f8.T_e68d15a62f5d3dfe8d1a81df72b2a941972962d89954a403a8f21147ff26e6f8"
+  ],
+  "dependencies": [
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_e68d15a62f5d3dfe8d1a81df72b2a941972962d89954a403a8f21147ff26e6f8"
+  ]
+}

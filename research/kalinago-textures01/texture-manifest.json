@@ -1,0 +1,2012 @@
+{
+  "installable": false,
+  "textures": [
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\10_trees_3d\\textures\\0_TREE_BARK.DDS",
+      "relativeSource": "models/10_trees_3d/textures/0_TREE_BARK.DDS",
+      "sourceSha256": "7a71915ffb4d1c47777cf6dbee99d996facff226e620539647e5a021f00a13bb",
+      "png": "7a71915ffb4d1c47777cf6dbee99d996facff226e620539647e5a021f00a13bb.png",
+      "width": 256,
+      "height": 512,
+      "sourceMode": "RGBA",
+      "pixelSha256": "91bbce2d0d566df58dee6b7423bdec76247249ddd441c165f9733d28017b2ff7"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\10_trees_3d\\textures\\1_TREE_BARK_NORM.DDS",
+      "relativeSource": "models/10_trees_3d/textures/1_TREE_BARK_NORM.DDS",
+      "sourceSha256": "668ad24b5777a03d0e6cf586e4e0ea83949957bff3b0442ed78b7d0c87d594e7",
+      "png": "668ad24b5777a03d0e6cf586e4e0ea83949957bff3b0442ed78b7d0c87d594e7.png",
+      "width": 256,
+      "height": 512,
+      "sourceMode": "RGBA",
+      "pixelSha256": "5e867b59d709dfc8048a6dce4c93e802f6d24b33b176fae08bc60815182f715b"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\10_trees_3d\\textures\\2_TREE_PALM_BARK.DDS",
+      "relativeSource": "models/10_trees_3d/textures/2_TREE_PALM_BARK.DDS",
+      "sourceSha256": "c457166a007208f833b9545bfab2a401fad135023ab61e4f0473dcd587fdc060",
+      "png": "c457166a007208f833b9545bfab2a401fad135023ab61e4f0473dcd587fdc060.png",
+      "width": 1024,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "869008b16409c54240cbd7ac42e6747e9a008dbd84d6a4082918a83ad6eeed0d"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\10_trees_3d\\textures\\3_TREE_PALM_BARK_NORM.DDS",
+      "relativeSource": "models/10_trees_3d/textures/3_TREE_PALM_BARK_NORM.DDS",
+      "sourceSha256": "03ddb5561cd8f3aa5ed64b769d06b4d27395f86d06ea5c9b4bfeea55ecf6c639",
+      "png": "03ddb5561cd8f3aa5ed64b769d06b4d27395f86d06ea5c9b4bfeea55ecf6c639.png",
+      "width": 1024,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "9035d16ef8b84b9a796b448dd2cf42d42cbd416b073a753e1192cbf221d09b2e"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\10_trees_3d\\textures\\4_TREE_PALM_LEAF_C.DDS",
+      "relativeSource": "models/10_trees_3d/textures/4_TREE_PALM_LEAF_C.DDS",
+      "sourceSha256": "2591349cd2192cf9f590673eb6cce8915bbb5709c0373a283e21d69e5f0269b4",
+      "png": "2591349cd2192cf9f590673eb6cce8915bbb5709c0373a283e21d69e5f0269b4.png",
+      "width": 1024,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "e9310819af2bdcc7210ea4cef02d153bfa62d68aa9706f0b00d6e50d8e0192f5"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\10_trees_3d\\textures\\5_TREE_PINE_LEAVES.DDS",
+      "relativeSource": "models/10_trees_3d/textures/5_TREE_PINE_LEAVES.DDS",
+      "sourceSha256": "6212ab95589fa68dcff925fd9b708b91c2fdec8be7dcc94fe56f1666010e9201",
+      "png": "6212ab95589fa68dcff925fd9b708b91c2fdec8be7dcc94fe56f1666010e9201.png",
+      "width": 256,
+      "height": 256,
+      "sourceMode": "RGBA",
+      "pixelSha256": "04f8b58646c3a8e00124b6d854e4dbb151c090172c5356ca457fec819ee09bd4"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\10_trees_3d\\textures\\6_TREE_PALM_LIGHTS.DDS",
+      "relativeSource": "models/10_trees_3d/textures/6_TREE_PALM_LIGHTS.DDS",
+      "sourceSha256": "02d20cf3e6d1b54552d5d82bbe0d23adff67c7664b56a879d4aaaa09dc8ca7c8",
+      "png": "02d20cf3e6d1b54552d5d82bbe0d23adff67c7664b56a879d4aaaa09dc8ca7c8.png",
+      "width": 1024,
+      "height": 128,
+      "sourceMode": "RGBA",
+      "pixelSha256": "c561a1dff7c681665b319ff2e2132e8320505419a26f849ae86fea7690ef9958"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\10_trees_3d\\textures\\7_TREE_PALM_LEAVES.DDS",
+      "relativeSource": "models/10_trees_3d/textures/7_TREE_PALM_LEAVES.DDS",
+      "sourceSha256": "e85327c466cb24a44a78667f022d4e010382ccbd33e53d77f128f100f4d7949d",
+      "png": "e85327c466cb24a44a78667f022d4e010382ccbd33e53d77f128f100f4d7949d.png",
+      "width": 1024,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "30669880df0ca8e479be37114751cf651fa6f2bdb902f97c21772d1986a25eb1"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\11_treewalls\\textures\\0_TREEWALL_A.DDS",
+      "relativeSource": "models/11_treewalls/textures/0_TREEWALL_A.DDS",
+      "sourceSha256": "521d2dda1ea05890c1fdd271d88d92faff1cfe92a472334d16835bb4df569031",
+      "png": "521d2dda1ea05890c1fdd271d88d92faff1cfe92a472334d16835bb4df569031.png",
+      "width": 4096,
+      "height": 512,
+      "sourceMode": "RGBA",
+      "pixelSha256": "87b1e58a7cdbdcfdc037708066be28c2c5cfb29af0d49857a7552e37f7b46848"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\12_mystery_box\\textures\\0_NULL.dds",
+      "relativeSource": "models/12_mystery_box/textures/0_NULL.dds",
+      "sourceSha256": "674b292ba42556246d2c203450c4d5e695b17a913c144dd61945db0999683d9a",
+      "png": "674b292ba42556246d2c203450c4d5e695b17a913c144dd61945db0999683d9a.png",
+      "width": 4,
+      "height": 4,
+      "sourceMode": "RGBA",
+      "pixelSha256": "8667e718294e9e0df1d30600ba3eeb201f764aad2dad72748643e4a285e1d1f7"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\13_crowd\\textures\\0_XPINK.dds",
+      "relativeSource": "models/13_crowd/textures/0_XPINK.dds",
+      "sourceSha256": "3e3fa9fe82a7177b6b98bdf1c2a8372802ef36ab2cdcf95f1d2af31e96f79bc9",
+      "png": "3e3fa9fe82a7177b6b98bdf1c2a8372802ef36ab2cdcf95f1d2af31e96f79bc9.png",
+      "width": 4,
+      "height": 4,
+      "sourceMode": "RGBA",
+      "pixelSha256": "708fc95346abfeb684225977f3f2bb0b6012fdeb47c80a884f7b46094c176768"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\14_skidmarks\\textures\\0_SKIDMARKS.DDS",
+      "relativeSource": "models/14_skidmarks/textures/0_SKIDMARKS.DDS",
+      "sourceSha256": "3b8622e1294f28f285bb300f8cae1ae6b92abdc8777030f915a6163e3835cb6e",
+      "png": "3b8622e1294f28f285bb300f8cae1ae6b92abdc8777030f915a6163e3835cb6e.png",
+      "width": 1024,
+      "height": 2048,
+      "sourceMode": "RGBA",
+      "pixelSha256": "cf9f343f384064d4a196ff560a3cd1ce0725f46b33b72b9849c0c03d8bdfb9db"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\14_skidmarks\\textures\\1_SKIDGROOVE.DDS",
+      "relativeSource": "models/14_skidmarks/textures/1_SKIDGROOVE.DDS",
+      "sourceSha256": "fb0ef631a813cd3d7105a089ef4b68a3d065cb2dcf5767e67830a271ba0b257e",
+      "png": "fb0ef631a813cd3d7105a089ef4b68a3d065cb2dcf5767e67830a271ba0b257e.png",
+      "width": 1024,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "ace7c785fb84354a1e3c20fb5fc4ec2e10086f3dc18a04b2177831cba144062c"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\15_lights\\textures\\0_METALBOX.DDS",
+      "relativeSource": "models/15_lights/textures/0_METALBOX.DDS",
+      "sourceSha256": "af769555cc104e3d873919daaaa8d82737f60c9cab3d6fd616a4d27c2f4aca81",
+      "png": "af769555cc104e3d873919daaaa8d82737f60c9cab3d6fd616a4d27c2f4aca81.png",
+      "width": 512,
+      "height": 512,
+      "sourceMode": "RGBA",
+      "pixelSha256": "708b6ddfe1bacae5f0529ead123737365564cc832982ead0b65546b307d9b3d6"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\15_lights\\textures\\1_NORMAL.DDS",
+      "relativeSource": "models/15_lights/textures/1_NORMAL.DDS",
+      "sourceSha256": "6c5c02883338c56c6d05ae24481aa954a34fab635ac17f2891031a22aec71226",
+      "png": "6c5c02883338c56c6d05ae24481aa954a34fab635ac17f2891031a22aec71226.png",
+      "width": 32,
+      "height": 32,
+      "sourceMode": "RGB",
+      "pixelSha256": "c341d91fd113f7bb60a8bf6c50c6a5bf2bda519627c7b5a7becb40b0ef1d4a12"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\15_lights\\textures\\2_METALPOLE.DDS",
+      "relativeSource": "models/15_lights/textures/2_METALPOLE.DDS",
+      "sourceSha256": "7bf0652ea9ec0a86dc8b688c89867377c2a38035cb501b65a9e6ff2f70da3fdc",
+      "png": "7bf0652ea9ec0a86dc8b688c89867377c2a38035cb501b65a9e6ff2f70da3fdc.png",
+      "width": 1024,
+      "height": 256,
+      "sourceMode": "RGBA",
+      "pixelSha256": "f36ab8bdd6b6d194b533ecce6fdc8223e7b91330de129489707cd016958e0821"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\15_lights\\textures\\3_XGREY.DDS",
+      "relativeSource": "models/15_lights/textures/3_XGREY.DDS",
+      "sourceSha256": "e4cb402a8d2f6c25e1b71523fbedc8e9ca936ba97485d04419c59558a9e4cdb2",
+      "png": "e4cb402a8d2f6c25e1b71523fbedc8e9ca936ba97485d04419c59558a9e4cdb2.png",
+      "width": 4,
+      "height": 4,
+      "sourceMode": "RGBA",
+      "pixelSha256": "0e75f88678e2a70956d09799dd56131caf8a5bfa8cffbf2d9f8b41f9d948663d"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\15_lights\\textures\\4_DIGIFLAG.DDS",
+      "relativeSource": "models/15_lights/textures/4_DIGIFLAG.DDS",
+      "sourceSha256": "be76ab452ca3b624b45708426fc611a652ac4bf81eb5275c779ebd70ba9098a2",
+      "png": "be76ab452ca3b624b45708426fc611a652ac4bf81eb5275c779ebd70ba9098a2.png",
+      "width": 256,
+      "height": 256,
+      "sourceMode": "RGBA",
+      "pixelSha256": "4de32d8edfc8d9685916273c8f7410fa8c5cab62a6e97520ff0818bfd211f6e3"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\15_lights\\textures\\5_LIGHTFLOOD.DDS",
+      "relativeSource": "models/15_lights/textures/5_LIGHTFLOOD.DDS",
+      "sourceSha256": "337b6ad1ddbfe47e4aaecfca84c3182f7088750f20e8acb2a5942bd4525f6df2",
+      "png": "337b6ad1ddbfe47e4aaecfca84c3182f7088750f20e8acb2a5942bd4525f6df2.png",
+      "width": 256,
+      "height": 256,
+      "sourceMode": "RGBA",
+      "pixelSha256": "3c2da77cbe75719a7e3591aedcb15c573e291895eb343e5efd65dc7cde067bca"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\15_lights\\textures\\6_NULL.dds",
+      "relativeSource": "models/15_lights/textures/6_NULL.dds",
+      "sourceSha256": "674b292ba42556246d2c203450c4d5e695b17a913c144dd61945db0999683d9a",
+      "png": "674b292ba42556246d2c203450c4d5e695b17a913c144dd61945db0999683d9a.png",
+      "width": 4,
+      "height": 4,
+      "sourceMode": "RGBA",
+      "pixelSha256": "8667e718294e9e0df1d30600ba3eeb201f764aad2dad72748643e4a285e1d1f7"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\15_lights\\textures\\7_XCOLORS.DDS",
+      "relativeSource": "models/15_lights/textures/7_XCOLORS.DDS",
+      "sourceSha256": "7c80dab196aa77a2fb7fbefe177b145a19bb43ab3d315b81bcf4d7658ca931bc",
+      "png": "7c80dab196aa77a2fb7fbefe177b145a19bb43ab3d315b81bcf4d7658ca931bc.png",
+      "width": 256,
+      "height": 256,
+      "sourceMode": "RGBA",
+      "pixelSha256": "7860d08dba947db691d40a2c7694522549a1e95b1e9f54e0700abbab7c5bd2f1"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\16_layout_gp\\textures\\0_GRAIL.DDS",
+      "relativeSource": "models/16_layout_gp/textures/0_GRAIL.DDS",
+      "sourceSha256": "73b425c69fe5993225b922da8b8590fee2ed32611c8d8d2763fe2db5dbd7ddba",
+      "png": "73b425c69fe5993225b922da8b8590fee2ed32611c8d8d2763fe2db5dbd7ddba.png",
+      "width": 512,
+      "height": 2048,
+      "sourceMode": "RGBA",
+      "pixelSha256": "74e7ccf376d81776c41e20c13cb100cb3ec17afaac7599103df7467253209300"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\16_layout_gp\\textures\\1_GRAIL_NORM.DDS",
+      "relativeSource": "models/16_layout_gp/textures/1_GRAIL_NORM.DDS",
+      "sourceSha256": "180d675e56734608539bfb9fec5be6d398e1626a4f3b7751e98abf37509e16be",
+      "png": "180d675e56734608539bfb9fec5be6d398e1626a4f3b7751e98abf37509e16be.png",
+      "width": 512,
+      "height": 2048,
+      "sourceMode": "RGBA",
+      "pixelSha256": "93b380859ddfb3e743fc3847ab09ae79dda733fd6a2ebd6d7862470c3df24677"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\16_layout_gp\\textures\\2_WALLA.DDS",
+      "relativeSource": "models/16_layout_gp/textures/2_WALLA.DDS",
+      "sourceSha256": "f5336fb0ff09e1347bae4960503fc9df045ccab93e57f8f37282340d5b7e504f",
+      "png": "f5336fb0ff09e1347bae4960503fc9df045ccab93e57f8f37282340d5b7e504f.png",
+      "width": 4096,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "34ec5a5f6b9c758055614a61de89f04cf21b447d4050a41b0981d8bc8c80ab63"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\16_layout_gp\\textures\\3_WALLA_NORM.DDS",
+      "relativeSource": "models/16_layout_gp/textures/3_WALLA_NORM.DDS",
+      "sourceSha256": "bb8dde37109f7a204c617eb23211adac6f560615d7584a94a052d3439a9351a4",
+      "png": "bb8dde37109f7a204c617eb23211adac6f560615d7584a94a052d3439a9351a4.png",
+      "width": 4096,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "5324a0fab14f8e4ec12bfd192ee9494404217e889a68167b5215e81cc04396eb"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\16_layout_gp\\textures\\4_FENCEA.dds",
+      "relativeSource": "models/16_layout_gp/textures/4_FENCEA.dds",
+      "sourceSha256": "9906dea78f49087f11ee9b2aa3072dbd46b59193c7c5cefd86868e1119457e9e",
+      "png": "9906dea78f49087f11ee9b2aa3072dbd46b59193c7c5cefd86868e1119457e9e.png",
+      "width": 1024,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "3bec95940d7fa633316f536457b580de545b7228caaa7054d4af8cf76124bbe4"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\16_layout_gp\\textures\\5_FENCEB.dds",
+      "relativeSource": "models/16_layout_gp/textures/5_FENCEB.dds",
+      "sourceSha256": "c1800b9e7c6760f8e21fc2b2183a85afd2f8f9dace29ecd3857ab7feea0ac5e9",
+      "png": "c1800b9e7c6760f8e21fc2b2183a85afd2f8f9dace29ecd3857ab7feea0ac5e9.png",
+      "width": 1024,
+      "height": 512,
+      "sourceMode": "RGBA",
+      "pixelSha256": "4326d9f24bda8c549ef235e1498eaa8be3c757f87c80e75542218973da2f0030"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\17_ads_f1\\textures\\0_WALL_TIRES.DDS",
+      "relativeSource": "models/17_ads_f1/textures/0_WALL_TIRES.DDS",
+      "sourceSha256": "17e8b98a860c87dd5a7504206d02e5d8fbfd61c1b99d1b263ada4071226bb644",
+      "png": "17e8b98a860c87dd5a7504206d02e5d8fbfd61c1b99d1b263ada4071226bb644.png",
+      "width": 2048,
+      "height": 512,
+      "sourceMode": "RGBA",
+      "pixelSha256": "31711c72bda2864cdb8e63eba4de81dacf8f5465e35dd731987bc61bc33894d7"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\17_ads_f1\\textures\\10_ADS_B.DDS",
+      "relativeSource": "models/17_ads_f1/textures/10_ADS_B.DDS",
+      "sourceSha256": "d42a708d552ab8bbbb9589537bcb966dc054206654dc1e79fa8e30068ed3e2e3",
+      "png": "d42a708d552ab8bbbb9589537bcb966dc054206654dc1e79fa8e30068ed3e2e3.png",
+      "width": 2048,
+      "height": 2048,
+      "sourceMode": "RGBA",
+      "pixelSha256": "f7f79e72801d38bf80af31d5ff9ad6af402ac65ad8a426f1cd34cf8f7ea88bb6"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\17_ads_f1\\textures\\11_ADS_PODIUM.DDS",
+      "relativeSource": "models/17_ads_f1/textures/11_ADS_PODIUM.DDS",
+      "sourceSha256": "ae64f89a879afbb83739452f11be58f8a42020bf87ff714e242de9824bb649aa",
+      "png": "ae64f89a879afbb83739452f11be58f8a42020bf87ff714e242de9824bb649aa.png",
+      "width": 2048,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "8dee95482559f7172522d6c89bac5803b438cada949dbb34f01e15524948bcb2"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\17_ads_f1\\textures\\12_ADS_A.DDS",
+      "relativeSource": "models/17_ads_f1/textures/12_ADS_A.DDS",
+      "sourceSha256": "10208cc6c56db38cf84d007053ea6691595eeac0c4740ef6f5b0c21d8fd1fa73",
+      "png": "10208cc6c56db38cf84d007053ea6691595eeac0c4740ef6f5b0c21d8fd1fa73.png",
+      "width": 1024,
+      "height": 2048,
+      "sourceMode": "RGBA",
+      "pixelSha256": "ed24491c9c8078f108ee921e51f1c4334ab2455f766a3fd517ee0b52f3f6e20e"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\17_ads_f1\\textures\\13_BRKMARKERS.DDS",
+      "relativeSource": "models/17_ads_f1/textures/13_BRKMARKERS.DDS",
+      "sourceSha256": "feec423375d5d8f7c9887af5aeb38b6ff87d422b192698013a4164e1a956b4d6",
+      "png": "feec423375d5d8f7c9887af5aeb38b6ff87d422b192698013a4164e1a956b4d6.png",
+      "width": 1024,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "9adcbcdf32562680c02f7694aae883444018db9a372a12eaee5f7a92b5596a57"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\17_ads_f1\\textures\\14_ADS_L.DDS",
+      "relativeSource": "models/17_ads_f1/textures/14_ADS_L.DDS",
+      "sourceSha256": "27a6a3f00358a760cf6e36f0c3356159d090d4a0bd7cdd97e5699fdebf14c043",
+      "png": "27a6a3f00358a760cf6e36f0c3356159d090d4a0bd7cdd97e5699fdebf14c043.png",
+      "width": 1024,
+      "height": 2048,
+      "sourceMode": "RGBA",
+      "pixelSha256": "c83a5e3c1a03c74247ed068fbdd8aac8970f9c0dc0760156a60bc0413928121e"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\17_ads_f1\\textures\\15_XCOLORS.DDS",
+      "relativeSource": "models/17_ads_f1/textures/15_XCOLORS.DDS",
+      "sourceSha256": "7c80dab196aa77a2fb7fbefe177b145a19bb43ab3d315b81bcf4d7658ca931bc",
+      "png": "7c80dab196aa77a2fb7fbefe177b145a19bb43ab3d315b81bcf4d7658ca931bc.png",
+      "width": 256,
+      "height": 256,
+      "sourceMode": "RGBA",
+      "pixelSha256": "7860d08dba947db691d40a2c7694522549a1e95b1e9f54e0700abbab7c5bd2f1"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\17_ads_f1\\textures\\16_ADS_ROLEX_TEXT.DDS",
+      "relativeSource": "models/17_ads_f1/textures/16_ADS_ROLEX_TEXT.DDS",
+      "sourceSha256": "e57232df19172c2f258b796cd521a4bdaac52bb90e1a9a00e58ae90ee078e1cd",
+      "png": "e57232df19172c2f258b796cd521a4bdaac52bb90e1a9a00e58ae90ee078e1cd.png",
+      "width": 1024,
+      "height": 64,
+      "sourceMode": "RGBA",
+      "pixelSha256": "524838ca3ba9b6ccf149968716b8c19bb90448ef6d7c326f49e0ad5222a87a9d"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\17_ads_f1\\textures\\1_WALL_TIRES_NORM.DDS",
+      "relativeSource": "models/17_ads_f1/textures/1_WALL_TIRES_NORM.DDS",
+      "sourceSha256": "c39d7c857a6206c798b8b594ba032b7798439155bbdaa3ef8732c1c06aa06572",
+      "png": "c39d7c857a6206c798b8b594ba032b7798439155bbdaa3ef8732c1c06aa06572.png",
+      "width": 4096,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "ea3df68d277637fb2b6960d99b110308afde527cf86ab46a0511813a998a8f64"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\17_ads_f1\\textures\\2_WALL_TECPRO.DDS",
+      "relativeSource": "models/17_ads_f1/textures/2_WALL_TECPRO.DDS",
+      "sourceSha256": "d841256e6ce9f851e904f8938e3fcd5e49baa5173481d2c7fab182ffae43b0e4",
+      "png": "d841256e6ce9f851e904f8938e3fcd5e49baa5173481d2c7fab182ffae43b0e4.png",
+      "width": 1024,
+      "height": 512,
+      "sourceMode": "RGBA",
+      "pixelSha256": "7a75cbdd6e0b6f7b494e857d8d212ff0bbeeca0f053bc3e1a33c9388bb5f8650"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\17_ads_f1\\textures\\3_WALL_TECPRO_NORM.DDS",
+      "relativeSource": "models/17_ads_f1/textures/3_WALL_TECPRO_NORM.DDS",
+      "sourceSha256": "2196b8db73a94db1f7883ce08c1d65441900546bc8c3f577b460b7de9de071fd",
+      "png": "2196b8db73a94db1f7883ce08c1d65441900546bc8c3f577b460b7de9de071fd.png",
+      "width": 1024,
+      "height": 512,
+      "sourceMode": "RGBA",
+      "pixelSha256": "6780d00b7f8d041c4d061a00811305934c4ead3869500b3d0d2e3d1e8d9c42bb"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\17_ads_f1\\textures\\4_ADS_M.DDS",
+      "relativeSource": "models/17_ads_f1/textures/4_ADS_M.DDS",
+      "sourceSha256": "838b4aa0d0c2129271a0af90a74f7b4e1543acc0c46889627a0e044506363500",
+      "png": "838b4aa0d0c2129271a0af90a74f7b4e1543acc0c46889627a0e044506363500.png",
+      "width": 1024,
+      "height": 2048,
+      "sourceMode": "RGBA",
+      "pixelSha256": "5c1cbde6358824789427084be8543aa5a3309bd0b9474352efe7b76c4bfe51b5"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\17_ads_f1\\textures\\5_NORMAL.DDS",
+      "relativeSource": "models/17_ads_f1/textures/5_NORMAL.DDS",
+      "sourceSha256": "6c5c02883338c56c6d05ae24481aa954a34fab635ac17f2891031a22aec71226",
+      "png": "6c5c02883338c56c6d05ae24481aa954a34fab635ac17f2891031a22aec71226.png",
+      "width": 32,
+      "height": 32,
+      "sourceMode": "RGB",
+      "pixelSha256": "c341d91fd113f7bb60a8bf6c50c6a5bf2bda519627c7b5a7becb40b0ef1d4a12"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\17_ads_f1\\textures\\6_ADS_C.DDS",
+      "relativeSource": "models/17_ads_f1/textures/6_ADS_C.DDS",
+      "sourceSha256": "d77efef76f22163e9459046a56a10a42fe2be6a8e18000fa5a6cbb296cdcde54",
+      "png": "d77efef76f22163e9459046a56a10a42fe2be6a8e18000fa5a6cbb296cdcde54.png",
+      "width": 2048,
+      "height": 2048,
+      "sourceMode": "RGBA",
+      "pixelSha256": "5fddaaecbc32a2c249535e78ea4ece19ed9babe0d9f6f30f8548748e27b1a234"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\17_ads_f1\\textures\\7_ADS_E.DDS",
+      "relativeSource": "models/17_ads_f1/textures/7_ADS_E.DDS",
+      "sourceSha256": "7d64ca281b395e4067a9f7579819dcbf61858886784b52d96745b11761dc1b2d",
+      "png": "7d64ca281b395e4067a9f7579819dcbf61858886784b52d96745b11761dc1b2d.png",
+      "width": 64,
+      "height": 128,
+      "sourceMode": "RGBA",
+      "pixelSha256": "9d47adaab5cebe1c2527bb423eb4e8f20babef4a6602a3c3b4bd2e90ba4c3b29"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\17_ads_f1\\textures\\8_ADS_G.DDS",
+      "relativeSource": "models/17_ads_f1/textures/8_ADS_G.DDS",
+      "sourceSha256": "9327bb66746905fba423cbf293529dcb8a89d954790deab6128eb25814662ad2",
+      "png": "9327bb66746905fba423cbf293529dcb8a89d954790deab6128eb25814662ad2.png",
+      "width": 4096,
+      "height": 4096,
+      "sourceMode": "RGBA",
+      "pixelSha256": "7ddca4aa72403be709f15d44232d064af06284fc50502d602baaae33704009d9"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\17_ads_f1\\textures\\9_METALPOLE.DDS",
+      "relativeSource": "models/17_ads_f1/textures/9_METALPOLE.DDS",
+      "sourceSha256": "7bf0652ea9ec0a86dc8b688c89867377c2a38035cb501b65a9e6ff2f70da3fdc",
+      "png": "7bf0652ea9ec0a86dc8b688c89867377c2a38035cb501b65a9e6ff2f70da3fdc.png",
+      "width": 1024,
+      "height": 256,
+      "sourceMode": "RGBA",
+      "pixelSha256": "f36ab8bdd6b6d194b533ecce6fdc8223e7b91330de129489707cd016958e0821"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\18_rolex_clock\\textures\\0_ADS_ROLEXCLOCK.DDS",
+      "relativeSource": "models/18_rolex_clock/textures/0_ADS_ROLEXCLOCK.DDS",
+      "sourceSha256": "5295bf624a79d42e652aca935f8676f897ba169c3f1b1add8698dd9e3f8e2ed0",
+      "png": "5295bf624a79d42e652aca935f8676f897ba169c3f1b1add8698dd9e3f8e2ed0.png",
+      "width": 2048,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "b42300971f7babf93c172fe540d934014dcb68695c735025e05e05d488ba4ea8"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\18_rolex_clock\\textures\\1_ADS_ROLEXCLOCK_NORM.DDS",
+      "relativeSource": "models/18_rolex_clock/textures/1_ADS_ROLEXCLOCK_NORM.DDS",
+      "sourceSha256": "4bd61f1218d716b36c2c8350d9e786add79f4218f69812043735e42c86447c3b",
+      "png": "4bd61f1218d716b36c2c8350d9e786add79f4218f69812043735e42c86447c3b.png",
+      "width": 2048,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "cd5912fbdde94b513a246e0aec9c7ae1db2e14d16e2f13afb8d241a24bce2aae"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\18_rolex_clock\\textures\\2_ADS_ROLEX_TEXT.DDS",
+      "relativeSource": "models/18_rolex_clock/textures/2_ADS_ROLEX_TEXT.DDS",
+      "sourceSha256": "89967d8c5890b18335eb9defa55e9e458cd45ede081eea201130d3abeea587b8",
+      "png": "89967d8c5890b18335eb9defa55e9e458cd45ede081eea201130d3abeea587b8.png",
+      "width": 1024,
+      "height": 64,
+      "sourceMode": "RGBA",
+      "pixelSha256": "e21997632fade829ba832df00b1518bc4a2af0c62e71abdd185f34c8e403af95"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\19_kunos_props_a\\textures\\0_KUNOS_MARSHALT.DDS",
+      "relativeSource": "models/19_kunos_props_a/textures/0_KUNOS_MARSHALT.DDS",
+      "sourceSha256": "a140c25ee09a436869fe41194ff7e0ef6c913c27b5390cee85bd5b21534f0e48",
+      "png": "a140c25ee09a436869fe41194ff7e0ef6c913c27b5390cee85bd5b21534f0e48.png",
+      "width": 512,
+      "height": 512,
+      "sourceMode": "RGBA",
+      "pixelSha256": "284e8ad99903d60990458a89125e930d007960254a37e3b8d1d631fd6deef44b"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\19_kunos_props_a\\textures\\1_KUNOS_MARSHALF.DDS",
+      "relativeSource": "models/19_kunos_props_a/textures/1_KUNOS_MARSHALF.DDS",
+      "sourceSha256": "3dce0ade9e5d9f185da7d3bd149abef56509ad6711ae4b15ebab39bf9c36be64",
+      "png": "3dce0ade9e5d9f185da7d3bd149abef56509ad6711ae4b15ebab39bf9c36be64.png",
+      "width": 512,
+      "height": 512,
+      "sourceMode": "RGBA",
+      "pixelSha256": "fb0da93895ebd56985e60a2c7b9dc6e8096d639095a2e8bb6e43691ce56a7d69"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\19_kunos_props_a\\textures\\2_KUNOS_RECOVERY.DDS",
+      "relativeSource": "models/19_kunos_props_a/textures/2_KUNOS_RECOVERY.DDS",
+      "sourceSha256": "e17deed0ea2024f2bd77807b6bc1dd9a896e151ca686508d01a1ca9356268054",
+      "png": "e17deed0ea2024f2bd77807b6bc1dd9a896e151ca686508d01a1ca9356268054.png",
+      "width": 1024,
+      "height": 512,
+      "sourceMode": "RGBA",
+      "pixelSha256": "ce15c6e6b318987bb565a3ec39700093cd9ea53a7ddbd6ce1dc5733e1ae79a7e"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\19_kunos_props_a\\textures\\3_KUNOS_AMBULANCE.DDS",
+      "relativeSource": "models/19_kunos_props_a/textures/3_KUNOS_AMBULANCE.DDS",
+      "sourceSha256": "35b4ea3dca1b07acb115571d1e2aaae241b69209e7846d45b9d1babfc86a2ed6",
+      "png": "35b4ea3dca1b07acb115571d1e2aaae241b69209e7846d45b9d1babfc86a2ed6.png",
+      "width": 1024,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "c166a2a35712939d7f2b2e895f7cd7202075c0185910d2880358b6b66eb760ca"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\19_kunos_props_a\\textures\\4_KUNOS_VEHICLESB.DDS",
+      "relativeSource": "models/19_kunos_props_a/textures/4_KUNOS_VEHICLESB.DDS",
+      "sourceSha256": "211541c46fe7a431a059f290301f8bbb428bce9ac301b89c587d091a1fc735e2",
+      "png": "211541c46fe7a431a059f290301f8bbb428bce9ac301b89c587d091a1fc735e2.png",
+      "width": 2048,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "dfc91c1b686e6037c254cef257b6a8d87ae4391c879f8bea74b841057e884550"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\19_kunos_props_a\\textures\\5_KUNOS_VEHICLESA.DDS",
+      "relativeSource": "models/19_kunos_props_a/textures/5_KUNOS_VEHICLESA.DDS",
+      "sourceSha256": "f9c0365f6d7aa0a6cc330741f0c6fd16a044b8f244a7921a7fac7994f430371c",
+      "png": "f9c0365f6d7aa0a6cc330741f0c6fd16a044b8f244a7921a7fac7994f430371c.png",
+      "width": 1024,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "7e23c53f29245bea3b6b8bc2e0fa711ff120632cd02fc851bace22c309d99ec6"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\19_kunos_props_a\\textures\\6_KUNOS_PITPROPS.DDS",
+      "relativeSource": "models/19_kunos_props_a/textures/6_KUNOS_PITPROPS.DDS",
+      "sourceSha256": "c8e6dd26bc9fae85eca0e0a82a340695cfe74adf9fbe55625dd8f70a98c7fba7",
+      "png": "c8e6dd26bc9fae85eca0e0a82a340695cfe74adf9fbe55625dd8f70a98c7fba7.png",
+      "width": 512,
+      "height": 512,
+      "sourceMode": "RGBA",
+      "pixelSha256": "222c47362f45ad5a5952197487406522cb11ae2530229e63646bf0176dafb97a"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\19_kunos_props_a\\textures\\7_driver_suit2.dds",
+      "relativeSource": "models/19_kunos_props_a/textures/7_driver_suit2.dds",
+      "sourceSha256": "c57ea59bf6a8e57f6b2af1a77553233580849251d937ba4881744a369de855f5",
+      "png": "c57ea59bf6a8e57f6b2af1a77553233580849251d937ba4881744a369de855f5.png",
+      "width": 512,
+      "height": 512,
+      "sourceMode": "RGBA",
+      "pixelSha256": "20bab8b5824a23fafa42b77533b5add5cb68bac5e741d7d9f0703622364d5e2b"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\19_kunos_props_a\\textures\\8_driver_face.dds",
+      "relativeSource": "models/19_kunos_props_a/textures/8_driver_face.dds",
+      "sourceSha256": "6d9344f178b17a74535a07ab7af8b1fc8e2abd36e699994689b3b8976e2ef2cb",
+      "png": "6d9344f178b17a74535a07ab7af8b1fc8e2abd36e699994689b3b8976e2ef2cb.png",
+      "width": 256,
+      "height": 128,
+      "sourceMode": "RGBA",
+      "pixelSha256": "10545d5ae80c00073f53341b5f7ed4a3681f0dba7b2511aff20128eef97ab791"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\19_kunos_props_a\\textures\\9_ac_crew.dds",
+      "relativeSource": "models/19_kunos_props_a/textures/9_ac_crew.dds",
+      "sourceSha256": "06a8f68d74b3a594f07a3ee59560bf1953213f71c5fc9f48922745859ce6cf5d",
+      "png": "06a8f68d74b3a594f07a3ee59560bf1953213f71c5fc9f48922745859ce6cf5d.png",
+      "width": 1024,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "9e95df6cb482b27b3bf420c56eb7a2b685694d569db91cd7a7b576737febe0c5"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\0_CLASS.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/0_CLASS.DDS",
+      "sourceSha256": "e68d15a62f5d3dfe8d1a81df72b2a941972962d89954a403a8f21147ff26e6f8",
+      "png": "e68d15a62f5d3dfe8d1a81df72b2a941972962d89954a403a8f21147ff26e6f8.png",
+      "width": 16,
+      "height": 16,
+      "sourceMode": "RGBA",
+      "pixelSha256": "2c6120dd535ba5ef920b3c0dd393e4feb9dafb47a0ac471a5cd8f3b93f5aaf6a"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\10_WALLSTONE_NORM.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/10_WALLSTONE_NORM.DDS",
+      "sourceSha256": "f3b0299f3c1cbba56e6fa09218f05be0e9b1d9b11a6033b91ecf7ff81d54cc38",
+      "png": "f3b0299f3c1cbba56e6fa09218f05be0e9b1d9b11a6033b91ecf7ff81d54cc38.png",
+      "width": 1024,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "0bffa2c1471329ab68157f1666552d5ec8ad5a17e62b19e7bcac36eefaaf0718"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\11_XCOLORS.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/11_XCOLORS.DDS",
+      "sourceSha256": "7c80dab196aa77a2fb7fbefe177b145a19bb43ab3d315b81bcf4d7658ca931bc",
+      "png": "7c80dab196aa77a2fb7fbefe177b145a19bb43ab3d315b81bcf4d7658ca931bc.png",
+      "width": 256,
+      "height": 256,
+      "sourceMode": "RGBA",
+      "pixelSha256": "7860d08dba947db691d40a2c7694522549a1e95b1e9f54e0700abbab7c5bd2f1"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\12_NORMAL.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/12_NORMAL.DDS",
+      "sourceSha256": "6c5c02883338c56c6d05ae24481aa954a34fab635ac17f2891031a22aec71226",
+      "png": "6c5c02883338c56c6d05ae24481aa954a34fab635ac17f2891031a22aec71226.png",
+      "width": 32,
+      "height": 32,
+      "sourceMode": "RGB",
+      "pixelSha256": "c341d91fd113f7bb60a8bf6c50c6a5bf2bda519627c7b5a7becb40b0ef1d4a12"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\13_GAR_DOORA.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/13_GAR_DOORA.DDS",
+      "sourceSha256": "c6e73f591313bbf143f4a87285adb385d484b46a862cc816b60d3cd721e480d2",
+      "png": "c6e73f591313bbf143f4a87285adb385d484b46a862cc816b60d3cd721e480d2.png",
+      "width": 1024,
+      "height": 512,
+      "sourceMode": "RGBA",
+      "pixelSha256": "699125f1b2e9930e28ca16b766c714a98d439e44b93804d1fe9f039d3c7deda4"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\14_GAR_DOORA_NORM.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/14_GAR_DOORA_NORM.DDS",
+      "sourceSha256": "92fac01229bb828a3f74d97e7e7c2bf7bb6284e31ee2663230626bd910209b04",
+      "png": "92fac01229bb828a3f74d97e7e7c2bf7bb6284e31ee2663230626bd910209b04.png",
+      "width": 1024,
+      "height": 512,
+      "sourceMode": "RGBA",
+      "pixelSha256": "6a7e4259098293a51bdb6543b7b557aa499b13a5ccba50e059f26504673c600f"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\15_GAR_WALL.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/15_GAR_WALL.DDS",
+      "sourceSha256": "d036f9c57abda8c08af27ad388824bdef975ea46ab20c67233e824766bc03df3",
+      "png": "d036f9c57abda8c08af27ad388824bdef975ea46ab20c67233e824766bc03df3.png",
+      "width": 1024,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "a75bd7c70d260ff2eb07650ee39a1913f174d28320278beaee0c9e5e3f1198b1"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\16_GAR_WALL_NORM.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/16_GAR_WALL_NORM.DDS",
+      "sourceSha256": "fcecaee4d68f657f1713b3c908679c495a04b61431b6da008bb06ed559cf5223",
+      "png": "fcecaee4d68f657f1713b3c908679c495a04b61431b6da008bb06ed559cf5223.png",
+      "width": 1024,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "38a8df8b4bda76d139374b1c68595109403fcf327b61f16a92da38a11e689162"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\17_METALPOLE.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/17_METALPOLE.DDS",
+      "sourceSha256": "7bf0652ea9ec0a86dc8b688c89867377c2a38035cb501b65a9e6ff2f70da3fdc",
+      "png": "7bf0652ea9ec0a86dc8b688c89867377c2a38035cb501b65a9e6ff2f70da3fdc.png",
+      "width": 1024,
+      "height": 256,
+      "sourceMode": "RGBA",
+      "pixelSha256": "f36ab8bdd6b6d194b533ecce6fdc8223e7b91330de129489707cd016958e0821"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\18_WALL_TECPRO.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/18_WALL_TECPRO.DDS",
+      "sourceSha256": "d841256e6ce9f851e904f8938e3fcd5e49baa5173481d2c7fab182ffae43b0e4",
+      "png": "d841256e6ce9f851e904f8938e3fcd5e49baa5173481d2c7fab182ffae43b0e4.png",
+      "width": 1024,
+      "height": 512,
+      "sourceMode": "RGBA",
+      "pixelSha256": "7a75cbdd6e0b6f7b494e857d8d212ff0bbeeca0f053bc3e1a33c9388bb5f8650"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\19_WALL_TECPRO_NORM.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/19_WALL_TECPRO_NORM.DDS",
+      "sourceSha256": "2196b8db73a94db1f7883ce08c1d65441900546bc8c3f577b460b7de9de071fd",
+      "png": "2196b8db73a94db1f7883ce08c1d65441900546bc8c3f577b460b7de9de071fd.png",
+      "width": 1024,
+      "height": 512,
+      "sourceMode": "RGBA",
+      "pixelSha256": "6780d00b7f8d041c4d061a00811305934c4ead3869500b3d0d2e3d1e8d9c42bb"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\1_WINDOW.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/1_WINDOW.DDS",
+      "sourceSha256": "633f0a781e045198a87bf079e39e08d711cb1894d9fda03c64beec26fd375a05",
+      "png": "633f0a781e045198a87bf079e39e08d711cb1894d9fda03c64beec26fd375a05.png",
+      "width": 256,
+      "height": 256,
+      "sourceMode": "RGBA",
+      "pixelSha256": "053e7f848ac5857e77b546e177a756b90c46e5606384721c0e8599230a72d22c"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\20_WALL_TIRES.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/20_WALL_TIRES.DDS",
+      "sourceSha256": "17e8b98a860c87dd5a7504206d02e5d8fbfd61c1b99d1b263ada4071226bb644",
+      "png": "17e8b98a860c87dd5a7504206d02e5d8fbfd61c1b99d1b263ada4071226bb644.png",
+      "width": 2048,
+      "height": 512,
+      "sourceMode": "RGBA",
+      "pixelSha256": "31711c72bda2864cdb8e63eba4de81dacf8f5465e35dd731987bc61bc33894d7"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\21_WALL_TIRES_NORM.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/21_WALL_TIRES_NORM.DDS",
+      "sourceSha256": "c39d7c857a6206c798b8b594ba032b7798439155bbdaa3ef8732c1c06aa06572",
+      "png": "c39d7c857a6206c798b8b594ba032b7798439155bbdaa3ef8732c1c06aa06572.png",
+      "width": 4096,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "ea3df68d277637fb2b6960d99b110308afde527cf86ab46a0511813a998a8f64"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\22_XGREY.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/22_XGREY.DDS",
+      "sourceSha256": "e4cb402a8d2f6c25e1b71523fbedc8e9ca936ba97485d04419c59558a9e4cdb2",
+      "png": "e4cb402a8d2f6c25e1b71523fbedc8e9ca936ba97485d04419c59558a9e4cdb2.png",
+      "width": 4,
+      "height": 4,
+      "sourceMode": "RGBA",
+      "pixelSha256": "0e75f88678e2a70956d09799dd56131caf8a5bfa8cffbf2d9f8b41f9d948663d"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\23_GRAIL.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/23_GRAIL.DDS",
+      "sourceSha256": "1d951e04b01070579ecf3fdde131336437ed98e8435b6fd554f2a52dc10bff49",
+      "png": "1d951e04b01070579ecf3fdde131336437ed98e8435b6fd554f2a52dc10bff49.png",
+      "width": 512,
+      "height": 2048,
+      "sourceMode": "RGBA",
+      "pixelSha256": "493297a0a7c98ac92e41cf5edc2fa3a0006f643cee3bac03aebf0ea5515f13c6"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\24_GRAIL_NORM.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/24_GRAIL_NORM.DDS",
+      "sourceSha256": "180d675e56734608539bfb9fec5be6d398e1626a4f3b7751e98abf37509e16be",
+      "png": "180d675e56734608539bfb9fec5be6d398e1626a4f3b7751e98abf37509e16be.png",
+      "width": 512,
+      "height": 2048,
+      "sourceMode": "RGBA",
+      "pixelSha256": "93b380859ddfb3e743fc3847ab09ae79dda733fd6a2ebd6d7862470c3df24677"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\25_WALLA.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/25_WALLA.DDS",
+      "sourceSha256": "f5336fb0ff09e1347bae4960503fc9df045ccab93e57f8f37282340d5b7e504f",
+      "png": "f5336fb0ff09e1347bae4960503fc9df045ccab93e57f8f37282340d5b7e504f.png",
+      "width": 4096,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "34ec5a5f6b9c758055614a61de89f04cf21b447d4050a41b0981d8bc8c80ab63"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\26_WALLA_NORM.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/26_WALLA_NORM.DDS",
+      "sourceSha256": "bb8dde37109f7a204c617eb23211adac6f560615d7584a94a052d3439a9351a4",
+      "png": "bb8dde37109f7a204c617eb23211adac6f560615d7584a94a052d3439a9351a4.png",
+      "width": 4096,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "5324a0fab14f8e4ec12bfd192ee9494404217e889a68167b5215e81cc04396eb"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\27_CURBS.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/27_CURBS.DDS",
+      "sourceSha256": "d4d6905add58258e1315c9a06b187697994c2f4d2283580fc412d9c8ebf1a3cf",
+      "png": "d4d6905add58258e1315c9a06b187697994c2f4d2283580fc412d9c8ebf1a3cf.png",
+      "width": 2048,
+      "height": 8192,
+      "sourceMode": "RGBA",
+      "pixelSha256": "f95e5c07d5a88bb93071f53ba38434072475e8090d711560d64579253efb2da3"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\28_CURBS_NORM.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/28_CURBS_NORM.DDS",
+      "sourceSha256": "24fa889977d99f966ac69d7065b22e92488ec07870083afa3ffc23f0083101c3",
+      "png": "24fa889977d99f966ac69d7065b22e92488ec07870083afa3ffc23f0083101c3.png",
+      "width": 2048,
+      "height": 8192,
+      "sourceMode": "RGBA",
+      "pixelSha256": "d5048f46e59a14e34076a246ac88f36b535460ceedda4997132300b932372e74"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\29_ASTRO.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/29_ASTRO.DDS",
+      "sourceSha256": "ec348e31a43217081904311e08e333b30817f68eabeb46bc020d84f8f6b35b8a",
+      "png": "ec348e31a43217081904311e08e333b30817f68eabeb46bc020d84f8f6b35b8a.png",
+      "width": 512,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "2d091e61b2d92cfb3af323cedaa146481cd496d2cac2d2ddf49894d720ec7b39"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\2_DIGIFLAGS.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/2_DIGIFLAGS.DDS",
+      "sourceSha256": "7deb60f3c36df5475363fe463bcfb03bf816d2b41fd5680545e351a4328e1eae",
+      "png": "7deb60f3c36df5475363fe463bcfb03bf816d2b41fd5680545e351a4328e1eae.png",
+      "width": 1024,
+      "height": 512,
+      "sourceMode": "RGBA",
+      "pixelSha256": "4d56ab219f98e5cfdc21c27ba9af939a9b5d3f9ccb261da636f3fcf69a8f32ee"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\30_ASTRO_NORM.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/30_ASTRO_NORM.DDS",
+      "sourceSha256": "7ffabceb138dd6377dff6649e97e114f57588c520b3d4987bf78307b35c74da3",
+      "png": "7ffabceb138dd6377dff6649e97e114f57588c520b3d4987bf78307b35c74da3.png",
+      "width": 512,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "ca2d9d7a4fe241dc8c88664a4572d069f1e3affbdedfb49ff88edea137f743eb"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\31_DIGIFLAG.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/31_DIGIFLAG.DDS",
+      "sourceSha256": "be76ab452ca3b624b45708426fc611a652ac4bf81eb5275c779ebd70ba9098a2",
+      "png": "be76ab452ca3b624b45708426fc611a652ac4bf81eb5275c779ebd70ba9098a2.png",
+      "width": 256,
+      "height": 256,
+      "sourceMode": "RGBA",
+      "pixelSha256": "4de32d8edfc8d9685916273c8f7410fa8c5cab62a6e97520ff0818bfd211f6e3"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\32_XPINK.dds",
+      "relativeSource": "models/1_00_kalinago/textures/32_XPINK.dds",
+      "sourceSha256": "3e3fa9fe82a7177b6b98bdf1c2a8372802ef36ab2cdcf95f1d2af31e96f79bc9",
+      "png": "3e3fa9fe82a7177b6b98bdf1c2a8372802ef36ab2cdcf95f1d2af31e96f79bc9.png",
+      "width": 4,
+      "height": 4,
+      "sourceMode": "RGBA",
+      "pixelSha256": "708fc95346abfeb684225977f3f2bb0b6012fdeb47c80a884f7b46094c176768"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\33_WIN_FRAME.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/33_WIN_FRAME.DDS",
+      "sourceSha256": "9a8fe251e4e2f5170bbea04bab79278b086d51f38ab8070474d43d8da26b4e3f",
+      "png": "9a8fe251e4e2f5170bbea04bab79278b086d51f38ab8070474d43d8da26b4e3f.png",
+      "width": 128,
+      "height": 128,
+      "sourceMode": "RGBA",
+      "pixelSha256": "6afe7095a3c8ba074f680dd05f55af71fdf352a7b0605ce88a78c36cef7fa4af"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\34_XBLACK.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/34_XBLACK.DDS",
+      "sourceSha256": "521b09bfd032973591113dc212312c1a7380b86bf96459d61676e24e4ea5ff93",
+      "png": "521b09bfd032973591113dc212312c1a7380b86bf96459d61676e24e4ea5ff93.png",
+      "width": 4,
+      "height": 4,
+      "sourceMode": "RGBA",
+      "pixelSha256": "20e65596fe7c15642996b35ef3054f8c93a772fc0e91f66b3174ae8ff26a2921"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\35_CEILING.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/35_CEILING.DDS",
+      "sourceSha256": "b8be2b2c9d8985680e6f98bee596dfddf171bda171f629a06b55a62422505ccc",
+      "png": "b8be2b2c9d8985680e6f98bee596dfddf171bda171f629a06b55a62422505ccc.png",
+      "width": 256,
+      "height": 256,
+      "sourceMode": "RGBA",
+      "pixelSha256": "cdb83ac8668e907a31c6f1d9100f231c9960522083eeec5fbfedcf33e3fb32ef"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\36_GAR_DOORB.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/36_GAR_DOORB.DDS",
+      "sourceSha256": "da80c91d3b0b803f2eb420150ef792fa3209a85e4519eb6e17449c43527cc192",
+      "png": "da80c91d3b0b803f2eb420150ef792fa3209a85e4519eb6e17449c43527cc192.png",
+      "width": 256,
+      "height": 512,
+      "sourceMode": "RGBA",
+      "pixelSha256": "4423afbd4f94ae98f846c2bd6cf69cf9bad6ac2086d13763ae9a8b5ed1755e30"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\37_xBEIGE.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/37_xBEIGE.DDS",
+      "sourceSha256": "537da1f630168004a0c8e3d1e849e659a39c8997ec333b1e921bd69d4c4349e8",
+      "png": "537da1f630168004a0c8e3d1e849e659a39c8997ec333b1e921bd69d4c4349e8.png",
+      "width": 4,
+      "height": 4,
+      "sourceMode": "RGBA",
+      "pixelSha256": "1efb9de95a672f6813475c3ab37f7ef33f09b4f7ab1c77902697d6d7c04c6ca4"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\38_GAR_CONC.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/38_GAR_CONC.DDS",
+      "sourceSha256": "cf80d04a51c4a78c1af946ba28a90abfa3f33f8749d327352efb933e3a3facde",
+      "png": "cf80d04a51c4a78c1af946ba28a90abfa3f33f8749d327352efb933e3a3facde.png",
+      "width": 1024,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "303ae6d449df2d90b2ce951df8bff48b116eef3910059ca1e429a9074affc299"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\39_BRKMARKERS.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/39_BRKMARKERS.DDS",
+      "sourceSha256": "feec423375d5d8f7c9887af5aeb38b6ff87d422b192698013a4164e1a956b4d6",
+      "png": "feec423375d5d8f7c9887af5aeb38b6ff87d422b192698013a4164e1a956b4d6.png",
+      "width": 1024,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "9adcbcdf32562680c02f7694aae883444018db9a372a12eaee5f7a92b5596a57"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\3_FENCEC.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/3_FENCEC.DDS",
+      "sourceSha256": "1552f1c847d895bd61b14dcaa7b706d7dc5b812f3f99c7bc6083a0099b2db7da",
+      "png": "1552f1c847d895bd61b14dcaa7b706d7dc5b812f3f99c7bc6083a0099b2db7da.png",
+      "width": 1024,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "6e57628e76018adf804c70831165957469458e91922daecd95bd9c6a486dea11"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\40_STARTLIGHT.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/40_STARTLIGHT.DDS",
+      "sourceSha256": "07ae7653653fef09eb495c45594158285f79c8c2482bca98b5beabbace133b00",
+      "png": "07ae7653653fef09eb495c45594158285f79c8c2482bca98b5beabbace133b00.png",
+      "width": 128,
+      "height": 128,
+      "sourceMode": "RGBA",
+      "pixelSha256": "5da43cb6da79febc66059d3e7a0cb72a94a5123bdbbb847af1b571e34bcaa405"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\41_NULL.dds",
+      "relativeSource": "models/1_00_kalinago/textures/41_NULL.dds",
+      "sourceSha256": "674b292ba42556246d2c203450c4d5e695b17a913c144dd61945db0999683d9a",
+      "png": "674b292ba42556246d2c203450c4d5e695b17a913c144dd61945db0999683d9a.png",
+      "width": 4,
+      "height": 4,
+      "sourceMode": "RGBA",
+      "pixelSha256": "8667e718294e9e0df1d30600ba3eeb201f764aad2dad72748643e4a285e1d1f7"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\42_MSTATION.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/42_MSTATION.DDS",
+      "sourceSha256": "4e9528bdef928511591fdbf63584af8ae592f801fe6cf0be7ffe67f41d5fe83f",
+      "png": "4e9528bdef928511591fdbf63584af8ae592f801fe6cf0be7ffe67f41d5fe83f.png",
+      "width": 2048,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "b46636713a82a5baac6bb1844cd37fdc558ce8b804787b2be793ea1a882093f4"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\43_WALLB.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/43_WALLB.DDS",
+      "sourceSha256": "075e4936f86fa0a5fdaac61517eb0202c5697c8408290f10e9dcf0bc3e417044",
+      "png": "075e4936f86fa0a5fdaac61517eb0202c5697c8408290f10e9dcf0bc3e417044.png",
+      "width": 2048,
+      "height": 2048,
+      "sourceMode": "RGBA",
+      "pixelSha256": "f365bb8ad7b8c1a001c8499fdf07ccb6b4b8b7d48f00661c6e91392edcb7464d"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\44_WALL_TIRESTOP.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/44_WALL_TIRESTOP.DDS",
+      "sourceSha256": "389b8e81d558b5d3e69172c9d5e1ec46c9adfc88bc1b0a5e60b5a54526a3425d",
+      "png": "389b8e81d558b5d3e69172c9d5e1ec46c9adfc88bc1b0a5e60b5a54526a3425d.png",
+      "width": 256,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "05e2d129b453102cb22b65e2006f57f66b9cda0c3cdd12f5e89bc231e61467f5"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\45_GSTANDA.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/45_GSTANDA.DDS",
+      "sourceSha256": "6bfc8f826e0e72cc5b35e521b485a29045bc8322486c00c126cfba8f03aef172",
+      "png": "6bfc8f826e0e72cc5b35e521b485a29045bc8322486c00c126cfba8f03aef172.png",
+      "width": 512,
+      "height": 512,
+      "sourceMode": "RGBA",
+      "pixelSha256": "48604b4bfad4b3d0eeb4d3dcb082c9907572ed6366324bbb1fd42ae0e926efbf"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\46_WALLC.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/46_WALLC.DDS",
+      "sourceSha256": "851539f805f04ea9a529d81c576fa61e43c3899e1ac09753f53e4a339ca0beb7",
+      "png": "851539f805f04ea9a529d81c576fa61e43c3899e1ac09753f53e4a339ca0beb7.png",
+      "width": 1024,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "7c52a8337b39592c5e308663b52702de9b3e60089558c773f7cf92e633772494"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\47_DIRTWALL.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/47_DIRTWALL.DDS",
+      "sourceSha256": "c0cd950093ab5ede3326de64cd43d04c4aa77b98dbe8452ab0f46b0d56dfdab5",
+      "png": "c0cd950093ab5ede3326de64cd43d04c4aa77b98dbe8452ab0f46b0d56dfdab5.png",
+      "width": 1024,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "e5c7960d5f02e41dd0ddea261701615fd581d9e8be22727b14d4eeb11f6177fa"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\48_DIRTWALL_MASK.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/48_DIRTWALL_MASK.DDS",
+      "sourceSha256": "7723637ae39e9d8b30860ed7619950c53def781e147e495fef76c10c128f81a1",
+      "png": "7723637ae39e9d8b30860ed7619950c53def781e147e495fef76c10c128f81a1.png",
+      "width": 1024,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "e51d983c27ec9d14eb63fb9f7942d32e38b1c67c5370233073df0f4eb1d28ee2"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\49_GRASS_MULT.dds",
+      "relativeSource": "models/1_00_kalinago/textures/49_GRASS_MULT.dds",
+      "sourceSha256": "31210491a3d86b3d9f36726df60ee58bb4e78aa44ebbbff7a1bb8b53f1712d20",
+      "png": "31210491a3d86b3d9f36726df60ee58bb4e78aa44ebbbff7a1bb8b53f1712d20.png",
+      "width": 2048,
+      "height": 2048,
+      "sourceMode": "RGBA",
+      "pixelSha256": "a02d6cd6eac2502f57795534c85d6c8e137da990978eb575e455602cdc57ec8b"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\4_FENCEC_NORM.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/4_FENCEC_NORM.DDS",
+      "sourceSha256": "e782631a0e11633d9d9d0b99ad348aa7709b82fd110e11defc1b5889cb66cc67",
+      "png": "e782631a0e11633d9d9d0b99ad348aa7709b82fd110e11defc1b5889cb66cc67.png",
+      "width": 1024,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "69ba049428739ab211ef04319c3fab1f1ccc6f4a17d1f4f9d230b18f91c3e39c"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\50_CHECKERBOARD.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/50_CHECKERBOARD.DDS",
+      "sourceSha256": "91308ab8ea85e50b7ce18b81c337ff05634ad0e27813456bab629d7f509d6834",
+      "png": "91308ab8ea85e50b7ce18b81c337ff05634ad0e27813456bab629d7f509d6834.png",
+      "width": 64,
+      "height": 64,
+      "sourceMode": "RGBA",
+      "pixelSha256": "e9a420ea26258d750b590e49209d48b54d4def23b8d35d0b1ecaf4c9eb4b4edf"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\51_DIRT_MULT.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/51_DIRT_MULT.DDS",
+      "sourceSha256": "9d4ab008415fab0ae8f03c33b8f7cf1be7a2107b2f93dc6c294c4b50f75e537a",
+      "png": "9d4ab008415fab0ae8f03c33b8f7cf1be7a2107b2f93dc6c294c4b50f75e537a.png",
+      "width": 1024,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "6054f00d936a4f7b2a6e256625b92aa473f18632456256899be1caaf264756af"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\52_GRASB_NORM.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/52_GRASB_NORM.DDS",
+      "sourceSha256": "dc4e953f795c9e1ee70026bef65dc99509fa21513e3d16f3ec8a412f0f40c224",
+      "png": "dc4e953f795c9e1ee70026bef65dc99509fa21513e3d16f3ec8a412f0f40c224.png",
+      "width": 2048,
+      "height": 2048,
+      "sourceMode": "RGBA",
+      "pixelSha256": "cf40cbc62ef27dd5105cc3947ab3bf6916af019e4ecfc32aadd3d2278d522fc3"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\53_DIRT.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/53_DIRT.DDS",
+      "sourceSha256": "46c9df4b58938b920bce9672022deeb9556b150e919962b2a95da4c0da36090b",
+      "png": "46c9df4b58938b920bce9672022deeb9556b150e919962b2a95da4c0da36090b.png",
+      "width": 1024,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "631332703c2a7e116ce25e50af41e2e2406e3be5219bcb72e1366c8209d44f0f"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\54_MASK.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/54_MASK.DDS",
+      "sourceSha256": "69e79bcd148b74dfd95ff197da9c16620e07ac9fbe06358db81e7fafa6145931",
+      "png": "69e79bcd148b74dfd95ff197da9c16620e07ac9fbe06358db81e7fafa6145931.png",
+      "width": 64,
+      "height": 64,
+      "sourceMode": "RGBA",
+      "pixelSha256": "0bcc07de1631aa0395013f35790f719bd754f61e4bb2847a86fdc2365d3d8d63"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\55_STRIPES.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/55_STRIPES.DDS",
+      "sourceSha256": "a4eb8f2417f89e74ef01f10a22f0747479ee08906c3e8fe066043e72b5632d9e",
+      "png": "a4eb8f2417f89e74ef01f10a22f0747479ee08906c3e8fe066043e72b5632d9e.png",
+      "width": 2048,
+      "height": 2048,
+      "sourceMode": "RGBA",
+      "pixelSha256": "6d466cdd18fe425b9d835edc8143d0e20c2e3e841ad9703723415995d03bb6a4"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\56_ROAD_MULT.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/56_ROAD_MULT.DDS",
+      "sourceSha256": "0aff1c2fd8ccff6be904db509b5822f3441e6e5f502ee3a38f6959f0a8d13b0e",
+      "png": "0aff1c2fd8ccff6be904db509b5822f3441e6e5f502ee3a38f6959f0a8d13b0e.png",
+      "width": 1024,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "2cdd912312e00541bd5e6957e8f6fe3213e7c80a09a059302e8d2f7aa5697722"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\57_ROAD_NORM.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/57_ROAD_NORM.DDS",
+      "sourceSha256": "414c79895485326752f94d0128e7efa3cd324c610228e5c48a6a76de009af91a",
+      "png": "414c79895485326752f94d0128e7efa3cd324c610228e5c48a6a76de009af91a.png",
+      "width": 1024,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "a293532785e109957fd014036cda29b00714d415e0740c468bc058b04948e82c"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\58_DRAIN.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/58_DRAIN.DDS",
+      "sourceSha256": "0ae36a664e43ec84caab2edcf0ead0b6cd1b43c021750ec375b9bbad3344e568",
+      "png": "0ae36a664e43ec84caab2edcf0ead0b6cd1b43c021750ec375b9bbad3344e568.png",
+      "width": 64,
+      "height": 2048,
+      "sourceMode": "RGBA",
+      "pixelSha256": "869a529e6dcb715f46bd1da8d4178946b9d571a2a6dc70354a6c4d59693c2301"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\59_DRAIN_NORM.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/59_DRAIN_NORM.DDS",
+      "sourceSha256": "2708efacbb5c1d8dd909f88889b2db697c91108131c1a4c7c4dc77e42c436193",
+      "png": "2708efacbb5c1d8dd909f88889b2db697c91108131c1a4c7c4dc77e42c436193.png",
+      "width": 64,
+      "height": 2048,
+      "sourceMode": "RGBA",
+      "pixelSha256": "190269f989ebaa8a950076c38012b1235444969923898c277f98ed3b9a3c2040"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\5_WALL_SAFER.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/5_WALL_SAFER.DDS",
+      "sourceSha256": "3f51fabb16c5f09aa0ddb5a12dd031459f1cf5f9e063f0b7cac8e058a5c36a4b",
+      "png": "3f51fabb16c5f09aa0ddb5a12dd031459f1cf5f9e063f0b7cac8e058a5c36a4b.png",
+      "width": 1024,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "fb22d05324d1b852d7a94bcf29fadfb6b15562e9e4c33ce0ae9c57d6a402305e"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\60_TARMAC.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/60_TARMAC.DDS",
+      "sourceSha256": "2054a0b221eaaa8dd9301729d7427757ba822fe307cbd698b7e9fea299bd4dc3",
+      "png": "2054a0b221eaaa8dd9301729d7427757ba822fe307cbd698b7e9fea299bd4dc3.png",
+      "width": 2048,
+      "height": 2048,
+      "sourceMode": "RGBA",
+      "pixelSha256": "e1c1886c3e8cb5eaec13a8b63f24ecafcaa9a1f62d120bb9a8192340610599ab"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\61_ROADOLD.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/61_ROADOLD.DDS",
+      "sourceSha256": "e05e135c37555e6a049f9ffad2a75f365f230da03b712ef0fe761db58aefe244",
+      "png": "e05e135c37555e6a049f9ffad2a75f365f230da03b712ef0fe761db58aefe244.png",
+      "width": 512,
+      "height": 4096,
+      "sourceMode": "RGBA",
+      "pixelSha256": "203cea373a83d893d65583dd19a21d8303351eefd79acd29d25d961a8acca70b"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\62_ROAD_MULTB.dds",
+      "relativeSource": "models/1_00_kalinago/textures/62_ROAD_MULTB.dds",
+      "sourceSha256": "a5286c33a83f1e44e2cc0368d0ae58ad216585a5e5f3f9bcc10c1d6058a4e313",
+      "png": "a5286c33a83f1e44e2cc0368d0ae58ad216585a5e5f3f9bcc10c1d6058a4e313.png",
+      "width": 1024,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "8c671ca788f121a6502280c198e10c00c813abf65de102a71687d751da93e39e"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\63_ROADH.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/63_ROADH.DDS",
+      "sourceSha256": "ebf53ea6a375716338cd47a7c8d4558cc6a108a812bf6c23fc07dd28db475c1a",
+      "png": "ebf53ea6a375716338cd47a7c8d4558cc6a108a812bf6c23fc07dd28db475c1a.png",
+      "width": 1024,
+      "height": 4096,
+      "sourceMode": "RGBA",
+      "pixelSha256": "9536fbb4cd0e869de974ec0d65bb809e7c0e6e9d3b51bc118eefb8cf20cf3c11"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\64_GRASB.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/64_GRASB.DDS",
+      "sourceSha256": "51df91fba5154cd473292e5ff91109c04d01ae71e386120b71cc10f9b7cda66c",
+      "png": "51df91fba5154cd473292e5ff91109c04d01ae71e386120b71cc10f9b7cda66c.png",
+      "width": 1024,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "59e6c4d1e6a4961200624a37944626d6b50e18bebfcecb29c10f69706defbf1d"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\65_GRASS_MULT.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/65_GRASS_MULT.DDS",
+      "sourceSha256": "31210491a3d86b3d9f36726df60ee58bb4e78aa44ebbbff7a1bb8b53f1712d20",
+      "png": "31210491a3d86b3d9f36726df60ee58bb4e78aa44ebbbff7a1bb8b53f1712d20.png",
+      "width": 2048,
+      "height": 2048,
+      "sourceMode": "RGBA",
+      "pixelSha256": "a02d6cd6eac2502f57795534c85d6c8e137da990978eb575e455602cdc57ec8b"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\66_PAINT.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/66_PAINT.DDS",
+      "sourceSha256": "b6b41b4667199d33eb620be9969bbbfb6cfaf3fab178a6ffb13ac1e4f1b5e8dc",
+      "png": "b6b41b4667199d33eb620be9969bbbfb6cfaf3fab178a6ffb13ac1e4f1b5e8dc.png",
+      "width": 2048,
+      "height": 2048,
+      "sourceMode": "RGBA",
+      "pixelSha256": "c0fcb27524834b9cf1fe0315163088339b7bf5a0379eecf52eb127f874c06c91"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\67_CONCRETE.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/67_CONCRETE.DDS",
+      "sourceSha256": "842d6682d31b081f6a6c4325668745ab68259ab485aeedc35eea69c3e8a7f9a4",
+      "png": "842d6682d31b081f6a6c4325668745ab68259ab485aeedc35eea69c3e8a7f9a4.png",
+      "width": 1024,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "bcb3c40db778e81a038b570cec5ca212eeb3a41f0ea76a5cb6ce4c84302a9435"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\68_CONCRETE_MULT.dds",
+      "relativeSource": "models/1_00_kalinago/textures/68_CONCRETE_MULT.dds",
+      "sourceSha256": "6107485af252c1ab90fae4ea6a258d25f6a02a52005f3c33596b8cf8eea0a84e",
+      "png": "6107485af252c1ab90fae4ea6a258d25f6a02a52005f3c33596b8cf8eea0a84e.png",
+      "width": 1024,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "9ff6d4e7d0392c901bf299b8ed56f454e1af7d95efb82cebf778e117e921f118"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\69_ROADP.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/69_ROADP.DDS",
+      "sourceSha256": "9fef1aa93ebe8e517e9e3c09a76c4e72ce23e97b6e39efd2b741f6f55d0a2ca5",
+      "png": "9fef1aa93ebe8e517e9e3c09a76c4e72ce23e97b6e39efd2b741f6f55d0a2ca5.png",
+      "width": 1024,
+      "height": 4096,
+      "sourceMode": "RGBA",
+      "pixelSha256": "52837a794b62c6e0940b619e6a8d0ea33ecd180dced78137b85a8d5bbc47a6c4"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\6_WALL_SAFER_NORM.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/6_WALL_SAFER_NORM.DDS",
+      "sourceSha256": "2c48707ca0b56052f82bc8048958455164cf9c0f5b15661be200a743530235eb",
+      "png": "2c48707ca0b56052f82bc8048958455164cf9c0f5b15661be200a743530235eb.png",
+      "width": 1024,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "d72e8c950cbe836c219c8551ebecda5ce41d142a7fa952411ea70677687a79ce"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\70_ROADN.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/70_ROADN.DDS",
+      "sourceSha256": "ebf53ea6a375716338cd47a7c8d4558cc6a108a812bf6c23fc07dd28db475c1a",
+      "png": "ebf53ea6a375716338cd47a7c8d4558cc6a108a812bf6c23fc07dd28db475c1a.png",
+      "width": 1024,
+      "height": 4096,
+      "sourceMode": "RGBA",
+      "pixelSha256": "9536fbb4cd0e869de974ec0d65bb809e7c0e6e9d3b51bc118eefb8cf20cf3c11"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\71_GRASA.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/71_GRASA.DDS",
+      "sourceSha256": "7d9735044d831c239ae2ea238d0611aa8648c5f2d6becfbf5d03a59bd69b1d33",
+      "png": "7d9735044d831c239ae2ea238d0611aa8648c5f2d6becfbf5d03a59bd69b1d33.png",
+      "width": 1024,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "d7664728d23708918531e9ab371675398529e041d7f7118f4216d8bcf1f0299d"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\72_ROADA.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/72_ROADA.DDS",
+      "sourceSha256": "ebf53ea6a375716338cd47a7c8d4558cc6a108a812bf6c23fc07dd28db475c1a",
+      "png": "ebf53ea6a375716338cd47a7c8d4558cc6a108a812bf6c23fc07dd28db475c1a.png",
+      "width": 1024,
+      "height": 4096,
+      "sourceMode": "RGBA",
+      "pixelSha256": "9536fbb4cd0e869de974ec0d65bb809e7c0e6e9d3b51bc118eefb8cf20cf3c11"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\73_GRAVEL.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/73_GRAVEL.DDS",
+      "sourceSha256": "9a252a02c316d9724621c32c2d14a7de08d9a0984a4989999fcc159f116061c3",
+      "png": "9a252a02c316d9724621c32c2d14a7de08d9a0984a4989999fcc159f116061c3.png",
+      "width": 2048,
+      "height": 2048,
+      "sourceMode": "RGBA",
+      "pixelSha256": "bf5ee56bc5b0aa88247e1a0c3869370e6d8b5f3bf552d28ec5d774a75c9abc0d"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\74_GRAVEL_MULT.dds",
+      "relativeSource": "models/1_00_kalinago/textures/74_GRAVEL_MULT.dds",
+      "sourceSha256": "c51b98f70bbf659f2f83ef69bb2925554c0e470bfe026720ba0731c09c67ccf5",
+      "png": "c51b98f70bbf659f2f83ef69bb2925554c0e470bfe026720ba0731c09c67ccf5.png",
+      "width": 1024,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "c767ea7c525319c6e2dde01fcb04c8d7ee36e2470c498688cc1dea168cf4baac"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\75_RAILING.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/75_RAILING.DDS",
+      "sourceSha256": "2ac230280deead1d7e2a061f0de4ff4da3bff38b7bbc42982b48f0d2970a8a02",
+      "png": "2ac230280deead1d7e2a061f0de4ff4da3bff38b7bbc42982b48f0d2970a8a02.png",
+      "width": 512,
+      "height": 256,
+      "sourceMode": "RGBA",
+      "pixelSha256": "9b4b0349bd8db1aea91686acdc9519874fe8f58d6ccacc1392b4874aab0d62b6"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\76_RAILING_NORM.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/76_RAILING_NORM.DDS",
+      "sourceSha256": "34dd6f11b2b22492af2290733854c792c2546c91b273f42ec828beca72992048",
+      "png": "34dd6f11b2b22492af2290733854c792c2546c91b273f42ec828beca72992048.png",
+      "width": 512,
+      "height": 256,
+      "sourceMode": "RGBA",
+      "pixelSha256": "dcaf60564558a7fe234f3d5409a84eec6b7f6c5526710426e612c4ed94927a66"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\77_GSTAND_SEATS.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/77_GSTAND_SEATS.DDS",
+      "sourceSha256": "d570f9ecb3ed9d0994b81946503affa2cb67d6a25e4c5621722fcb881cab640d",
+      "png": "d570f9ecb3ed9d0994b81946503affa2cb67d6a25e4c5621722fcb881cab640d.png",
+      "width": 1024,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "a5cd21f3c1bbd4cb2be2529f4a6f3c4e6886f2ce57524908f13b24f5e924acb6"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\78_GSTAND_SEATS_NORM.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/78_GSTAND_SEATS_NORM.DDS",
+      "sourceSha256": "0da10d6ab6d514e789857498869167ea2cbc5e9e7c735bcc582d7b0331d44452",
+      "png": "0da10d6ab6d514e789857498869167ea2cbc5e9e7c735bcc582d7b0331d44452.png",
+      "width": 1024,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "1eb513ed3e490ff83802c5f4a18197b53b7dbff4141370e54b274f54eb858d35"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\79_alonso.dds",
+      "relativeSource": "models/1_00_kalinago/textures/79_alonso.dds",
+      "sourceSha256": "6a9399189fd16d78a8e2276a665ac232b93016e30a343d173841cce6b637c5d3",
+      "png": "6a9399189fd16d78a8e2276a665ac232b93016e30a343d173841cce6b637c5d3.png",
+      "width": 512,
+      "height": 512,
+      "sourceMode": "RGBA",
+      "pixelSha256": "409ea590fd46e0b1399f861966a9756c3c283f28241bd8f38c9481e25bdb0bf6"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\7_WALL_BRICKS.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/7_WALL_BRICKS.DDS",
+      "sourceSha256": "d920144432a37cb92322b6a9be03579dadd5d2a4bbe7300c3482bf10ab491005",
+      "png": "d920144432a37cb92322b6a9be03579dadd5d2a4bbe7300c3482bf10ab491005.png",
+      "width": 1024,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "ebc62b947169b694e34452f89f89ee7adb1d6e11c804c765bc74caead3c81d99"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\80_EDGE_ROAD.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/80_EDGE_ROAD.DDS",
+      "sourceSha256": "3e9c3f5d0bc81774dbef6c7bfdb9ed3f0b73d5d7a30581640c3be11cb1545e99",
+      "png": "3e9c3f5d0bc81774dbef6c7bfdb9ed3f0b73d5d7a30581640c3be11cb1545e99.png",
+      "width": 256,
+      "height": 2048,
+      "sourceMode": "RGBA",
+      "pixelSha256": "11345d573cfaa3215c2583f9102d8f6e0bbf38a43a5701866aac7fdb9b99877b"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\81_ROADLINES_A.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/81_ROADLINES_A.DDS",
+      "sourceSha256": "a5d0d53aef6e4fedfcc82f07c033facf21d378aaa63d932c9137aaa7fb99dc8c",
+      "png": "a5d0d53aef6e4fedfcc82f07c033facf21d378aaa63d932c9137aaa7fb99dc8c.png",
+      "width": 1024,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "0b9acef2974b27d36f13e059d62f33bb62cac1d6196db159cc7a479d66a3619a"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\82_TREE_HEDGE.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/82_TREE_HEDGE.DDS",
+      "sourceSha256": "28bbaeb0530ad01f330bae020f4454aa6e78de954091e056d5ba2e6298aecf33",
+      "png": "28bbaeb0530ad01f330bae020f4454aa6e78de954091e056d5ba2e6298aecf33.png",
+      "width": 1024,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "bbbb2074cdc741dd69df92567d7e062bd36dd002024ced5280b0b22b6dcbb52f"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\83_FENCEB.dds",
+      "relativeSource": "models/1_00_kalinago/textures/83_FENCEB.dds",
+      "sourceSha256": "c1800b9e7c6760f8e21fc2b2183a85afd2f8f9dace29ecd3857ab7feea0ac5e9",
+      "png": "c1800b9e7c6760f8e21fc2b2183a85afd2f8f9dace29ecd3857ab7feea0ac5e9.png",
+      "width": 1024,
+      "height": 512,
+      "sourceMode": "RGBA",
+      "pixelSha256": "4326d9f24bda8c549ef235e1498eaa8be3c757f87c80e75542218973da2f0030"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\84_FENCEPIT.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/84_FENCEPIT.DDS",
+      "sourceSha256": "23f5358e968fc30a10bb9dda75c0fafbbe888c641b44ddb00d77fc3a46c88b99",
+      "png": "23f5358e968fc30a10bb9dda75c0fafbbe888c641b44ddb00d77fc3a46c88b99.png",
+      "width": 256,
+      "height": 256,
+      "sourceMode": "RGBA",
+      "pixelSha256": "59a1ddaac2d3f92d914f38ac689bcc053dc1bb3dfb93639d58f303369a9c6979"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\85_METALGIRDER.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/85_METALGIRDER.DDS",
+      "sourceSha256": "59abf800cade531eba394382d992a3c02ba5a24ad87726d596b3ec3467c9ab30",
+      "png": "59abf800cade531eba394382d992a3c02ba5a24ad87726d596b3ec3467c9ab30.png",
+      "width": 512,
+      "height": 512,
+      "sourceMode": "RGBA",
+      "pixelSha256": "650d2b1e600787afe27a0d9d108724e83017e97a7362d2ce6d5b95a4086a70c3"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\86_GSTANDROOF.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/86_GSTANDROOF.DDS",
+      "sourceSha256": "26260766a7b9b592dae5c862277d7b6e87b5694b85f7cb6ebc357d9d61ab0f61",
+      "png": "26260766a7b9b592dae5c862277d7b6e87b5694b85f7cb6ebc357d9d61ab0f61.png",
+      "width": 512,
+      "height": 512,
+      "sourceMode": "RGBA",
+      "pixelSha256": "6ddf31b880750f46545fb023e16361494453857f1eed86b7e7726d00f8dcd632"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\87_FENCEA.dds",
+      "relativeSource": "models/1_00_kalinago/textures/87_FENCEA.dds",
+      "sourceSha256": "9906dea78f49087f11ee9b2aa3072dbd46b59193c7c5cefd86868e1119457e9e",
+      "png": "9906dea78f49087f11ee9b2aa3072dbd46b59193c7c5cefd86868e1119457e9e.png",
+      "width": 1024,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "3bec95940d7fa633316f536457b580de545b7228caaa7054d4af8cf76124bbe4"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\88_EDGE_DIRT.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/88_EDGE_DIRT.DDS",
+      "sourceSha256": "91ab4faa1fd3448050040018a121518da817e64f94436b57f13356ed466a0a12",
+      "png": "91ab4faa1fd3448050040018a121518da817e64f94436b57f13356ed466a0a12.png",
+      "width": 128,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "370a829946f0b27105e8c309b956ed747e719e22c8aff68fabc1d5dc41407a31"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\89_EDGE_GRAVEL.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/89_EDGE_GRAVEL.DDS",
+      "sourceSha256": "ff12e732b9082fd169a0556af375c59532fb956dd331a0ee1988d34c31df3cb9",
+      "png": "ff12e732b9082fd169a0556af375c59532fb956dd331a0ee1988d34c31df3cb9.png",
+      "width": 128,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "9e02abb57c59f1a9a6e1bc819dea36dd40f1509f4f254a6c29f4ae64469f3092"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\8_WALL_BRICKS_NORM.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/8_WALL_BRICKS_NORM.DDS",
+      "sourceSha256": "cbce7615d6e05c6ebd3ecb9ae7923781c83c447ced1cbcb367a33b1c86605498",
+      "png": "cbce7615d6e05c6ebd3ecb9ae7923781c83c447ced1cbcb367a33b1c86605498.png",
+      "width": 1024,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "31a4ac397c999cd11b449a21edd87d28f20fea5d1c464d2610d426f46653bac1"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\1_00_kalinago\\textures\\9_WALLSTONE.DDS",
+      "relativeSource": "models/1_00_kalinago/textures/9_WALLSTONE.DDS",
+      "sourceSha256": "7d84c72fb878a48d36de3e80717e200808c1a7c1edf100caa081a04f22c60416",
+      "png": "7d84c72fb878a48d36de3e80717e200808c1a7c1edf100caa081a04f22c60416.png",
+      "width": 1024,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "38f4cb3de9a22595cc2a4c2c40e54e2bd886cdaa43294b0206c02d74156af18b"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\20_kunos_props_b\\textures\\0_XCOLORS.DDS",
+      "relativeSource": "models/20_kunos_props_b/textures/0_XCOLORS.DDS",
+      "sourceSha256": "7c80dab196aa77a2fb7fbefe177b145a19bb43ab3d315b81bcf4d7658ca931bc",
+      "png": "7c80dab196aa77a2fb7fbefe177b145a19bb43ab3d315b81bcf4d7658ca931bc.png",
+      "width": 256,
+      "height": 256,
+      "sourceMode": "RGBA",
+      "pixelSha256": "7860d08dba947db691d40a2c7694522549a1e95b1e9f54e0700abbab7c5bd2f1"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\20_kunos_props_b\\textures\\10_KUNOS_VEHICLESB.DDS",
+      "relativeSource": "models/20_kunos_props_b/textures/10_KUNOS_VEHICLESB.DDS",
+      "sourceSha256": "211541c46fe7a431a059f290301f8bbb428bce9ac301b89c587d091a1fc735e2",
+      "png": "211541c46fe7a431a059f290301f8bbb428bce9ac301b89c587d091a1fc735e2.png",
+      "width": 2048,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "dfc91c1b686e6037c254cef257b6a8d87ae4391c879f8bea74b841057e884550"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\20_kunos_props_b\\textures\\11_KUNOS_VEHICLESA.DDS",
+      "relativeSource": "models/20_kunos_props_b/textures/11_KUNOS_VEHICLESA.DDS",
+      "sourceSha256": "f9c0365f6d7aa0a6cc330741f0c6fd16a044b8f244a7921a7fac7994f430371c",
+      "png": "f9c0365f6d7aa0a6cc330741f0c6fd16a044b8f244a7921a7fac7994f430371c.png",
+      "width": 1024,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "7e23c53f29245bea3b6b8bc2e0fa711ff120632cd02fc851bace22c309d99ec6"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\20_kunos_props_b\\textures\\1_KNOT_HELI.DDS",
+      "relativeSource": "models/20_kunos_props_b/textures/1_KNOT_HELI.DDS",
+      "sourceSha256": "1dd5c148cf696632c5d05bc42fa0738d54696220f919ef03d0c072ca65943295",
+      "png": "1dd5c148cf696632c5d05bc42fa0738d54696220f919ef03d0c072ca65943295.png",
+      "width": 1024,
+      "height": 256,
+      "sourceMode": "RGBA",
+      "pixelSha256": "e683242400addc3f4bc5df1ceccf6e7110476103142400a16c9c6adefdf303e7"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\20_kunos_props_b\\textures\\2_XBLACK.DDS",
+      "relativeSource": "models/20_kunos_props_b/textures/2_XBLACK.DDS",
+      "sourceSha256": "521b09bfd032973591113dc212312c1a7380b86bf96459d61676e24e4ea5ff93",
+      "png": "521b09bfd032973591113dc212312c1a7380b86bf96459d61676e24e4ea5ff93.png",
+      "width": 4,
+      "height": 4,
+      "sourceMode": "RGBA",
+      "pixelSha256": "20e65596fe7c15642996b35ef3054f8c93a772fc0e91f66b3174ae8ff26a2921"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\20_kunos_props_b\\textures\\3_JUMBOTRON.DDS",
+      "relativeSource": "models/20_kunos_props_b/textures/3_JUMBOTRON.DDS",
+      "sourceSha256": "61f90ee6f4dd2b40152722c95960be24b92032e5199c202155771a6f0209f0a3",
+      "png": "61f90ee6f4dd2b40152722c95960be24b92032e5199c202155771a6f0209f0a3.png",
+      "width": 1024,
+      "height": 512,
+      "sourceMode": "RGBA",
+      "pixelSha256": "7e64fd2a7c82049d565f9955d8a7dd92266674aa8b45033012afe908554f5ebe"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\20_kunos_props_b\\textures\\4_KUNOS_CAMERAMAN.DDS",
+      "relativeSource": "models/20_kunos_props_b/textures/4_KUNOS_CAMERAMAN.DDS",
+      "sourceSha256": "8d6e3453ae52bf2b006f1bf998cf221ad36c85a52edd6a1360a5e64040cc1702",
+      "png": "8d6e3453ae52bf2b006f1bf998cf221ad36c85a52edd6a1360a5e64040cc1702.png",
+      "width": 512,
+      "height": 256,
+      "sourceMode": "RGBA",
+      "pixelSha256": "9b6dbf0b645184adbfa0f5706d95899d9fa9679015ff15e492e56e9dd4f0d76f"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\20_kunos_props_b\\textures\\5_KUNOS_CRANES.DDS",
+      "relativeSource": "models/20_kunos_props_b/textures/5_KUNOS_CRANES.DDS",
+      "sourceSha256": "658b32bfa3d5b7072159b4c6402daaad5e98c5ca6e034751347fd04e4c2eb88f",
+      "png": "658b32bfa3d5b7072159b4c6402daaad5e98c5ca6e034751347fd04e4c2eb88f.png",
+      "width": 1024,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "19677528e71e61d1a80949affe2ecf5e5ddef27719746672d2c1c3cbdc5240ea"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\20_kunos_props_b\\textures\\6_KUNOS_AMBULANCE.DDS",
+      "relativeSource": "models/20_kunos_props_b/textures/6_KUNOS_AMBULANCE.DDS",
+      "sourceSha256": "35b4ea3dca1b07acb115571d1e2aaae241b69209e7846d45b9d1babfc86a2ed6",
+      "png": "35b4ea3dca1b07acb115571d1e2aaae241b69209e7846d45b9d1babfc86a2ed6.png",
+      "width": 1024,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "c166a2a35712939d7f2b2e895f7cd7202075c0185910d2880358b6b66eb760ca"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\20_kunos_props_b\\textures\\7_KUNOS_BOXTRUCKS.DDS",
+      "relativeSource": "models/20_kunos_props_b/textures/7_KUNOS_BOXTRUCKS.DDS",
+      "sourceSha256": "9ae69a64258e903f520d4c68ad304f57cbcf49ad7ac7741bf7f404e96428650e",
+      "png": "9ae69a64258e903f520d4c68ad304f57cbcf49ad7ac7741bf7f404e96428650e.png",
+      "width": 1024,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "c910cb3570644ec40c27d14f22548e6f0b713a67f7493c1de7466ac8939ccb66"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\20_kunos_props_b\\textures\\8_KNOT_CSTAND.DDS",
+      "relativeSource": "models/20_kunos_props_b/textures/8_KNOT_CSTAND.DDS",
+      "sourceSha256": "4f31913f9bd0ffbdb0ee95da18c23eb6beee73b8751994fa456d6dffe4d085d6",
+      "png": "4f31913f9bd0ffbdb0ee95da18c23eb6beee73b8751994fa456d6dffe4d085d6.png",
+      "width": 1024,
+      "height": 512,
+      "sourceMode": "RGBA",
+      "pixelSha256": "d5de9f0375196497299c994dbe57d8926070a3c93f0b776761af1cc932ead76e"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\20_kunos_props_b\\textures\\9_KUNOS_TVTRUCKS.DDS",
+      "relativeSource": "models/20_kunos_props_b/textures/9_KUNOS_TVTRUCKS.DDS",
+      "sourceSha256": "c3afcb45f88c6d97a189267d58ee70053c5ecbe90ca4ff60c0516d3c60f73a1e",
+      "png": "c3afcb45f88c6d97a189267d58ee70053c5ecbe90ca4ff60c0516d3c60f73a1e.png",
+      "width": 1024,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "de6fe715bc02a0cd3b084f0adbff58a8ef9eed4081028b166fcb8205e5eb0dc7"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\21_2024\\textures\\0_TARMABSTRACT.DDS",
+      "relativeSource": "models/21_2024/textures/0_TARMABSTRACT.DDS",
+      "sourceSha256": "f8f597be17812bccbb2f8a05aa5ae11b0e06f3196927482d63ae88ca0df13af2",
+      "png": "f8f597be17812bccbb2f8a05aa5ae11b0e06f3196927482d63ae88ca0df13af2.png",
+      "width": 4096,
+      "height": 4096,
+      "sourceMode": "RGBA",
+      "pixelSha256": "eced446e494afca2db4362a9dd51e97ddd590338d7cd1b84bc7406190bf2954d"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\21_2024\\textures\\1_MASK.DDS",
+      "relativeSource": "models/21_2024/textures/1_MASK.DDS",
+      "sourceSha256": "69e79bcd148b74dfd95ff197da9c16620e07ac9fbe06358db81e7fafa6145931",
+      "png": "69e79bcd148b74dfd95ff197da9c16620e07ac9fbe06358db81e7fafa6145931.png",
+      "width": 64,
+      "height": 64,
+      "sourceMode": "RGBA",
+      "pixelSha256": "0bcc07de1631aa0395013f35790f719bd754f61e4bb2847a86fdc2365d3d8d63"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\21_2024\\textures\\2_ROAD_MULT.DDS",
+      "relativeSource": "models/21_2024/textures/2_ROAD_MULT.DDS",
+      "sourceSha256": "0aff1c2fd8ccff6be904db509b5822f3441e6e5f502ee3a38f6959f0a8d13b0e",
+      "png": "0aff1c2fd8ccff6be904db509b5822f3441e6e5f502ee3a38f6959f0a8d13b0e.png",
+      "width": 1024,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "2cdd912312e00541bd5e6957e8f6fe3213e7c80a09a059302e8d2f7aa5697722"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\21_2024\\textures\\3_CHECKERBOARD.DDS",
+      "relativeSource": "models/21_2024/textures/3_CHECKERBOARD.DDS",
+      "sourceSha256": "91308ab8ea85e50b7ce18b81c337ff05634ad0e27813456bab629d7f509d6834",
+      "png": "91308ab8ea85e50b7ce18b81c337ff05634ad0e27813456bab629d7f509d6834.png",
+      "width": 64,
+      "height": 64,
+      "sourceMode": "RGBA",
+      "pixelSha256": "e9a420ea26258d750b590e49209d48b54d4def23b8d35d0b1ecaf4c9eb4b4edf"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\21_2024\\textures\\4_ROAD_NORM.DDS",
+      "relativeSource": "models/21_2024/textures/4_ROAD_NORM.DDS",
+      "sourceSha256": "414c79895485326752f94d0128e7efa3cd324c610228e5c48a6a76de009af91a",
+      "png": "414c79895485326752f94d0128e7efa3cd324c610228e5c48a6a76de009af91a.png",
+      "width": 1024,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "a293532785e109957fd014036cda29b00714d415e0740c468bc058b04948e82c"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\21_2024\\textures\\5_ROADLINES_A.DDS",
+      "relativeSource": "models/21_2024/textures/5_ROADLINES_A.DDS",
+      "sourceSha256": "a5d0d53aef6e4fedfcc82f07c033facf21d378aaa63d932c9137aaa7fb99dc8c",
+      "png": "a5d0d53aef6e4fedfcc82f07c033facf21d378aaa63d932c9137aaa7fb99dc8c.png",
+      "width": 1024,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "0b9acef2974b27d36f13e059d62f33bb62cac1d6196db159cc7a479d66a3619a"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\22_flags_f1\\textures\\0_NULL.dds",
+      "relativeSource": "models/22_flags_f1/textures/0_NULL.dds",
+      "sourceSha256": "674b292ba42556246d2c203450c4d5e695b17a913c144dd61945db0999683d9a",
+      "png": "674b292ba42556246d2c203450c4d5e695b17a913c144dd61945db0999683d9a.png",
+      "width": 4,
+      "height": 4,
+      "sourceMode": "RGBA",
+      "pixelSha256": "8667e718294e9e0df1d30600ba3eeb201f764aad2dad72748643e4a285e1d1f7"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\22_flags_f1\\textures\\1_FLAGS_NAT.DDS",
+      "relativeSource": "models/22_flags_f1/textures/1_FLAGS_NAT.DDS",
+      "sourceSha256": "5835ec49cac59afb4d60ba6a430da97bf66a302c86cd498f636ff8fef4384fcd",
+      "png": "5835ec49cac59afb4d60ba6a430da97bf66a302c86cd498f636ff8fef4384fcd.png",
+      "width": 512,
+      "height": 4096,
+      "sourceMode": "RGBA",
+      "pixelSha256": "2bf0894a2473468b051d330aa7d5a226517a8db1d494ac423e7b29241a762c9f"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\22_flags_f1\\textures\\2_ADS_FLAG_B.DDS",
+      "relativeSource": "models/22_flags_f1/textures/2_ADS_FLAG_B.DDS",
+      "sourceSha256": "3afa03810a530b8a3f1d2e4699b7cf9fd0c148b80473de5c8bda734e5b99f942",
+      "png": "3afa03810a530b8a3f1d2e4699b7cf9fd0c148b80473de5c8bda734e5b99f942.png",
+      "width": 256,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "52e68619ebd1e3e2ab672895836eb1255da1cc83c195d748ad8c709e25a506b3"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\22_flags_f1\\textures\\3_ADS_FLAG_A.DDS",
+      "relativeSource": "models/22_flags_f1/textures/3_ADS_FLAG_A.DDS",
+      "sourceSha256": "8cdd99eacc300c541323f0b38fb46e9786c272a642bd57ebc0121c24e2e02a81",
+      "png": "8cdd99eacc300c541323f0b38fb46e9786c272a642bd57ebc0121c24e2e02a81.png",
+      "width": 256,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "9fa00a68f5c8df6547d82426f21ebb86f81e555feb4ec84113e3e38656939a1b"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\23_reverb\\textures\\0_NULL.dds",
+      "relativeSource": "models/23_reverb/textures/0_NULL.dds",
+      "sourceSha256": "674b292ba42556246d2c203450c4d5e695b17a913c144dd61945db0999683d9a",
+      "png": "674b292ba42556246d2c203450c4d5e695b17a913c144dd61945db0999683d9a.png",
+      "width": 4,
+      "height": 4,
+      "sourceMode": "RGBA",
+      "pixelSha256": "8667e718294e9e0df1d30600ba3eeb201f764aad2dad72748643e4a285e1d1f7"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\2_track\\textures\\0_NULL.dds",
+      "relativeSource": "models/2_track/textures/0_NULL.dds",
+      "sourceSha256": "674b292ba42556246d2c203450c4d5e695b17a913c144dd61945db0999683d9a",
+      "png": "674b292ba42556246d2c203450c4d5e695b17a913c144dd61945db0999683d9a.png",
+      "width": 4,
+      "height": 4,
+      "sourceMode": "RGBA",
+      "pixelSha256": "8667e718294e9e0df1d30600ba3eeb201f764aad2dad72748643e4a285e1d1f7"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\2_track\\textures\\1_xLIME.DDS",
+      "relativeSource": "models/2_track/textures/1_xLIME.DDS",
+      "sourceSha256": "00e646d4ab395414d15015dc676523961c29131b7f27b39e50f3473a7fe18120",
+      "png": "00e646d4ab395414d15015dc676523961c29131b7f27b39e50f3473a7fe18120.png",
+      "width": 4,
+      "height": 4,
+      "sourceMode": "RGBA",
+      "pixelSha256": "a55131636da26cac4816330c04dcd0061a16b6f6389db44781bd094cd78573fc"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\2_track\\textures\\2_XMINT.dds",
+      "relativeSource": "models/2_track/textures/2_XMINT.dds",
+      "sourceSha256": "94e676469895e9094d792b4653d358a46ac39d596eac3c79c80f040eb4e31742",
+      "png": "94e676469895e9094d792b4653d358a46ac39d596eac3c79c80f040eb4e31742.png",
+      "width": 4,
+      "height": 4,
+      "sourceMode": "RGBA",
+      "pixelSha256": "385de322da44675357bbf5f11fdea39ce238d8e172c1c52ffdd4e33588b68a80"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\2_track\\textures\\3_XPINK.dds",
+      "relativeSource": "models/2_track/textures/3_XPINK.dds",
+      "sourceSha256": "3e3fa9fe82a7177b6b98bdf1c2a8372802ef36ab2cdcf95f1d2af31e96f79bc9",
+      "png": "3e3fa9fe82a7177b6b98bdf1c2a8372802ef36ab2cdcf95f1d2af31e96f79bc9.png",
+      "width": 4,
+      "height": 4,
+      "sourceMode": "RGBA",
+      "pixelSha256": "708fc95346abfeb684225977f3f2bb0b6012fdeb47c80a884f7b46094c176768"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\3_curbs_walls\\textures\\0_NULL.dds",
+      "relativeSource": "models/3_curbs_walls/textures/0_NULL.dds",
+      "sourceSha256": "674b292ba42556246d2c203450c4d5e695b17a913c144dd61945db0999683d9a",
+      "png": "674b292ba42556246d2c203450c4d5e695b17a913c144dd61945db0999683d9a.png",
+      "width": 4,
+      "height": 4,
+      "sourceMode": "RGBA",
+      "pixelSha256": "8667e718294e9e0df1d30600ba3eeb201f764aad2dad72748643e4a285e1d1f7"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\3_curbs_walls\\textures\\1_XPINK.dds",
+      "relativeSource": "models/3_curbs_walls/textures/1_XPINK.dds",
+      "sourceSha256": "3e3fa9fe82a7177b6b98bdf1c2a8372802ef36ab2cdcf95f1d2af31e96f79bc9",
+      "png": "3e3fa9fe82a7177b6b98bdf1c2a8372802ef36ab2cdcf95f1d2af31e96f79bc9.png",
+      "width": 4,
+      "height": 4,
+      "sourceMode": "RGBA",
+      "pixelSha256": "708fc95346abfeb684225977f3f2bb0b6012fdeb47c80a884f7b46094c176768"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\3_curbs_walls\\textures\\2_XMINT.dds",
+      "relativeSource": "models/3_curbs_walls/textures/2_XMINT.dds",
+      "sourceSha256": "94e676469895e9094d792b4653d358a46ac39d596eac3c79c80f040eb4e31742",
+      "png": "94e676469895e9094d792b4653d358a46ac39d596eac3c79c80f040eb4e31742.png",
+      "width": 4,
+      "height": 4,
+      "sourceMode": "RGBA",
+      "pixelSha256": "385de322da44675357bbf5f11fdea39ce238d8e172c1c52ffdd4e33588b68a80"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\4_timing_gp\\textures\\0_NULL.dds",
+      "relativeSource": "models/4_timing_gp/textures/0_NULL.dds",
+      "sourceSha256": "674b292ba42556246d2c203450c4d5e695b17a913c144dd61945db0999683d9a",
+      "png": "674b292ba42556246d2c203450c4d5e695b17a913c144dd61945db0999683d9a.png",
+      "width": 4,
+      "height": 4,
+      "sourceMode": "RGBA",
+      "pixelSha256": "8667e718294e9e0df1d30600ba3eeb201f764aad2dad72748643e4a285e1d1f7"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\5_startlights\\textures\\0_STARTLIGHT.DDS",
+      "relativeSource": "models/5_startlights/textures/0_STARTLIGHT.DDS",
+      "sourceSha256": "07ae7653653fef09eb495c45594158285f79c8c2482bca98b5beabbace133b00",
+      "png": "07ae7653653fef09eb495c45594158285f79c8c2482bca98b5beabbace133b00.png",
+      "width": 128,
+      "height": 128,
+      "sourceMode": "RGBA",
+      "pixelSha256": "5da43cb6da79febc66059d3e7a0cb72a94a5123bdbbb847af1b571e34bcaa405"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\6_mountains\\textures\\0_MOUNT_A.DDS",
+      "relativeSource": "models/6_mountains/textures/0_MOUNT_A.DDS",
+      "sourceSha256": "85bbf3afd272218aeb91ddd14f8bb52d652a1cdb8633db422c6623873f5a0fae",
+      "png": "85bbf3afd272218aeb91ddd14f8bb52d652a1cdb8633db422c6623873f5a0fae.png",
+      "width": 1024,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "b5056f018a550ccf623c2762cf77e5de50504a8c981963b294a10849b6d8e931"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\6_mountains\\textures\\1_MOUNT_A_MASK.DDS",
+      "relativeSource": "models/6_mountains/textures/1_MOUNT_A_MASK.DDS",
+      "sourceSha256": "f987fd332242e6525daa217d05a5f2ff4ec6e2570310aaaf90361d5c2f0f4638",
+      "png": "f987fd332242e6525daa217d05a5f2ff4ec6e2570310aaaf90361d5c2f0f4638.png",
+      "width": 1024,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "40e97ee3cef23dc393d93313f99670b272552b33c486c82339941f05fa2d72a3"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\6_mountains\\textures\\2_GRASS_MULT2.DDS",
+      "relativeSource": "models/6_mountains/textures/2_GRASS_MULT2.DDS",
+      "sourceSha256": "476f2eaa0efa86f3ecbf437a958a465f41e8c1ffdf9d2bab18afd51b7e94a67a",
+      "png": "476f2eaa0efa86f3ecbf437a958a465f41e8c1ffdf9d2bab18afd51b7e94a67a.png",
+      "width": 1024,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "b2d636c3520b3394a33989f3acf103948b4fefa0a074030a8d481ba33bac6813"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\6_mountains\\textures\\3_CHECKERBOARD.DDS",
+      "relativeSource": "models/6_mountains/textures/3_CHECKERBOARD.DDS",
+      "sourceSha256": "91308ab8ea85e50b7ce18b81c337ff05634ad0e27813456bab629d7f509d6834",
+      "png": "91308ab8ea85e50b7ce18b81c337ff05634ad0e27813456bab629d7f509d6834.png",
+      "width": 64,
+      "height": 64,
+      "sourceMode": "RGBA",
+      "pixelSha256": "e9a420ea26258d750b590e49209d48b54d4def23b8d35d0b1ecaf4c9eb4b4edf"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\6_mountains\\textures\\4_WALLR.DDS",
+      "relativeSource": "models/6_mountains/textures/4_WALLR.DDS",
+      "sourceSha256": "8d407a87e7e123d6cac932e73e42ab442053a31df48530b558cda295e462b4b9",
+      "png": "8d407a87e7e123d6cac932e73e42ab442053a31df48530b558cda295e462b4b9.png",
+      "width": 1024,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "d62427b05d1a0693aadff029430cac6aa3b52847ecc8ad042258d32692a9dc85"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\6_mountains\\textures\\5_MOUNT_A_NORM.DDS",
+      "relativeSource": "models/6_mountains/textures/5_MOUNT_A_NORM.DDS",
+      "sourceSha256": "ab549990f23845a1999850d0af5ec8f70b187df762eb7f4a29506a15f406c9fb",
+      "png": "ab549990f23845a1999850d0af5ec8f70b187df762eb7f4a29506a15f406c9fb.png",
+      "width": 1024,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "7519fed4426c1ac68c0ef02725309018117adb218bad328a38c3c3d32d498e55"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\7_grase\\textures\\0_WATER.DDS",
+      "relativeSource": "models/7_grase/textures/0_WATER.DDS",
+      "sourceSha256": "6e945f6b4c8f4e22421a6d6caa77ffac0867fbad0288723c2167da8013708528",
+      "png": "6e945f6b4c8f4e22421a6d6caa77ffac0867fbad0288723c2167da8013708528.png",
+      "width": 512,
+      "height": 512,
+      "sourceMode": "RGBA",
+      "pixelSha256": "dbaae9657937ed40cae63493f21b3c42c1b560723b1a37950dff86bc03b19cb8"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\7_grase\\textures\\10_MASK.DDS",
+      "relativeSource": "models/7_grase/textures/10_MASK.DDS",
+      "sourceSha256": "69e79bcd148b74dfd95ff197da9c16620e07ac9fbe06358db81e7fafa6145931",
+      "png": "69e79bcd148b74dfd95ff197da9c16620e07ac9fbe06358db81e7fafa6145931.png",
+      "width": 64,
+      "height": 64,
+      "sourceMode": "RGBA",
+      "pixelSha256": "0bcc07de1631aa0395013f35790f719bd754f61e4bb2847a86fdc2365d3d8d63"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\7_grase\\textures\\11_GRASB.DDS",
+      "relativeSource": "models/7_grase/textures/11_GRASB.DDS",
+      "sourceSha256": "51df91fba5154cd473292e5ff91109c04d01ae71e386120b71cc10f9b7cda66c",
+      "png": "51df91fba5154cd473292e5ff91109c04d01ae71e386120b71cc10f9b7cda66c.png",
+      "width": 1024,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "59e6c4d1e6a4961200624a37944626d6b50e18bebfcecb29c10f69706defbf1d"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\7_grase\\textures\\1_WATER_NORM.DDS",
+      "relativeSource": "models/7_grase/textures/1_WATER_NORM.DDS",
+      "sourceSha256": "4cbbed6015df78b0977a1036be2f6ef2d9777d3d726774322a3387251ebc3454",
+      "png": "4cbbed6015df78b0977a1036be2f6ef2d9777d3d726774322a3387251ebc3454.png",
+      "width": 1024,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "2fffb1213ea5320cef4480f68057fe42bf97b485785248ee75cb0e7c55cd7211"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\7_grase\\textures\\2_FOREST.DDS",
+      "relativeSource": "models/7_grase/textures/2_FOREST.DDS",
+      "sourceSha256": "77fda584e480b9a94a3c5347efeb257e896e143f087fd8816aed50ce472a528d",
+      "png": "77fda584e480b9a94a3c5347efeb257e896e143f087fd8816aed50ce472a528d.png",
+      "width": 1024,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "e89f8e014dbc80104a20f2a14dd4fff07a02543f854a36cd75d99cd091a54453"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\7_grase\\textures\\3_EDGE_SAND.DDS",
+      "relativeSource": "models/7_grase/textures/3_EDGE_SAND.DDS",
+      "sourceSha256": "1b6e0dd0daeaf8f60de955481910d22b66964baec016668da33c8401175e967c",
+      "png": "1b6e0dd0daeaf8f60de955481910d22b66964baec016668da33c8401175e967c.png",
+      "width": 128,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "60ec131bf5832d2d3a45a318b22cc9d4117ee97ac67f22f2ffd40f3b7e10fc70"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\7_grase\\textures\\4_EDGE_SAND_MASK.DDS",
+      "relativeSource": "models/7_grase/textures/4_EDGE_SAND_MASK.DDS",
+      "sourceSha256": "683dcfb8ec1a6544e81a21591439de5f4bfdba5024296903bd7e04ae51da6e23",
+      "png": "683dcfb8ec1a6544e81a21591439de5f4bfdba5024296903bd7e04ae51da6e23.png",
+      "width": 128,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "34dcdb8a795b0402d6b075ac498c156e20bea932aed28e3e2ffd3d51d521fb16"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\7_grase\\textures\\5_GRASS_MULT.dds",
+      "relativeSource": "models/7_grase/textures/5_GRASS_MULT.dds",
+      "sourceSha256": "31210491a3d86b3d9f36726df60ee58bb4e78aa44ebbbff7a1bb8b53f1712d20",
+      "png": "31210491a3d86b3d9f36726df60ee58bb4e78aa44ebbbff7a1bb8b53f1712d20.png",
+      "width": 2048,
+      "height": 2048,
+      "sourceMode": "RGBA",
+      "pixelSha256": "a02d6cd6eac2502f57795534c85d6c8e137da990978eb575e455602cdc57ec8b"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\7_grase\\textures\\6_CHECKERBOARD.DDS",
+      "relativeSource": "models/7_grase/textures/6_CHECKERBOARD.DDS",
+      "sourceSha256": "91308ab8ea85e50b7ce18b81c337ff05634ad0e27813456bab629d7f509d6834",
+      "png": "91308ab8ea85e50b7ce18b81c337ff05634ad0e27813456bab629d7f509d6834.png",
+      "width": 64,
+      "height": 64,
+      "sourceMode": "RGBA",
+      "pixelSha256": "e9a420ea26258d750b590e49209d48b54d4def23b8d35d0b1ecaf4c9eb4b4edf"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\7_grase\\textures\\7_DIRT_MULT.DDS",
+      "relativeSource": "models/7_grase/textures/7_DIRT_MULT.DDS",
+      "sourceSha256": "9d4ab008415fab0ae8f03c33b8f7cf1be7a2107b2f93dc6c294c4b50f75e537a",
+      "png": "9d4ab008415fab0ae8f03c33b8f7cf1be7a2107b2f93dc6c294c4b50f75e537a.png",
+      "width": 1024,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "6054f00d936a4f7b2a6e256625b92aa473f18632456256899be1caaf264756af"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\7_grase\\textures\\8_GRASB_NORM.DDS",
+      "relativeSource": "models/7_grase/textures/8_GRASB_NORM.DDS",
+      "sourceSha256": "dc4e953f795c9e1ee70026bef65dc99509fa21513e3d16f3ec8a412f0f40c224",
+      "png": "dc4e953f795c9e1ee70026bef65dc99509fa21513e3d16f3ec8a412f0f40c224.png",
+      "width": 2048,
+      "height": 2048,
+      "sourceMode": "RGBA",
+      "pixelSha256": "cf40cbc62ef27dd5105cc3947ab3bf6916af019e4ecfc32aadd3d2278d522fc3"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\7_grase\\textures\\9_SAND.DDS",
+      "relativeSource": "models/7_grase/textures/9_SAND.DDS",
+      "sourceSha256": "361980156ccdf6b076abeb5a5195c7e9007c882b89c32e9f6a65f2826692f396",
+      "png": "361980156ccdf6b076abeb5a5195c7e9007c882b89c32e9f6a65f2826692f396.png",
+      "width": 1024,
+      "height": 1024,
+      "sourceMode": "RGBA",
+      "pixelSha256": "257300e2c11546fc6623a97865623d31eb2b756951d577e017a55a9059846648"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\8_trees_1\\textures\\0_TREESA.DDS",
+      "relativeSource": "models/8_trees_1/textures/0_TREESA.DDS",
+      "sourceSha256": "402b3b01fa722b0fb9e43208d1b68d1e3d731f0befcc5c5175de02a3fa01da97",
+      "png": "402b3b01fa722b0fb9e43208d1b68d1e3d731f0befcc5c5175de02a3fa01da97.png",
+      "width": 4096,
+      "height": 4096,
+      "sourceMode": "RGBA",
+      "pixelSha256": "b0c800c63461f516324f7a0a080ca792f5f47675734e7ad78e748d1f0ca23e6a"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\8_trees_1\\textures\\1_TREESB.DDS",
+      "relativeSource": "models/8_trees_1/textures/1_TREESB.DDS",
+      "sourceSha256": "a4c3ab9ffda6691d3369b00b75fa463cb3e4e33e0f6edf8a50abb4deabf8a2a0",
+      "png": "a4c3ab9ffda6691d3369b00b75fa463cb3e4e33e0f6edf8a50abb4deabf8a2a0.png",
+      "width": 4096,
+      "height": 4096,
+      "sourceMode": "RGBA",
+      "pixelSha256": "b8c67aa597b89f839c6f55d2893496fb11f86c9db00559b868b864133ecb7097"
+    },
+    {
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\9_trees_2\\textures\\0_TREESC.DDS",
+      "relativeSource": "models/9_trees_2/textures/0_TREESC.DDS",
+      "sourceSha256": "f598826db63e7e564985dd28f4e6a53b65a3c5e869cbdc90b73074a252a0fa18",
+      "png": "f598826db63e7e564985dd28f4e6a53b65a3c5e869cbdc90b73074a252a0fa18.png",
+      "width": 4096,
+      "height": 4096,
+      "sourceMode": "RGBA",
+      "pixelSha256": "6aa5bb429c63b1aa26145aa850c7d1cd7ebf7ff2a4211c04d5c1d1707f485b39"
+    }
+  ],
+  "uniqueDecodedTextures": 150,
+  "failures": [],
+  "limitations": [
+    "Top mip decoded only; Unreal must regenerate mipmaps",
+    "Shader/material translation and normal-map conventions not validated",
+    "No game installation"
+  ]
+}

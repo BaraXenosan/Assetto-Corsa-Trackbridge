@@ -1,0 +1,17 @@
+# Approximate diffuse only. AC shader settings in materials.json.
+newmtl material_0
+Kd 1 1 1
+map_Kd textures/0_NULL.dds
+
+newmtl material_1
+Kd 1 1 1
+map_Kd textures/1_xLIME.DDS
+
+newmtl material_2
+Kd 1 1 1
+map_Kd textures/2_XMINT.dds
+
+newmtl material_3
+Kd 1 1 1
+map_Kd textures/3_XPINK.dds
+

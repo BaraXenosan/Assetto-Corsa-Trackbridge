@@ -1,0 +1,45 @@
+{
+  "installable": false,
+  "passed": true,
+  "results": [
+    {
+      "source": "bahrain_live04",
+      "actualM": [
+        -365.9208203125,
+        -234.30353515625,
+        -15.659659423828124
+      ],
+      "centerM": [
+        -371.01680654266664,
+        -234.5053840863,
+        -15.659660025899543
+      ],
+      "offsetM": 5.1,
+      "positiveLeftErrorM": 0.000018080509004638554,
+      "negativeLeftErrorM": 10.199982220420468,
+      "heightDifferenceM": 6.020714184984399e-7
+    },
+    {
+      "source": "bahrain_live05",
+      "actualM": [
+        -365.9208203125,
+        -234.30353515625,
+        -15.659659423828124
+      ],
+      "centerM": [
+        -371.01680654266664,
+        -234.5053840863,
+        -15.659660025899543
+      ],
+      "offsetM": 5.1,
+      "positiveLeftErrorM": 0.000018080509004638554,
+      "negativeLeftErrorM": 10.199982220420468,
+      "heightDifferenceM": 6.020714184984399e-7
+    }
+  ],
+  "conclusion": "Positive m_offRaceLineDistance matches geometric left in Unreal XY for the parked safety-car FTrackPosition",
+  "limitations": [
+    "Measured on parked Bahrain safety car, not every car positioning mode",
+    "Actor Z may include suspension/ground placement"
+  ]
+}

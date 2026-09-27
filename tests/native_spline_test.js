@@ -1,0 +1,15 @@
+'use strict';
+const assert=require('node:assert/strict'),{evaluate,knots,parameterAtDistance}=require('../native-spline');
+const p=[[0,0,0],[1,0,0],[2,0,0],[3,0,0]],k=knots(p);
+assert.deepEqual(evaluate(p,1,k),p[1]);assert.deepEqual(evaluate(p,2,k),p[2]);
+assert.deepEqual(evaluate(p,1.5,k),[1.5,0,0]);
+assert.throws(()=>knots([p[0],p[0],p[1],p[2]]),/Coincident/);
+assert.throws(()=>evaluate(p,3,k),/outside/);
+const table=[{distanceM:2,parameter:2},{distanceM:4,parameter:3}];
+assert.deepEqual(parameterAtDistance(table,0,1),{parameter:1,upperIndex:0});
+assert.deepEqual(parameterAtDistance(table,1,1),{parameter:1.5,upperIndex:0});
+assert.deepEqual(parameterAtDistance(table,3,1),{parameter:2.5,upperIndex:1});
+assert.deepEqual(parameterAtDistance(table,4,1),{parameter:3,upperIndex:1});
+assert.throws(()=>parameterAtDistance(table,-1,1),/outside/);
+assert.throws(()=>parameterAtDistance(table,5,1),/outside/);
+console.log('11 native spline assertions passed');

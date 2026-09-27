@@ -1,0 +1,89 @@
+{
+  "package": "F1Manager24/Content/Environment/Props/PitLanes/PitGarage/Models/SM_PitGarage_Large.uasset",
+  "metadataOnly": false,
+  "Name": "/Game/Environment/Props/PitLanes/PitGarage/Models/SM_PitGarage_Large",
+  "names": [
+    "Camera",
+    "MI_ConcretePanels_01",
+    "MI_Epoxy_03",
+    "MI_PitGarage_DressingProps_V001",
+    "MI_PitGarage_Screens_Large",
+    "MI_PitGarage_Screens_Small",
+    "NavCollision_Chaos",
+    "NoCollision",
+    "PitGarage_T001",
+    "PitGarage_T002",
+    "PitGarage_T002_V002",
+    "VideoScreen",
+    "Visibility",
+    "BodySetup",
+    "NavCollision",
+    "SM_PitGarage_Large",
+    "/Game/Environment/Props/PitLanes/PitGarage/Models/SM_PitGarage_Large"
+  ],
+  "exports": [
+    {
+      "index": 0,
+      "name": "BodySetup_0",
+      "type": "/Script/Engine.BodySetup",
+      "outer": "/Game/Environment/Props/PitLanes/PitGarage/Models/SM_PitGarage_Large.SM_PitGarage_Large",
+      "serialOffset": 3170,
+      "serialSize": 77
+    },
+    {
+      "index": 1,
+      "name": "NavCollision_10",
+      "type": "/Script/NavigationSystem.NavCollision",
+      "outer": "/Game/Environment/Props/PitLanes/PitGarage/Models/SM_PitGarage_Large.SM_PitGarage_Large",
+      "serialOffset": 3247,
+      "serialSize": 91
+    },
+    {
+      "index": 2,
+      "name": "SM_PitGarage_Large",
+      "type": "/Script/Engine.StaticMesh",
+      "outer": null,
+      "serialOffset": 3338,
+      "serialSize": 2362717
+    }
+  ],
+  "imports": [
+    "/Script/Engine.Default__BodySetup",
+    "/Script/Engine.BodySetup",
+    "/Script/Engine.StaticMesh",
+    "/Script/NavigationSystem.NavCollision",
+    "/Game/Environment/Props/PitLanes/PitGarage/Materials/MI_PitGarage_T001_V001.MI_PitGarage_T001_V001",
+    "/Game/Environment/Props/PitLanes/PitGarage/Materials/MI_PitGarage_T002_V001.MI_PitGarage_T002_V001",
+    "/Game/Environment/Props/PitLanes/PitGarage/Materials/MI_PitGarage_T002_V002.MI_PitGarage_T002_V002",
+    "/Game/MaterialLibrary/Concrete/MI_ConcretePanels_01.MI_ConcretePanels_01",
+    "/Game/MaterialLibrary/Concrete/MI_Epoxy_01.MI_Epoxy_01",
+    "/Game/SharedAssets/Props/DressingProps/Pitgarage/PitGarage_DressingProps/Materials/MI_PitGarage_DressingProps_V002.MI_PitGarage_DressingProps_V002",
+    "/Game/SharedAssets/Props/DressingProps/Pitgarage/PitGarage_LowRes/Materials/MI_PitGarage_Screens_Large.MI_PitGarage_Screens_Large",
+    "/Game/SharedAssets/Props/DressingProps/Pitgarage/PitGarage_LowRes/Materials/MI_PitGarage_Screens_Small.MI_PitGarage_Screens_Small",
+    "/Game/SharedAssets/Props/SignsScreens/BroadcastScreen_082/Materials/VideoScreen.VideoScreen",
+    "/Script/NavigationSystem.Default__NavCollision",
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "/Script/Engine",
+    "/Script/NavigationSystem",
+    "/Script/Engine.Default__StaticMesh"
+  ],
+  "dependencies": [
+    "/Game/SharedAssets/Props/DressingProps/Pitgarage/PitGarage_LowRes/Materials/MI_PitGarage_Screens_Small",
+    "/Game/Environment/Props/PitLanes/PitGarage/Materials/MI_PitGarage_T002_V001",
+    "/Game/SharedAssets/Props/SignsScreens/BroadcastScreen_082/Materials/VideoScreen",
+    "/Game/MaterialLibrary/Concrete/MI_Epoxy_01",
+    "/Game/SharedAssets/Props/DressingProps/Pitgarage/PitGarage_DressingProps/Materials/MI_PitGarage_DressingProps_V002",
+    "/Game/SharedAssets/Props/DressingProps/Pitgarage/PitGarage_LowRes/Materials/MI_PitGarage_Screens_Large",
+    "/Game/MaterialLibrary/Concrete/MI_ConcretePanels_01",
+    "/Game/Environment/Props/PitLanes/PitGarage/Materials/MI_PitGarage_T001_V001",
+    "/Game/Environment/Props/PitLanes/PitGarage/Materials/MI_PitGarage_T002_V002"
+  ]
+}

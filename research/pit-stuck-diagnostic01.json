@@ -1,0 +1,15 @@
+{
+  "installable": false,
+  "snapshot": "pit-stuck-live02",
+  "garageActorsLoaded": 11,
+  "pitSettings": {
+    "fullPath": "/Game/RaceSim/RaceSimPitStopDataAsset.RaceSimPitStopDataAsset",
+    "garageEntranceLength": 10,
+    "garageEntranceDistanceStart": 35,
+    "pitDistanceStart": 25,
+    "pitDistanceEnd": 40
+  },
+  "pitReturnRootCause": "not established",
+  "motionTest": "not performed; user will test game",
+  "geometryFinding": "old garage centres ahead of facade; moved 13.79\u201314.07m behind facade in build 1002"
+}

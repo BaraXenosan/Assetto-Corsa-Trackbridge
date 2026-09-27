@@ -1,0 +1,36 @@
+{
+  "installable": false,
+  "experimentalTestOnly": true,
+  "offlineReadbackPassed": true,
+  "targetSlot": "Bahrain",
+  "weekendValidated": false,
+  "raceValidated": false,
+  "files": [
+    {
+      "name": "TrackBridge_Kalinago_1001_P.pak",
+      "bytes": 347,
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+    },
+    {
+      "name": "TrackBridge_Kalinago_1001_P.utoc",
+      "bytes": 143244,
+      "sha256": "51ba30a80f7931e000df0a4d9f1ba9695f269ae68301f738054bcdf662d4d10d"
+    },
+    {
+      "name": "TrackBridge_Kalinago_1001_P.ucas",
+      "bytes": 498624130,
+      "sha256": "d4ee5d751771aaa43d3384be4ea76c22aa75f487e9636ed0dd55226a0975f20d"
+    }
+  ],
+  "remaining": [
+    "Runtime garage entry and service menu validation",
+    "Closed AC pit facade cutouts",
+    "Animation alignment verification",
+    "In-game minimap integration",
+    "DRS and weekend validation"
+  ],
+  "recursiveModScanPassed": true,
+  "overriddenConflictingContainer": "TrackChanges_P.utoc",
+  "repairReadback": "research/repair-verification01.json",
+  "standalone": true
+}

@@ -1,0 +1,39 @@
+{
+  "installable": false,
+  "experimentalTestOnly": true,
+  "offlineReadbackPassed": true,
+  "targetSlot": "Bahrain",
+  "standalone": true,
+  "weekendValidated": false,
+  "raceValidated": false,
+  "files": [
+    {
+      "name": "TrackBridge_Kalinago_1002_P.pak",
+      "bytes": 6895,
+      "sha256": "c9af792f8ab0152466bbd386cbbd03ecfbdc625f8c1b024b667d6b6bebb554b5"
+    },
+    {
+      "name": "TrackBridge_Kalinago_1002_P.utoc",
+      "bytes": 143852,
+      "sha256": "72b3ff7403b63766f45c5a3c117169d2fbeea37b00f55158f3ecc12081b4cef1"
+    },
+    {
+      "name": "TrackBridge_Kalinago_1002_P.ucas",
+      "bytes": 499282136,
+      "sha256": "700d69c33cfd1e050cc2b9a748153177b97c29a30eac76224d49016a7eaeba72"
+    }
+  ],
+  "verification": "research/repair02-verification.json",
+  "remaining": [
+    "Practice and qualifying garage return and tyre service",
+    "Crew animation alignment and garage camera",
+    "Trackside and overview camera runtime validation",
+    "Minimap car icon alignment and DRS activation",
+    "Full weekend and race finish"
+  ],
+  "runtimeRejected": true,
+  "doNotInstall": true,
+  "runtimeFailure": "Access violation reported after 89 seconds; root cause unconfirmed",
+  "crashReport": "research/crash-1002",
+  "installedReplacement": "1001"
+}

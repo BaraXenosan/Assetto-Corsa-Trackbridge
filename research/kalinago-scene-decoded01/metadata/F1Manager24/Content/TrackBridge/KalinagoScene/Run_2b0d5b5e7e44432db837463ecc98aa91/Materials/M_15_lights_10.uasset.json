@@ -1,0 +1,29 @@
+{
+  "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_15_lights_10.uasset",
+  "metadataOnly": false,
+  "Name": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_15_lights_10",
+  "names": [
+    "M_15_lights",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_15_lights"
+  ],
+  "exports": [
+    {
+      "index": 0,
+      "name": "M_15_lights_10",
+      "type": "/Script/Engine.Material",
+      "outer": null,
+      "serialOffset": 0,
+      "serialSize": 36877
+    }
+  ],
+  "imports": [
+    "/Script/Engine.Material",
+    "/Script/Engine.Default__Material",
+    null,
+    "/Script/Engine",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_be76ab452ca3b624b45708426fc611a652ac4bf81eb5275c779ebd70ba9098a2.T_be76ab452ca3b624b45708426fc611a652ac4bf81eb5275c779ebd70ba9098a2"
+  ],
+  "dependencies": [
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_be76ab452ca3b624b45708426fc611a652ac4bf81eb5275c779ebd70ba9098a2"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "PerDirectory": {
+    "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\research\\bahrain_roundtrip01": {
+      "AesKeys": {
+        "mainKey": "0x0000000000000000000000000000000000000000000000000000000000000000"
+      },
+      "UeVersion": 83951616
+    }
+  },
+  "OutputDirectory": "C:\\Users\\BaraXenosan\\Desktop\\Output"
+}

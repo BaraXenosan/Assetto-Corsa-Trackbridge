@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FGenericCrashContext>
+	<RuntimeProperties>
+		<CrashVersion>3</CrashVersion>
+		<ExecutionGuid>3CBAE74D4D490C2E7489A1A7C9F0EA51</ExecutionGuid>
+		<CrashGUID>UECC-Windows-2E1FE26B4B6AB10F5575C0BD59CC581B_0000</CrashGUID>
+		<IsEnsure>false</IsEnsure>
+		<IsStall>false</IsStall>
+		<IsAssert>false</IsAssert>
+		<CrashType>Crash</CrashType>
+		<ErrorMessage>Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0x000000ef00000a98</ErrorMessage>
+		<CrashReporterMessage />
+		<ProcessId>14824</ProcessId>
+		<SecondsSinceStart>89</SecondsSinceStart>
+		<IsInternalBuild>false</IsInternalBuild>
+		<IsPerforceBuild>false</IsPerforceBuild>
+		<IsSourceDistribution>false</IsSourceDistribution>
+		<GameName>UE-F1Manager24</GameName>
+		<ExecutableName>F1Manager24</ExecutableName>
+		<BuildConfiguration>Shipping</BuildConfiguration>
+		<GameSessionID />
+		<PlatformName>Windows</PlatformName>
+		<PlatformNameIni>Windows</PlatformNameIni>
+		<EngineMode>Game</EngineMode>
+		<EngineModeEx>Unset</EngineModeEx>
+		<DeploymentName />
+		<EngineVersion>5.1.1-498643+++volta24+game+1.11.0</EngineVersion>
+		<CommandLine>F1Manager24 F1Manager24 --disable-ue4ss</CommandLine>
+		<LanguageLCID>0</LanguageLCID>
+		<AppDefaultLocale>ru-RU</AppDefaultLocale>
+		<BuildVersion>++volta24+game+1.11.0-CL-498643</BuildVersion>
+		<Symbols>**volta24*game*1.11.0-CL-498643-Win64-Shipping</Symbols>
+		<IsUERelease>true</IsUERelease>
+		<IsRequestingExit>false</IsRequestingExit>
+		<UserName />
+		<BaseDir>C:/Program Files (x86)/Steam/steamapps/common/F1 Manager 2024/F1Manager24/Binaries/Win64/</BaseDir>
+		<RootDir>C:/Program Files (x86)/Steam/steamapps/common/F1 Manager 2024/</RootDir>
+		<MachineId>CBA2030B46E04FB7D0CBB2A6F994FA3F</MachineId>
+		<LoginId>cba2030b46e04fb7d0cbb2a6f994fa3f</LoginId>
+		<EpicAccountId>1e797268378040e29ff2e6419e20d6c0</EpicAccountId>
+		<SourceContext />
+		<UserDescription />
+		<UserActivityHint />
+		<CrashDumpMode>0</CrashDumpMode>
+		<GameStateName />
+		<Misc.NumberOfCores>6</Misc.NumberOfCores>
+		<Misc.NumberOfCoresIncludingHyperthreads>12</Misc.NumberOfCoresIncludingHyperthreads>
+		<Misc.Is64bitOperatingSystem>1</Misc.Is64bitOperatingSystem>
+		<Misc.CPUVendor>GenuineIntel</Misc.CPUVendor>
+		<Misc.CPUBrand>Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz</Misc.CPUBrand>
+		<Misc.PrimaryGPUBrand>NVIDIA GeForce RTX 4060</Misc.PrimaryGPUBrand>
+		<Misc.OSVersionMajor>Windows 11 (Dev) [10.0.29671.1000]</Misc.OSVersionMajor>
+		<Misc.OSVersionMinor />
+		<MemoryStats.TotalPhysical>34174660608</MemoryStats.TotalPhysical>
+		<MemoryStats.TotalVirtual>49783750656</MemoryStats.TotalVirtual>
+		<MemoryStats.PageSize>4096</MemoryStats.PageSize>
+		<MemoryStats.TotalPhysicalGB>32</MemoryStats.TotalPhysicalGB>
+		<MemoryStats.AvailablePhysical>0</MemoryStats.AvailablePhysical>
+		<MemoryStats.AvailableVirtual>0</MemoryStats.AvailableVirtual>
+		<MemoryStats.UsedPhysical>0</MemoryStats.UsedPhysical>
+		<MemoryStats.PeakUsedPhysical>0</MemoryStats.PeakUsedPhysical>
+		<MemoryStats.UsedVirtual>0</MemoryStats.UsedVirtual>
+		<MemoryStats.PeakUsedVirtual>0</MemoryStats.PeakUsedVirtual>
+		<MemoryStats.bIsOOM>0</MemoryStats.bIsOOM>
+		<MemoryStats.OOMAllocationSize>0</MemoryStats.OOMAllocationSize>
+		<MemoryStats.OOMAllocationAlignment>0</MemoryStats.OOMAllocationAlignment>
+		<NumMinidumpFramesToIgnore>0</NumMinidumpFramesToIgnore>
+		<CallStack>F1Manager24
+F1Manager24
+F1Manager24
+F1Manager24
+F1Manager24
+F1Manager24
+F1Manager24
+F1Manager24
+F1Manager24
+F1Manager24
+F1Manager24
+F1Manager24
+F1Manager24
+F1Manager24
+F1Manager24
+F1Manager24
+F1Manager24
+F1Manager24
+F1Manager24
+F1Manager24
+F1Manager24
+F1Manager24
+kernel32
+ntdll</CallStack>
+		<PCallStack>F1Manager24 0x0000000140000000 + 225c536 F1Manager24 0x0000000140000000 + 22460b4 F1Manager24 0x0000000140000000 + 2246762 F1Manager24 0x0000000140000000 + 2246bee F1Manager24 0x0000000140000000 + 22feb83 F1Manager24 0x0000000140000000 + 22f2cbc F1Manager24 0x0000000140000000 + 22e7a89 F1Manager24 0x0000000140000000 + 22f95e4 F1Manager24 0x0000000140000000 + 4073eeb F1Manager24 0x0000000140000000 + 47b5567 F1Manager24 0x0000000140000000 + 239dc1e F1Manager24 0x0000000140000000 + 23a0d13 F1Manager24 0x0000000140000000 + 47c9712 F1Manager24 0x0000000140000000 + 47ce794 F1Manager24 0x0000000140000000 + 43870b8 F1Manager24 0x0000000140000000 + 41ff11c F1Manager24 0x0000000140000000 + b33de4 F1Manager24 0x0000000140000000 + b3dc0c F1Manager24 0x0000000140000000 + b3dc8a F1Manager24 0x0000000140000000 + 90b6379 F1Manager24 0x0000000140000000 + b47694 F1Manager24 0x0000000140000000 + 5356ce2 KERNEL32 0x00007ff9cac70000 + 2fd63 ntdll 0x00007ff9cbe10000 + 58d20</PCallStack>
+		<PCallStackHash>809E73944A1A0D6C38039152DB7717116F4449E0</PCallStackHash>
+		<Threads>
+			<Thread>
+				<CallStack>ntdll 0x00007ff9cbe10000 + 1693e4 KERNELBASE 0x00007ff9c9460000 + 4d15d F1Manager24 0x0000000140000000 + 24d964c F1Manager24 0x0000000140000000 + 53ced1e VCRUNTIME140 0x00007ff9afbd0000 + 1a9c0 ntdll 0x00007ff9cbe10000 + 16db2f ntdll 0x00007ff9cbe10000 + b45ce ntdll 0x00007ff9cbe10000 + 16d3df F1Manager24 0x0000000140000000 + 225c536 F1Manager24 0x0000000140000000 + 22460b4 F1Manager24 0x0000000140000000 + 2246762 F1Manager24 0x0000000140000000 + 2246bee F1Manager24 0x0000000140000000 + 22feb83 F1Manager24 0x0000000140000000 + 22f2cbc F1Manager24 0x0000000140000000 + 22e7a89 F1Manager24 0x0000000140000000 + 22f95e4 F1Manager24 0x0000000140000000 + 4073eeb F1Manager24 0x0000000140000000 + 47b5567 F1Manager24 0x0000000140000000 + 239dc1e F1Manager24 0x0000000140000000 + 23a0d13 F1Manager24 0x0000000140000000 + 47c9712 F1Manager24 0x0000000140000000 + 47ce794 F1Manager24 0x0000000140000000 + 43870b8 F1Manager24 0x0000000140000000 + 41ff11c F1Manager24 0x0000000140000000 + b33de4 F1Manager24 0x0000000140000000 + b3dc0c F1Manager24 0x0000000140000000 + b3dc8a F1Manager24 0x0000000140000000 + 90b6379 F1Manager24 0x0000000140000000 + b47694 F1Manager24 0x0000000140000000 + 5356ce2 KERNEL32 0x00007ff9cac70000 + 2fd63 ntdll 0x00007ff9cbe10000 + 58d20</CallStack>
+				<IsCrashed>true</IsCrashed>
+				<Registers />
+				<ThreadID>8304</ThreadID>
+				<ThreadName>GameThread</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ff9cbe10000 + 1693e4 KERNELBASE 0x00007ff9c9460000 + 4d15d F1Manager24 0x0000000140000000 + 24ea08d F1Manager24 0x0000000140000000 + 23a08dd F1Manager24 0x0000000140000000 + 23a168a F1Manager24 0x0000000140000000 + 2390d30 F1Manager24 0x0000000140000000 + 23eeae4 F1Manager24 0x0000000140000000 + 24e85f7 F1Manager24 0x0000000140000000 + 24e3ae1 KERNEL32 0x00007ff9cac70000 + 2fd63 ntdll 0x00007ff9cbe10000 + 58d20</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>17512</ThreadID>
+				<ThreadName>Foreground Worker #0</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ff9cbe10000 + 1693e4 KERNELBASE 0x00007ff9c9460000 + 4d15d F1Manager24 0x0000000140000000 + 24ea08d F1Manager24 0x0000000140000000 + 23a08dd F1Manager24 0x0000000140000000 + 23a168a F1Manager24 0x0000000140000000 + 2390d30 F1Manager24 0x0000000140000000 + 23eeae4 F1Manager24 0x0000000140000000 + 24e85f7 F1Manager24 0x0000000140000000 + 24e3ae1 KERNEL32 0x00007ff9cac70000 + 2fd63 ntdll 0x00007ff9cbe10000 + 58d20</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>28500</ThreadID>
+				<ThreadName>Foreground Worker #1</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ff9cbe10000 + 1693e4 KERNELBASE 0x00007ff9c9460000 + 4d15d F1Manager24 0x0000000140000000 + 24ea08d F1Manager24 0x0000000140000000 + 23a08dd F1Manager24 0x0000000140000000 + 23a168a F1Manager24 0x0000000140000000 + 2390d30 F1Manager24 0x0000000140000000 + 23eeae4 F1Manager24 0x0000000140000000 + 24e85f7 F1Manager24 0x0000000140000000 + 24e3ae1 KERNEL32 0x00007ff9cac70000 + 2fd63 ntdll 0x00007ff9cbe10000 + 58d20</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>8508</ThreadID>
+				<ThreadName>Background Worker #2</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ff9cbe10000 + 1693e4 KERNELBASE 0x00007ff9c9460000 + 4d15d F1Manager24 0x0000000140000000 + 24ea08d F1Manager24 0x0000000140000000 + 23a08dd F1Manager24 0x0000000140000000 + 23a168a F1Manager24 0x0000000140000000 + 2390d30 F1Manager24 0x0000000140000000 + 23eeae4 F1Manager24 0x0000000140000000 + 24e85f7 F1Manager24 0x0000000140000000 + 24e3ae1 KERNEL32 0x00007ff9cac70000 + 2fd63 ntdll 0x00007ff9cbe10000 + 58d20</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>38600</ThreadID>
+				<ThreadName>Background Worker #3</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ff9cbe10000 + 1693e4 KERNELBASE 0x00007ff9c9460000 + 4d15d F1Manager24 0x0000000140000000 + 24ea08d F1Manager24 0x0000000140000000 + 23a08dd F1Manager24 0x0000000140000000 + 23a168a F1Manager24 0x0000000140000000 + 2390d30 F1Manager24 0x0000000140000000 + 23eeae4 F1Manager24 0x0000000140000000 + 24e85f7 F1Manager24 0x0000000140000000 + 24e3ae1 KERNEL32 0x00007ff9cac70000 + 2fd63 ntdll 0x00007ff9cbe10000 + 58d20</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>36324</ThreadID>
+				<ThreadName>Background Worker #4</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ff9cbe10000 + 1693e4 KERNELBASE 0x00007ff9c9460000 + 4d15d F1Manager24 0x0000000140000000 + 24ea08d F1Manager24 0x0000000140000000 + 23a08dd F1Manager24 0x0000000140000000 + 23a168a F1Manager24 0x0000000140000000 + 2390d30 F1Manager24 0x0000000140000000 + 23eeae4 F1Manager24 0x0000000140000000 + 24e85f7 F1Manager24 0x0000000140000000 + 24e3ae1 KERNEL32 0x00007ff9cac70000 + 2fd63 ntdll 0x00007ff9cbe10000 + 58d20</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>27400</ThreadID>
+				<ThreadName>Background Worker #5</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ff9cbe10000 + 1693e4 KERNELBASE 0x00007ff9c9460000 + 4d15d F1Manager24 0x0000000140000000 + 24ea08d F1Manager24 0x0000000140000000 + 23a08dd F1Manager24 0x0000000140000000 + 23a168a F1Manager24 0x0000000140000000 + 2390d30 F1Manager24 0x0000000140000000 + 23eeae4 F1Manager24 0x0000000140000000 + 24e85f7 F1Manager24 0x0000000140000000 + 24e3ae1 KERNEL32 0x00007ff9cac70000 + 2fd63 ntdll 0x00007ff9cbe10000 + 58d20</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>24848</ThreadID>
+				<ThreadName>Background Worker #6</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ff9cbe10000 + 1693e4 KERNELBASE 0x00007ff9c9460000 + 4d15d F1Manager24 0x0000000140000000 + 24ea08d F1Manager24 0x0000000140000000 + 23a08dd F1Manager24 0x0000000140000000 + 23a168a F1Manager24 0x0000000140000000 + 2390d30 F1Manager24 0x0000000140000000 + 23eeae4 F1Manager24 0x0000000140000000 + 24e85f7 F1Manager24 0x0000000140000000 + 24e3ae1 KERNEL32 0x00007ff9cac70000 + 2fd63 ntdll 0x00007ff9cbe10000 + 58d20</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>28872</ThreadID>
+				<ThreadName>Background Worker #7</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ff9cbe10000 + 1693e4 KERNELBASE 0x00007ff9c9460000 + 4d15d F1Manager24 0x0000000140000000 + 24ea08d F1Manager24 0x0000000140000000 + 23a08dd F1Manager24 0x0000000140000000 + 23a168a F1Manager24 0x0000000140000000 + 2390d30 F1Manager24 0x0000000140000000 + 23eeae4 F1Manager24 0x0000000140000000 + 24e85f7 F1Manager24 0x0000000140000000 + 24e3ae1 KERNEL32 0x00007ff9cac70000 + 2fd63 ntdll 0x00007ff9cbe10000 + 58d20</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>38880</ThreadID>
+				<ThreadName>Background Worker #8</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ff9cbe10000 + 1693e4 KERNELBASE 0x00007ff9c9460000 + 4d15d F1Manager24 0x0000000140000000 + 24ea08d F1Manager24 0x0000000140000000 + 23a08dd F1Manager24 0x0000000140000000 + 23a168a F1Manager24 0x0000000140000000 + 2390d30 F1Manager24 0x0000000140000000 + 23eeae4 F1Manager24 0x0000000140000000 + 24e85f7 F1Manager24 0x0000000140000000 + 24e3ae1 KERNEL32 0x00007ff9cac70000 + 2fd63 ntdll 0x00007ff9cbe10000 + 58d20</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>21252</ThreadID>
+				<ThreadName>Background Worker #9</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ff9cbe10000 + 1693e4 KERNELBASE 0x00007ff9c9460000 + 4d15d F1Manager24 0x0000000140000000 + 24ea08d F1Manager24 0x0000000140000000 + 23ee8de F1Manager24 0x0000000140000000 + 24e85f7 F1Manager24 0x0000000140000000 + 24e3ae1 KERNEL32 0x00007ff9cac70000 + 2fd63 ntdll 0x00007ff9cbe10000 + 58d20</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>37584</ThreadID>
+				<ThreadName>BackgroundThreadPool #0</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ff9cbe10000 + 1693e4 KERNELBASE 0x00007ff9c9460000 + 4d15d F1Manager24 0x0000000140000000 + 24ea08d F1Manager24 0x0000000140000000 + 23ee8de F1Manager24 0x0000000140000000 + 24e85f7 F1Manager24 0x0000000140000000 + 24e3ae1 KERNEL32 0x00007ff9cac70000 + 2fd63 ntdll 0x00007ff9cbe10000 + 58d20</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>30088</ThreadID>
+				<ThreadName>BackgroundThreadPool #1</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ff9cbe10000 + 1693e4 KERNELBASE 0x00007ff9c9460000 + 4d15d F1Manager24 0x0000000140000000 + 24ea08d F1Manager24 0x0000000140000000 + 238f373 F1Manager24 0x0000000140000000 + 23eeae4 F1Manager24 0x0000000140000000 + 24e85f7 F1Manager24 0x0000000140000000 + 24e3ae1 KERNEL32 0x00007ff9cac70000 + 2fd63 ntdll 0x00007ff9cbe10000 + 58d20</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>15424</ThreadID>
+				<ThreadName>Reserve Worker #0</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ff9cbe10000 + 1693e4 KERNELBASE 0x00007ff9c9460000 + 4d15d F1Manager24 0x0000000140000000 + 24ea08d F1Manager24 0x0000000140000000 + 238f373 F1Manager24 0x0000000140000000 + 23eeae4 F1Manager24 0x0000000140000000 + 24e85f7 F1Manager24 0x0000000140000000 + 24e3ae1 KERNEL32 0x00007ff9cac70000 + 2fd63 ntdll 0x00007ff9cbe10000 + 58d20</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>38332</ThreadID>
+				<ThreadName>Reserve Worker #1</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ff9cbe10000 + 1693e4 KERNELBASE 0x00007ff9c9460000 + 4d15d F1Manager24 0x0000000140000000 + 24ea08d F1Manager24 0x0000000140000000 + 238f373 F1Manager24 0x0000000140000000 + 23eeae4 F1Manager24 0x0000000140000000 + 24e85f7 F1Manager24 0x0000000140000000 + 24e3ae1 KERNEL32 0x00007ff9cac70000 + 2fd63 ntdll 0x00007ff9cbe10000 + 58d20</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>31168</ThreadID>
+				<ThreadName>Reserve Worker #2</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ff9cbe10000 + 1693e4 KERNELBASE 0x00007ff9c9460000 + 4d15d F1Manager24 0x0000000140000000 + 24ea08d F1Manager24 0x0000000140000000 + 238f373 F1Manager24 0x0000000140000000 + 23eeae4 F1Manager24 0x0000000140000000 + 24e85f7 F1Manager24 0x0000000140000000 + 24e3ae1 KERNEL32 0x00007ff9cac70000 + 2fd63 ntdll 0x00007ff9cbe10000 + 58d20</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>2712</ThreadID>
+				<ThreadName>Reserve Worker #3</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ff9cbe10000 + 1693e4 KERNELBASE 0x00007ff9c9460000 + 4d15d F1Manager24 0x0000000140000000 + 24ea08d F1Manager24 0x0000000140000000 + 238f373 F1Manager24 0x0000000140000000 + 23eeae4 F1Manager24 0x0000000140000000 + 24e85f7 F1Manager24 0x0000000140000000 + 24e3ae1 KERNEL32 0x00007ff9cac70000 + 2fd63 ntdll 0x00007ff9cbe10000 + 58d20</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>33208</ThreadID>
+				<ThreadName>Reserve Worker #4</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ff9cbe10000 + 1693e4 KERNELBASE 0x00007ff9c9460000 + 4d15d F1Manager24 0x0000000140000000 + 24ea08d F1Manager24 0x0000000140000000 + 238f373 F1Manager24 0x0000000140000000 + 23eeae4 F1Manager24 0x0000000140000000 + 24e85f7 F1Manager24 0x0000000140000000 + 24e3ae1 KERNEL32 0x00007ff9cac70000 + 2fd63 ntdll 0x00007ff9cbe10000 + 58d20</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>31964</ThreadID>
+				<ThreadName>Reserve Worker #5</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ff9cbe10000 + 1693e4 KERNELBASE 0x00007ff9c9460000 + 4d15d F1Manager24 0x0000000140000000 + 24ea08d F1Manager24 0x0000000140000000 + 238f373 F1Manager24 0x0000000140000000 + 23eeae4 F1Manager24 0x0000000140000000 + 24e85f7 F1Manager24 0x0000000140000000 + 24e3ae1 KERNEL32 0x00007ff9cac70000 + 2fd63 ntdll 0x00007ff9cbe10000 + 58d20</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>31800</ThreadID>
+				<ThreadName>Reserve Worker #6</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ff9cbe10000 + 1693e4 KERNELBASE 0x00007ff9c9460000 + 4d15d F1Manager24 0x0000000140000000 + 24ea08d F1Manager24 0x0000000140000000 + 238f373 F1Manager24 0x0000000140000000 + 23eeae4 F1Manager24 0x0000000140000000 + 24e85f7 F1Manager24 0x0000000140000000 + 24e3ae1 KERNEL32 0x00007ff9cac70000 + 2fd63 ntdll 0x00007ff9cbe10000 + 58d20</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>40356</ThreadID>
+				<ThreadName>Reserve Worker #7</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ff9cbe10000 + 1693e4 KERNELBASE 0x00007ff9c9460000 + 4d15d F1Manager24 0x0000000140000000 + 24ea08d F1Manager24 0x0000000140000000 + 238f373 F1Manager24 0x0000000140000000 + 23eeae4 F1Manager24 0x0000000140000000 + 24e85f7 F1Manager24 0x0000000140000000 + 24e3ae1 KERNEL32 0x00007ff9cac70000 + 2fd63 ntdll 0x00007ff9cbe10000 + 58d20</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>27960</ThreadID>
+				<ThreadName>Reserve Worker #8</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ff9cbe10000 + 1693e4 KERNELBASE 0x00007ff9c9460000 + 4d15d F1Manager24 0x0000000140000000 + 24ea08d F1Manager24 0x0000000140000000 + 238f373 F1Manager24 0x0000000140000000 + 23eeae4 F1Manager24 0x0000000140000000 + 24e85f7 F1Manager24 0x0000000140000000 + 24e3ae1 KERNEL32 0x00007ff9cac70000 + 2fd63 ntdll 0x00007ff9cbe10000 + 58d20</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>32036</ThreadID>
+				<ThreadName>Reserve Worker #9</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ff9cbe10000 + 1699e4 ntdll 0x00007ff9cbe10000 + be119 KERNELBASE 0x00007ff9c9460000 + 250f7 F1Manager24 0x0000000140000000 + 3578561 F1Manager24 0x0000000140000000 + 24e85f7 F1Manager24 0x0000000140000000 + 24e3ae1 KERNEL32 0x00007ff9cac70000 + 2fd63 ntdll 0x00007ff9cbe10000 + 58d20</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>31912</ThreadID>
+				<ThreadName>HttpManagerThread</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ff9cbe10000 + 1693e4 KERNELBASE 0x00007ff9c9460000 + 4d15d F1Manager24 0x0000000140000000 + 24ea08d F1Manager24 0x0000000140000000 + c11b46 F1Manager24 0x0000000140000000 + 24e85f7 F1Manager24 0x0000000140000000 + 24e3ae1 KERNEL32 0x00007ff9cac70000 + 2fd63 ntdll 0x00007ff9cbe10000 + 58d20</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>26108</ThreadID>
+				<ThreadName>OnlineAsyncTaskThreadSteam DefaultInstance</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ff9cbe10000 + 1693e4 KERNELBASE 0x00007ff9c9460000 + 4d15d F1Manager24 0x0000000140000000 + 24ea08d F1Manager24 0x0000000140000000 + 3d8639c F1Manager24 0x0000000140000000 + 24e85f7 F1Manager24 0x0000000140000000 + 24e3ae1 KERNEL32 0x00007ff9cac70000 + 2fd63 ntdll 0x00007ff9cbe10000 + 58d20</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>9548</ThreadID>
+				<ThreadName>FMediaTicker</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ff9cbe10000 + 1693e4 KERNELBASE 0x00007ff9c9460000 + 4d15d F1Manager24 0x0000000140000000 + 24ea08d F1Manager24 0x0000000140000000 + 24ae82e F1Manager24 0x0000000140000000 + 23eeae4 F1Manager24 0x0000000140000000 + 24e85f7 F1Manager24 0x0000000140000000 + 24e3ae1 KERNEL32 0x00007ff9cac70000 + 2fd63 ntdll 0x00007ff9cbe10000 + 58d20</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>32180</ThreadID>
+				<ThreadName>OutputDeviceRedirector</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ff9cbe10000 + 1693e4 KERNELBASE 0x00007ff9c9460000 + 4d15d F1Manager24 0x0000000140000000 + 24ea08d F1Manager24 0x0000000140000000 + 23ee8de F1Manager24 0x0000000140000000 + 24e85f7 F1Manager24 0x0000000140000000 + 24e3ae1 KERNEL32 0x00007ff9cac70000 + 2fd63 ntdll 0x00007ff9cbe10000 + 58d20</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>25812</ThreadID>
+				<ThreadName>IOThreadPool #0</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ff9cbe10000 + 1693e4 KERNELBASE 0x00007ff9c9460000 + 4d15d F1Manager24 0x0000000140000000 + 24ea08d F1Manager24 0x0000000140000000 + 23ee8de F1Manager24 0x0000000140000000 + 24e85f7 F1Manager24 0x0000000140000000 + 24e3ae1 KERNEL32 0x00007ff9cac70000 + 2fd63 ntdll 0x00007ff9cbe10000 + 58d20</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>32152</ThreadID>
+				<ThreadName>IOThreadPool #1</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ff9cbe10000 + 1693e4 KERNELBASE 0x00007ff9c9460000 + 4d15d F1Manager24 0x0000000140000000 + 24ea08d F1Manager24 0x0000000140000000 + 23ee8de F1Manager24 0x0000000140000000 + 24e85f7 F1Manager24 0x0000000140000000 + 24e3ae1 KERNEL32 0x00007ff9cac70000 + 2fd63 ntdll 0x00007ff9cbe10000 + 58d20</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>23708</ThreadID>
+				<ThreadName>IOThreadPool #2</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ff9cbe10000 + 1693e4 KERNELBASE 0x00007ff9c9460000 + 4d15d F1Manager24 0x0000000140000000 + 24ea08d F1Manager24 0x0000000140000000 + 23ee8de F1Manager24 0x0000000140000000 + 24e85f7 F1Manager24 0x0000000140000000 + 24e3ae1 KERNEL32 0x00007ff9cac70000 + 2fd63 ntdll 0x00007ff9cbe10000 + 58d20</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>35932</ThreadID>
+				<ThreadName>IOThreadPool #3</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ff9cbe10000 + 1693e4 KERNELBASE 0x00007ff9c9460000 + 4d15d F1Manager24 0x0000000140000000 + 24ea08d F1Manager24 0x0000000140000000 + 3d7b622 F1Manager24 0x0000000140000000 + 24e85f7 F1Manager24 0x0000000140000000 + 24e3ae1 KERNEL32 0x00007ff9cac70000 + 2fd63 ntdll 0x00007ff9cbe10000 + 58d20</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>8276</ThreadID>
+				<ThreadName>IoService</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ff9cbe10000 + 1693e4 KERNELBASE 0x00007ff9c9460000 + 4d15d F1Manager24 0x0000000140000000 + 24ea08d F1Manager24 0x0000000140000000 + 24455f3 F1Manager24 0x0000000140000000 + 24e85f7 F1Manager24 0x0000000140000000 + 24e3ae1 KERNEL32 0x00007ff9cac70000 + 2fd63 ntdll 0x00007ff9cbe10000 + 58d20</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>38904</ThreadID>
+				<ThreadName>IoDispatcher</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ff9cbe10000 + 1693e4 KERNELBASE 0x00007ff9c9460000 + 4d15d F1Manager24 0x0000000140000000 + 2a72237 F1Manager24 0x0000000140000000 + 24e85f7 F1Manager24 0x0000000140000000 + 24e3ae1 KERNEL32 0x00007ff9cac70000 + 2fd63 ntdll 0x00007ff9cbe10000 + 58d20</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>31616</ThreadID>
+				<ThreadName>RHIInterruptThread</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ff9cbe10000 + 1693e4 KERNELBASE 0x00007ff9c9460000 + 4d15d F1Manager24 0x0000000140000000 + 24ea08d F1Manager24 0x0000000140000000 + 239dbfb F1Manager24 0x0000000140000000 + 377ac9b F1Manager24 0x0000000140000000 + 24e85f7 F1Manager24 0x0000000140000000 + 24e3ae1 KERNEL32 0x00007ff9cac70000 + 2fd63 ntdll 0x00007ff9cbe10000 + 58d20</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>9852</ThreadID>
+				<ThreadName>RHIThread</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ff9cbe10000 + 1693e4 KERNELBASE 0x00007ff9c9460000 + 4d15d F1Manager24 0x0000000140000000 + 24ea08d F1Manager24 0x0000000140000000 + 239dbfb F1Manager24 0x0000000140000000 + 3779fb9 F1Manager24 0x0000000140000000 + 377acf7 F1Manager24 0x0000000140000000 + 24e85f7 F1Manager24 0x0000000140000000 + 24e3ae1 KERNEL32 0x00007ff9cac70000 + 2fd63 ntdll 0x00007ff9cbe10000 + 58d20</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>3272</ThreadID>
+				<ThreadName>RenderThread 0</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ff9cbe10000 + 1699e4 ntdll 0x00007ff9cbe10000 + be119 KERNELBASE 0x00007ff9c9460000 + 250f7 F1Manager24 0x0000000140000000 + 24e901a F1Manager24 0x0000000140000000 + 377ad97 F1Manager24 0x0000000140000000 + 24e85f7 F1Manager24 0x0000000140000000 + 24e3ae1 KERNEL32 0x00007ff9cac70000 + 2fd63 ntdll 0x00007ff9cbe10000 + 58d20</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>15896</ThreadID>
+				<ThreadName>RTHeartBeat 0</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ff9cbe10000 + 1693e4 KERNELBASE 0x00007ff9c9460000 + 4d15d F1Manager24 0x0000000140000000 + 24ea08d F1Manager24 0x0000000140000000 + 258a981 F1Manager24 0x0000000140000000 + 258a8de F1Manager24 0x0000000140000000 + 256e26c F1Manager24 0x0000000140000000 + 24e85f7 F1Manager24 0x0000000140000000 + 24e3ae1 KERNEL32 0x00007ff9cac70000 + 2fd63 ntdll 0x00007ff9cbe10000 + 58d20</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>33404</ThreadID>
+				<ThreadName>FAsyncLoadingThread</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ff9cbe10000 + 1699e4 ntdll 0x00007ff9cbe10000 + be119 KERNELBASE 0x00007ff9c9460000 + 250f7 F1Manager24 0x0000000140000000 + 24e901a F1Manager24 0x0000000140000000 + 47ce171 F1Manager24 0x0000000140000000 + 24e85f7 F1Manager24 0x0000000140000000 + 24e3ae1 KERNEL32 0x00007ff9cac70000 + 2fd63 ntdll 0x00007ff9cbe10000 + 58d20</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>32700</ThreadID>
+				<ThreadName>ScreenSaverInhibitor</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ff9cbe10000 + 1693e4 KERNELBASE 0x00007ff9c9460000 + 4d15d F1Manager24 0x0000000140000000 + 24ea08d F1Manager24 0x0000000140000000 + 39f2687 F1Manager24 0x0000000140000000 + 24e85f7 F1Manager24 0x0000000140000000 + 24e3ae1 KERNEL32 0x00007ff9cac70000 + 2fd63 ntdll 0x00007ff9cbe10000 + 58d20</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>39660</ThreadID>
+				<ThreadName>AudioMixerNullCallbackThread</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ff9cbe10000 + 1693e4 KERNELBASE 0x00007ff9c9460000 + 4d15d F1Manager24 0x0000000140000000 + 24ea08d F1Manager24 0x0000000140000000 + 39f28ba F1Manager24 0x0000000140000000 + 39f27ee F1Manager24 0x0000000140000000 + 24e85f7 F1Manager24 0x0000000140000000 + 24e3ae1 KERNEL32 0x00007ff9cac70000 + 2fd63 ntdll 0x00007ff9cbe10000 + 58d20</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>36708</ThreadID>
+				<ThreadName>AudioMixerRenderThread(1)</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ff9cbe10000 + 1693e4 KERNELBASE 0x00007ff9c9460000 + 4d15d F1Manager24 0x0000000140000000 + 24ea08d F1Manager24 0x0000000140000000 + 25e8672 F1Manager24 0x0000000140000000 + 24e85f7 F1Manager24 0x0000000140000000 + 24e3ae1 KERNEL32 0x00007ff9cac70000 + 2fd63 ntdll 0x00007ff9cbe10000 + 58d20</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>30212</ThreadID>
+				<ThreadName>FAsyncPurge</ThreadName>
+			</Thread>
+		</Threads>
+		<TimeOfCrash>639259500103080000</TimeOfCrash>
+		<bAllowToBeContacted>1</bAllowToBeContacted>
+		<PlatformFullName>Win64 [Windows 11 (Dev) [10.0.29671.1000]  64b]</PlatformFullName>
+		<CPUBrand>Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz</CPUBrand>
+		<CrashReportClientVersion>1.0</CrashReportClientVersion>
+		<Modules>C:\Program Files (x86)\Steam\steamapps\common\F1 Manager 2024\F1Manager24\Binaries\Win64\F1Manager24.exe
+C:\Program Files (x86)\Steam\steamapps\common\F1 Manager 2024\F1Manager24\Binaries\Win64\tbb.dll
+C:\Program Files (x86)\Steam\steamapps\common\F1 Manager 2024\Engine\Plugins\Runtime\Nvidia\DLSS\Binaries\ThirdParty\Win64\nvngx_dlss.dll
+C:\Program Files (x86)\Steam\steamapps\common\F1 Manager 2024\Engine\Binaries\ThirdParty\Vorbis\Win64\VS2015\libvorbis_64.dll
+C:\Program Files (x86)\Steam\steamapps\common\F1 Manager 2024\Engine\Binaries\ThirdParty\Windows\XAudio2_9\x64\xaudio2_9redist.dll
+C:\Program Files (x86)\Steam\steamapps\common\F1 Manager 2024\F1Manager24\Plugins\Runtime\Coherent\CohtmlPlugin\Binaries\Cohtml\Win64\Release\cohtml.WindowsDesktop.dll
+C:\Program Files (x86)\Steam\steamapps\common\F1 Manager 2024\F1Manager24\Plugins\Runtime\Coherent\CohtmlPlugin\Binaries\Cohtml\Win64\Release\v8.dll
+C:\Program Files (x86)\Steam\steamapps\common\F1 Manager 2024\F1Manager24\Plugins\Runtime\Coherent\CohtmlPlugin\Binaries\Cohtml\Win64\Release\HttpServer.WindowsDesktop.dll
+C:\Program Files (x86)\Steam\steamapps\common\F1 Manager 2024\F1Manager24\Plugins\Runtime\Coherent\CohtmlPlugin\Binaries\Cohtml\Win64\Release\MediaDecoders.WindowsDesktop.dll
+C:\Program Files (x86)\Steam\steamapps\common\F1 Manager 2024\F1Manager24\Plugins\Runtime\Coherent\CoherentRenderingPlugin\Binaries\Renoir\Win64\Release\RenoirCore.WindowsDesktop.dll
+C:\Program Files (x86)\Steam\steamapps\common\F1 Manager 2024\Engine\Binaries\ThirdParty\NVIDIA\NVaftermath\Win64\GFSDK_Aftermath_Lib.x64.dll
+C:\Program Files (x86)\Steam\steamapps\common\F1 Manager 2024\Engine\Binaries\ThirdParty\DbgHelp\dbghelp.dll
+C:\Program Files (x86)\Steam\steamapps\common\F1 Manager 2024\F1Manager24\Binaries\Win64\KeplerAPI.dll
+C:\Program Files (x86)\Steam\steamapps\common\F1 Manager 2024\F1Manager24\Binaries\Win64\CChromaEditorLibrary64.dll
+C:\Program Files (x86)\Steam\steamapps\common\F1 Manager 2024\F1Manager24\Plugins\Runtime\Coherent\CohtmlPlugin\Binaries\Cohtml\Win64\Release\v8_libbase.dll
+C:\Program Files (x86)\Steam\steamapps\common\F1 Manager 2024\Engine\Binaries\ThirdParty\Steamworks\Steamv155\Win64\steam_api64.dll
+C:\Program Files (x86)\Steam\steamapps\common\F1 Manager 2024\F1Manager24\Plugins\Runtime\Coherent\CohtmlPlugin\Binaries\Cohtml\Win64\Release\v8_libplatform.dll
+C:\Program Files (x86)\Steam\steamapps\common\F1 Manager 2024\F1Manager24\Plugins\Runtime\Coherent\CohtmlPlugin\Binaries\Cohtml\Win64\Release\v8_zlib.dll
+C:\Program Files (x86)\Steam\steamapps\common\F1 Manager 2024\Engine\Binaries\ThirdParty\NVIDIA\GPUDirect\Win64\dvp.dll
+C:\Program Files (x86)\Steam\steamapps\common\F1 Manager 2024\Engine\Binaries\ThirdParty\Ogg\Win64\VS2015\libogg_64.dll
+C:\Program Files (x86)\Steam\steamapps\common\F1 Manager 2024\F1Manager24\Binaries\Win64\dwmapi.dll
+C:\Program Files (x86)\Steam\steamapps\common\F1 Manager 2024\Engine\Binaries\ThirdParty\Vorbis\Win64\VS2015\libvorbisfile_64.dll</Modules>
+	</RuntimeProperties>
+	<PlatformProperties>
+		<PlatformIsRunningWindows>1</PlatformIsRunningWindows>
+		<IsRunningOnBattery>false</IsRunningOnBattery>
+		<PlatformCallbackResult>0</PlatformCallbackResult>
+		<CrashTrigger>0</CrashTrigger>
+	</PlatformProperties>
+	<EngineData>
+		<MatchingDPStatus>WindowsNo errors</MatchingDPStatus>
+		<RHI.IntegratedGPU>false</RHI.IntegratedGPU>
+		<RHI.DriverDenylisted>false</RHI.DriverDenylisted>
+		<RHI.D3DDebug>false</RHI.D3DDebug>
+		<RHI.Breadcrumbs>false</RHI.Breadcrumbs>
+		<RHI.DRED>false</RHI.DRED>
+		<RHI.DREDContext>false</RHI.DREDContext>
+		<RHI.Aftermath>false</RHI.Aftermath>
+		<RHI.RHIName>D3D12</RHI.RHIName>
+		<RHI.AdapterName>NVIDIA GeForce RTX 4060</RHI.AdapterName>
+		<RHI.UserDriverVersion>616.64</RHI.UserDriverVersion>
+		<RHI.InternalDriverVersion>32.0.16.1664</RHI.InternalDriverVersion>
+		<RHI.DriverDate>8-24-2026</RHI.DriverDate>
+		<RHI.FeatureLevel>SM5</RHI.FeatureLevel>
+		<RHI.GPUVendor>NVIDIA</RHI.GPUVendor>
+		<RHI.DeviceId>2882</RHI.DeviceId>
+		<DeviceProfile.Name>Windows</DeviceProfile.Name>
+		<Platform.AppHasFocus>true</Platform.AppHasFocus>
+	</EngineData>
+	<GameData>
+		<Checksum>The main save file has been externally modified!</Checksum>
+	</GameData>
+</FGenericCrashContext>

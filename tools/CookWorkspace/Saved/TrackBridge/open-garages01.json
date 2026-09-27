@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "slots": [
+    {
+      "slot": 9,
+      "source": "material_9"
+    },
+    {
+      "slot": 25,
+      "source": "material_26"
+    }
+  ],
+  "method": "Hide only garage shutter surfaces using zero opacity mask",
+  "runtimeValidated": false
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Black brake markers",
+  "track": "00_cring",
+  "id": "Black brake markers",
+  "tags": ["Black brake markers"],
+  "description": "Brake markers with inverted colors",
+  "author": "doublezero",
+  "version": "1.0",
+  "url": "https://www.youtube.com/user/AISimRacing",
+  "categories": ["markers"],
+  "priority": 0.9
+}

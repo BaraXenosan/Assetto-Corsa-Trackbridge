@@ -1,0 +1,65 @@
+{
+  "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_16_layout_gp.uasset",
+  "metadataOnly": false,
+  "Name": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_16_layout_gp",
+  "names": [
+    "BlockAll",
+    "material",
+    "NavCollision_Chaos",
+    "PhysXPC",
+    "BodySetup",
+    "NavCollision",
+    "SM_16_layout_gp",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_16_layout_gp"
+  ],
+  "exports": [
+    {
+      "index": 0,
+      "name": "BodySetup_0",
+      "type": "/Script/Engine.BodySetup",
+      "outer": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_16_layout_gp.SM_16_layout_gp",
+      "serialOffset": 0,
+      "serialSize": 63937
+    },
+    {
+      "index": 1,
+      "name": "NavCollision_0",
+      "type": "/Script/NavigationSystem.NavCollision",
+      "outer": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_16_layout_gp.SM_16_layout_gp",
+      "serialOffset": 63937,
+      "serialSize": 91
+    },
+    {
+      "index": 2,
+      "name": "SM_16_layout_gp",
+      "type": "/Script/Engine.StaticMesh",
+      "outer": null,
+      "serialOffset": 64028,
+      "serialSize": 75620
+    }
+  ],
+  "imports": [
+    "/Script/Engine.Default__BodySetup",
+    "/Script/Engine.BodySetup",
+    "/Script/Engine.StaticMesh",
+    "/Script/NavigationSystem.NavCollision",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_16_layout_gp_0.M_16_layout_gp_0",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_16_layout_gp_1.M_16_layout_gp_1",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_16_layout_gp_2.M_16_layout_gp_2",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_16_layout_gp_3.M_16_layout_gp_3",
+    "/Script/NavigationSystem.Default__NavCollision",
+    null,
+    null,
+    null,
+    null,
+    "/Script/Engine",
+    "/Script/NavigationSystem",
+    "/Script/Engine.Default__StaticMesh"
+  ],
+  "dependencies": [
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_16_layout_gp_3",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_16_layout_gp_1",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_16_layout_gp_0",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_16_layout_gp_2"
+  ]
+}

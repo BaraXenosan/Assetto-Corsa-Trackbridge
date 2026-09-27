@@ -1,0 +1,35 @@
+{
+  "installable": false,
+  "experimentalTestOnly": true,
+  "offlineReadbackPassed": true,
+  "targetSlot": "Bahrain",
+  "standalone": true,
+  "files": [
+    {
+      "name": "TrackBridge_Kalinago_1003_P.pak",
+      "bytes": 6895,
+      "sha256": "c9af792f8ab0152466bbd386cbbd03ecfbdc625f8c1b024b667d6b6bebb554b5"
+    },
+    {
+      "name": "TrackBridge_Kalinago_1003_P.utoc",
+      "bytes": 143852,
+      "sha256": "b59322e66931d941bbd3b62744a1e16e92d8387a0d77dd187a3562ea1dacccf6"
+    },
+    {
+      "name": "TrackBridge_Kalinago_1003_P.ucas",
+      "bytes": 499282136,
+      "sha256": "cdf2c7c1a13d7e688af98da3875a7d83fb1e53dc0693d2144f6ff8963de3083f"
+    }
+  ],
+  "weekendValidated": false,
+  "raceValidated": false,
+  "crashFixValidatedInGame": false,
+  "verification": "research/repair03-verification.json",
+  "change": "Correct race-camera lap length from 384.1835 to 5345.8035 m; new regression test passed",
+  "crashEvidence": "Faulting instruction reads RaceSimCameraComponent cooldown using invalid pointer; final root cause not proven",
+  "remaining": [
+    "Load Bahrain without crash",
+    "Camera selection and pit return runtime tests",
+    "Animations and race finish"
+  ]
+}

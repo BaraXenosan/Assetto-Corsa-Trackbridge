@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "installable": false,
+  "root": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks",
+  "overlayDirectory": "C:\\Users\\BaraXenosan\\AppData\\Local\\ACTrackBridge\\repair-pack04",
+  "version": "GAME_UE5_1",
+  "cue4Parse": "1.2.2.0",
+  "createdUtc": "2026-09-27T13:24:08.3259341Z",
+  "files": 124006,
+  "metadataOnly": false,
+  "readShaderMaps": false,
+  "mappingFile": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\research\\runtime_20260921\\5.1.1-498643+++volta24+game+1.11.0-F1Manager24\\Mappings\\5.1.1-498643+++volta24+game+1.11.0-F1Manager24.usmap",
+  "mappingSha256": "5f6b0a3d8a2517ef2a6b442c897d68d5f3104f3c40e68bd9a7f53d0e37ac4dc2",
+  "results": [
+    {
+      "package": "F1Manager24/Content/Circuits/Bahrain/Lvl_Bahrain.umap",
+      "container": "TrackBridge_Kalinago_1004_P.utoc",
+      "output": "properties/F1Manager24/Content/Circuits/Bahrain/Lvl_Bahrain.umap.json",
+      "exports": 208
+    },
+    {
+      "package": "F1Manager24/Content/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Props.umap",
+      "container": "TrackBridge_Kalinago_1004_P.utoc",
+      "output": "properties/F1Manager24/Content/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Props.umap.json",
+      "exports": 2874
+    },
+    {
+      "package": "F1Manager24/Content/UIGameface/img/minimap/minimapBahrainBackground.svg",
+      "status": "raw-file",
+      "bytes": 19990,
+      "sha256": "97501293b8d637b9e0e5911188a0aa197592437726effa0833c6f2384dd3db24"
+    },
+    {
+      "package": "F1Manager24/Content/UIGameface/img/minimap/minimapBahrainLarge.svg",
+      "status": "raw-file",
+      "bytes": 38132,
+      "sha256": "d07b0e1daae481ea689bb955bc35e22d452a58a5b2c7071904a37bab6f241260"
+    },
+    {
+      "package": "F1Manager24/Content/UIGameface/img/minimap/minimapBahrainLargeDark.svg",
+      "status": "raw-file",
+      "bytes": 38130,
+      "sha256": "67c4a3c57a38f34c3feb19815d0bd867bba14ebae7841467dd9415365226a6ab"
+    },
+    {
+      "package": "F1Manager24/Content/UIGameface/img/minimap/minimapBahrainMedium.svg",
+      "status": "raw-file",
+      "bytes": 35951,
+      "sha256": "195eee1211d3da9c6cad1c79b216e93c30d9d44999f0953023ad853eee407953"
+    },
+    {
+      "package": "F1Manager24/Content/UIGameface/img/minimap/minimapBahrainSmall.svg",
+      "status": "raw-file",
+      "bytes": 36874,
+      "sha256": "07d1f92062059f40c10b573b03a5151f44bff348f99612e560d855a641d65b6a"
+    },
+    {
+      "package": "F1Manager24/Content/UIGameface/img/minimap/minimapBahrainSmallDark.svg",
+      "status": "raw-file",
+      "bytes": 34891,
+      "sha256": "db4bd00ebb97b63e8a1a161a111f9d37447c484e295940ecb86cd0d8c11821b5"
+    },
+    {
+      "package": "F1Manager24/Content/UIGameface/img/minimap/minimapBahrainSmallLight.svg",
+      "status": "raw-file",
+      "bytes": 34892,
+      "sha256": "5d66e21740942bc259c620e1b0d2d1fc20436aa6d57646cef31d12306a1f3e07"
+    },
+    {
+      "package": "F1Manager24/Content/UIGameface/img/minimap/minimapBahrainMinimap.svg",
+      "status": "raw-file",
+      "bytes": 35399,
+      "sha256": "0018d643b593d6c816454d4f57edd91e18f13bb3feb5df1fb3ec9adaa64c4333"
+    }
+  ],
+  "scope": "Property export for research; no cooking, packaging or game validation."
+}

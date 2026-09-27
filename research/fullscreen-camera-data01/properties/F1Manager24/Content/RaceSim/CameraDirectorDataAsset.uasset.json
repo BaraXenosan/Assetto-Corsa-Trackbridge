@@ -1,0 +1,90 @@
+[
+  {
+    "Type": "CameraDirectorDataAsset",
+    "Name": "CameraDirectorDataAsset",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'CameraDirectorDataAsset'",
+    "Package": "/Game/RaceSim/CameraDirectorDataAsset",
+    "Properties": {
+      "RaceStartLerpTime": 2.0,
+      "RaceStartLerpExp": 2.0,
+      "BroadcasterTargetEvents": [
+        {
+          "Key": "ERaceSimEventType::AttemptOvertake",
+          "Value": {
+            "EventPriorityScore": 0,
+            "CameraSwitchType": "EBroadcasterEventSwitchType::WaitForTargetSwitch",
+            "EventExpiryType": "EBroadcasterEventExpiryType::FollowUpEvent",
+            "EventExpriryDuration": 0.0,
+            "FollowUpEvents": [
+              "ERaceSimEventType::SuccesfullOvertake",
+              "ERaceSimEventType::FailedOvertake"
+            ]
+          }
+        },
+        {
+          "Key": "ERaceSimEventType::Spin",
+          "Value": {
+            "EventPriorityScore": 0,
+            "CameraSwitchType": "EBroadcasterEventSwitchType::WaitForCameraSwitch",
+            "EventExpiryType": "EBroadcasterEventExpiryType::Duration",
+            "EventExpriryDuration": 5.0,
+            "FollowUpEvents": []
+          }
+        },
+        {
+          "Key": "ERaceSimEventType::CollisionWithBarrier",
+          "Value": {
+            "EventPriorityScore": 0,
+            "CameraSwitchType": "EBroadcasterEventSwitchType::ImmediateSwitch",
+            "EventExpiryType": "EBroadcasterEventExpiryType::Duration",
+            "EventExpriryDuration": 5.0,
+            "FollowUpEvents": []
+          }
+        },
+        {
+          "Key": "ERaceSimEventType::CollisionWithCar",
+          "Value": {
+            "EventPriorityScore": 0,
+            "CameraSwitchType": "EBroadcasterEventSwitchType::ImmediateSwitch",
+            "EventExpiryType": "EBroadcasterEventExpiryType::Duration",
+            "EventExpriryDuration": 5.0,
+            "FollowUpEvents": []
+          }
+        },
+        {
+          "Key": "ERaceSimEventType::PitStopMistake",
+          "Value": {
+            "EventPriorityScore": 0,
+            "CameraSwitchType": "EBroadcasterEventSwitchType::WaitForCameraSwitch",
+            "EventExpiryType": "EBroadcasterEventExpiryType::FollowUpEvent",
+            "EventExpriryDuration": 0.0,
+            "FollowUpEvents": [
+              "ERaceSimEventType::EndPitStop"
+            ]
+          }
+        },
+        {
+          "Key": "ERaceSimEventType::RaceWon",
+          "Value": {
+            "EventPriorityScore": 0,
+            "CameraSwitchType": "EBroadcasterEventSwitchType::WaitForCameraSwitch",
+            "EventExpiryType": "EBroadcasterEventExpiryType::Duration",
+            "EventExpriryDuration": 7.0,
+            "FollowUpEvents": []
+          }
+        },
+        {
+          "Key": "ERaceSimEventType::NewBestLap",
+          "Value": {
+            "EventPriorityScore": 0,
+            "CameraSwitchType": "EBroadcasterEventSwitchType::WaitForTargetSwitch",
+            "EventExpiryType": "EBroadcasterEventExpiryType::Duration",
+            "EventExpriryDuration": 4.0,
+            "FollowUpEvents": []
+          }
+        }
+      ]
+    }
+  }
+]

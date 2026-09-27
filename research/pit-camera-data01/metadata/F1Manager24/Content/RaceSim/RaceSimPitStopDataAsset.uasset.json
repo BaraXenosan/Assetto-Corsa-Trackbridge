@@ -1,0 +1,35 @@
+{
+  "package": "F1Manager24/Content/RaceSim/RaceSimPitStopDataAsset.uasset",
+  "metadataOnly": false,
+  "Name": "/Game/RaceSim/RaceSimPitStopDataAsset",
+  "names": [
+    "EPitStopMistakeSeverity::High",
+    "EPitStopMistakeSeverity::Low",
+    "EPitStopMistakeSeverity::Medium",
+    "RaceSimPitStopDataAsset",
+    "/Game/RaceSim/RaceSimPitStopDataAsset"
+  ],
+  "exports": [
+    {
+      "index": 0,
+      "name": "RaceSimPitStopDataAsset",
+      "type": "/Script/RaceSim.RaceSimPitStopDataAsset",
+      "outer": null,
+      "serialOffset": 1150,
+      "serialSize": 380
+    }
+  ],
+  "imports": [
+    "/Script/RaceSim.RaceSimPitStopDataAsset",
+    "/Game/Management/PitStopError_SeverityCurve_High.PitStopError_SeverityCurve_High",
+    "/Game/Management/PitStopError_SeverityCurve_Medium.PitStopError_SeverityCurve_Medium",
+    null,
+    null,
+    "/Script/RaceSim",
+    "/Script/RaceSim.Default__RaceSimPitStopDataAsset"
+  ],
+  "dependencies": [
+    "/Game/Management/PitStopError_SeverityCurve_Medium",
+    "/Game/Management/PitStopError_SeverityCurve_High"
+  ]
+}

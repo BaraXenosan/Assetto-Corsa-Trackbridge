@@ -1,0 +1,56 @@
+{
+  "package": "F1Manager24/Content/TrackBridge/KalinagoPilot/Run_fc07c325ea3d4a62b8b71ec94ad1aaf8/KalinagoRoad.uasset",
+  "metadataOnly": false,
+  "Name": "/Game/TrackBridge/KalinagoPilot/Run_fc07c325ea3d4a62b8b71ec94ad1aaf8/KalinagoRoad",
+  "names": [
+    "BlockAll",
+    "defaultMat",
+    "NavCollision_Chaos",
+    "PhysXPC",
+    "BodySetup",
+    "NavCollision",
+    "KalinagoRoad",
+    "/Game/TrackBridge/KalinagoPilot/Run_fc07c325ea3d4a62b8b71ec94ad1aaf8/KalinagoRoad"
+  ],
+  "exports": [
+    {
+      "index": 0,
+      "name": "BodySetup_0",
+      "type": "/Script/Engine.BodySetup",
+      "outer": "/Game/TrackBridge/KalinagoPilot/Run_fc07c325ea3d4a62b8b71ec94ad1aaf8/KalinagoRoad.KalinagoRoad",
+      "serialOffset": 0,
+      "serialSize": 22239695
+    },
+    {
+      "index": 1,
+      "name": "NavCollision_0",
+      "type": "/Script/NavigationSystem.NavCollision",
+      "outer": "/Game/TrackBridge/KalinagoPilot/Run_fc07c325ea3d4a62b8b71ec94ad1aaf8/KalinagoRoad.KalinagoRoad",
+      "serialOffset": 22239695,
+      "serialSize": 91
+    },
+    {
+      "index": 2,
+      "name": "KalinagoRoad",
+      "type": "/Script/Engine.StaticMesh",
+      "outer": null,
+      "serialOffset": 22239786,
+      "serialSize": 24953762
+    }
+  ],
+  "imports": [
+    "/Script/Engine.Default__BodySetup",
+    "/Script/Engine.BodySetup",
+    "/Script/Engine.StaticMesh",
+    "/Script/NavigationSystem.NavCollision",
+    "/Engine/EngineMaterials/WorldGridMaterial.WorldGridMaterial",
+    "/Script/NavigationSystem.Default__NavCollision",
+    null,
+    "/Script/Engine",
+    "/Script/NavigationSystem",
+    "/Script/Engine.Default__StaticMesh"
+  ],
+  "dependencies": [
+    "/Engine/EngineMaterials/WorldGridMaterial"
+  ]
+}

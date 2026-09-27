@@ -1,0 +1,421 @@
+{
+  "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/KalinagoVisual.umap",
+  "metadataOnly": false,
+  "Name": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/KalinagoVisual",
+  "names": [
+    "/Script/NavigationSystem",
+    "NavigationSystemV1",
+    "PersistentLevel",
+    "Model",
+    "NavigationSystemModuleConfig",
+    "StaticMeshActor",
+    "StaticMeshComponent0",
+    "KalinagoVisual",
+    "WorldSettings",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/KalinagoVisual"
+  ],
+  "exports": [
+    {
+      "index": 0,
+      "name": "PersistentLevel",
+      "type": "/Script/Engine.Level",
+      "outer": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/KalinagoVisual.KalinagoVisual",
+      "serialOffset": 0,
+      "serialSize": 311
+    },
+    {
+      "index": 1,
+      "name": "Model_0",
+      "type": "/Script/Engine.Model",
+      "outer": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/KalinagoVisual.KalinagoVisual:PersistentLevel",
+      "serialOffset": 311,
+      "serialSize": 140
+    },
+    {
+      "index": 2,
+      "name": "NavigationSystemModuleConfig_0",
+      "type": "/Script/NavigationSystem.NavigationSystemModuleConfig",
+      "outer": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/KalinagoVisual.KalinagoVisual:PersistentLevel.WorldSettings",
+      "serialOffset": 451,
+      "serialSize": 29
+    },
+    {
+      "index": 3,
+      "name": "StaticMeshActor_0",
+      "type": "/Script/Engine.StaticMeshActor",
+      "outer": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/KalinagoVisual.KalinagoVisual:PersistentLevel",
+      "serialOffset": 480,
+      "serialSize": 36
+    },
+    {
+      "index": 4,
+      "name": "StaticMeshActor_1",
+      "type": "/Script/Engine.StaticMeshActor",
+      "outer": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/KalinagoVisual.KalinagoVisual:PersistentLevel",
+      "serialOffset": 516,
+      "serialSize": 37
+    },
+    {
+      "index": 5,
+      "name": "StaticMeshActor_10",
+      "type": "/Script/Engine.StaticMeshActor",
+      "outer": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/KalinagoVisual.KalinagoVisual:PersistentLevel",
+      "serialOffset": 553,
+      "serialSize": 32
+    },
+    {
+      "index": 6,
+      "name": "StaticMeshActor_11",
+      "type": "/Script/Engine.StaticMeshActor",
+      "outer": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/KalinagoVisual.KalinagoVisual:PersistentLevel",
+      "serialOffset": 585,
+      "serialSize": 36
+    },
+    {
+      "index": 7,
+      "name": "StaticMeshActor_12",
+      "type": "/Script/Engine.StaticMeshActor",
+      "outer": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/KalinagoVisual.KalinagoVisual:PersistentLevel",
+      "serialOffset": 621,
+      "serialSize": 36
+    },
+    {
+      "index": 8,
+      "name": "StaticMeshActor_13",
+      "type": "/Script/Engine.StaticMeshActor",
+      "outer": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/KalinagoVisual.KalinagoVisual:PersistentLevel",
+      "serialOffset": 657,
+      "serialSize": 38
+    },
+    {
+      "index": 9,
+      "name": "StaticMeshActor_14",
+      "type": "/Script/Engine.StaticMeshActor",
+      "outer": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/KalinagoVisual.KalinagoVisual:PersistentLevel",
+      "serialOffset": 695,
+      "serialSize": 36
+    },
+    {
+      "index": 10,
+      "name": "StaticMeshActor_15",
+      "type": "/Script/Engine.StaticMeshActor",
+      "outer": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/KalinagoVisual.KalinagoVisual:PersistentLevel",
+      "serialOffset": 731,
+      "serialSize": 32
+    },
+    {
+      "index": 11,
+      "name": "StaticMeshActor_16",
+      "type": "/Script/Engine.StaticMeshActor",
+      "outer": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/KalinagoVisual.KalinagoVisual:PersistentLevel",
+      "serialOffset": 763,
+      "serialSize": 34
+    },
+    {
+      "index": 12,
+      "name": "StaticMeshActor_17",
+      "type": "/Script/Engine.StaticMeshActor",
+      "outer": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/KalinagoVisual.KalinagoVisual:PersistentLevel",
+      "serialOffset": 797,
+      "serialSize": 34
+    },
+    {
+      "index": 13,
+      "name": "StaticMeshActor_2",
+      "type": "/Script/Engine.StaticMeshActor",
+      "outer": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/KalinagoVisual.KalinagoVisual:PersistentLevel",
+      "serialOffset": 831,
+      "serialSize": 37
+    },
+    {
+      "index": 14,
+      "name": "StaticMeshActor_3",
+      "type": "/Script/Engine.StaticMeshActor",
+      "outer": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/KalinagoVisual.KalinagoVisual:PersistentLevel",
+      "serialOffset": 868,
+      "serialSize": 34
+    },
+    {
+      "index": 15,
+      "name": "StaticMeshActor_4",
+      "type": "/Script/Engine.StaticMeshActor",
+      "outer": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/KalinagoVisual.KalinagoVisual:PersistentLevel",
+      "serialOffset": 902,
+      "serialSize": 37
+    },
+    {
+      "index": 16,
+      "name": "StaticMeshActor_5",
+      "type": "/Script/Engine.StaticMeshActor",
+      "outer": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/KalinagoVisual.KalinagoVisual:PersistentLevel",
+      "serialOffset": 939,
+      "serialSize": 34
+    },
+    {
+      "index": 17,
+      "name": "StaticMeshActor_6",
+      "type": "/Script/Engine.StaticMeshActor",
+      "outer": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/KalinagoVisual.KalinagoVisual:PersistentLevel",
+      "serialOffset": 973,
+      "serialSize": 39
+    },
+    {
+      "index": 18,
+      "name": "StaticMeshActor_7",
+      "type": "/Script/Engine.StaticMeshActor",
+      "outer": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/KalinagoVisual.KalinagoVisual:PersistentLevel",
+      "serialOffset": 1012,
+      "serialSize": 41
+    },
+    {
+      "index": 19,
+      "name": "StaticMeshActor_8",
+      "type": "/Script/Engine.StaticMeshActor",
+      "outer": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/KalinagoVisual.KalinagoVisual:PersistentLevel",
+      "serialOffset": 1053,
+      "serialSize": 38
+    },
+    {
+      "index": 20,
+      "name": "StaticMeshActor_9",
+      "type": "/Script/Engine.StaticMeshActor",
+      "outer": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/KalinagoVisual.KalinagoVisual:PersistentLevel",
+      "serialOffset": 1091,
+      "serialSize": 41
+    },
+    {
+      "index": 21,
+      "name": "StaticMeshComponent0",
+      "type": "/Script/Engine.StaticMeshComponent",
+      "outer": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/KalinagoVisual.KalinagoVisual:PersistentLevel.StaticMeshActor_0",
+      "serialOffset": 1132,
+      "serialSize": 18
+    },
+    {
+      "index": 22,
+      "name": "StaticMeshComponent0",
+      "type": "/Script/Engine.StaticMeshComponent",
+      "outer": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/KalinagoVisual.KalinagoVisual:PersistentLevel.StaticMeshActor_1",
+      "serialOffset": 1150,
+      "serialSize": 18
+    },
+    {
+      "index": 23,
+      "name": "StaticMeshComponent0",
+      "type": "/Script/Engine.StaticMeshComponent",
+      "outer": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/KalinagoVisual.KalinagoVisual:PersistentLevel.StaticMeshActor_10",
+      "serialOffset": 1168,
+      "serialSize": 18
+    },
+    {
+      "index": 24,
+      "name": "StaticMeshComponent0",
+      "type": "/Script/Engine.StaticMeshComponent",
+      "outer": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/KalinagoVisual.KalinagoVisual:PersistentLevel.StaticMeshActor_11",
+      "serialOffset": 1186,
+      "serialSize": 18
+    },
+    {
+      "index": 25,
+      "name": "StaticMeshComponent0",
+      "type": "/Script/Engine.StaticMeshComponent",
+      "outer": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/KalinagoVisual.KalinagoVisual:PersistentLevel.StaticMeshActor_12",
+      "serialOffset": 1204,
+      "serialSize": 21
+    },
+    {
+      "index": 26,
+      "name": "StaticMeshComponent0",
+      "type": "/Script/Engine.StaticMeshComponent",
+      "outer": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/KalinagoVisual.KalinagoVisual:PersistentLevel.StaticMeshActor_13",
+      "serialOffset": 1225,
+      "serialSize": 18
+    },
+    {
+      "index": 27,
+      "name": "StaticMeshComponent0",
+      "type": "/Script/Engine.StaticMeshComponent",
+      "outer": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/KalinagoVisual.KalinagoVisual:PersistentLevel.StaticMeshActor_14",
+      "serialOffset": 1243,
+      "serialSize": 18
+    },
+    {
+      "index": 28,
+      "name": "StaticMeshComponent0",
+      "type": "/Script/Engine.StaticMeshComponent",
+      "outer": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/KalinagoVisual.KalinagoVisual:PersistentLevel.StaticMeshActor_15",
+      "serialOffset": 1261,
+      "serialSize": 18
+    },
+    {
+      "index": 29,
+      "name": "StaticMeshComponent0",
+      "type": "/Script/Engine.StaticMeshComponent",
+      "outer": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/KalinagoVisual.KalinagoVisual:PersistentLevel.StaticMeshActor_16",
+      "serialOffset": 1279,
+      "serialSize": 18
+    },
+    {
+      "index": 30,
+      "name": "StaticMeshComponent0",
+      "type": "/Script/Engine.StaticMeshComponent",
+      "outer": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/KalinagoVisual.KalinagoVisual:PersistentLevel.StaticMeshActor_17",
+      "serialOffset": 1297,
+      "serialSize": 18
+    },
+    {
+      "index": 31,
+      "name": "StaticMeshComponent0",
+      "type": "/Script/Engine.StaticMeshComponent",
+      "outer": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/KalinagoVisual.KalinagoVisual:PersistentLevel.StaticMeshActor_2",
+      "serialOffset": 1315,
+      "serialSize": 18
+    },
+    {
+      "index": 32,
+      "name": "StaticMeshComponent0",
+      "type": "/Script/Engine.StaticMeshComponent",
+      "outer": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/KalinagoVisual.KalinagoVisual:PersistentLevel.StaticMeshActor_3",
+      "serialOffset": 1333,
+      "serialSize": 18
+    },
+    {
+      "index": 33,
+      "name": "StaticMeshComponent0",
+      "type": "/Script/Engine.StaticMeshComponent",
+      "outer": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/KalinagoVisual.KalinagoVisual:PersistentLevel.StaticMeshActor_4",
+      "serialOffset": 1351,
+      "serialSize": 18
+    },
+    {
+      "index": 34,
+      "name": "StaticMeshComponent0",
+      "type": "/Script/Engine.StaticMeshComponent",
+      "outer": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/KalinagoVisual.KalinagoVisual:PersistentLevel.StaticMeshActor_5",
+      "serialOffset": 1369,
+      "serialSize": 18
+    },
+    {
+      "index": 35,
+      "name": "StaticMeshComponent0",
+      "type": "/Script/Engine.StaticMeshComponent",
+      "outer": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/KalinagoVisual.KalinagoVisual:PersistentLevel.StaticMeshActor_6",
+      "serialOffset": 1387,
+      "serialSize": 18
+    },
+    {
+      "index": 36,
+      "name": "StaticMeshComponent0",
+      "type": "/Script/Engine.StaticMeshComponent",
+      "outer": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/KalinagoVisual.KalinagoVisual:PersistentLevel.StaticMeshActor_7",
+      "serialOffset": 1405,
+      "serialSize": 18
+    },
+    {
+      "index": 37,
+      "name": "StaticMeshComponent0",
+      "type": "/Script/Engine.StaticMeshComponent",
+      "outer": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/KalinagoVisual.KalinagoVisual:PersistentLevel.StaticMeshActor_8",
+      "serialOffset": 1423,
+      "serialSize": 18
+    },
+    {
+      "index": 38,
+      "name": "StaticMeshComponent0",
+      "type": "/Script/Engine.StaticMeshComponent",
+      "outer": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/KalinagoVisual.KalinagoVisual:PersistentLevel.StaticMeshActor_9",
+      "serialOffset": 1441,
+      "serialSize": 18
+    },
+    {
+      "index": 39,
+      "name": "KalinagoVisual",
+      "type": "/Script/Engine.World",
+      "outer": null,
+      "serialOffset": 1459,
+      "serialSize": 18
+    },
+    {
+      "index": 40,
+      "name": "WorldSettings",
+      "type": "/Script/Engine.WorldSettings",
+      "outer": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/KalinagoVisual.KalinagoVisual:PersistentLevel",
+      "serialOffset": 1477,
+      "serialSize": 78
+    }
+  ],
+  "imports": [
+    "/Script/Engine.Level",
+    "/Script/Engine.Model",
+    "/Script/Engine.StaticMeshActor",
+    "/Script/Engine.StaticMeshComponent",
+    "/Script/Engine.World",
+    "/Script/Engine.WorldSettings",
+    "/Script/NavigationSystem.NavigationSystemModuleConfig",
+    "/Script/Engine.Default__Level",
+    "/Script/Engine.Default__Model",
+    "/Script/NavigationSystem.Default__NavigationSystemModuleConfig",
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "/Script/Engine",
+    "/Script/NavigationSystem",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_10_trees_3d.SM_10_trees_3d",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_11_treewalls.SM_11_treewalls",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_14_skidmarks.SM_14_skidmarks",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_15_lights.SM_15_lights",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_16_layout_gp.SM_16_layout_gp",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_17_ads_f1.SM_17_ads_f1",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_18_rolex_clock.SM_18_rolex_clock",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_19_kunos_props_a.SM_19_kunos_props_a",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_1_00_kalinago.SM_1_00_kalinago",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_20_kunos_props_b.SM_20_kunos_props_b",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_21_2024.SM_21_2024",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_22_flags_f1.SM_22_flags_f1",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_4_timing_gp.SM_4_timing_gp",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_5_startlights.SM_5_startlights",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_6_mountains.SM_6_mountains",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_7_grase.SM_7_grase",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_8_trees_1.SM_8_trees_1",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_9_trees_2.SM_9_trees_2",
+    "/Script/Engine.Default__StaticMeshActor",
+    "/Script/Engine.Default__StaticMeshActor:StaticMeshComponent0",
+    "/Script/Engine.Default__World",
+    "/Script/Engine.Default__WorldSettings"
+  ],
+  "dependencies": [
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_1_00_kalinago",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_5_startlights",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_17_ads_f1",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_8_trees_1",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_21_2024",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_19_kunos_props_a",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_15_lights",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_11_treewalls",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_14_skidmarks",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_10_trees_3d",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_16_layout_gp",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_7_grase",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_22_flags_f1",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_6_mountains",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_4_timing_gp",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_20_kunos_props_b",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_18_rolex_clock",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_9_trees_2"
+  ]
+}

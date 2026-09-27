@@ -1,0 +1,331 @@
+{
+  "installable": false,
+  "changedExports": [
+    {
+      "index": 72,
+      "type": "RaceSimCameraComponent",
+      "name": "CameraComponent"
+    },
+    {
+      "index": 73,
+      "type": "RaceSimCameraComponent",
+      "name": "CameraComponent"
+    },
+    {
+      "index": 74,
+      "type": "RaceSimCameraComponent",
+      "name": "CameraComponent"
+    },
+    {
+      "index": 75,
+      "type": "RaceSimCameraComponent",
+      "name": "CameraComponent"
+    },
+    {
+      "index": 76,
+      "type": "RaceSimCameraComponent",
+      "name": "CameraComponent"
+    },
+    {
+      "index": 77,
+      "type": "RaceSimCameraComponent",
+      "name": "CameraComponent"
+    },
+    {
+      "index": 78,
+      "type": "RaceSimCameraComponent",
+      "name": "CameraComponent"
+    },
+    {
+      "index": 79,
+      "type": "RaceSimCameraComponent",
+      "name": "CameraComponent"
+    },
+    {
+      "index": 80,
+      "type": "RaceSimCameraComponent",
+      "name": "CameraComponent"
+    },
+    {
+      "index": 81,
+      "type": "RaceSimCameraComponent",
+      "name": "CameraComponent"
+    },
+    {
+      "index": 82,
+      "type": "RaceSimCameraComponent",
+      "name": "CameraComponent"
+    },
+    {
+      "index": 83,
+      "type": "RaceSimCameraComponent",
+      "name": "CameraComponent"
+    },
+    {
+      "index": 84,
+      "type": "RaceSimCameraComponent",
+      "name": "CameraComponent"
+    },
+    {
+      "index": 85,
+      "type": "RaceSimCameraComponent",
+      "name": "CameraComponent"
+    },
+    {
+      "index": 86,
+      "type": "RaceSimCameraComponent",
+      "name": "CameraComponent"
+    },
+    {
+      "index": 87,
+      "type": "RaceSimCameraComponent",
+      "name": "CameraComponent"
+    },
+    {
+      "index": 88,
+      "type": "RaceSimCameraComponent",
+      "name": "CameraComponent"
+    },
+    {
+      "index": 89,
+      "type": "RaceSimCameraComponent",
+      "name": "CameraComponent"
+    },
+    {
+      "index": 91,
+      "type": "RaceSimCameraComponent",
+      "name": "CameraComponent"
+    },
+    {
+      "index": 92,
+      "type": "RaceSimCameraComponent",
+      "name": "CameraComponent"
+    },
+    {
+      "index": 93,
+      "type": "RaceSimCameraComponent",
+      "name": "CameraComponent"
+    },
+    {
+      "index": 94,
+      "type": "RaceSimCameraComponent",
+      "name": "CameraComponent"
+    },
+    {
+      "index": 95,
+      "type": "RaceSimCameraComponent",
+      "name": "CameraComponent"
+    },
+    {
+      "index": 96,
+      "type": "RaceSimCameraComponent",
+      "name": "CameraComponent"
+    },
+    {
+      "index": 101,
+      "type": "RaceSimCameraComponent",
+      "name": "CameraComponent"
+    },
+    {
+      "index": 103,
+      "type": "RaceSimCameraComponent",
+      "name": "CameraComponent"
+    },
+    {
+      "index": 104,
+      "type": "RaceSimCameraComponent",
+      "name": "CameraComponent"
+    },
+    {
+      "index": 106,
+      "type": "RaceSimCameraComponent",
+      "name": "CameraComponent"
+    },
+    {
+      "index": 153,
+      "type": "RaceSimHelicamPositionComponent",
+      "name": "HelicamPosition"
+    },
+    {
+      "index": 154,
+      "type": "RaceSimHelicamPositionComponent",
+      "name": "HelicamPosition"
+    },
+    {
+      "index": 155,
+      "type": "RaceSimHelicamPositionComponent",
+      "name": "HelicamPosition"
+    },
+    {
+      "index": 156,
+      "type": "RaceSimHelicamPositionComponent",
+      "name": "HelicamPosition"
+    },
+    {
+      "index": 157,
+      "type": "RaceSimHelicamPositionComponent",
+      "name": "HelicamPosition"
+    },
+    {
+      "index": 158,
+      "type": "RaceSimHelicamPositionComponent",
+      "name": "HelicamPosition"
+    },
+    {
+      "index": 159,
+      "type": "RaceSimHelicamPositionComponent",
+      "name": "HelicamPosition"
+    },
+    {
+      "index": 160,
+      "type": "RaceSimHelicamPositionComponent",
+      "name": "HelicamPosition"
+    },
+    {
+      "index": 161,
+      "type": "RaceSimHelicamPositionComponent",
+      "name": "HelicamPosition"
+    },
+    {
+      "index": 166,
+      "type": "SceneComponent",
+      "name": "SceneComponent"
+    },
+    {
+      "index": 167,
+      "type": "SceneComponent",
+      "name": "SceneComponent"
+    },
+    {
+      "index": 168,
+      "type": "SceneComponent",
+      "name": "SceneComponent"
+    },
+    {
+      "index": 169,
+      "type": "SceneComponent",
+      "name": "SceneComponent"
+    },
+    {
+      "index": 170,
+      "type": "SceneComponent",
+      "name": "SceneComponent"
+    },
+    {
+      "index": 171,
+      "type": "SceneComponent",
+      "name": "SceneComponent"
+    },
+    {
+      "index": 172,
+      "type": "SceneComponent",
+      "name": "SceneComponent"
+    },
+    {
+      "index": 173,
+      "type": "SceneComponent",
+      "name": "SceneComponent"
+    },
+    {
+      "index": 174,
+      "type": "SceneComponent",
+      "name": "SceneComponent"
+    },
+    {
+      "index": 175,
+      "type": "SceneComponent",
+      "name": "SceneComponent"
+    },
+    {
+      "index": 176,
+      "type": "SceneComponent",
+      "name": "SceneComponent"
+    },
+    {
+      "index": 177,
+      "type": "SceneComponent",
+      "name": "SceneComponent"
+    },
+    {
+      "index": 178,
+      "type": "SceneComponent",
+      "name": "SceneComponent"
+    },
+    {
+      "index": 179,
+      "type": "SceneComponent",
+      "name": "SceneComponent"
+    },
+    {
+      "index": 180,
+      "type": "SceneComponent",
+      "name": "SceneComponent"
+    },
+    {
+      "index": 181,
+      "type": "SceneComponent",
+      "name": "SceneComponent"
+    },
+    {
+      "index": 182,
+      "type": "SceneComponent",
+      "name": "SceneComponent"
+    },
+    {
+      "index": 183,
+      "type": "SceneComponent",
+      "name": "SceneComponent"
+    },
+    {
+      "index": 185,
+      "type": "SceneComponent",
+      "name": "SceneComponent"
+    },
+    {
+      "index": 186,
+      "type": "SceneComponent",
+      "name": "SceneComponent"
+    },
+    {
+      "index": 187,
+      "type": "SceneComponent",
+      "name": "SceneComponent"
+    },
+    {
+      "index": 188,
+      "type": "SceneComponent",
+      "name": "SceneComponent"
+    },
+    {
+      "index": 189,
+      "type": "SceneComponent",
+      "name": "SceneComponent"
+    },
+    {
+      "index": 190,
+      "type": "SceneComponent",
+      "name": "SceneComponent"
+    },
+    {
+      "index": 195,
+      "type": "SceneComponent",
+      "name": "SceneComponent"
+    },
+    {
+      "index": 197,
+      "type": "SceneComponent",
+      "name": "SceneComponent"
+    },
+    {
+      "index": 198,
+      "type": "SceneComponent",
+      "name": "SceneComponent"
+    },
+    {
+      "index": 201,
+      "type": "SceneComponent",
+      "name": "SceneComponent"
+    }
+  ],
+  "scope": "Only camera mapping and dependent placements differ from 1002"
+}

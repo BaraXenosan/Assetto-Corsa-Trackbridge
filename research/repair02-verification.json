@@ -1,0 +1,26 @@
+{
+  "installable": false,
+  "offlineReadbackPassed": true,
+  "nodeCount": 159,
+  "garagePositions": 22,
+  "garageInteriors": 11,
+  "garageCentersBetweenFacades": true,
+  "openDoorMaterialSlots": [
+    9,
+    25
+  ],
+  "cameraAndMapExports": 77,
+  "sceneMeshComponents": 770,
+  "overviewMapSegments": 752,
+  "inlineShaders": {
+    "M_OpenGarageDoors": true,
+    "M_Map_road": true,
+    "M_Map_pit": true,
+    "M_Map_drs": true,
+    "M_Map_ground": true
+  },
+  "minimapSvgSha256": "0018d643b593d6c816454d4f57edd91e18f13bb3feb5df1fb3ec9adaa64c4333",
+  "runtimeValidated": false,
+  "pitReturnValidated": false,
+  "animationsValidated": false
+}

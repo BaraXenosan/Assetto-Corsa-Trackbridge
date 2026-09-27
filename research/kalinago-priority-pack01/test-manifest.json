@@ -1,0 +1,50 @@
+{
+  "installable": false,
+  "experimentalTestOnly": true,
+  "offlineReadbackPassed": true,
+  "targetSlot": "Bahrain",
+  "weekendValidated": false,
+  "raceValidated": false,
+  "files": [
+    {
+      "name": "TrackBridge_Kalinago_999_P.pak",
+      "bytes": 347,
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+    },
+    {
+      "name": "TrackBridge_Kalinago_999_P.ucas",
+      "bytes": 496775982,
+      "sha256": "10820f7f01370fb01d3a4057d7b4af8d374446687663ddce9c986e47e3d1d8a0"
+    },
+    {
+      "name": "TrackBridge_Kalinago_999_P.utoc",
+      "bytes": 142640,
+      "sha256": "6d7e3b99853b14ca59a3d2c9b62c18806503ee99ad8b17273404def7ee368d12"
+    },
+    {
+      "name": "TrackBridge_Kalinago_1000_P.pak",
+      "bytes": 347,
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+    },
+    {
+      "name": "TrackBridge_Kalinago_1000_P.utoc",
+      "bytes": 1372,
+      "sha256": "cfd4855da6169d1342749bf5b14857c621cc9280a691b79dac238dff608dd7fa"
+    },
+    {
+      "name": "TrackBridge_Kalinago_1000_P.ucas",
+      "bytes": 2269415,
+      "sha256": "e173ac650c83664b320fbe890b6cbcf456d8652d1fa45e233586345ebbd09caa"
+    }
+  ],
+  "remaining": [
+    "Runtime garage entry and service menu validation",
+    "Closed AC pit facade cutouts",
+    "Animation alignment verification",
+    "In-game minimap integration",
+    "DRS and weekend validation"
+  ],
+  "recursiveModScanPassed": true,
+  "overriddenConflictingContainer": "TrackChanges_P.utoc",
+  "repairReadback": "research/repair-verification01.json"
+}

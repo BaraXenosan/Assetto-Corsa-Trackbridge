@@ -1,0 +1,197 @@
+[
+  {
+    "Type": "BodySetup",
+    "Name": "BodySetup_0",
+    "Flags": "RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'BodySetup'",
+    "Outer": {
+      "ObjectName": "StaticMesh'KalinagoRoad'",
+      "ObjectPath": "/Game/TrackBridge/KalinagoPilot/Run_fc07c325ea3d4a62b8b71ec94ad1aaf8/KalinagoRoad.2"
+    },
+    "Properties": {
+      "DefaultInstance": {
+        "ObjectType": "ECollisionChannel::ECC_WorldStatic",
+        "CollisionProfileName": "BlockAll"
+      }
+    },
+    "BodySetupGuid": "466EEA67480E74D39DE460AFC839C88F",
+    "CookedFormatData": {
+      "PhysXPC": {
+        "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+        "ElementCount": 22239620,
+        "SizeOnDisk": 22239620,
+        "OffsetInFile": "0x2D026CF"
+      }
+    }
+  },
+  {
+    "Type": "NavCollision",
+    "Name": "NavCollision_0",
+    "Flags": "RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'NavCollision'",
+    "Outer": {
+      "ObjectName": "StaticMesh'KalinagoRoad'",
+      "ObjectPath": "/Game/TrackBridge/KalinagoPilot/Run_fc07c325ea3d4a62b8b71ec94ad1aaf8/KalinagoRoad.2"
+    },
+    "CookedFormatData": {
+      "NavCollision_Chaos": {
+        "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+        "ElementCount": 21,
+        "SizeOnDisk": 21,
+        "OffsetInFile": "0x4238095"
+      }
+    }
+  },
+  {
+    "Type": "StaticMesh",
+    "Name": "KalinagoRoad",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StaticMesh'",
+    "Package": "/Game/TrackBridge/KalinagoPilot/Run_fc07c325ea3d4a62b8b71ec94ad1aaf8/KalinagoRoad",
+    "Properties": {
+      "StaticMaterials": [
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'WorldGridMaterial'",
+            "ObjectPath": "/Engine/EngineMaterials/WorldGridMaterial.0"
+          },
+          "MaterialSlotName": "defaultMat",
+          "ImportedMaterialSlotName": "defaultMat",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 2671.0764,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          }
+        }
+      ],
+      "LightmapUVDensity": 2671.0764,
+      "LightMapResolution": 64,
+      "ExtendedBounds": {
+        "Origin": {
+          "X": 52351.992,
+          "Y": 42632.676,
+          "Z": 1734.0627
+        },
+        "BoxExtent": {
+          "X": 175225.56,
+          "Y": 152489.25,
+          "Z": 2949.4734
+        },
+        "SphereRadius": 232081.27138943993
+      }
+    },
+    "BodySetup": {
+      "ObjectName": "BodySetup'KalinagoRoad:BodySetup_0'",
+      "ObjectPath": "/Game/TrackBridge/KalinagoPilot/Run_fc07c325ea3d4a62b8b71ec94ad1aaf8/KalinagoRoad.0"
+    },
+    "NavCollision": {
+      "ObjectName": "NavCollision'KalinagoRoad:NavCollision_0'",
+      "ObjectPath": "/Game/TrackBridge/KalinagoPilot/Run_fc07c325ea3d4a62b8b71ec94ad1aaf8/KalinagoRoad.1"
+    },
+    "LightingGuid": "08EAD017-4D7395CD-629959B0-A290E3F1",
+    "RenderData": {
+      "LODs": [
+        {
+          "Sections": [
+            {
+              "MaterialIndex": 0,
+              "FirstIndex": 0,
+              "NumTriangles": 405449,
+              "MinVertexIndex": 0,
+              "MaxVertexIndex": 228813,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            }
+          ],
+          "MaxDeviation": 0.0,
+          "PositionVertexBuffer": {
+            "Stride": 12,
+            "NumVertices": 228814
+          },
+          "VertexBuffer": {
+            "NumTexCoords": 1,
+            "NumVertices": 228814,
+            "Strides": -1,
+            "UseHighPrecisionTangentBasis": false,
+            "UseFullPrecisionUVs": false
+          },
+          "ColorVertexBuffer": {
+            "Stride": 0,
+            "NumVertices": 0
+          },
+          "CardRepresentationData": {
+            "Bounds": {
+              "Min": {
+                "X": -122874.57,
+                "Y": -109857.58,
+                "Z": -1216.4106
+              },
+              "Max": {
+                "X": 227578.56,
+                "Y": 195122.92,
+                "Z": 4684.536
+              },
+              "IsValid": 1
+            },
+            "MaxLodLevel": 0,
+            "bMostlyTwoSided": false,
+            "CardBuildData": []
+          }
+        }
+      ],
+      "NaniteResources": {
+        "StreamablePages": {
+          "BulkDataFlags": "BULKDATA_None",
+          "ElementCount": 0,
+          "SizeOnDisk": 0,
+          "OffsetInFile": "0x5A04337"
+        },
+        "AssemblyTransforms": [],
+        "AssemblyBoneAttachmentData": null,
+        "BoneIndices": null,
+        "VoxelMaterialsMask": 0,
+        "MeshBounds": null,
+        "PageRangeLookup": null,
+        "NumRootPages": 0,
+        "PositionPrecision": 0,
+        "NormalPrecision": 0,
+        "NumInputTriangles": 0,
+        "NumInputVertices": 0,
+        "NumInputMeshes": 0,
+        "NumInputTexCoords": 0,
+        "NumClusters": 0,
+        "NumInputCurves": 0,
+        "ResourceFlags": "NONE"
+      },
+      "Bounds": {
+        "Origin": {
+          "X": 52351.992,
+          "Y": 42632.676,
+          "Z": 1734.0627
+        },
+        "BoxExtent": {
+          "X": 175225.56,
+          "Y": 152489.25,
+          "Z": 2949.4734
+        },
+        "SphereRadius": 232081.28
+      },
+      "bLODsShareStaticLighting": true,
+      "ScreenSize": [
+        2.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  }
+]

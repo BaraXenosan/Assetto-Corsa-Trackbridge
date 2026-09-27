@@ -1,0 +1,317 @@
+{
+  "installable": false,
+  "propertiesDecoded": false,
+  "files": 116197,
+  "packages": [
+    {
+      "package": "F1Manager24/Content/Circuits/Bahrain/Lvl_Bahrain.umap",
+      "exportCount": 208,
+      "focusObjects": [
+        {
+          "index": 163,
+          "name": "RaceSimTrackActor_1",
+          "type": "/Script/RaceSim.RaceSimTrackActor",
+          "outer": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain:PersistentLevel",
+          "serialOffset": 349970,
+          "serialSize": 50,
+          "objectPath": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain:PersistentLevel.RaceSimTrackActor_1"
+        },
+        {
+          "index": 164,
+          "name": "RaceTrackSpline",
+          "type": "/Script/RaceSim.RaceSimTrackComponent",
+          "outer": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain:PersistentLevel.RaceSimTrackActor_1",
+          "serialOffset": 350020,
+          "serialSize": 704722,
+          "objectPath": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain:PersistentLevel.RaceSimTrackActor_1.RaceTrackSpline"
+        }
+      ],
+      "dependencies": [
+        {
+          "name": "/Game/Circuits/Bahrain/Assets/ZoomCurves/Camera_ZoomCurves_C1",
+          "package": "F1Manager24/Content/Circuits/Bahrain/Assets/ZoomCurves/Camera_ZoomCurves_C1.uasset"
+        },
+        {
+          "name": "/Game/RaceSim/BP_RaceSimGameMode",
+          "package": "F1Manager24/Content/RaceSim/BP_RaceSimGameMode.uasset"
+        },
+        {
+          "name": "/Game/Circuits/Bahrain/Assets/ZoomCurves/Camera_ZoomCurves_C16",
+          "package": "F1Manager24/Content/Circuits/Bahrain/Assets/ZoomCurves/Camera_ZoomCurves_C16.uasset"
+        },
+        {
+          "name": "/Game/Circuits/Bahrain/Assets/ZoomCurves/Camera_ZoomCurves_C14",
+          "package": "F1Manager24/Content/Circuits/Bahrain/Assets/ZoomCurves/Camera_ZoomCurves_C14.uasset"
+        },
+        {
+          "name": "/Game/Render/BP_CustomRenderSettingsManagerComponent",
+          "package": "F1Manager24/Content/Render/BP_CustomRenderSettingsManagerComponent.uasset"
+        },
+        {
+          "name": "/Game/Circuits/Bahrain/Assets/ZoomCurves/Camera_ZoomCurves_C19",
+          "package": "F1Manager24/Content/Circuits/Bahrain/Assets/ZoomCurves/Camera_ZoomCurves_C19.uasset"
+        },
+        {
+          "name": "/Game/Circuits/Bahrain/Assets/ZoomCurves/BAH_Camera_Helicam",
+          "package": "F1Manager24/Content/Circuits/Bahrain/Assets/ZoomCurves/BAH_Camera_Helicam.uasset"
+        },
+        {
+          "name": "/Game/Onboarding/RaceSimOnboarding",
+          "package": "F1Manager24/Content/Onboarding/RaceSimOnboarding.uasset"
+        },
+        {
+          "name": "/Game/Circuits/Bahrain/Assets/ZoomCurves/Camera_ZoomCurves_C2",
+          "package": "F1Manager24/Content/Circuits/Bahrain/Assets/ZoomCurves/Camera_ZoomCurves_C2.uasset"
+        },
+        {
+          "name": "/Game/Circuits/Bahrain/Assets/ZoomCurves/Camera_ZoomCurves_C4",
+          "package": "F1Manager24/Content/Circuits/Bahrain/Assets/ZoomCurves/Camera_ZoomCurves_C4.uasset"
+        },
+        {
+          "name": "/Game/Circuits/Bahrain/Lvl_Bahrain_BuiltData",
+          "package": "F1Manager24/Content/Circuits/Bahrain/Lvl_Bahrain_BuiltData.uasset"
+        },
+        {
+          "name": "/Game/Circuits/Bahrain/Assets/ZoomCurves/Camera_ZoomCurves_C18",
+          "package": "F1Manager24/Content/Circuits/Bahrain/Assets/ZoomCurves/Camera_ZoomCurves_C18.uasset"
+        },
+        {
+          "name": "/Game/RaceSim/MiniMap/Minimap",
+          "package": "F1Manager24/Content/RaceSim/MiniMap/Minimap.uasset"
+        },
+        {
+          "name": "/Game/Circuits/Bahrain/Assets/ZoomCurves/Camera_ZoomCurves_P1",
+          "package": "F1Manager24/Content/Circuits/Bahrain/Assets/ZoomCurves/Camera_ZoomCurves_P1.uasset"
+        },
+        {
+          "name": "/Game/Circuits/Bahrain/Assets/ZoomCurves/Camera_ZoomCurves_C13",
+          "package": "F1Manager24/Content/Circuits/Bahrain/Assets/ZoomCurves/Camera_ZoomCurves_C13.uasset"
+        },
+        {
+          "name": "/Game/Audio/Dialogue/RaceTeamComms/BP_Audio_RaceSimTeamCommsManager",
+          "package": "F1Manager24/Content/Audio/Dialogue/RaceTeamComms/BP_Audio_RaceSimTeamCommsManager.uasset"
+        },
+        {
+          "name": "/Game/Circuits/Bahrain/Assets/ZoomCurves/Camera_ZoomCurves_C11",
+          "package": "F1Manager24/Content/Circuits/Bahrain/Assets/ZoomCurves/Camera_ZoomCurves_C11.uasset"
+        },
+        {
+          "name": "/Game/RaceSim/RaceSimChroma",
+          "package": "F1Manager24/Content/RaceSim/RaceSimChroma.uasset"
+        },
+        {
+          "name": "/Game/SharedAssets/Landscape/Sponsorships/DHL/Materials/MI_DHLText",
+          "package": "F1Manager24/Content/SharedAssets/Landscape/Sponsorships/DHL/Materials/MI_DHLText.uasset"
+        },
+        {
+          "name": "/Game/Circuits/Bahrain/Assets/ZoomCurves/Camera_ZoomCurves_C7",
+          "package": "F1Manager24/Content/Circuits/Bahrain/Assets/ZoomCurves/Camera_ZoomCurves_C7.uasset"
+        },
+        {
+          "name": "/Game/RaceSim/BP_RaceSimNotificationsManager",
+          "package": "F1Manager24/Content/RaceSim/BP_RaceSimNotificationsManager.uasset"
+        },
+        {
+          "name": "/Game/Circuits/Bahrain/Assets/ZoomCurves/Camera_ZoomCurves_C12",
+          "package": "F1Manager24/Content/Circuits/Bahrain/Assets/ZoomCurves/Camera_ZoomCurves_C12.uasset"
+        },
+        {
+          "name": "/Game/Circuits/Bahrain/Assets/ZoomCurves/Camera_ZoomCurves_C20",
+          "package": "F1Manager24/Content/Circuits/Bahrain/Assets/ZoomCurves/Camera_ZoomCurves_C20.uasset"
+        },
+        {
+          "name": "/Game/Circuits/Bahrain/Assets/ZoomCurves/Camera_ZoomCurves_C15",
+          "package": "F1Manager24/Content/Circuits/Bahrain/Assets/ZoomCurves/Camera_ZoomCurves_C15.uasset"
+        },
+        {
+          "name": "/Game/Circuits/Bahrain/Assets/ZoomCurves/Camera_ZoomCurves_C10",
+          "package": "F1Manager24/Content/Circuits/Bahrain/Assets/ZoomCurves/Camera_ZoomCurves_C10.uasset"
+        },
+        {
+          "name": "/Game/Circuits/Bahrain/Assets/ZoomCurves/Camera_ZoomCurves_C22",
+          "package": "F1Manager24/Content/Circuits/Bahrain/Assets/ZoomCurves/Camera_ZoomCurves_C22.uasset"
+        },
+        {
+          "name": "/Game/Circuits/Bahrain/Assets/ZoomCurves/Camera_ZoomCurves_C23",
+          "package": "F1Manager24/Content/Circuits/Bahrain/Assets/ZoomCurves/Camera_ZoomCurves_C23.uasset"
+        },
+        {
+          "name": "/Game/Circuits/Bahrain/Assets/ZoomCurves/Camera_ZoomCurves_C17",
+          "package": "F1Manager24/Content/Circuits/Bahrain/Assets/ZoomCurves/Camera_ZoomCurves_C17.uasset"
+        },
+        {
+          "name": "/Game/Circuits/Bahrain/Assets/ZoomCurves/Camera_ZoomCurves_C9",
+          "package": "F1Manager24/Content/Circuits/Bahrain/Assets/ZoomCurves/Camera_ZoomCurves_C9.uasset"
+        },
+        {
+          "name": "/Game/VFX/PostProcessVolumes/BP_CustomPostProcessVolume_Base",
+          "package": "F1Manager24/Content/VFX/PostProcessVolumes/BP_CustomPostProcessVolume_Base.uasset"
+        },
+        {
+          "name": "/Game/Circuits/Bahrain/Assets/ZoomCurves/Camera_ZoomCurves_C6",
+          "package": "F1Manager24/Content/Circuits/Bahrain/Assets/ZoomCurves/Camera_ZoomCurves_C6.uasset"
+        },
+        {
+          "name": "/Game/SharedAssets/Foliage/Grass/Grass_Generic/FT_Grass_Generic_001",
+          "package": "F1Manager24/Content/SharedAssets/Foliage/Grass/Grass_Generic/FT_Grass_Generic_001.uasset"
+        },
+        {
+          "name": "/Game/VFX/PostProcessVolumes/BPC_CustomPostProcessVolume_FullScreenMap",
+          "package": "F1Manager24/Content/VFX/PostProcessVolumes/BPC_CustomPostProcessVolume_FullScreenMap.uasset"
+        },
+        {
+          "name": "/Game/Audio/DataAssets/Circuits/Bahrain/DA_Bahrain_PassbyGenerationSpec",
+          "package": "F1Manager24/Content/Audio/DataAssets/Circuits/Bahrain/DA_Bahrain_PassbyGenerationSpec.uasset"
+        },
+        {
+          "name": "/Game/Audio/Components/BP_AC_AudioSceneManager",
+          "package": "F1Manager24/Content/Audio/Components/BP_AC_AudioSceneManager.uasset"
+        },
+        {
+          "name": "/Game/Actors/BaseActors/BP_ViewDistanceScale",
+          "package": "F1Manager24/Content/Actors/BaseActors/BP_ViewDistanceScale.uasset"
+        },
+        {
+          "name": "/Game/Audio/DataAssets/Circuits/Bahrain/DT_Bahrain_PassbyDefinitions",
+          "package": "F1Manager24/Content/Audio/DataAssets/Circuits/Bahrain/DT_Bahrain_PassbyDefinitions.uasset"
+        },
+        {
+          "name": "/Game/Circuits/Bahrain/Assets/ZoomCurves/Camera_ZoomCurves_C8",
+          "package": "F1Manager24/Content/Circuits/Bahrain/Assets/ZoomCurves/Camera_ZoomCurves_C8.uasset"
+        },
+        {
+          "name": "/Game/Circuits/Bahrain/Assets/ZoomCurves/Camera_ZoomCurves_C21",
+          "package": "F1Manager24/Content/Circuits/Bahrain/Assets/ZoomCurves/Camera_ZoomCurves_C21.uasset"
+        },
+        {
+          "name": "/Game/Render/BPC_CustomRenderSettings",
+          "package": "F1Manager24/Content/Render/BPC_CustomRenderSettings.uasset"
+        },
+        {
+          "name": "/Game/Email/EmailComponent",
+          "package": "F1Manager24/Content/Email/EmailComponent.uasset"
+        },
+        {
+          "name": "/Game/Circuits/Bahrain/Assets/ZoomCurves/Camera_ZoomCurves_C3",
+          "package": "F1Manager24/Content/Circuits/Bahrain/Assets/ZoomCurves/Camera_ZoomCurves_C3.uasset"
+        },
+        {
+          "name": "/Game/SharedAssets/Foliage/Grass/Grass_Generic/SM_Grass_Generic_001",
+          "package": "F1Manager24/Content/SharedAssets/Foliage/Grass/Grass_Generic/SM_Grass_Generic_001.uasset"
+        },
+        {
+          "name": "/Game/Circuits/Bahrain/Assets/ZoomCurves/Camera_ZoomCurves_C5",
+          "package": "F1Manager24/Content/Circuits/Bahrain/Assets/ZoomCurves/Camera_ZoomCurves_C5.uasset"
+        }
+      ],
+      "hashes": [
+        {
+          "path": "F1Manager24/Content/Circuits/Bahrain/Lvl_Bahrain.umap",
+          "bytes": 1052682,
+          "sha256": "c960ad25f02e28805239e556c0b4f487ec4e11f8652a8ce48628eda1fbd88512"
+        }
+      ]
+    },
+    {
+      "package": "F1Manager24/Content/RaceSim/RaceTrackDataAsset.uasset",
+      "exportCount": 1,
+      "focusObjects": [
+        {
+          "index": 0,
+          "name": "RaceTrackDataAsset",
+          "type": "/Script/GameDatabase.RaceTrackDataAsset",
+          "outer": null,
+          "serialOffset": 3548,
+          "serialSize": 13806,
+          "objectPath": "/Game/RaceSim/RaceTrackDataAsset.RaceTrackDataAsset"
+        }
+      ],
+      "dependencies": [
+        {
+          "name": "/Game/RaceSim/AutogeneratedRaceTrackDataAsset",
+          "package": "F1Manager24/Content/RaceSim/AutogeneratedRaceTrackDataAsset.uasset"
+        }
+      ],
+      "hashes": [
+        {
+          "path": "F1Manager24/Content/RaceSim/RaceTrackDataAsset.uasset",
+          "bytes": 16931,
+          "sha256": "5c10993e797eb50faad15717f4b3e4e4786458b681eaf51523be416a5e4a3eed"
+        }
+      ]
+    },
+    {
+      "package": "F1Manager24/Content/RaceSim/AutogeneratedRaceTrackDataAsset.uasset",
+      "exportCount": 1,
+      "focusObjects": [
+        {
+          "index": 0,
+          "name": "AutogeneratedRaceTrackDataAsset",
+          "type": "/Script/GameDatabase.AutogeneratedRaceTrackDataAsset",
+          "outer": null,
+          "serialOffset": 2092,
+          "serialSize": 28894,
+          "objectPath": "/Game/RaceSim/AutogeneratedRaceTrackDataAsset.AutogeneratedRaceTrackDataAsset"
+        }
+      ],
+      "dependencies": [],
+      "hashes": [
+        {
+          "path": "F1Manager24/Content/RaceSim/AutogeneratedRaceTrackDataAsset.uasset",
+          "bytes": 30625,
+          "sha256": "7d69763f1f3c276a05b0d71a279e34f25b0d26802e09a81dc595fc6f6e79d5fd"
+        }
+      ]
+    },
+    {
+      "package": "F1Manager24/Content/RaceSim/GeneratedAssets/TrackDataGenerationConfig.uasset",
+      "exportCount": 1,
+      "focusObjects": [
+        {
+          "index": 0,
+          "name": "TrackDataGenerationConfig",
+          "type": "/Script/RaceSim.TrackDataGenerationConfig",
+          "outer": null,
+          "serialOffset": 699,
+          "serialSize": 6,
+          "objectPath": "/Game/RaceSim/GeneratedAssets/TrackDataGenerationConfig.TrackDataGenerationConfig"
+        }
+      ],
+      "dependencies": [],
+      "hashes": [
+        {
+          "path": "F1Manager24/Content/RaceSim/GeneratedAssets/TrackDataGenerationConfig.uasset",
+          "bytes": 298,
+          "sha256": "bc8ec43bd280e5a3b478bf484ac6eefc4c868a6dd979be3cc95e5cd3acfc8a67"
+        }
+      ]
+    },
+    {
+      "package": "F1Manager24/Content/Circuits/Bahrain/Levels/Lvl_Bahrain_SplineReferences.umap",
+      "exportCount": 5,
+      "focusObjects": [],
+      "dependencies": [],
+      "hashes": [
+        {
+          "path": "F1Manager24/Content/Circuits/Bahrain/Levels/Lvl_Bahrain_SplineReferences.umap",
+          "bytes": 2897,
+          "sha256": "92cf9a99ed27bb5f7bd5b363b858c283d5296fb291870dd94588aafeb122868d"
+        }
+      ]
+    },
+    {
+      "package": "F1Manager24/Content/Circuits/Bahrain/Levels/Lvl_Bahrain_SplineTrackSurface.umap",
+      "exportCount": 5,
+      "focusObjects": [],
+      "dependencies": [],
+      "hashes": [
+        {
+          "path": "F1Manager24/Content/Circuits/Bahrain/Levels/Lvl_Bahrain_SplineTrackSurface.umap",
+          "bytes": 1497,
+          "sha256": "2c222ce00ddfdd03226ecc6cb8d25e45eb9f4445505e3362288152ba665a7fc0"
+        }
+      ]
+    }
+  ],
+  "missingDependencies": []
+}

@@ -1,0 +1,561 @@
+[
+  {
+    "name": "null",
+    "shader": "ksPerPixel",
+    "blend": 0,
+    "alphaTest": 0,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.30000001192092896,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.25,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          0.10000000149011612,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          20,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "NULL.dds"
+      }
+    ]
+  },
+  {
+    "name": "flags_nat",
+    "shader": "ksFlags",
+    "blend": 1,
+    "alphaTest": 0,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "frequency",
+        "values": [
+          12,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "distortion",
+        "values": [
+          0.10000000149011612,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "boh",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.3199999928474426,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.25,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          0.05000000074505806,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          10,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "FLAGS_NAT.DDS"
+      }
+    ]
+  },
+  {
+    "name": "ads_flag_b",
+    "shader": "ksFlags",
+    "blend": 1,
+    "alphaTest": 0,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "frequency",
+        "values": [
+          10,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "distortion",
+        "values": [
+          0.10000000149011612,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "boh",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.30000001192092896,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.25,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          0.05000000074505806,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          10,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "ADS_FLAG_B.DDS"
+      }
+    ]
+  },
+  {
+    "name": "ads_flag_a",
+    "shader": "ksFlags",
+    "blend": 1,
+    "alphaTest": 0,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "frequency",
+        "values": [
+          10,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "distortion",
+        "values": [
+          0.10000000149011612,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "boh",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.30000001192092896,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.25,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          0.05000000074505806,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          10,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "ADS_FLAG_A.DDS"
+      }
+    ]
+  }
+]

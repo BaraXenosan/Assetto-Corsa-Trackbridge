@@ -1,0 +1,828 @@
+[
+  {
+    "name": "tree_bark",
+    "shader": "ksPerPixelNM",
+    "blend": 0,
+    "alphaTest": 0,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.30000001192092896,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.20000000298023224,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          10,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelC",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelEXP",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "nmObjectSpace",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "isAdditive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelMaxLevel",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "boh",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "TREE_BARK.DDS"
+      },
+      {
+        "name": "txNormal",
+        "slot": 1,
+        "texture": "TREE_BARK_NORM.DDS"
+      }
+    ]
+  },
+  {
+    "name": "tree_palm_bark",
+    "shader": "ksPerPixelNM",
+    "blend": 0,
+    "alphaTest": 0,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.30000001192092896,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.25,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          0.10000000149011612,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          10,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelC",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelEXP",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "nmObjectSpace",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "isAdditive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelMaxLevel",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "boh",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "TREE_PALM_BARK.DDS"
+      },
+      {
+        "name": "txNormal",
+        "slot": 1,
+        "texture": "TREE_PALM_BARK_NORM.DDS"
+      }
+    ]
+  },
+  {
+    "name": "tree_palm_leaf_c",
+    "shader": "ksTree",
+    "blend": 0,
+    "alphaTest": 1,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.30000001192092896,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.05000000074505806,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          10,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "TREE_PALM_LEAF_C.DDS"
+      }
+    ]
+  },
+  {
+    "name": "tree_pine_leaves",
+    "shader": "ksPerPixelAT",
+    "blend": 0,
+    "alphaTest": 1,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.3499999940395355,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.10000000149011612,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          10,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "TREE_PINE_LEAVES.DDS"
+      }
+    ]
+  },
+  {
+    "name": "treepalmlights",
+    "shader": "ksPerPixelAT",
+    "blend": 0,
+    "alphaTest": 1,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.30000001192092896,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.25,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          0.20000000298023224,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          40,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "TREE_PALM_LIGHTS.DDS"
+      }
+    ]
+  },
+  {
+    "name": "tree_palm_leaves",
+    "shader": "ksPerPixelAT",
+    "blend": 0,
+    "alphaTest": 1,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.5,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.10000000149011612,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          10,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "TREE_PALM_LEAVES.DDS"
+      }
+    ]
+  }
+]

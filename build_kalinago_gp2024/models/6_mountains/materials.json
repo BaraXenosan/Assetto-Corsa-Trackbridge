@@ -1,0 +1,288 @@
+[
+  {
+    "name": "mount_a",
+    "shader": "ksMultilayer_fresnel_nm",
+    "blend": 0,
+    "alphaTest": 0,
+    "depth": 0,
+    "properties": [
+      {
+        "name": "ksAmbient",
+        "values": [
+          0.30000001192092896,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksDiffuse",
+        "values": [
+          0.25,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecular",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksSpecularEXP",
+        "values": [
+          10,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksEmissive",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "ksAlphaRef",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "multR",
+        "values": [
+          0.10000000149011612,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "multG",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "multB",
+        "values": [
+          0.009999999776482582,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "multA",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "magicMult",
+        "values": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelC",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelEXP",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "fresnelMaxLevel",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "tarmacSpecularMultiplier",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "detailNMMult",
+        "values": [
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "name": "txDiffuse",
+        "slot": 0,
+        "texture": "MOUNT_A.DDS"
+      },
+      {
+        "name": "txMask",
+        "slot": 1,
+        "texture": "MOUNT_A_MASK.DDS"
+      },
+      {
+        "name": "txDetailR",
+        "slot": 2,
+        "texture": "GRASS_MULT2.DDS"
+      },
+      {
+        "name": "txDetailG",
+        "slot": 3,
+        "texture": "CHECKERBOARD.DDS"
+      },
+      {
+        "name": "txDetailB",
+        "slot": 4,
+        "texture": "WALLR.DDS"
+      },
+      {
+        "name": "txDetailA",
+        "slot": 5,
+        "texture": "CHECKERBOARD.DDS"
+      },
+      {
+        "name": "txDetailNM",
+        "slot": 21,
+        "texture": "MOUNT_A_NORM.DDS"
+      }
+    ]
+  }
+]

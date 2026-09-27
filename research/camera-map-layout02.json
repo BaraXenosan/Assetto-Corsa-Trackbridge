@@ -1,0 +1,1797 @@
+{
+  "installable": false,
+  "sourceLapLengthM": 5345.803527832031,
+  "exports": [
+    {
+      "index": 72,
+      "name": "CameraComponent",
+      "Properties": {
+        "TrackNodeID": 0,
+        "LastTrackNodeID": 12,
+        "BehaviourSettings": [
+          {
+            "TrackingSettings": {
+              "TrackingMethod": "ETrackingMethod::Follow",
+              "HasLatePickup": false,
+              "HasDropOffPoint": false,
+              "RelativeOffset": {
+                "X": 0,
+                "Y": 0,
+                "Z": 100
+              }
+            },
+            "ZoomSettings": {
+              "ZoomMethod": "EZoomMethod::Automatic",
+              "TargetViewHeight": 1400,
+              "ShouldInterpZoom": true,
+              "ZoomInterpSpeed": 8
+            },
+            "ShouldFinishCompleteShot": false
+          }
+        ]
+      }
+    },
+    {
+      "index": 166,
+      "name": "SceneComponent",
+      "Properties": {
+        "RelativeLocation": {
+          "X": 19527.93903709885,
+          "Y": 32358.84590250687,
+          "Z": 2229.0914237499237
+        },
+        "RelativeRotation": {
+          "Pitch": -21.80140948635181,
+          "Yaw": -82.09395377940537,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 73,
+      "name": "CameraComponent",
+      "Properties": {
+        "TrackNodeID": 43,
+        "LastTrackNodeID": 58,
+        "BehaviourSettings": [
+          {
+            "TrackingSettings": {
+              "TrackingMethod": "ETrackingMethod::Follow",
+              "HasLatePickup": false,
+              "HasDropOffPoint": false,
+              "RelativeOffset": {
+                "X": 0,
+                "Y": 0,
+                "Z": 100
+              }
+            },
+            "ZoomSettings": {
+              "ZoomMethod": "EZoomMethod::Automatic",
+              "TargetViewHeight": 1400,
+              "ShouldInterpZoom": true,
+              "ZoomInterpSpeed": 8
+            },
+            "ShouldFinishCompleteShot": false
+          }
+        ]
+      }
+    },
+    {
+      "index": 167,
+      "name": "SceneComponent",
+      "Properties": {
+        "RelativeLocation": {
+          "X": 42215.96889334195,
+          "Y": 31557.207875010143,
+          "Z": 1730.6455878304519
+        },
+        "RelativeRotation": {
+          "Pitch": -21.80140948635181,
+          "Yaw": 15.013950888588127,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 74,
+      "name": "CameraComponent",
+      "Properties": {
+        "TrackNodeID": 58,
+        "LastTrackNodeID": 67,
+        "BehaviourSettings": [
+          {
+            "TrackingSettings": {
+              "TrackingMethod": "ETrackingMethod::Follow",
+              "HasLatePickup": false,
+              "HasDropOffPoint": false,
+              "RelativeOffset": {
+                "X": 0,
+                "Y": 0,
+                "Z": 100
+              }
+            },
+            "ZoomSettings": {
+              "ZoomMethod": "EZoomMethod::Automatic",
+              "TargetViewHeight": 1400,
+              "ShouldInterpZoom": true,
+              "ZoomInterpSpeed": 8
+            },
+            "ShouldFinishCompleteShot": false
+          }
+        ]
+      }
+    },
+    {
+      "index": 168,
+      "name": "SceneComponent",
+      "Properties": {
+        "RelativeLocation": {
+          "X": 30570.928602803724,
+          "Y": 46030.23834235466,
+          "Z": 1782.0451259613037
+        },
+        "RelativeRotation": {
+          "Pitch": -21.80140948635181,
+          "Yaw": -264.1149554033897,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 75,
+      "name": "CameraComponent",
+      "Properties": {
+        "TrackNodeID": 64,
+        "LastTrackNodeID": 73,
+        "BehaviourSettings": [
+          {
+            "TrackingSettings": {
+              "TrackingMethod": "ETrackingMethod::Follow",
+              "HasLatePickup": false,
+              "HasDropOffPoint": false,
+              "RelativeOffset": {
+                "X": 0,
+                "Y": 0,
+                "Z": 100
+              }
+            },
+            "ZoomSettings": {
+              "ZoomMethod": "EZoomMethod::Automatic",
+              "TargetViewHeight": 1400,
+              "ShouldInterpZoom": true,
+              "ZoomInterpSpeed": 8
+            },
+            "ShouldFinishCompleteShot": false
+          }
+        ]
+      }
+    },
+    {
+      "index": 169,
+      "name": "SceneComponent",
+      "Properties": {
+        "RelativeLocation": {
+          "X": 7835.345607949201,
+          "Y": 46647.34303742672,
+          "Z": 2058.870244026184
+        },
+        "RelativeRotation": {
+          "Pitch": -21.80140948635181,
+          "Yaw": -248.12430664114444,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 76,
+      "name": "CameraComponent",
+      "Properties": {
+        "TrackNodeID": 67,
+        "LastTrackNodeID": 75,
+        "BehaviourSettings": [
+          {
+            "TrackingSettings": {
+              "TrackingMethod": "ETrackingMethod::Follow",
+              "HasLatePickup": false,
+              "HasDropOffPoint": false,
+              "RelativeOffset": {
+                "X": 0,
+                "Y": 0,
+                "Z": 100
+              }
+            },
+            "ZoomSettings": {
+              "ZoomMethod": "EZoomMethod::Automatic",
+              "TargetViewHeight": 1400,
+              "ShouldInterpZoom": true,
+              "ZoomInterpSpeed": 8
+            },
+            "ShouldFinishCompleteShot": false
+          }
+        ]
+      }
+    },
+    {
+      "index": 170,
+      "name": "SceneComponent",
+      "Properties": {
+        "RelativeLocation": {
+          "X": 864.2593561624371,
+          "Y": 41347.60749695085,
+          "Z": 2503.7840843200684
+        },
+        "RelativeRotation": {
+          "Pitch": -21.80140948635181,
+          "Yaw": -224.45242758557154,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 77,
+      "name": "CameraComponent",
+      "Properties": {
+        "TrackNodeID": 71,
+        "LastTrackNodeID": 76,
+        "BehaviourSettings": [
+          {
+            "TrackingSettings": {
+              "TrackingMethod": "ETrackingMethod::Follow",
+              "HasLatePickup": false,
+              "HasDropOffPoint": false,
+              "RelativeOffset": {
+                "X": 0,
+                "Y": 0,
+                "Z": 100
+              }
+            },
+            "ZoomSettings": {
+              "ZoomMethod": "EZoomMethod::Automatic",
+              "TargetViewHeight": 1400,
+              "ShouldInterpZoom": true,
+              "ZoomInterpSpeed": 8
+            },
+            "ShouldFinishCompleteShot": false
+          }
+        ]
+      }
+    },
+    {
+      "index": 171,
+      "name": "SceneComponent",
+      "Properties": {
+        "RelativeLocation": {
+          "X": -5775.359070604482,
+          "Y": 36819.31505487493,
+          "Z": 2675.4149436950684
+        },
+        "RelativeRotation": {
+          "Pitch": -21.80140948635181,
+          "Yaw": -258.87788622507077,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 78,
+      "name": "CameraComponent",
+      "Properties": {
+        "TrackNodeID": 75,
+        "LastTrackNodeID": 78,
+        "BehaviourSettings": [
+          {
+            "TrackingSettings": {
+              "TrackingMethod": "ETrackingMethod::Follow",
+              "HasLatePickup": false,
+              "HasDropOffPoint": false,
+              "RelativeOffset": {
+                "X": 0,
+                "Y": 0,
+                "Z": 100
+              }
+            },
+            "ZoomSettings": {
+              "ZoomMethod": "EZoomMethod::Automatic",
+              "TargetViewHeight": 1400,
+              "ShouldInterpZoom": true,
+              "ZoomInterpSpeed": 8
+            },
+            "ShouldFinishCompleteShot": false
+          }
+        ]
+      }
+    },
+    {
+      "index": 172,
+      "name": "SceneComponent",
+      "Properties": {
+        "RelativeLocation": {
+          "X": -24532.82157441739,
+          "Y": 40130.43181071524,
+          "Z": 3267.949676513672
+        },
+        "RelativeRotation": {
+          "Pitch": -21.80140948635181,
+          "Yaw": 66.05304432792695,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 79,
+      "name": "CameraComponent",
+      "Properties": {
+        "TrackNodeID": 78,
+        "LastTrackNodeID": 87,
+        "BehaviourSettings": [
+          {
+            "TrackingSettings": {
+              "TrackingMethod": "ETrackingMethod::Follow",
+              "HasLatePickup": false,
+              "HasDropOffPoint": false,
+              "RelativeOffset": {
+                "X": 0,
+                "Y": 0,
+                "Z": 100
+              }
+            },
+            "ZoomSettings": {
+              "ZoomMethod": "EZoomMethod::Automatic",
+              "TargetViewHeight": 1400,
+              "ShouldInterpZoom": true,
+              "ZoomInterpSpeed": 8
+            },
+            "ShouldFinishCompleteShot": false
+          }
+        ]
+      }
+    },
+    {
+      "index": 173,
+      "name": "SceneComponent",
+      "Properties": {
+        "RelativeLocation": {
+          "X": -58932.12392305189,
+          "Y": 66115.11174225864,
+          "Z": 4798.6101150512695
+        },
+        "RelativeRotation": {
+          "Pitch": -21.80140948635181,
+          "Yaw": 30.074261335378537,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 80,
+      "name": "CameraComponent",
+      "Properties": {
+        "TrackNodeID": 87,
+        "LastTrackNodeID": 92,
+        "BehaviourSettings": [
+          {
+            "TrackingSettings": {
+              "TrackingMethod": "ETrackingMethod::Follow",
+              "HasLatePickup": false,
+              "HasDropOffPoint": false,
+              "RelativeOffset": {
+                "X": 0,
+                "Y": 0,
+                "Z": 100
+              }
+            },
+            "ZoomSettings": {
+              "ZoomMethod": "EZoomMethod::Automatic",
+              "TargetViewHeight": 1400,
+              "ShouldInterpZoom": true,
+              "ZoomInterpSpeed": 8
+            },
+            "ShouldFinishCompleteShot": false
+          }
+        ]
+      }
+    },
+    {
+      "index": 174,
+      "name": "SceneComponent",
+      "Properties": {
+        "RelativeLocation": {
+          "X": -58351.363102348616,
+          "Y": 101212.94841136073,
+          "Z": 5616.260528564453
+        },
+        "RelativeRotation": {
+          "Pitch": -21.80140948635181,
+          "Yaw": -18.28175743035129,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 81,
+      "name": "CameraComponent",
+      "Properties": {
+        "TrackNodeID": 92,
+        "LastTrackNodeID": 102,
+        "BehaviourSettings": [
+          {
+            "TrackingSettings": {
+              "TrackingMethod": "ETrackingMethod::Follow",
+              "HasLatePickup": false,
+              "HasDropOffPoint": false,
+              "RelativeOffset": {
+                "X": 0,
+                "Y": 0,
+                "Z": 100
+              }
+            },
+            "ZoomSettings": {
+              "ZoomMethod": "EZoomMethod::Automatic",
+              "TargetViewHeight": 1400,
+              "ShouldInterpZoom": true,
+              "ZoomInterpSpeed": 8
+            },
+            "ShouldFinishCompleteShot": false
+          }
+        ]
+      }
+    },
+    {
+      "index": 175,
+      "name": "SceneComponent",
+      "Properties": {
+        "RelativeLocation": {
+          "X": -50731.00659553199,
+          "Y": 115468.32689015113,
+          "Z": 6291.357803344727
+        },
+        "RelativeRotation": {
+          "Pitch": -21.80140948635181,
+          "Yaw": -240.9981655011735,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 82,
+      "name": "CameraComponent",
+      "Properties": {
+        "TrackNodeID": 102,
+        "LastTrackNodeID": 107,
+        "BehaviourSettings": [
+          {
+            "TrackingSettings": {
+              "TrackingMethod": "ETrackingMethod::Follow",
+              "HasLatePickup": false,
+              "HasDropOffPoint": false,
+              "RelativeOffset": {
+                "X": 0,
+                "Y": 0,
+                "Z": 100
+              }
+            },
+            "ZoomSettings": {
+              "ZoomMethod": "EZoomMethod::Automatic",
+              "TargetViewHeight": 1400,
+              "ShouldInterpZoom": true,
+              "ZoomInterpSpeed": 8
+            },
+            "ShouldFinishCompleteShot": false
+          }
+        ]
+      }
+    },
+    {
+      "index": 176,
+      "name": "SceneComponent",
+      "Properties": {
+        "RelativeLocation": {
+          "X": -71234.08795247422,
+          "Y": 100099.15231421642,
+          "Z": 6189.475250244141
+        },
+        "RelativeRotation": {
+          "Pitch": -21.80140948635181,
+          "Yaw": -180.36184509324872,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 83,
+      "name": "CameraComponent",
+      "Properties": {
+        "TrackNodeID": 0,
+        "LastTrackNodeID": 12,
+        "BehaviourSettings": [
+          {
+            "TrackingSettings": {
+              "TrackingMethod": "ETrackingMethod::Follow",
+              "HasLatePickup": false,
+              "HasDropOffPoint": false,
+              "RelativeOffset": {
+                "X": 0,
+                "Y": 0,
+                "Z": 100
+              }
+            },
+            "ZoomSettings": {
+              "ZoomMethod": "EZoomMethod::Automatic",
+              "TargetViewHeight": 1400,
+              "ShouldInterpZoom": true,
+              "ZoomInterpSpeed": 8
+            },
+            "ShouldFinishCompleteShot": false
+          }
+        ]
+      }
+    },
+    {
+      "index": 177,
+      "name": "SceneComponent",
+      "Properties": {
+        "RelativeLocation": {
+          "X": 19527.93903709885,
+          "Y": 32358.84590250687,
+          "Z": 2229.0914237499237
+        },
+        "RelativeRotation": {
+          "Pitch": -21.80140948635181,
+          "Yaw": -82.09395377940537,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 84,
+      "name": "CameraComponent",
+      "Properties": {
+        "TrackNodeID": 12,
+        "LastTrackNodeID": 16,
+        "BehaviourSettings": [
+          {
+            "TrackingSettings": {
+              "TrackingMethod": "ETrackingMethod::Follow",
+              "HasLatePickup": false,
+              "HasDropOffPoint": false,
+              "RelativeOffset": {
+                "X": 0,
+                "Y": 0,
+                "Z": 100
+              }
+            },
+            "ZoomSettings": {
+              "ZoomMethod": "EZoomMethod::Automatic",
+              "TargetViewHeight": 1400,
+              "ShouldInterpZoom": true,
+              "ZoomInterpSpeed": 8
+            },
+            "ShouldFinishCompleteShot": false
+          }
+        ]
+      }
+    },
+    {
+      "index": 178,
+      "name": "SceneComponent",
+      "Properties": {
+        "RelativeLocation": {
+          "X": 32177.042075858084,
+          "Y": 9963.743282691965,
+          "Z": 2298.141896724701
+        },
+        "RelativeRotation": {
+          "Pitch": -21.80140948635181,
+          "Yaw": -215.44880213126157,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 85,
+      "name": "CameraComponent",
+      "Properties": {
+        "TrackNodeID": 108,
+        "LastTrackNodeID": 114,
+        "BehaviourSettings": [
+          {
+            "TrackingSettings": {
+              "TrackingMethod": "ETrackingMethod::Follow",
+              "HasLatePickup": false,
+              "HasDropOffPoint": false,
+              "RelativeOffset": {
+                "X": 0,
+                "Y": 0,
+                "Z": 100
+              }
+            },
+            "ZoomSettings": {
+              "ZoomMethod": "EZoomMethod::Automatic",
+              "TargetViewHeight": 1400,
+              "ShouldInterpZoom": true,
+              "ZoomInterpSpeed": 8
+            },
+            "ShouldFinishCompleteShot": false
+          }
+        ]
+      }
+    },
+    {
+      "index": 179,
+      "name": "SceneComponent",
+      "Properties": {
+        "RelativeLocation": {
+          "X": -52548.49629791132,
+          "Y": 65419.861116107866,
+          "Z": 5043.086242675781
+        },
+        "RelativeRotation": {
+          "Pitch": -21.80140948635181,
+          "Yaw": -134.19201391756863,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 86,
+      "name": "CameraComponent",
+      "Properties": {
+        "TrackNodeID": 107,
+        "LastTrackNodeID": 120,
+        "BehaviourSettings": [
+          {
+            "TrackingSettings": {
+              "TrackingMethod": "ETrackingMethod::Follow",
+              "HasLatePickup": false,
+              "HasDropOffPoint": false,
+              "RelativeOffset": {
+                "X": 0,
+                "Y": 0,
+                "Z": 100
+              }
+            },
+            "ZoomSettings": {
+              "ZoomMethod": "EZoomMethod::Automatic",
+              "TargetViewHeight": 1400,
+              "ShouldInterpZoom": true,
+              "ZoomInterpSpeed": 8
+            },
+            "ShouldFinishCompleteShot": false
+          }
+        ]
+      }
+    },
+    {
+      "index": 180,
+      "name": "SceneComponent",
+      "Properties": {
+        "RelativeLocation": {
+          "X": -40732.80165364674,
+          "Y": 53605.61851968258,
+          "Z": 4179.448509216309
+        },
+        "RelativeRotation": {
+          "Pitch": -21.80140948635181,
+          "Yaw": -141.20621560098687,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 87,
+      "name": "CameraComponent",
+      "Properties": {
+        "TrackNodeID": 113,
+        "LastTrackNodeID": 122,
+        "BehaviourSettings": [
+          {
+            "TrackingSettings": {
+              "TrackingMethod": "ETrackingMethod::Follow",
+              "HasLatePickup": false,
+              "HasDropOffPoint": false,
+              "RelativeOffset": {
+                "X": 0,
+                "Y": 0,
+                "Z": 100
+              }
+            },
+            "ZoomSettings": {
+              "ZoomMethod": "EZoomMethod::Automatic",
+              "TargetViewHeight": 1400,
+              "ShouldInterpZoom": true,
+              "ZoomInterpSpeed": 8
+            },
+            "ShouldFinishCompleteShot": false
+          }
+        ]
+      }
+    },
+    {
+      "index": 181,
+      "name": "SceneComponent",
+      "Properties": {
+        "RelativeLocation": {
+          "X": -26027.58666505383,
+          "Y": 22270.384653902296,
+          "Z": 3196.7185974121094
+        },
+        "RelativeRotation": {
+          "Pitch": -21.80140948635181,
+          "Yaw": -172.14584392545302,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 88,
+      "name": "CameraComponent",
+      "Properties": {
+        "TrackNodeID": 120,
+        "LastTrackNodeID": 0,
+        "BehaviourSettings": [
+          {
+            "TrackingSettings": {
+              "TrackingMethod": "ETrackingMethod::Follow",
+              "HasLatePickup": false,
+              "HasDropOffPoint": false,
+              "RelativeOffset": {
+                "X": 0,
+                "Y": 0,
+                "Z": 100
+              }
+            },
+            "ZoomSettings": {
+              "ZoomMethod": "EZoomMethod::Automatic",
+              "TargetViewHeight": 1400,
+              "ShouldInterpZoom": true,
+              "ZoomInterpSpeed": 8
+            },
+            "ShouldFinishCompleteShot": false
+          }
+        ]
+      }
+    },
+    {
+      "index": 182,
+      "name": "SceneComponent",
+      "Properties": {
+        "RelativeLocation": {
+          "X": -22925.721672069594,
+          "Y": -9191.713861469998,
+          "Z": 2468.8700437545776
+        },
+        "RelativeRotation": {
+          "Pitch": -21.80140948635181,
+          "Yaw": -113.93476555558371,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 89,
+      "name": "CameraComponent",
+      "Properties": {
+        "TrackNodeID": 12,
+        "LastTrackNodeID": 18,
+        "BehaviourSettings": [
+          {
+            "TrackingSettings": {
+              "TrackingMethod": "ETrackingMethod::Follow",
+              "HasLatePickup": false,
+              "HasDropOffPoint": false,
+              "RelativeOffset": {
+                "X": 0,
+                "Y": 0,
+                "Z": 100
+              }
+            },
+            "ZoomSettings": {
+              "ZoomMethod": "EZoomMethod::Automatic",
+              "TargetViewHeight": 1400,
+              "ShouldInterpZoom": true,
+              "ZoomInterpSpeed": 8
+            },
+            "ShouldFinishCompleteShot": false
+          }
+        ]
+      }
+    },
+    {
+      "index": 183,
+      "name": "SceneComponent",
+      "Properties": {
+        "RelativeLocation": {
+          "X": 29837.562494395774,
+          "Y": 6727.5831053769125,
+          "Z": 2144.6936190128326
+        },
+        "RelativeRotation": {
+          "Pitch": -21.80140948635181,
+          "Yaw": -209.5698684065291,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 90,
+      "name": "CameraComponent",
+      "Properties": {
+        "TrackNodeID": 147,
+        "LastTrackNodeID": 157,
+        "BehaviourSettings": [
+          {
+            "TrackingSettings": {
+              "TrackingMethod": "ETrackingMethod::Follow",
+              "HasLatePickup": false,
+              "HasDropOffPoint": false,
+              "RelativeOffset": {
+                "X": 0,
+                "Y": 0,
+                "Z": 100
+              }
+            },
+            "ZoomSettings": {
+              "ZoomMethod": "EZoomMethod::Automatic",
+              "TargetViewHeight": 1400,
+              "ShouldInterpZoom": true,
+              "ZoomInterpSpeed": 8
+            },
+            "ShouldFinishCompleteShot": false
+          }
+        ]
+      }
+    },
+    {
+      "index": 184,
+      "name": "SceneComponent",
+      "Properties": {
+        "RelativeLocation": {
+          "X": 24172.788767554895,
+          "Y": 30013.552508715373,
+          "Z": 1566.6740000247955
+        },
+        "RelativeRotation": {
+          "Pitch": -23.19859051364819,
+          "Yaw": -98.11998917921954,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 91,
+      "name": "CameraComponent",
+      "Properties": {
+        "TrackNodeID": 17,
+        "LastTrackNodeID": 20,
+        "BehaviourSettings": [
+          {
+            "TrackingSettings": {
+              "TrackingMethod": "ETrackingMethod::Follow",
+              "HasLatePickup": false,
+              "HasDropOffPoint": false,
+              "RelativeOffset": {
+                "X": 0,
+                "Y": 0,
+                "Z": 100
+              }
+            },
+            "ZoomSettings": {
+              "ZoomMethod": "EZoomMethod::Automatic",
+              "TargetViewHeight": 1400,
+              "ShouldInterpZoom": true,
+              "ZoomInterpSpeed": 8
+            },
+            "ShouldFinishCompleteShot": false
+          }
+        ]
+      }
+    },
+    {
+      "index": 185,
+      "name": "SceneComponent",
+      "Properties": {
+        "RelativeLocation": {
+          "X": 27200.558614215526,
+          "Y": -1515.133936535501,
+          "Z": 1723.2883930206299
+        },
+        "RelativeRotation": {
+          "Pitch": -21.80140948635181,
+          "Yaw": -167.64080925689098,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 92,
+      "name": "CameraComponent",
+      "Properties": {
+        "TrackNodeID": 16,
+        "LastTrackNodeID": 21,
+        "BehaviourSettings": [
+          {
+            "TrackingSettings": {
+              "TrackingMethod": "ETrackingMethod::Follow",
+              "HasLatePickup": false,
+              "HasDropOffPoint": false,
+              "RelativeOffset": {
+                "X": 0,
+                "Y": 0,
+                "Z": 100
+              }
+            },
+            "ZoomSettings": {
+              "ZoomMethod": "EZoomMethod::Automatic",
+              "TargetViewHeight": 1400,
+              "ShouldInterpZoom": true,
+              "ZoomInterpSpeed": 8
+            },
+            "ShouldFinishCompleteShot": false
+          }
+        ]
+      }
+    },
+    {
+      "index": 186,
+      "name": "SceneComponent",
+      "Properties": {
+        "RelativeLocation": {
+          "X": 27200.558614215526,
+          "Y": -1515.133936535501,
+          "Z": 1723.2883930206299
+        },
+        "RelativeRotation": {
+          "Pitch": -21.80140948635181,
+          "Yaw": -167.64080925689098,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 93,
+      "name": "CameraComponent",
+      "Properties": {
+        "TrackNodeID": 21,
+        "LastTrackNodeID": 33,
+        "BehaviourSettings": [
+          {
+            "TrackingSettings": {
+              "TrackingMethod": "ETrackingMethod::Follow",
+              "HasLatePickup": false,
+              "HasDropOffPoint": false,
+              "RelativeOffset": {
+                "X": 0,
+                "Y": 0,
+                "Z": 100
+              }
+            },
+            "ZoomSettings": {
+              "ZoomMethod": "EZoomMethod::Automatic",
+              "TargetViewHeight": 1400,
+              "ShouldInterpZoom": true,
+              "ZoomInterpSpeed": 8
+            },
+            "ShouldFinishCompleteShot": false
+          }
+        ]
+      }
+    },
+    {
+      "index": 187,
+      "name": "SceneComponent",
+      "Properties": {
+        "RelativeLocation": {
+          "X": 32987.526489571435,
+          "Y": -29417.942574048153,
+          "Z": 2764.7789478302
+        },
+        "RelativeRotation": {
+          "Pitch": -21.80140948635181,
+          "Yaw": -24.792689766533584,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 94,
+      "name": "CameraComponent",
+      "Properties": {
+        "TrackNodeID": 33,
+        "LastTrackNodeID": 44,
+        "BehaviourSettings": [
+          {
+            "TrackingSettings": {
+              "TrackingMethod": "ETrackingMethod::Follow",
+              "HasLatePickup": false,
+              "HasDropOffPoint": false,
+              "RelativeOffset": {
+                "X": 0,
+                "Y": 0,
+                "Z": 100
+              }
+            },
+            "ZoomSettings": {
+              "ZoomMethod": "EZoomMethod::Automatic",
+              "TargetViewHeight": 1400,
+              "ShouldInterpZoom": true,
+              "ZoomInterpSpeed": 8
+            },
+            "ShouldFinishCompleteShot": false
+          }
+        ]
+      }
+    },
+    {
+      "index": 188,
+      "name": "SceneComponent",
+      "Properties": {
+        "RelativeLocation": {
+          "X": 44662.5136548468,
+          "Y": -9006.026696894807,
+          "Z": 2302.3820638656616
+        },
+        "RelativeRotation": {
+          "Pitch": -21.80140948635181,
+          "Yaw": 6.25687899706881,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 95,
+      "name": "CameraComponent",
+      "Properties": {
+        "TrackNodeID": 37,
+        "LastTrackNodeID": 44,
+        "BehaviourSettings": [
+          {
+            "TrackingSettings": {
+              "TrackingMethod": "ETrackingMethod::Follow",
+              "HasLatePickup": false,
+              "HasDropOffPoint": false,
+              "RelativeOffset": {
+                "X": 0,
+                "Y": 0,
+                "Z": 100
+              }
+            },
+            "ZoomSettings": {
+              "ZoomMethod": "EZoomMethod::Automatic",
+              "TargetViewHeight": 1400,
+              "ShouldInterpZoom": true,
+              "ZoomInterpSpeed": 8
+            },
+            "ShouldFinishCompleteShot": false
+          }
+        ]
+      }
+    },
+    {
+      "index": 189,
+      "name": "SceneComponent",
+      "Properties": {
+        "RelativeLocation": {
+          "X": 44554.63166832807,
+          "Y": 660.3254788799793,
+          "Z": 2114.1200602054596
+        },
+        "RelativeRotation": {
+          "Pitch": -21.80140948635181,
+          "Yaw": -16.607897022095628,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 96,
+      "name": "CameraComponent",
+      "Properties": {
+        "TrackNodeID": 33,
+        "LastTrackNodeID": 43,
+        "BehaviourSettings": [
+          {
+            "TrackingSettings": {
+              "TrackingMethod": "ETrackingMethod::Follow",
+              "HasLatePickup": false,
+              "HasDropOffPoint": false,
+              "RelativeOffset": {
+                "X": 0,
+                "Y": 0,
+                "Z": 100
+              }
+            },
+            "ZoomSettings": {
+              "ZoomMethod": "EZoomMethod::Automatic",
+              "TargetViewHeight": 1400,
+              "ShouldInterpZoom": true,
+              "ZoomInterpSpeed": 8
+            },
+            "ShouldFinishCompleteShot": false
+          }
+        ]
+      }
+    },
+    {
+      "index": 190,
+      "name": "SceneComponent",
+      "Properties": {
+        "RelativeLocation": {
+          "X": 44662.5136548468,
+          "Y": -9006.026696894807,
+          "Z": 2302.3820638656616
+        },
+        "RelativeRotation": {
+          "Pitch": -21.80140948635181,
+          "Yaw": 6.25687899706881,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 97,
+      "name": "CameraComponent",
+      "Properties": {
+        "TrackNodeID": 130,
+        "LastTrackNodeID": 142,
+        "BehaviourSettings": [
+          {
+            "TrackingSettings": {
+              "TrackingMethod": "ETrackingMethod::Follow",
+              "HasLatePickup": false,
+              "HasDropOffPoint": false,
+              "RelativeOffset": {
+                "X": 0,
+                "Y": 0,
+                "Z": 100
+              }
+            },
+            "ZoomSettings": {
+              "ZoomMethod": "EZoomMethod::Automatic",
+              "TargetViewHeight": 1400,
+              "ShouldInterpZoom": true,
+              "ZoomInterpSpeed": 8
+            },
+            "ShouldFinishCompleteShot": false
+          }
+        ]
+      }
+    },
+    {
+      "index": 191,
+      "name": "SceneComponent",
+      "Properties": {
+        "RelativeLocation": {
+          "X": -21215.950952405263,
+          "Y": -14114.262287674312,
+          "Z": 1693.7111616134644
+        },
+        "RelativeRotation": {
+          "Pitch": -23.19859051364819,
+          "Yaw": -38.695822347655394,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 98,
+      "name": "CameraComponent",
+      "Properties": {
+        "TrackNodeID": 136,
+        "LastTrackNodeID": 142,
+        "BehaviourSettings": [
+          {
+            "TrackingSettings": {
+              "TrackingMethod": "ETrackingMethod::Follow",
+              "HasLatePickup": false,
+              "HasDropOffPoint": false,
+              "RelativeOffset": {
+                "X": 0,
+                "Y": 0,
+                "Z": 100
+              }
+            },
+            "ZoomSettings": {
+              "ZoomMethod": "EZoomMethod::Automatic",
+              "TargetViewHeight": 1400,
+              "ShouldInterpZoom": true,
+              "ZoomInterpSpeed": 8
+            },
+            "ShouldFinishCompleteShot": false
+          }
+        ]
+      }
+    },
+    {
+      "index": 192,
+      "name": "SceneComponent",
+      "Properties": {
+        "RelativeLocation": {
+          "X": -16933.666814353983,
+          "Y": -7445.59600782593,
+          "Z": 1600.6587147712708
+        },
+        "RelativeRotation": {
+          "Pitch": -23.19859051364819,
+          "Yaw": -39.030887436391644,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 99,
+      "name": "CameraComponent",
+      "Properties": {
+        "TrackNodeID": 142,
+        "LastTrackNodeID": 147,
+        "BehaviourSettings": [
+          {
+            "TrackingSettings": {
+              "TrackingMethod": "ETrackingMethod::Follow",
+              "HasLatePickup": false,
+              "HasDropOffPoint": false,
+              "RelativeOffset": {
+                "X": 0,
+                "Y": 0,
+                "Z": 100
+              }
+            },
+            "ZoomSettings": {
+              "ZoomMethod": "EZoomMethod::Automatic",
+              "TargetViewHeight": 1400,
+              "ShouldInterpZoom": true,
+              "ZoomInterpSpeed": 8
+            },
+            "ShouldFinishCompleteShot": false
+          }
+        ]
+      }
+    },
+    {
+      "index": 193,
+      "name": "SceneComponent",
+      "Properties": {
+        "RelativeLocation": {
+          "X": 182.70101188535818,
+          "Y": 10080.590066021476,
+          "Z": 1525.5323141813278
+        },
+        "RelativeRotation": {
+          "Pitch": -23.19859051364819,
+          "Yaw": -44.91223906881972,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 100,
+      "name": "CameraComponent",
+      "Properties": {
+        "TrackNodeID": 151,
+        "LastTrackNodeID": 153,
+        "BehaviourSettings": [
+          {
+            "TrackingSettings": {
+              "TrackingMethod": "ETrackingMethod::Follow",
+              "HasLatePickup": false,
+              "HasDropOffPoint": false,
+              "RelativeOffset": {
+                "X": 0,
+                "Y": 0,
+                "Z": 100
+              }
+            },
+            "ZoomSettings": {
+              "ZoomMethod": "EZoomMethod::Automatic",
+              "TargetViewHeight": 1400,
+              "ShouldInterpZoom": true,
+              "ZoomInterpSpeed": 8
+            },
+            "ShouldFinishCompleteShot": false
+          }
+        ]
+      }
+    },
+    {
+      "index": 194,
+      "name": "SceneComponent",
+      "Properties": {
+        "RelativeLocation": {
+          "X": 24172.788767554895,
+          "Y": 30013.552508715373,
+          "Z": 1566.6740000247955
+        },
+        "RelativeRotation": {
+          "Pitch": -23.19859051364819,
+          "Yaw": -98.11998917921954,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 101,
+      "name": "CameraComponent",
+      "Properties": {
+        "TrackNodeID": 107,
+        "LastTrackNodeID": 108,
+        "BehaviourSettings": [
+          {
+            "TrackingSettings": {
+              "TrackingMethod": "ETrackingMethod::Follow",
+              "HasLatePickup": false,
+              "HasDropOffPoint": false,
+              "RelativeOffset": {
+                "X": 0,
+                "Y": 0,
+                "Z": 100
+              }
+            },
+            "ZoomSettings": {
+              "ZoomMethod": "EZoomMethod::Automatic",
+              "TargetViewHeight": 1400,
+              "ShouldInterpZoom": true,
+              "ZoomInterpSpeed": 8
+            },
+            "ShouldFinishCompleteShot": false
+          }
+        ]
+      }
+    },
+    {
+      "index": 195,
+      "name": "SceneComponent",
+      "Properties": {
+        "RelativeLocation": {
+          "X": -70492.4545516662,
+          "Y": 88844.36528361484,
+          "Z": 6207.4981689453125
+        },
+        "RelativeRotation": {
+          "Pitch": -21.80140948635181,
+          "Yaw": -158.0189042285296,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 103,
+      "name": "CameraComponent",
+      "Properties": {
+        "TrackNodeID": 17,
+        "LastTrackNodeID": 19,
+        "BehaviourSettings": [
+          {
+            "TrackingSettings": {
+              "TrackingMethod": "ETrackingMethod::Follow",
+              "HasLatePickup": false,
+              "HasDropOffPoint": false,
+              "RelativeOffset": {
+                "X": 0,
+                "Y": 0,
+                "Z": 100
+              }
+            },
+            "ZoomSettings": {
+              "ZoomMethod": "EZoomMethod::Automatic",
+              "TargetViewHeight": 1400,
+              "ShouldInterpZoom": true,
+              "ZoomInterpSpeed": 8
+            },
+            "ShouldFinishCompleteShot": false
+          }
+        ]
+      }
+    },
+    {
+      "index": 197,
+      "name": "SceneComponent",
+      "Properties": {
+        "RelativeLocation": {
+          "X": 27200.558614215526,
+          "Y": -1515.133936535501,
+          "Z": 1723.2883930206299
+        },
+        "RelativeRotation": {
+          "Pitch": -21.80140948635181,
+          "Yaw": -167.64080925689098,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 104,
+      "name": "CameraComponent",
+      "Properties": {
+        "TrackNodeID": 46,
+        "LastTrackNodeID": 50,
+        "BehaviourSettings": [
+          {
+            "TrackingSettings": {
+              "TrackingMethod": "ETrackingMethod::Follow",
+              "HasLatePickup": false,
+              "HasDropOffPoint": false,
+              "RelativeOffset": {
+                "X": 0,
+                "Y": 0,
+                "Z": 100
+              }
+            },
+            "ZoomSettings": {
+              "ZoomMethod": "EZoomMethod::Automatic",
+              "TargetViewHeight": 1400,
+              "ShouldInterpZoom": true,
+              "ZoomInterpSpeed": 8
+            },
+            "ShouldFinishCompleteShot": false
+          }
+        ]
+      }
+    },
+    {
+      "index": 198,
+      "name": "SceneComponent",
+      "Properties": {
+        "RelativeLocation": {
+          "X": 44640.32823249315,
+          "Y": 26653.961686738032,
+          "Z": 1784.2027187347412
+        },
+        "RelativeRotation": {
+          "Pitch": -21.80140948635181,
+          "Yaw": 28.441854547187177,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 106,
+      "name": "CameraComponent",
+      "Properties": {
+        "TrackNodeID": 118,
+        "BehaviourSettings": [
+          {
+            "TrackingSettings": {
+              "TrackingMethod": "ETrackingMethod::Follow",
+              "HasLatePickup": false,
+              "HasDropOffPoint": false,
+              "RelativeOffset": {
+                "X": 0,
+                "Y": 0,
+                "Z": 100
+              }
+            },
+            "ZoomSettings": {
+              "ZoomMethod": "EZoomMethod::Automatic",
+              "TargetViewHeight": 1400,
+              "ShouldInterpZoom": true,
+              "ZoomInterpSpeed": 8
+            },
+            "ShouldFinishCompleteShot": false
+          }
+        ]
+      }
+    },
+    {
+      "index": 201,
+      "name": "SceneComponent",
+      "Properties": {
+        "RelativeLocation": {
+          "X": -24922.72288751728,
+          "Y": 14260.878788993836,
+          "Z": 2884.2097759246826
+        }
+      }
+    },
+    {
+      "index": 153,
+      "name": "HelicamPosition",
+      "Properties": {
+        "StartNodeID": 118,
+        "RelativeLocation": {
+          "X": -30372.900390625,
+          "Y": 13522.254943847656,
+          "Z": 12684.209775924683
+        }
+      }
+    },
+    {
+      "index": 154,
+      "name": "HelicamPosition",
+      "Properties": {
+        "StartNodeID": 111,
+        "RelativeLocation": {
+          "X": -56382.354736328125,
+          "Y": 61476.318359375,
+          "Z": 14843.086242675781
+        }
+      }
+    },
+    {
+      "index": 155,
+      "name": "HelicamPosition",
+      "Properties": {
+        "StartNodeID": 102,
+        "RelativeLocation": {
+          "X": -74438.90991210938,
+          "Y": 106569.05517578125,
+          "Z": 16061.883163452148
+        }
+      }
+    },
+    {
+      "index": 156,
+      "name": "HelicamPosition",
+      "Properties": {
+        "StartNodeID": 19,
+        "RelativeLocation": {
+          "X": 22546.74530029297,
+          "Y": -5972.434234619141,
+          "Z": 11600.253772735596
+        }
+      }
+    },
+    {
+      "index": 157,
+      "name": "HelicamPosition",
+      "Properties": {
+        "StartNodeID": 42,
+        "RelativeLocation": {
+          "X": 53448.876953125,
+          "Y": 7942.250823974609,
+          "Z": 11845.845007896423
+        }
+      }
+    },
+    {
+      "index": 158,
+      "name": "HelicamPosition",
+      "Properties": {
+        "StartNodeID": 62,
+        "RelativeLocation": {
+          "X": 30006.997680664062,
+          "Y": 51501.251220703125,
+          "Z": 11582.045125961304
+        }
+      }
+    },
+    {
+      "index": 159,
+      "name": "HelicamPosition",
+      "Properties": {
+        "StartNodeID": 12,
+        "RelativeLocation": {
+          "X": 30715.682983398438,
+          "Y": 18073.971557617188,
+          "Z": 12250.960969924927
+        }
+      }
+    },
+    {
+      "index": 160,
+      "name": "HelicamPosition",
+      "Properties": {
+        "StartNodeID": 76,
+        "RelativeLocation": {
+          "X": -22300.42266845703,
+          "Y": 45157.000732421875,
+          "Z": 13067.949676513672
+        }
+      }
+    },
+    {
+      "index": 161,
+      "name": "HelicamPosition",
+      "Properties": {
+        "StartNodeID": 89,
+        "RelativeLocation": {
+          "X": -53128.973388671875,
+          "Y": 99487.65258789062,
+          "Z": 15416.260528564453
+        }
+      }
+    },
+    {
+      "index": 30,
+      "name": "MiniMapComponent",
+      "Properties": {
+        "RelativeLocation": {
+          "X": 78502.07415168517,
+          "Y": -45128.46996217747,
+          "Z": 0
+        },
+        "RelativeRotation": {
+          "Pitch": 0,
+          "Yaw": 90,
+          "Roll": 0
+        },
+        "RelativeScale3D": {
+          "X": 178545.36755215935,
+          "Y": 178545.36755215935,
+          "Z": 178545.36755215935
+        }
+      }
+    },
+    {
+      "index": 19,
+      "name": "FullScreenMapComponent",
+      "Properties": {
+        "FlattenMap": true,
+        "RelativeLocation": {
+          "X": -113.3320376540087,
+          "Y": 7.767529980257017,
+          "Z": -4995.1147
+        }
+      }
+    }
+  ],
+  "coverage": [
+    {
+      "camera": "RaceSimCameraActor'Lvl_Bahrain:PersistentLevel.Camera_C1'",
+      "start": 0,
+      "end": 12
+    },
+    {
+      "camera": "RaceSimCameraActor'Lvl_Bahrain:PersistentLevel.Camera_C10'",
+      "start": 43,
+      "end": 58
+    },
+    {
+      "camera": "RaceSimCameraActor'Lvl_Bahrain:PersistentLevel.Camera_C11'",
+      "start": 58,
+      "end": 67
+    },
+    {
+      "camera": "RaceSimCameraActor'Lvl_Bahrain:PersistentLevel.Camera_C12'",
+      "start": 64,
+      "end": 73
+    },
+    {
+      "camera": "RaceSimCameraActor'Lvl_Bahrain:PersistentLevel.Camera_C13'",
+      "start": 67,
+      "end": 75
+    },
+    {
+      "camera": "RaceSimCameraActor'Lvl_Bahrain:PersistentLevel.Camera_C14'",
+      "start": 71,
+      "end": 76
+    },
+    {
+      "camera": "RaceSimCameraActor'Lvl_Bahrain:PersistentLevel.Camera_C15'",
+      "start": 75,
+      "end": 78
+    },
+    {
+      "camera": "RaceSimCameraActor'Lvl_Bahrain:PersistentLevel.Camera_C16'",
+      "start": 78,
+      "end": 87
+    },
+    {
+      "camera": "RaceSimCameraActor'Lvl_Bahrain:PersistentLevel.Camera_C17'",
+      "start": 87,
+      "end": 92
+    },
+    {
+      "camera": "RaceSimCameraActor'Lvl_Bahrain:PersistentLevel.Camera_C18'",
+      "start": 92,
+      "end": 102
+    },
+    {
+      "camera": "RaceSimCameraActor'Lvl_Bahrain:PersistentLevel.Camera_C19'",
+      "start": 102,
+      "end": 107
+    },
+    {
+      "camera": "RaceSimCameraActor'Lvl_Bahrain:PersistentLevel.Camera_C1_RaceStart'",
+      "start": 0,
+      "end": 12
+    },
+    {
+      "camera": "RaceSimCameraActor'Lvl_Bahrain:PersistentLevel.Camera_C2'",
+      "start": 12,
+      "end": 16
+    },
+    {
+      "camera": "RaceSimCameraActor'Lvl_Bahrain:PersistentLevel.Camera_C20'",
+      "start": 108,
+      "end": 114
+    },
+    {
+      "camera": "RaceSimCameraActor'Lvl_Bahrain:PersistentLevel.Camera_C21'",
+      "start": 107,
+      "end": 120
+    },
+    {
+      "camera": "RaceSimCameraActor'Lvl_Bahrain:PersistentLevel.Camera_C22'",
+      "start": 113,
+      "end": 122
+    },
+    {
+      "camera": "RaceSimCameraActor'Lvl_Bahrain:PersistentLevel.Camera_C23'",
+      "start": 120,
+      "end": 0
+    },
+    {
+      "camera": "RaceSimCameraActor'Lvl_Bahrain:PersistentLevel.Camera_C3'",
+      "start": 12,
+      "end": 18
+    },
+    {
+      "camera": "RaceSimCameraActor'Lvl_Bahrain:PersistentLevel.Camera_C3_PitExit'",
+      "start": 147,
+      "end": 157
+    },
+    {
+      "camera": "RaceSimCameraActor'Lvl_Bahrain:PersistentLevel.Camera_C4'",
+      "start": 17,
+      "end": 20
+    },
+    {
+      "camera": "RaceSimCameraActor'Lvl_Bahrain:PersistentLevel.Camera_C5'",
+      "start": 16,
+      "end": 21
+    },
+    {
+      "camera": "RaceSimCameraActor'Lvl_Bahrain:PersistentLevel.Camera_C6'",
+      "start": 21,
+      "end": 33
+    },
+    {
+      "camera": "RaceSimCameraActor'Lvl_Bahrain:PersistentLevel.Camera_C7'",
+      "start": 33,
+      "end": 44
+    },
+    {
+      "camera": "RaceSimCameraActor'Lvl_Bahrain:PersistentLevel.Camera_C8'",
+      "start": 37,
+      "end": 44
+    },
+    {
+      "camera": "RaceSimCameraActor'Lvl_Bahrain:PersistentLevel.Camera_C9'",
+      "start": 33,
+      "end": 43
+    },
+    {
+      "camera": "RaceSimCameraActor'Lvl_Bahrain:PersistentLevel.Camera_P1'",
+      "start": 130,
+      "end": 142
+    },
+    {
+      "camera": "RaceSimCameraActor'Lvl_Bahrain:PersistentLevel.Camera_P2'",
+      "start": 136,
+      "end": 142
+    },
+    {
+      "camera": "RaceSimCameraActor'Lvl_Bahrain:PersistentLevel.Camera_P3'",
+      "start": 142,
+      "end": 147
+    },
+    {
+      "camera": "RaceSimCameraActor'Lvl_Bahrain:PersistentLevel.Camera_S1'",
+      "start": 151,
+      "end": 153
+    },
+    {
+      "camera": "RaceSimCameraActor'Lvl_Bahrain:PersistentLevel.Camera_S19'",
+      "start": 107,
+      "end": 108
+    },
+    {
+      "camera": "RaceSimCameraActor'Lvl_Bahrain:PersistentLevel.Camera_S3'",
+      "start": 17,
+      "end": 19
+    },
+    {
+      "camera": "RaceSimCameraActor'Lvl_Bahrain:PersistentLevel.Camera_S9'",
+      "start": 46,
+      "end": 50
+    },
+    {
+      "camera": "RaceSimSplineCameraActor'Lvl_Bahrain:PersistentLevel.RaceSimSplineCameraActor_2'",
+      "start": 118,
+      "end": 118
+    }
+  ],
+  "limitations": [
+    "Runtime shots and occlusion require validation",
+    "Spline cinematics and full-screen map are separate from trackside cameras"
+  ]
+}

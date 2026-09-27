@@ -1,0 +1,32 @@
+[
+  {
+    "original": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\research\\bahrain_edit_packed01\\TrackBridge_Bahrain_Probe_P.pak",
+    "disabled": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\research\\bahrain_edit_packed01\\TrackBridge_Bahrain_Probe_P.pak.disabled",
+    "sha256": "75E7144577253917F6DA7312EF5E585B12FB728226A22B0938323751A6B555CD"
+  },
+  {
+    "original": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\research\\bahrain_roundtrip01\\TrackBridge_Bahrain_Test_P.pak",
+    "disabled": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\research\\bahrain_roundtrip01\\TrackBridge_Bahrain_Test_P.pak.disabled",
+    "sha256": "75E7144577253917F6DA7312EF5E585B12FB728226A22B0938323751A6B555CD"
+  },
+  {
+    "original": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\research\\kalinago-cooked-pack01\\TrackBridge_Kalinago_Pilot_P.pak",
+    "disabled": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\research\\kalinago-cooked-pack01\\TrackBridge_Kalinago_Pilot_P.pak.disabled",
+    "sha256": "75E7144577253917F6DA7312EF5E585B12FB728226A22B0938323751A6B555CD"
+  },
+  {
+    "original": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\research\\kalinago-full-pack01\\TrackBridge_Kalinago_Test_P.pak",
+    "disabled": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\research\\kalinago-full-pack01\\TrackBridge_Kalinago_Test_P.pak.disabled",
+    "sha256": "75E7144577253917F6DA7312EF5E585B12FB728226A22B0938323751A6B555CD"
+  },
+  {
+    "original": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\research\\kalinago-scene-pack01\\TrackBridge_Kalinago_Scene_P.pak",
+    "disabled": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\research\\kalinago-scene-pack01\\TrackBridge_Kalinago_Scene_P.pak.disabled",
+    "sha256": "75E7144577253917F6DA7312EF5E585B12FB728226A22B0938323751A6B555CD"
+  },
+  {
+    "original": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\research\\kalinago-scene-pack02\\TrackBridge_Kalinago_Scene_P.pak",
+    "disabled": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\research\\kalinago-scene-pack02\\TrackBridge_Kalinago_Scene_P.pak.disabled",
+    "sha256": "75E7144577253917F6DA7312EF5E585B12FB728226A22B0938323751A6B555CD"
+  }
+]

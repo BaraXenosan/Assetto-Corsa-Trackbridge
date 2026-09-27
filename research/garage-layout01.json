@@ -1,0 +1,322 @@
+{
+  "installable": false,
+  "keepActors": [
+    "BP_PitGarage10_0",
+    "BP_PitGarage12_1",
+    "BP_PitGarage13_2",
+    "BP_PitGarage15_3",
+    "BP_PitGarage15_4",
+    "BP_PitGarage3_5",
+    "BP_PitGarage4_6",
+    "BP_PitGarage6_7",
+    "BP_PitGarage7_8",
+    "BP_PitGarage9_9",
+    "BP_PitGarage_10",
+    "WorldSettings"
+  ],
+  "exports": [
+    {
+      "index": 517,
+      "name": "Scene1",
+      "Properties": {
+        "RelativeLocation": {
+          "X": 2225.957927438613,
+          "Y": 6018.788580046487,
+          "Z": 48.147377198282015
+        },
+        "RelativeRotation": {
+          "Pitch": 0,
+          "Yaw": 405.30765605023936,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 519,
+      "name": "Scene1",
+      "Properties": {
+        "RelativeLocation": {
+          "X": 4469.380173684392,
+          "Y": 8269.45985776503,
+          "Z": 50.98921516331547
+        },
+        "RelativeRotation": {
+          "Pitch": 0,
+          "Yaw": 405.20599645762474,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 521,
+      "name": "Scene1",
+      "Properties": {
+        "RelativeLocation": {
+          "X": 6170.237950424499,
+          "Y": 9969.520930261924,
+          "Z": 51.233912366385326
+        },
+        "RelativeRotation": {
+          "Pitch": 0,
+          "Yaw": 405.167088668883,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 523,
+      "name": "Scene1",
+      "Properties": {
+        "RelativeLocation": {
+          "X": 7955.170495290825,
+          "Y": 11765.362368400043,
+          "Z": 52.22809426849828
+        },
+        "RelativeRotation": {
+          "Pitch": 0,
+          "Yaw": 405.1795254449983,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 525,
+      "name": "Scene1",
+      "Properties": {
+        "RelativeLocation": {
+          "X": 10045.370730015584,
+          "Y": 13875.941157556386,
+          "Z": 56.47467800526229
+        },
+        "RelativeRotation": {
+          "Pitch": 0,
+          "Yaw": 405.0841379540175,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 527,
+      "name": "Scene1",
+      "Properties": {
+        "RelativeLocation": {
+          "X": -5650.702827477503,
+          "Y": -1855.2505252217707,
+          "Z": 38.28400155668419
+        },
+        "RelativeRotation": {
+          "Pitch": 0,
+          "Yaw": 404.9859646594149,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 529,
+      "name": "Scene1",
+      "Properties": {
+        "RelativeLocation": {
+          "X": -9050.119954061356,
+          "Y": -5219.783289183548,
+          "Z": 31.176239843949283
+        },
+        "RelativeRotation": {
+          "Pitch": 0,
+          "Yaw": 405.38798214277307,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 531,
+      "name": "Scene1",
+      "Properties": {
+        "RelativeLocation": {
+          "X": -3461.697786279626,
+          "Y": 332.5570909449747,
+          "Z": 39.48066729971771
+        },
+        "RelativeRotation": {
+          "Pitch": 0,
+          "Yaw": 405.164905387295,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 533,
+      "name": "Scene1",
+      "Properties": {
+        "RelativeLocation": {
+          "X": -1767.2504520337295,
+          "Y": 2031.5850944149722,
+          "Z": 41.275697197646544
+        },
+        "RelativeRotation": {
+          "Pitch": 0,
+          "Yaw": 405.1999636068228,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 535,
+      "name": "Scene1",
+      "Properties": {
+        "RelativeLocation": {
+          "X": -56.161142352712055,
+          "Y": 3750.4564131633706,
+          "Z": 42.581878462536515
+        },
+        "RelativeRotation": {
+          "Pitch": 0,
+          "Yaw": 405.26855338495807,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 537,
+      "name": "Scene1",
+      "Properties": {
+        "RelativeLocation": {
+          "X": -7204.435373560156,
+          "Y": -3401.1720133193344,
+          "Z": 31.539843392132205
+        },
+        "RelativeRotation": {
+          "Pitch": 0,
+          "Yaw": 404.97104844531003,
+          "Roll": 0
+        }
+      }
+    }
+  ],
+  "teams": [
+    {
+      "team": 6,
+      "actor": "BP_PitGarage10_0",
+      "nativeSpacingM": 6.300025848123762,
+      "targetCenterM": [
+        19.760188006517573,
+        58.15918744208353,
+        0.23818306549682017
+      ],
+      "rotationDeltaDegrees": 312.69301605023935
+    },
+    {
+      "team": 7,
+      "actor": "BP_PitGarage12_1",
+      "nativeSpacingM": 6.300024874896784,
+      "targetCenterM": [
+        42.19071027652375,
+        80.6702251851836,
+        0.2633089149939145
+      ],
+      "rotationDeltaDegrees": 312.5913564576247
+    },
+    {
+      "team": 8,
+      "actor": "BP_PitGarage13_2",
+      "nativeSpacingM": 6.299769942090546,
+      "targetCenterM": [
+        59.197808601886265,
+        97.67244268157897,
+        0.27214720527109926
+      ],
+      "rotationDeltaDegrees": 312.552448668883
+    },
+    {
+      "team": 9,
+      "actor": "BP_PitGarage15_3",
+      "nativeSpacingM": 6.299775351576128,
+      "targetCenterM": [
+        77.04764140167863,
+        115.63030573262665,
+        0.27854093825499243
+      ],
+      "rotationDeltaDegrees": 312.5648854449983
+    },
+    {
+      "team": 10,
+      "actor": "BP_PitGarage15_4",
+      "nativeSpacingM": 6.300002582830567,
+      "targetCenterM": [
+        97.94616785911761,
+        136.74018933968676,
+        0.2863356609255721
+      ],
+      "rotationDeltaDegrees": 312.46949795401747
+    },
+    {
+      "team": 2,
+      "actor": "BP_PitGarage3_5",
+      "nativeSpacingM": 6.300020096356493,
+      "targetCenterM": [
+        -59.017483265942744,
+        -20.566947188696982,
+        0.24080077577305048
+      ],
+      "rotationDeltaDegrees": 312.3713246594149
+    },
+    {
+      "team": 0,
+      "actor": "BP_PitGarage4_6",
+      "nativeSpacingM": 6.2999179239142125,
+      "targetCenterM": [
+        -92.99759582389828,
+        -54.22995040902337,
+        0.24837621158825257
+      ],
+      "rotationDeltaDegrees": 312.77334214277306
+    },
+    {
+      "team": 3,
+      "actor": "BP_PitGarage6_7",
+      "nativeSpacingM": 6.300027316654552,
+      "targetCenterM": [
+        -37.12116486116055,
+        1.3033025554295716,
+        0.22329584320142382
+      ],
+      "rotationDeltaDegrees": 312.550265387295
+    },
+    {
+      "team": 4,
+      "actor": "BP_PitGarage7_8",
+      "nativeSpacingM": 6.299722188699596,
+      "targetCenterM": [
+        -20.175525765036127,
+        18.291981707035504,
+        0.2028607085937918
+      ],
+      "rotationDeltaDegrees": 312.5853236068228
+    },
+    {
+      "team": 5,
+      "actor": "BP_PitGarage9_9",
+      "nativeSpacingM": 6.300043689113022,
+      "targetCenterM": [
+        -3.0622308489286922,
+        35.477725934274005,
+        0.20305482913258668
+      ],
+      "rotationDeltaDegrees": 312.65391338495806
+    },
+    {
+      "team": 1,
+      "actor": "BP_PitGarage_10",
+      "nativeSpacingM": 6.300048706638092,
+      "targetCenterM": [
+        -74.55541178933748,
+        -36.02558825124805,
+        0.21997061324948117
+      ],
+      "rotationDeltaDegrees": 312.35640844531
+    }
+  ],
+  "limitations": [
+    "Preserves native garage spacing and interior offsets",
+    "Garage facade clearance and team animation registration require runtime validation"
+  ]
+}

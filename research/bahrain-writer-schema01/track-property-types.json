@@ -1,0 +1,1292 @@
+[
+  {
+    "name": "m_trackNodes",
+    "type": "ArrayPropertyData",
+    "zero": false,
+    "children": [
+      {
+        "name": "0",
+        "type": "StructPropertyData",
+        "zero": false,
+        "children": [
+          {
+            "name": "m_pos",
+            "type": "StructPropertyData",
+            "zero": false,
+            "children": [
+              {
+                "name": "m_pos",
+                "type": "VectorPropertyData",
+                "zero": false,
+                "children": null,
+                "value": "(-39004,28515625, -23460,736328125, -1599,0073082447052)"
+              }
+            ],
+            "value": null
+          },
+          {
+            "name": "m_maxSpeed",
+            "type": "FloatPropertyData",
+            "zero": false,
+            "children": null,
+            "value": "400"
+          },
+          {
+            "name": "m_nodeType",
+            "type": "EnumPropertyData",
+            "zero": true,
+            "children": null,
+            "value": "AccelerateOut"
+          },
+          {
+            "name": "m_cornerType",
+            "type": "EnumPropertyData",
+            "zero": false,
+            "children": null,
+            "value": "Straight"
+          },
+          {
+            "name": "m_cornerNumber",
+            "type": "BytePropertyData",
+            "zero": false,
+            "children": null,
+            "value": null
+          },
+          {
+            "name": "m_dynamicLineOffset",
+            "type": "FloatPropertyData",
+            "zero": false,
+            "children": null,
+            "value": "0,00030627253"
+          },
+          {
+            "name": "m_previousEdgeID",
+            "type": "UInt32PropertyData",
+            "zero": false,
+            "children": null,
+            "value": "2"
+          },
+          {
+            "name": "m_highRiskKerb",
+            "type": "BoolPropertyData",
+            "zero": true,
+            "children": null,
+            "value": "False"
+          }
+        ],
+        "value": null
+      }
+    ],
+    "value": null
+  },
+  {
+    "name": "m_trackEdges",
+    "type": "ArrayPropertyData",
+    "zero": false,
+    "children": [
+      {
+        "name": "0",
+        "type": "StructPropertyData",
+        "zero": false,
+        "children": [
+          {
+            "name": "m_edgeData",
+            "type": "StructPropertyData",
+            "zero": false,
+            "children": [
+              {
+                "name": "m_insideEdge",
+                "type": "FloatPropertyData",
+                "zero": false,
+                "children": null,
+                "value": "11,857853"
+              },
+              {
+                "name": "m_outsideEdge",
+                "type": "FloatPropertyData",
+                "zero": false,
+                "children": null,
+                "value": "3,2950158"
+              }
+            ],
+            "value": null
+          },
+          {
+            "name": "m_offTrackData",
+            "type": "StructPropertyData",
+            "zero": false,
+            "children": [
+              {
+                "name": "m_insideEdgeOffset",
+                "type": "FloatPropertyData",
+                "zero": true,
+                "children": null,
+                "value": "0"
+              },
+              {
+                "name": "m_outsideEdgeOffset",
+                "type": "FloatPropertyData",
+                "zero": false,
+                "children": null,
+                "value": "4,6799994"
+              },
+              {
+                "name": "m_insideType",
+                "type": "EnumPropertyData",
+                "zero": true,
+                "children": null,
+                "value": "Tarmac"
+              },
+              {
+                "name": "m_outsideType",
+                "type": "EnumPropertyData",
+                "zero": true,
+                "children": null,
+                "value": "Tarmac"
+              }
+            ],
+            "value": null
+          },
+          {
+            "name": "m_trackNodeID",
+            "type": "UInt32PropertyData",
+            "zero": false,
+            "children": null,
+            "value": "106"
+          },
+          {
+            "name": "m_splineDistance",
+            "type": "FloatPropertyData",
+            "zero": true,
+            "children": null,
+            "value": "0"
+          },
+          {
+            "name": "m_offRaceLineDistance",
+            "type": "FloatPropertyData",
+            "zero": true,
+            "children": null,
+            "value": "0"
+          }
+        ],
+        "value": null
+      }
+    ],
+    "value": null
+  },
+  {
+    "name": "m_lastRaceTrackEdgeID",
+    "type": "UInt32PropertyData",
+    "zero": false,
+    "children": null,
+    "value": "308"
+  },
+  {
+    "name": "m_pitStopPositions",
+    "type": "ArrayPropertyData",
+    "zero": false,
+    "children": [
+      {
+        "name": "0",
+        "type": "StructPropertyData",
+        "zero": false,
+        "children": [
+          {
+            "name": "m_trackNodeID",
+            "type": "UInt32PropertyData",
+            "zero": false,
+            "children": null,
+            "value": "114"
+          },
+          {
+            "name": "m_splineDistance",
+            "type": "FloatPropertyData",
+            "zero": false,
+            "children": null,
+            "value": "24,227533"
+          },
+          {
+            "name": "m_offRaceLineDistance",
+            "type": "FloatPropertyData",
+            "zero": false,
+            "children": null,
+            "value": "7,7500396"
+          }
+        ],
+        "value": null
+      }
+    ],
+    "value": null
+  },
+  {
+    "name": "m_pitLaneRedFlagPositions",
+    "type": "ArrayPropertyData",
+    "zero": false,
+    "children": [
+      {
+        "name": "0",
+        "type": "StructPropertyData",
+        "zero": false,
+        "children": [
+          {
+            "name": "m_trackNodeID",
+            "type": "UInt32PropertyData",
+            "zero": false,
+            "children": null,
+            "value": "116"
+          },
+          {
+            "name": "m_splineDistance",
+            "type": "FloatPropertyData",
+            "zero": false,
+            "children": null,
+            "value": "64"
+          },
+          {
+            "name": "m_offRaceLineDistance",
+            "type": "FloatPropertyData",
+            "zero": true,
+            "children": null,
+            "value": "0"
+          }
+        ],
+        "value": null
+      }
+    ],
+    "value": null
+  },
+  {
+    "name": "m_garagePositions",
+    "type": "ArrayPropertyData",
+    "zero": false,
+    "children": [
+      {
+        "name": "0",
+        "type": "StructPropertyData",
+        "zero": false,
+        "children": [
+          {
+            "name": "m_trackNodeID",
+            "type": "UInt32PropertyData",
+            "zero": false,
+            "children": null,
+            "value": "114"
+          },
+          {
+            "name": "m_splineDistance",
+            "type": "FloatPropertyData",
+            "zero": false,
+            "children": null,
+            "value": "9,958344"
+          },
+          {
+            "name": "m_offRaceLineDistance",
+            "type": "FloatPropertyData",
+            "zero": false,
+            "children": null,
+            "value": "18,034147"
+          }
+        ],
+        "value": null
+      }
+    ],
+    "value": null
+  },
+  {
+    "name": "m_carStartPositions",
+    "type": "ArrayPropertyData",
+    "zero": false,
+    "children": [
+      {
+        "name": "0",
+        "type": "StructPropertyData",
+        "zero": false,
+        "children": [
+          {
+            "name": "m_trackNodeID",
+            "type": "UInt32PropertyData",
+            "zero": false,
+            "children": null,
+            "value": "106"
+          },
+          {
+            "name": "m_splineDistance",
+            "type": "FloatPropertyData",
+            "zero": false,
+            "children": null,
+            "value": "243,43732"
+          },
+          {
+            "name": "m_offRaceLineDistance",
+            "type": "FloatPropertyData",
+            "zero": false,
+            "children": null,
+            "value": "0,5"
+          }
+        ],
+        "value": null
+      }
+    ],
+    "value": null
+  },
+  {
+    "name": "m_DRSDetection",
+    "type": "ArrayPropertyData",
+    "zero": false,
+    "children": [
+      {
+        "name": "0",
+        "type": "StructPropertyData",
+        "zero": false,
+        "children": [
+          {
+            "name": "m_trackNodeID",
+            "type": "UInt32PropertyData",
+            "zero": false,
+            "children": null,
+            "value": "3"
+          },
+          {
+            "name": "m_splineDistance",
+            "type": "FloatPropertyData",
+            "zero": false,
+            "children": null,
+            "value": "1,4822807"
+          },
+          {
+            "name": "m_offRaceLineDistance",
+            "type": "FloatPropertyData",
+            "zero": false,
+            "children": null,
+            "value": "-0,09999994"
+          }
+        ],
+        "value": null
+      }
+    ],
+    "value": null
+  },
+  {
+    "name": "m_DRSZoneStart",
+    "type": "ArrayPropertyData",
+    "zero": false,
+    "children": [
+      {
+        "name": "0",
+        "type": "StructPropertyData",
+        "zero": false,
+        "children": [
+          {
+            "name": "m_trackNodeID",
+            "type": "UInt32PropertyData",
+            "zero": false,
+            "children": null,
+            "value": "13"
+          },
+          {
+            "name": "m_splineDistance",
+            "type": "FloatPropertyData",
+            "zero": false,
+            "children": null,
+            "value": "46,800007"
+          },
+          {
+            "name": "m_offRaceLineDistance",
+            "type": "FloatPropertyData",
+            "zero": false,
+            "children": null,
+            "value": "-2,2184615E-06"
+          }
+        ],
+        "value": null
+      }
+    ],
+    "value": null
+  },
+  {
+    "name": "m_DRSZoneEnd",
+    "type": "ArrayPropertyData",
+    "zero": false,
+    "children": [
+      {
+        "name": "0",
+        "type": "StructPropertyData",
+        "zero": false,
+        "children": [
+          {
+            "name": "m_trackNodeID",
+            "type": "UInt32PropertyData",
+            "zero": false,
+            "children": null,
+            "value": "19"
+          },
+          {
+            "name": "m_splineDistance",
+            "type": "FloatPropertyData",
+            "zero": false,
+            "children": null,
+            "value": "3,942194"
+          },
+          {
+            "name": "m_offRaceLineDistance",
+            "type": "FloatPropertyData",
+            "zero": false,
+            "children": null,
+            "value": "0,09999962"
+          }
+        ],
+        "value": null
+      }
+    ],
+    "value": null
+  },
+  {
+    "name": "m_sectorCheckpoints",
+    "type": "ArrayPropertyData",
+    "zero": false,
+    "children": [
+      {
+        "name": "0",
+        "type": "StructPropertyData",
+        "zero": false,
+        "children": [
+          {
+            "name": "m_trackNodeID",
+            "type": "UInt32PropertyData",
+            "zero": false,
+            "children": null,
+            "value": "26"
+          },
+          {
+            "name": "m_splineDistance",
+            "type": "FloatPropertyData",
+            "zero": false,
+            "children": null,
+            "value": "51,000004"
+          },
+          {
+            "name": "m_offRaceLineDistance",
+            "type": "FloatPropertyData",
+            "zero": false,
+            "children": null,
+            "value": "-2,6355362E-11"
+          }
+        ],
+        "value": null
+      }
+    ],
+    "value": null
+  },
+  {
+    "name": "m_marshalSectorCheckpoints",
+    "type": "ArrayPropertyData",
+    "zero": false,
+    "children": [
+      {
+        "name": "0",
+        "type": "StructPropertyData",
+        "zero": false,
+        "children": [
+          {
+            "name": "m_trackNodeID",
+            "type": "UInt32PropertyData",
+            "zero": false,
+            "children": null,
+            "value": "107"
+          },
+          {
+            "name": "m_splineDistance",
+            "type": "FloatPropertyData",
+            "zero": false,
+            "children": null,
+            "value": "21"
+          },
+          {
+            "name": "m_offRaceLineDistance",
+            "type": "FloatPropertyData",
+            "zero": true,
+            "children": null,
+            "value": "0"
+          }
+        ],
+        "value": null
+      }
+    ],
+    "value": null
+  },
+  {
+    "name": "m_safetyCarPositions",
+    "type": "ArrayPropertyData",
+    "zero": false,
+    "children": [
+      {
+        "name": "0",
+        "type": "StructPropertyData",
+        "zero": false,
+        "children": [
+          {
+            "name": "m_trackNodeID",
+            "type": "UInt32PropertyData",
+            "zero": false,
+            "children": null,
+            "value": "117"
+          },
+          {
+            "name": "m_splineDistance",
+            "type": "FloatPropertyData",
+            "zero": false,
+            "children": null,
+            "value": "9,500002"
+          },
+          {
+            "name": "m_offRaceLineDistance",
+            "type": "FloatPropertyData",
+            "zero": false,
+            "children": null,
+            "value": "5,1"
+          }
+        ],
+        "value": null
+      }
+    ],
+    "value": null
+  },
+  {
+    "name": "m_trackNodesCount",
+    "type": "UInt32PropertyData",
+    "zero": false,
+    "children": null,
+    "value": "108"
+  },
+  {
+    "name": "m_pitNodesCount",
+    "type": "UInt32PropertyData",
+    "zero": false,
+    "children": null,
+    "value": "17"
+  },
+  {
+    "name": "m_cornerCount",
+    "type": "BytePropertyData",
+    "zero": false,
+    "children": null,
+    "value": null
+  },
+  {
+    "name": "m_pitEntrance_RaceTrackNodeID",
+    "type": "UInt32PropertyData",
+    "zero": false,
+    "children": null,
+    "value": "103"
+  },
+  {
+    "name": "m_pitExit_RaceTrackNodeID",
+    "type": "UInt32PropertyData",
+    "zero": false,
+    "children": null,
+    "value": "7"
+  },
+  {
+    "name": "m_finishLineNodeID",
+    "type": "UInt32PropertyData",
+    "zero": false,
+    "children": null,
+    "value": "106"
+  },
+  {
+    "name": "m_pitLoopNodeID",
+    "type": "UInt32PropertyData",
+    "zero": false,
+    "children": null,
+    "value": "113"
+  },
+  {
+    "name": "m_startLineNodeID",
+    "type": "UInt32PropertyData",
+    "zero": false,
+    "children": null,
+    "value": "107"
+  },
+  {
+    "name": "PitLaneStartTriggerNodeID",
+    "type": "UInt32PropertyData",
+    "zero": false,
+    "children": null,
+    "value": "1"
+  },
+  {
+    "name": "m_pitLaneMapping",
+    "type": "ArrayPropertyData",
+    "zero": false,
+    "children": [
+      {
+        "name": "0",
+        "type": "StructPropertyData",
+        "zero": false,
+        "children": [
+          {
+            "name": "m_pitNodeID",
+            "type": "IntPropertyData",
+            "zero": false,
+            "children": null,
+            "value": "109"
+          },
+          {
+            "name": "m_trackNodeID",
+            "type": "UInt32PropertyData",
+            "zero": false,
+            "children": null,
+            "value": "103"
+          },
+          {
+            "name": "m_pitSplineDistance",
+            "type": "FloatPropertyData",
+            "zero": true,
+            "children": null,
+            "value": "0"
+          },
+          {
+            "name": "m_trackRaceSplineDistance",
+            "type": "FloatPropertyData",
+            "zero": true,
+            "children": null,
+            "value": "0"
+          },
+          {
+            "name": "m_offTrackDistance",
+            "type": "FloatPropertyData",
+            "zero": false,
+            "children": null,
+            "value": "5,687117E-14"
+          },
+          {
+            "name": "m_intersect",
+            "type": "BoolPropertyData",
+            "zero": false,
+            "children": null,
+            "value": "True"
+          }
+        ],
+        "value": null
+      }
+    ],
+    "value": null
+  },
+  {
+    "name": "m_nodeIncidentsMapping",
+    "type": "MapPropertyData",
+    "zero": false,
+    "children": null,
+    "value": null
+  },
+  {
+    "name": "m_trackIncidentsData",
+    "type": "StructPropertyData",
+    "zero": false,
+    "children": [
+      {
+        "name": "m_incidentData",
+        "type": "StructPropertyData",
+        "zero": false,
+        "children": [
+          {
+            "name": "m_minorIncidentTriggerCount",
+            "type": "BytePropertyData",
+            "zero": false,
+            "children": null,
+            "value": null
+          },
+          {
+            "name": "m_incidentTriggerCount",
+            "type": "BytePropertyData",
+            "zero": false,
+            "children": null,
+            "value": null
+          }
+        ],
+        "value": null
+      },
+      {
+        "name": "m_incidentData",
+        "type": "StructPropertyData",
+        "zero": false,
+        "children": [
+          {
+            "name": "m_minorIncidentTriggerCount",
+            "type": "BytePropertyData",
+            "zero": false,
+            "children": null,
+            "value": null
+          },
+          {
+            "name": "m_incidentTriggerCount",
+            "type": "BytePropertyData",
+            "zero": false,
+            "children": null,
+            "value": null
+          }
+        ],
+        "value": null
+      },
+      {
+        "name": "m_incidentData",
+        "type": "StructPropertyData",
+        "zero": false,
+        "children": [
+          {
+            "name": "m_minorIncidentTriggerCount",
+            "type": "BytePropertyData",
+            "zero": false,
+            "children": null,
+            "value": null
+          },
+          {
+            "name": "m_incidentTriggerCount",
+            "type": "BytePropertyData",
+            "zero": false,
+            "children": null,
+            "value": null
+          }
+        ],
+        "value": null
+      },
+      {
+        "name": "m_incidentData",
+        "type": "StructPropertyData",
+        "zero": false,
+        "children": [
+          {
+            "name": "m_minorIncidentTriggerCount",
+            "type": "BytePropertyData",
+            "zero": false,
+            "children": null,
+            "value": null
+          },
+          {
+            "name": "m_incidentTriggerCount",
+            "type": "BytePropertyData",
+            "zero": false,
+            "children": null,
+            "value": null
+          }
+        ],
+        "value": null
+      },
+      {
+        "name": "m_incidentData",
+        "type": "StructPropertyData",
+        "zero": false,
+        "children": [
+          {
+            "name": "m_minorIncidentTriggerCount",
+            "type": "BytePropertyData",
+            "zero": false,
+            "children": null,
+            "value": null
+          },
+          {
+            "name": "m_incidentTriggerCount",
+            "type": "BytePropertyData",
+            "zero": false,
+            "children": null,
+            "value": null
+          }
+        ],
+        "value": null
+      },
+      {
+        "name": "m_highRiskKerbCount",
+        "type": "UInt32PropertyData",
+        "zero": false,
+        "children": null,
+        "value": "11"
+      }
+    ],
+    "value": null
+  },
+  {
+    "name": "DynamicLinePaceDebugDraw",
+    "type": "EnumPropertyData",
+    "zero": false,
+    "children": null,
+    "value": "Standard"
+  },
+  {
+    "name": "BarrierSplines",
+    "type": "ArrayPropertyData",
+    "zero": false,
+    "children": [
+      {
+        "name": "0",
+        "type": "StructPropertyData",
+        "zero": false,
+        "children": [
+          {
+            "name": "m_splineCurves",
+            "type": "StructPropertyData",
+            "zero": false,
+            "children": [
+              {
+                "name": "position",
+                "type": "StructPropertyData",
+                "zero": false,
+                "children": [
+                  {
+                    "name": "Points",
+                    "type": "ArrayPropertyData",
+                    "zero": false,
+                    "children": [
+                      {
+                        "name": "0",
+                        "type": "StructPropertyData",
+                        "zero": false,
+                        "children": [
+                          {
+                            "name": "InVal",
+                            "type": "FloatPropertyData",
+                            "zero": true,
+                            "children": null,
+                            "value": "0"
+                          },
+                          {
+                            "name": "OutVal",
+                            "type": "StructPropertyData",
+                            "zero": true,
+                            "children": [
+                              {
+                                "name": "OutVal",
+                                "type": "VectorPropertyData",
+                                "zero": false,
+                                "children": null,
+                                "value": null
+                              }
+                            ],
+                            "value": null
+                          },
+                          {
+                            "name": "ArriveTangent",
+                            "type": "StructPropertyData",
+                            "zero": false,
+                            "children": [
+                              {
+                                "name": "ArriveTangent",
+                                "type": "VectorPropertyData",
+                                "zero": false,
+                                "children": null,
+                                "value": "(100, 0, 0)"
+                              }
+                            ],
+                            "value": null
+                          },
+                          {
+                            "name": "LeaveTangent",
+                            "type": "StructPropertyData",
+                            "zero": false,
+                            "children": [
+                              {
+                                "name": "LeaveTangent",
+                                "type": "VectorPropertyData",
+                                "zero": false,
+                                "children": null,
+                                "value": "(100, 0, 0)"
+                              }
+                            ],
+                            "value": null
+                          },
+                          {
+                            "name": "InterpMode",
+                            "type": "EnumPropertyData",
+                            "zero": false,
+                            "children": null,
+                            "value": "CIM_CurveAuto"
+                          }
+                        ],
+                        "value": null
+                      }
+                    ],
+                    "value": null
+                  },
+                  {
+                    "name": "bIsLooped",
+                    "type": "BoolPropertyData",
+                    "zero": true,
+                    "children": null,
+                    "value": "False"
+                  },
+                  {
+                    "name": "LoopKeyOffset",
+                    "type": "FloatPropertyData",
+                    "zero": true,
+                    "children": null,
+                    "value": "0"
+                  }
+                ],
+                "value": null
+              },
+              {
+                "name": "Rotation",
+                "type": "StructPropertyData",
+                "zero": false,
+                "children": [
+                  {
+                    "name": "Points",
+                    "type": "ArrayPropertyData",
+                    "zero": false,
+                    "children": [
+                      {
+                        "name": "0",
+                        "type": "StructPropertyData",
+                        "zero": false,
+                        "children": [
+                          {
+                            "name": "InVal",
+                            "type": "FloatPropertyData",
+                            "zero": true,
+                            "children": null,
+                            "value": "0"
+                          },
+                          {
+                            "name": "OutVal",
+                            "type": "StructPropertyData",
+                            "zero": false,
+                            "children": [
+                              {
+                                "name": "OutVal",
+                                "type": "QuatPropertyData",
+                                "zero": false,
+                                "children": null,
+                                "value": "(0, 0, 0, 1)"
+                              }
+                            ],
+                            "value": null
+                          },
+                          {
+                            "name": "ArriveTangent",
+                            "type": "StructPropertyData",
+                            "zero": false,
+                            "children": [
+                              {
+                                "name": "ArriveTangent",
+                                "type": "QuatPropertyData",
+                                "zero": false,
+                                "children": null,
+                                "value": "(0, 0, 0, 1)"
+                              }
+                            ],
+                            "value": null
+                          },
+                          {
+                            "name": "LeaveTangent",
+                            "type": "StructPropertyData",
+                            "zero": false,
+                            "children": [
+                              {
+                                "name": "LeaveTangent",
+                                "type": "QuatPropertyData",
+                                "zero": false,
+                                "children": null,
+                                "value": "(0, 0, 0, 1)"
+                              }
+                            ],
+                            "value": null
+                          },
+                          {
+                            "name": "InterpMode",
+                            "type": "EnumPropertyData",
+                            "zero": false,
+                            "children": null,
+                            "value": "CIM_CurveAuto"
+                          }
+                        ],
+                        "value": null
+                      }
+                    ],
+                    "value": null
+                  },
+                  {
+                    "name": "bIsLooped",
+                    "type": "BoolPropertyData",
+                    "zero": true,
+                    "children": null,
+                    "value": "False"
+                  },
+                  {
+                    "name": "LoopKeyOffset",
+                    "type": "FloatPropertyData",
+                    "zero": true,
+                    "children": null,
+                    "value": "0"
+                  }
+                ],
+                "value": null
+              },
+              {
+                "name": "Scale",
+                "type": "StructPropertyData",
+                "zero": false,
+                "children": [
+                  {
+                    "name": "Points",
+                    "type": "ArrayPropertyData",
+                    "zero": false,
+                    "children": [
+                      {
+                        "name": "0",
+                        "type": "StructPropertyData",
+                        "zero": false,
+                        "children": [
+                          {
+                            "name": "InVal",
+                            "type": "FloatPropertyData",
+                            "zero": true,
+                            "children": null,
+                            "value": "0"
+                          },
+                          {
+                            "name": "OutVal",
+                            "type": "StructPropertyData",
+                            "zero": false,
+                            "children": [
+                              {
+                                "name": "OutVal",
+                                "type": "VectorPropertyData",
+                                "zero": false,
+                                "children": null,
+                                "value": "(1, 1, 1)"
+                              }
+                            ],
+                            "value": null
+                          },
+                          {
+                            "name": "ArriveTangent",
+                            "type": "StructPropertyData",
+                            "zero": true,
+                            "children": [
+                              {
+                                "name": "ArriveTangent",
+                                "type": "VectorPropertyData",
+                                "zero": false,
+                                "children": null,
+                                "value": null
+                              }
+                            ],
+                            "value": null
+                          },
+                          {
+                            "name": "LeaveTangent",
+                            "type": "StructPropertyData",
+                            "zero": true,
+                            "children": [
+                              {
+                                "name": "LeaveTangent",
+                                "type": "VectorPropertyData",
+                                "zero": false,
+                                "children": null,
+                                "value": null
+                              }
+                            ],
+                            "value": null
+                          },
+                          {
+                            "name": "InterpMode",
+                            "type": "EnumPropertyData",
+                            "zero": false,
+                            "children": null,
+                            "value": "CIM_CurveAuto"
+                          }
+                        ],
+                        "value": null
+                      }
+                    ],
+                    "value": null
+                  },
+                  {
+                    "name": "bIsLooped",
+                    "type": "BoolPropertyData",
+                    "zero": true,
+                    "children": null,
+                    "value": "False"
+                  },
+                  {
+                    "name": "LoopKeyOffset",
+                    "type": "FloatPropertyData",
+                    "zero": true,
+                    "children": null,
+                    "value": "0"
+                  }
+                ],
+                "value": null
+              },
+              {
+                "name": "ReparamTable",
+                "type": "StructPropertyData",
+                "zero": false,
+                "children": [
+                  {
+                    "name": "Points",
+                    "type": "ArrayPropertyData",
+                    "zero": false,
+                    "children": [
+                      {
+                        "name": "0",
+                        "type": "StructPropertyData",
+                        "zero": false,
+                        "children": [
+                          {
+                            "name": "InVal",
+                            "type": "FloatPropertyData",
+                            "zero": true,
+                            "children": null,
+                            "value": "0"
+                          },
+                          {
+                            "name": "OutVal",
+                            "type": "FloatPropertyData",
+                            "zero": true,
+                            "children": null,
+                            "value": "0"
+                          },
+                          {
+                            "name": "ArriveTangent",
+                            "type": "FloatPropertyData",
+                            "zero": true,
+                            "children": null,
+                            "value": "0"
+                          },
+                          {
+                            "name": "LeaveTangent",
+                            "type": "FloatPropertyData",
+                            "zero": true,
+                            "children": null,
+                            "value": "0"
+                          },
+                          {
+                            "name": "InterpMode",
+                            "type": "EnumPropertyData",
+                            "zero": true,
+                            "children": null,
+                            "value": "CIM_Linear"
+                          }
+                        ],
+                        "value": null
+                      }
+                    ],
+                    "value": null
+                  },
+                  {
+                    "name": "bIsLooped",
+                    "type": "BoolPropertyData",
+                    "zero": true,
+                    "children": null,
+                    "value": "False"
+                  },
+                  {
+                    "name": "LoopKeyOffset",
+                    "type": "FloatPropertyData",
+                    "zero": true,
+                    "children": null,
+                    "value": "0"
+                  }
+                ],
+                "value": null
+              }
+            ],
+            "value": null
+          },
+          {
+            "name": "m_transform",
+            "type": "StructPropertyData",
+            "zero": false,
+            "children": [
+              {
+                "name": "Rotation",
+                "type": "StructPropertyData",
+                "zero": false,
+                "children": [
+                  {
+                    "name": "Rotation",
+                    "type": "QuatPropertyData",
+                    "zero": false,
+                    "children": null,
+                    "value": "(0, 0, -0,6891913542576747, 0,7245793795137097)"
+                  }
+                ],
+                "value": null
+              },
+              {
+                "name": "Translation",
+                "type": "StructPropertyData",
+                "zero": false,
+                "children": [
+                  {
+                    "name": "Translation",
+                    "type": "VectorPropertyData",
+                    "zero": false,
+                    "children": null,
+                    "value": "(-38084,8828125, -11873,87890625, -1583,63525390625)"
+                  }
+                ],
+                "value": null
+              },
+              {
+                "name": "Scale3D",
+                "type": "StructPropertyData",
+                "zero": false,
+                "children": [
+                  {
+                    "name": "Scale3D",
+                    "type": "VectorPropertyData",
+                    "zero": false,
+                    "children": null,
+                    "value": "(1,0605448484420776, 2,803528070449829, 1)"
+                  }
+                ],
+                "value": null
+              }
+            ],
+            "value": null
+          },
+          {
+            "name": "m_minPositionWS",
+            "type": "StructPropertyData",
+            "zero": false,
+            "children": [
+              {
+                "name": "m_minPositionWS",
+                "type": "VectorPropertyData",
+                "zero": false,
+                "children": null,
+                "value": "(-380,84881961236533, -119,79800309985615, -15,836352185092437)"
+              }
+            ],
+            "value": null
+          },
+          {
+            "name": "m_maxPositionWS",
+            "type": "StructPropertyData",
+            "zero": false,
+            "children": [
+              {
+                "name": "m_maxPositionWS",
+                "type": "VectorPropertyData",
+                "zero": false,
+                "children": null,
+                "value": "(-380,7957599667828, -118,73878640848125, -15,836352185092437)"
+              }
+            ],
+            "value": null
+          },
+          {
+            "name": "m_thickness",
+            "type": "FloatPropertyData",
+            "zero": true,
+            "children": null,
+            "value": "0"
+          }
+        ],
+        "value": null
+      }
+    ],
+    "value": null
+  }
+]

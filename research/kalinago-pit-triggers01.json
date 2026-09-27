@@ -1,0 +1,87 @@
+{
+  "installable": false,
+  "targetSlot": "Bahrain",
+  "method": "Vertical projection into collision triangles tagged IS_PITLANE=1; transition refinement between adjacent source AI points",
+  "surfaceKeys": [
+    "PITLANE",
+    "FASTLANE"
+  ],
+  "insidePoints": 252,
+  "totalPoints": 579,
+  "triggers": [
+    {
+      "fraction": 0.6838340488029644,
+      "positionM": [
+        -152.22093528112833,
+        -112.4338005838703,
+        1.2935396750048613
+      ],
+      "type": "entry",
+      "sourceSegment": 145,
+      "sourcePitDistanceM": 224.46453299793902,
+      "projection": {
+        "segment": 7,
+        "parameter": 9.634460224064995,
+        "positionM": [
+          -152.45188485263017,
+          -112.29785878594285,
+          1.2726569474161167
+        ],
+        "distanceM": 0.26880097714140583,
+        "distanceAlongSegmentM": 41.70915140350067,
+        "signedLeftOffsetM": -0.2679884002252918,
+        "heightDifferenceM": 0.020882727588744654
+      },
+      "candidateNativeNode": 137
+    },
+    {
+      "fraction": 0.43288318102713674,
+      "positionM": [
+        116.11177112252989,
+        165.97268215763185,
+        0.2655610632634107
+      ],
+      "type": "exit",
+      "sourceSegment": 397,
+      "sourcePitDistanceM": 611.6753209463109,
+      "projection": {
+        "segment": 14,
+        "parameter": 8.624886852709006,
+        "positionM": [
+          116.1065654911435,
+          165.97786005963013,
+          0.28138166674715165
+        ],
+        "distanceM": 0.017441352064117756,
+        "distanceAlongSegmentM": 6.818440833737664,
+        "signedLeftOffsetM": -0.007342292033980605,
+        "heightDifferenceM": -0.015820603483740925
+      },
+      "candidateNativeNode": 144
+    }
+  ],
+  "sources": [
+    {
+      "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\models\\2_track\\collision.obj",
+      "sha256": "ad7337c1155dd9640e09606cf3b8bf0856ec4aca7daddec91164ede70481626d"
+    },
+    {
+      "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\research\\kalinago_source01\\pit-lane-source.json",
+      "sha256": "344e7755fc04abb08beb5249ab8d1fe6919cb369b4a23b0a4037f64ecb018594"
+    },
+    {
+      "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\build_kalinago_gp2024\\trackbridge-project.json",
+      "sha256": "27642c94b48ae0964b2bd2bba028e5d84e085184f732fdba4a800155792ad937"
+    },
+    {
+      "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\research\\kalinago-fit02.json",
+      "sha256": "59eee4b63875a71d3b053b9ae8f66458ece2044564cbe7bdd23acca054f7d8e9"
+    }
+  ],
+  "limitations": [
+    "Transitions reproduce source surface membership; F1M pitLoop/start-trigger field semantics are not assigned",
+    "Crossings within a single AI interval with equal endpoint states are not detected",
+    "Fitted-curve projection is approximate; native trigger nodes still need anchoring",
+    "No speed-limit value is inferred from the surface flag"
+  ]
+}

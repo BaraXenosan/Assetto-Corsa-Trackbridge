@@ -1,0 +1,2033 @@
+{
+  "installable": false,
+  "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\research\\bahrain_live05",
+  "status": "candidate search, not validated offsets",
+  "candidates": [
+    {
+      "kind": "actor",
+      "offset": "0x56c",
+      "matches": 20,
+      "positiveLeftMedianErrorM": 470.1867141863423,
+      "negativeLeftMedianErrorM": 469.28382907287073,
+      "medianCacheParameterError": 6.538010063207375,
+      "samples": [
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481909",
+          "node": 100,
+          "d": 0.2800000011920929,
+          "lateral": 0,
+          "positiveLeftErrorM": 1124.1577748726759,
+          "negativeLeftErrorM": 1124.1577748726759,
+          "cacheParameterError": 4.901986898103398
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481911",
+          "node": 85,
+          "d": 2,
+          "lateral": 2.119999885559082,
+          "positiveLeftErrorM": 14.21718940276233,
+          "negativeLeftErrorM": 14.869864058236677,
+          "cacheParameterError": 6.538010063207375
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481913",
+          "node": 87,
+          "d": 2,
+          "lateral": 2.119999885559082,
+          "positiveLeftErrorM": 67.32562783980715,
+          "negativeLeftErrorM": 69.67626346964265,
+          "cacheParameterError": 5.500153333341781
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481915",
+          "node": 81,
+          "d": 2,
+          "lateral": 2.7200000286102295,
+          "positiveLeftErrorM": 273.39476899626794,
+          "negativeLeftErrorM": 278.83469814642325,
+          "cacheParameterError": 6.974205981174341
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481917",
+          "node": 84,
+          "d": 2,
+          "lateral": 2,
+          "positiveLeftErrorM": 695.6909925449107,
+          "negativeLeftErrorM": 698.9793580493131,
+          "cacheParameterError": 6.59169934845894
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481919",
+          "node": 73,
+          "d": 2,
+          "lateral": 2.559999942779541,
+          "positiveLeftErrorM": 470.1867141863423,
+          "negativeLeftErrorM": 469.28382907287073,
+          "cacheParameterError": 6.579147823508859
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481921",
+          "node": 97,
+          "d": 1.71999990940094,
+          "lateral": 1.3600000143051147,
+          "positiveLeftErrorM": 599.3822589612129,
+          "negativeLeftErrorM": 601.3583788335152,
+          "cacheParameterError": 5.511336443299283
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481923",
+          "node": 31,
+          "d": 2,
+          "lateral": 3.5999999046325684,
+          "positiveLeftErrorM": 883.2840088827771,
+          "negativeLeftErrorM": 879.5826309948654,
+          "cacheParameterError": 5.982273392588954
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481925",
+          "node": 80,
+          "d": 2,
+          "lateral": 1.3600000143051147,
+          "positiveLeftErrorM": 194.12702865618309,
+          "negativeLeftErrorM": 195.46149979017645,
+          "cacheParameterError": 6.59583187281615
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481927",
+          "node": 51,
+          "d": 2,
+          "lateral": 3.5999999046325684,
+          "positiveLeftErrorM": 816.7036284372155,
+          "negativeLeftErrorM": 814.3512466163817,
+          "cacheParameterError": 7.179717936201036
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481929",
+          "node": 88,
+          "d": 1.71999990940094,
+          "lateral": 2.319999933242798,
+          "positiveLeftErrorM": 168.3476454730259,
+          "negativeLeftErrorM": 169.27386063024866,
+          "cacheParameterError": 5.399338185642584
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481931",
+          "node": 36,
+          "d": 2,
+          "lateral": 3.359999895095825,
+          "positiveLeftErrorM": 584.4760916589659,
+          "negativeLeftErrorM": 579.0855427283005,
+          "cacheParameterError": 5.9666683180218065
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481933",
+          "node": 43,
+          "d": 1.1999999284744263,
+          "lateral": 0.3999999761581421,
+          "positiveLeftErrorM": 554.0819700764742,
+          "negativeLeftErrorM": 554.8550102772329,
+          "cacheParameterError": 4.103232801930687
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481935",
+          "node": 78,
+          "d": 2,
+          "lateral": 0.47999998927116394,
+          "positiveLeftErrorM": 340.6619876592665,
+          "negativeLeftErrorM": 339.925402725892,
+          "cacheParameterError": 6.613605239804835
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481937",
+          "node": 37,
+          "d": 2,
+          "lateral": 0.7599999904632568,
+          "positiveLeftErrorM": 130.711803321126,
+          "negativeLeftErrorM": 131.43424209382096,
+          "cacheParameterError": 6.108854397491608
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481939",
+          "node": 61,
+          "d": 2,
+          "lateral": 1.159999966621399,
+          "positiveLeftErrorM": 263.5817583332365,
+          "negativeLeftErrorM": 263.4988900977266,
+          "cacheParameterError": 5.018420965915669
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481943",
+          "node": 77,
+          "d": 1.7999999523162842,
+          "lateral": 0.4399999976158142,
+          "positiveLeftErrorM": 654.5400783444444,
+          "negativeLeftErrorM": 654.1331493842438,
+          "cacheParameterError": 7.191303798352022
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481945",
+          "node": 54,
+          "d": 2,
+          "lateral": 0.5600000023841858,
+          "positiveLeftErrorM": 354.333023527096,
+          "negativeLeftErrorM": 353.81161610030796,
+          "cacheParameterError": 5.938656568328192
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481941",
+          "node": 78,
+          "d": 2,
+          "lateral": 0.5600000023841858,
+          "positiveLeftErrorM": 574.3830711282576,
+          "negativeLeftErrorM": 573.648622024455,
+          "cacheParameterError": 6.613605239804835
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481948",
+          "node": 77,
+          "d": 2,
+          "lateral": 0.5199999809265137,
+          "positiveLeftErrorM": 390.2621443892573,
+          "negativeLeftErrorM": 389.77504272604415,
+          "cacheParameterError": 7.222130725388441
+        }
+      ]
+    },
+    {
+      "kind": "actor",
+      "offset": "0x55c",
+      "matches": 21,
+      "positiveLeftMedianErrorM": 718.359250511668,
+      "negativeLeftMedianErrorM": 718.359250511668,
+      "medianCacheParameterError": 9.723807121760906,
+      "samples": [
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481909",
+          "node": 3,
+          "d": 0.13070379197597504,
+          "lateral": 0,
+          "positiveLeftErrorM": 29.952505753675442,
+          "negativeLeftErrorM": 29.952505753675442,
+          "cacheParameterError": 6.207855797402735
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481911",
+          "node": 0,
+          "d": 0.7610242366790771,
+          "lateral": 0,
+          "positiveLeftErrorM": 820.6108687732877,
+          "negativeLeftErrorM": 820.6108687732877,
+          "cacheParameterError": 9.723807121760906
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481913",
+          "node": 0,
+          "d": 0.7542315125465393,
+          "lateral": 0,
+          "positiveLeftErrorM": 792.1073719934133,
+          "negativeLeftErrorM": 792.1073719934133,
+          "cacheParameterError": 9.723272161314622
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481915",
+          "node": 0,
+          "d": 0.8132643699645996,
+          "lateral": 0,
+          "positiveLeftErrorM": 767.3007989409756,
+          "negativeLeftErrorM": 767.3007989409756,
+          "cacheParameterError": 9.72792128928355
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481917",
+          "node": 0,
+          "d": 0.9774615168571472,
+          "lateral": 0,
+          "positiveLeftErrorM": 503.7215386230877,
+          "negativeLeftErrorM": 503.7215386230877,
+          "cacheParameterError": 9.740828752605557
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481919",
+          "node": 0,
+          "d": 0.9138105511665344,
+          "lateral": 0,
+          "positiveLeftErrorM": 832.6878032081925,
+          "negativeLeftErrorM": 832.6878032081925,
+          "cacheParameterError": 9.735839795749946
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481921",
+          "node": 0,
+          "d": 0.6979578137397766,
+          "lateral": 0,
+          "positiveLeftErrorM": 554.33108159705,
+          "negativeLeftErrorM": 554.33108159705,
+          "cacheParameterError": 9.998840421260716
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481923",
+          "node": 0,
+          "d": 0.9344663619995117,
+          "lateral": 0,
+          "positiveLeftErrorM": 734.6325088818851,
+          "negativeLeftErrorM": 734.6325088818851,
+          "cacheParameterError": 9.737460769218668
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481925",
+          "node": 0,
+          "d": 0.7652139663696289,
+          "lateral": 0,
+          "positiveLeftErrorM": 830.305559368533,
+          "negativeLeftErrorM": 830.305559368533,
+          "cacheParameterError": 9.724137083587905
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481927",
+          "node": 0,
+          "d": 0.9383771419525146,
+          "lateral": 0,
+          "positiveLeftErrorM": 713.5266522598838,
+          "negativeLeftErrorM": 713.5266522598838,
+          "cacheParameterError": 9.737767116339757
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481929",
+          "node": 0,
+          "d": 0.8044227361679077,
+          "lateral": 0,
+          "positiveLeftErrorM": 777.0814870126572,
+          "negativeLeftErrorM": 777.0814870126572,
+          "cacheParameterError": 10.007225057719443
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481931",
+          "node": 0,
+          "d": 0.8376672863960266,
+          "lateral": 0,
+          "positiveLeftErrorM": 757.9909801256289,
+          "negativeLeftErrorM": 757.9909801256289,
+          "cacheParameterError": 9.729843139017186
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481933",
+          "node": 3,
+          "d": 0.22174189984798431,
+          "lateral": 0,
+          "positiveLeftErrorM": 452.6657682129883,
+          "negativeLeftErrorM": 452.6657682129883,
+          "cacheParameterError": 5.302793900188837
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481935",
+          "node": 0,
+          "d": 0.33755120635032654,
+          "lateral": 0,
+          "positiveLeftErrorM": 598.457648292677,
+          "negativeLeftErrorM": 598.457648292677,
+          "cacheParameterError": 9.690456537095061
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481937",
+          "node": 0,
+          "d": 0.43750694394111633,
+          "lateral": 0,
+          "positiveLeftErrorM": 304.26681649861086,
+          "negativeLeftErrorM": 304.26681649861086,
+          "cacheParameterError": 9.69832854322204
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481939",
+          "node": 0,
+          "d": 0.5690908432006836,
+          "lateral": 0,
+          "positiveLeftErrorM": 255.18989928987068,
+          "negativeLeftErrorM": 255.18989928987068,
+          "cacheParameterError": 9.70869142269399
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481943",
+          "node": 3,
+          "d": 0.27136024832725525,
+          "lateral": 0,
+          "positiveLeftErrorM": 718.359250511668,
+          "negativeLeftErrorM": 718.359250511668,
+          "cacheParameterError": 4.710935526023744
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481945",
+          "node": 0,
+          "d": 0.42046961188316345,
+          "lateral": 0,
+          "positiveLeftErrorM": 347.22297520388776,
+          "negativeLeftErrorM": 347.22297520388776,
+          "cacheParameterError": 9.696986769497187
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481941",
+          "node": 3,
+          "d": 0.2915659546852112,
+          "lateral": 0,
+          "positiveLeftErrorM": 769.6313331799972,
+          "negativeLeftErrorM": 769.6313331799972,
+          "cacheParameterError": 4.514250941020265
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481948",
+          "node": 0,
+          "d": 0.33400577306747437,
+          "lateral": 0,
+          "positiveLeftErrorM": 606.5531038157416,
+          "negativeLeftErrorM": 606.5531038157416,
+          "cacheParameterError": 9.690177316780169
+        },
+        {
+          "car": "/Game/Cinematics/PreRace/PreRace_Med/Cine_PreRace_DriverOutOfCarGarage_004_Cam1.Cine_PreRace_DriverOutOfCarGarage_004_Cam1.MovieScene_0.CutsceneCar_0",
+          "node": 0,
+          "d": 0.9878426194190979,
+          "lateral": 0,
+          "positiveLeftErrorM": 2253.801290440463,
+          "negativeLeftErrorM": 2253.801290440463,
+          "cacheParameterError": 11.74164194611729
+        }
+      ]
+    },
+    {
+      "kind": "actor",
+      "offset": "0x28c",
+      "matches": 22,
+      "positiveLeftMedianErrorM": 733.8522494789104,
+      "negativeLeftMedianErrorM": 733.8438569725764,
+      "medianCacheParameterError": 11.675685957294672,
+      "samples": [
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481909",
+          "node": 0,
+          "d": 0.15000000596046448,
+          "lateral": 0.6499999761581421,
+          "positiveLeftErrorM": 317.868569107631,
+          "negativeLeftErrorM": 317.8725995307188,
+          "cacheParameterError": 11.675685957294672
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481911",
+          "node": 0,
+          "d": 0.15000000596046448,
+          "lateral": 0.6499999761581421,
+          "positiveLeftErrorM": 819.741257085766,
+          "negativeLeftErrorM": 820.8635726388976,
+          "cacheParameterError": 11.675685957294672
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481913",
+          "node": 0,
+          "d": 0.15000000596046448,
+          "lateral": 0.6499999761581421,
+          "positiveLeftErrorM": 791.2466194810509,
+          "negativeLeftErrorM": 792.3859326391921,
+          "cacheParameterError": 11.675685957294672
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481915",
+          "node": 0,
+          "d": 0.15000000596046448,
+          "lateral": 0.6499999761581421,
+          "positiveLeftErrorM": 766.3740746974241,
+          "negativeLeftErrorM": 767.2216812353879,
+          "cacheParameterError": 11.675685957294672
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481917",
+          "node": 0,
+          "d": 0.15000000596046448,
+          "lateral": 0.6499999761581421,
+          "positiveLeftErrorM": 502.8963742269082,
+          "negativeLeftErrorM": 502.89225387310836,
+          "cacheParameterError": 11.675685957294672
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481919",
+          "node": 0,
+          "d": 0.15000000596046448,
+          "lateral": 0.6499999761581421,
+          "positiveLeftErrorM": 831.8966644560644,
+          "negativeLeftErrorM": 831.9526197028455,
+          "cacheParameterError": 11.675685957294672
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481921",
+          "node": 0,
+          "d": 0.15000000596046448,
+          "lateral": 0.6499999761581421,
+          "positiveLeftErrorM": 553.4810172295786,
+          "negativeLeftErrorM": 554.4799113638918,
+          "cacheParameterError": 11.675685957294672
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481923",
+          "node": 0,
+          "d": 0.15000000596046448,
+          "lateral": 0.6499999761581421,
+          "positiveLeftErrorM": 733.8522494789104,
+          "negativeLeftErrorM": 733.8438569725764,
+          "cacheParameterError": 11.675685957294672
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481925",
+          "node": 0,
+          "d": 0.15000000596046448,
+          "lateral": 0.6499999761581421,
+          "positiveLeftErrorM": 829.4293974349538,
+          "negativeLeftErrorM": 830.5363250696245,
+          "cacheParameterError": 11.675685957294672
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481927",
+          "node": 0,
+          "d": 0.15000000596046448,
+          "lateral": 0.6499999761581421,
+          "positiveLeftErrorM": 712.7426888589271,
+          "negativeLeftErrorM": 712.733923198268,
+          "cacheParameterError": 11.675685957294672
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481929",
+          "node": 0,
+          "d": 0.15000000596046448,
+          "lateral": 0.6499999761581421,
+          "positiveLeftErrorM": 776.1591398176797,
+          "negativeLeftErrorM": 777.0644346571465,
+          "cacheParameterError": 11.675685957294672
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481931",
+          "node": 0,
+          "d": 0.15000000596046448,
+          "lateral": 0.6499999761581421,
+          "positiveLeftErrorM": 757.0671822775007,
+          "negativeLeftErrorM": 757.7344802655967,
+          "cacheParameterError": 11.675685957294672
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481933",
+          "node": 0,
+          "d": 0.15000000596046448,
+          "lateral": 0.6499999761581421,
+          "positiveLeftErrorM": 541.1704155404042,
+          "negativeLeftErrorM": 542.2544688390524,
+          "cacheParameterError": 11.675685957294672
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481935",
+          "node": 0,
+          "d": 0.15000000596046448,
+          "lateral": 0.6499999761581421,
+          "positiveLeftErrorM": 597.8087183056446,
+          "negativeLeftErrorM": 599.1086962948436,
+          "cacheParameterError": 11.675685957294672
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481937",
+          "node": 0,
+          "d": 0.15000000596046448,
+          "lateral": 0.6499999761581421,
+          "positiveLeftErrorM": 303.5569820705247,
+          "negativeLeftErrorM": 304.72036412909625,
+          "cacheParameterError": 11.675685957294672
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481939",
+          "node": 0,
+          "d": 0.15000000596046448,
+          "lateral": 0.6499999761581421,
+          "positiveLeftErrorM": 254.42183378466643,
+          "negativeLeftErrorM": 255.42700062520174,
+          "cacheParameterError": 11.675685957294672
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481943",
+          "node": 0,
+          "d": 0.15000000596046448,
+          "lateral": 0.6499999761581421,
+          "positiveLeftErrorM": 762.3206700884188,
+          "negativeLeftErrorM": 763.5424539704712,
+          "cacheParameterError": 11.675685957294672
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481945",
+          "node": 0,
+          "d": 0.15000000596046448,
+          "lateral": 0.6499999761581421,
+          "positiveLeftErrorM": 346.5510068604583,
+          "negativeLeftErrorM": 347.54906300657,
+          "cacheParameterError": 11.675685957294672
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481941",
+          "node": 0,
+          "d": 0.15000000596046448,
+          "lateral": 0.6499999761581421,
+          "positiveLeftErrorM": 783.3181867025022,
+          "negativeLeftErrorM": 784.5815528638223,
+          "cacheParameterError": 11.675685957294672
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481948",
+          "node": 0,
+          "d": 0.15000000596046448,
+          "lateral": 0.6499999761581421,
+          "positiveLeftErrorM": 605.9097814374733,
+          "negativeLeftErrorM": 607.2090121592488,
+          "cacheParameterError": 11.675685957294672
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_SafetyCar2022_C_2147481949",
+          "node": 0,
+          "d": 0.15000000596046448,
+          "lateral": 0.6499999761581421,
+          "positiveLeftErrorM": 23.470318732413748,
+          "negativeLeftErrorM": 24.76999725089422,
+          "cacheParameterError": 11.675685957294672
+        },
+        {
+          "car": "/Game/Cinematics/PreRace/PreRace_Med/Cine_PreRace_DriverOutOfCarGarage_004_Cam1.Cine_PreRace_DriverOutOfCarGarage_004_Cam1.MovieScene_0.CutsceneCar_0",
+          "node": 0,
+          "d": 0.15000000596046448,
+          "lateral": 0.6499999761581421,
+          "positiveLeftErrorM": 2253.497866259473,
+          "negativeLeftErrorM": 2254.710037330875,
+          "cacheParameterError": 11.675685957294672
+        }
+      ]
+    },
+    {
+      "kind": "actor",
+      "offset": "0x698",
+      "matches": 20,
+      "positiveLeftMedianErrorM": 733.8545993536983,
+      "negativeLeftMedianErrorM": 733.8612570731516,
+      "medianCacheParameterError": 11.685924096531464,
+      "samples": [
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481909",
+          "node": 0,
+          "d": 0.18000000715255737,
+          "lateral": -0.28125,
+          "positiveLeftErrorM": 317.8409690773827,
+          "negativeLeftErrorM": 317.83922449953707,
+          "cacheParameterError": 11.6780486049914
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481911",
+          "node": 0,
+          "d": 0.2199999988079071,
+          "lateral": -0.421875,
+          "positiveLeftErrorM": 820.7018445124932,
+          "negativeLeftErrorM": 819.973450654017,
+          "cacheParameterError": 11.68119880113801
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481913",
+          "node": 0,
+          "d": 0.14000000059604645,
+          "lateral": -0.1875,
+          "positiveLeftErrorM": 791.9757374897562,
+          "negativeLeftErrorM": 791.6470873815247,
+          "cacheParameterError": 11.67489840767125
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481915",
+          "node": 0,
+          "d": 0.12000000476837158,
+          "lateral": -0.28125,
+          "positiveLeftErrorM": 766.9584289260159,
+          "negativeLeftErrorM": 766.591664801284,
+          "cacheParameterError": 11.673323309597945
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481917",
+          "node": 0,
+          "d": 0.36000001430511475,
+          "lateral": -0.5625,
+          "positiveLeftErrorM": 503.10216606015837,
+          "negativeLeftErrorM": 503.10573693876626,
+          "cacheParameterError": 11.692224491171764
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481919",
+          "node": 0,
+          "d": 0.2800000011920929,
+          "lateral": -0.140625,
+          "positiveLeftErrorM": 832.0601425633924,
+          "negativeLeftErrorM": 832.0480397764686,
+          "cacheParameterError": 11.685924096531464
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481921",
+          "node": 0,
+          "d": 0.20000000298023224,
+          "lateral": -0.65625,
+          "positiveLeftErrorM": 554.5166340714444,
+          "negativeLeftErrorM": 553.5081944971788,
+          "cacheParameterError": 11.679623703064705
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481923",
+          "node": 0,
+          "d": 0.1599999964237213,
+          "lateral": -0.515625,
+          "positiveLeftErrorM": 733.8545993536983,
+          "negativeLeftErrorM": 733.8612570731516,
+          "cacheParameterError": 11.676473505744555
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481925",
+          "node": 0,
+          "d": 0.42000001668930054,
+          "lateral": -0.234375,
+          "positiveLeftErrorM": 830.323800092744,
+          "negativeLeftErrorM": 829.9247373823431,
+          "cacheParameterError": 11.696949786565218
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481927",
+          "node": 0,
+          "d": 0.2800000011920929,
+          "lateral": -0.375,
+          "positiveLeftErrorM": 712.865386814549,
+          "negativeLeftErrorM": 712.8704457631704,
+          "cacheParameterError": 11.685924096531464
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481929",
+          "node": 0,
+          "d": 0.18000000715255737,
+          "lateral": -0.5625,
+          "positiveLeftErrorM": 777.024947833155,
+          "negativeLeftErrorM": 776.2415419085853,
+          "cacheParameterError": 11.6780486049914
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481931",
+          "node": 0,
+          "d": 0.30000001192092896,
+          "lateral": -0.140625,
+          "positiveLeftErrorM": 757.6013616851396,
+          "negativeLeftErrorM": 757.4570198122722,
+          "cacheParameterError": 11.687499195778308
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481933",
+          "node": 0,
+          "d": 0.1599999964237213,
+          "lateral": -0.28125,
+          "positiveLeftErrorM": 541.9413695767516,
+          "negativeLeftErrorM": 541.4723030941739,
+          "cacheParameterError": 11.676473505744555
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481935",
+          "node": 0,
+          "d": 0.3400000035762787,
+          "lateral": -0.421875,
+          "positiveLeftErrorM": 598.8795034982802,
+          "negativeLeftErrorM": 598.0357662156011,
+          "cacheParameterError": 11.690649391924918
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481937",
+          "node": 0,
+          "d": 0.47999998927116394,
+          "lateral": -0.28125,
+          "positiveLeftErrorM": 304.53740967484885,
+          "negativeLeftErrorM": 304.0342689890734,
+          "cacheParameterError": 11.701675079611594
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481939",
+          "node": 0,
+          "d": 0.2800000011920929,
+          "lateral": -0.140625,
+          "positiveLeftErrorM": 255.1151364023308,
+          "negativeLeftErrorM": 254.89774301697327,
+          "cacheParameterError": 11.685924096531464
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481943",
+          "node": 0,
+          "d": 0.14000000059604645,
+          "lateral": -0.515625,
+          "positiveLeftErrorM": 763.4195596424313,
+          "negativeLeftErrorM": 762.4503604630087,
+          "cacheParameterError": 11.67489840767125
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481945",
+          "node": 0,
+          "d": 0.36000001430511475,
+          "lateral": -0.1875,
+          "positiveLeftErrorM": 347.328134637175,
+          "negativeLeftErrorM": 347.04034653041913,
+          "cacheParameterError": 11.692224491171764
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481941",
+          "node": 0,
+          "d": 0.3799999952316284,
+          "lateral": 0,
+          "positiveLeftErrorM": 783.895733812395,
+          "negativeLeftErrorM": 783.895733812395,
+          "cacheParameterError": 11.693799588071528
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481948",
+          "node": 0,
+          "d": 0.36000001430511475,
+          "lateral": -0.28125,
+          "positiveLeftErrorM": 606.8333059246254,
+          "negativeLeftErrorM": 606.2711319979741,
+          "cacheParameterError": 11.692224491171764
+        }
+      ]
+    },
+    {
+      "kind": "actor",
+      "offset": "0x628",
+      "matches": 21,
+      "positiveLeftMedianErrorM": 734.1766711175611,
+      "negativeLeftMedianErrorM": 734.1545808571684,
+      "medianCacheParameterError": 11.251954516767604,
+      "samples": [
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481909",
+          "node": 0,
+          "d": 0.4518900215625763,
+          "lateral": 1.6569299697875977,
+          "positiveLeftErrorM": 317.56748394308215,
+          "negativeLeftErrorM": 317.5777958869798,
+          "cacheParameterError": 11.24757125978826
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481911",
+          "node": 0,
+          "d": 0.4518900215625763,
+          "lateral": 1.6569299697875977,
+          "positiveLeftErrorM": 819.0248377739072,
+          "negativeLeftErrorM": 821.8852118950999,
+          "cacheParameterError": 11.24757125978826
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481913",
+          "node": 0,
+          "d": 0.46140602231025696,
+          "lateral": 1.6918220520019531,
+          "positiveLeftErrorM": 790.4840994635632,
+          "negativeLeftErrorM": 793.4489305780039,
+          "cacheParameterError": 11.238804690919084
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481915",
+          "node": 0,
+          "d": 0.46140602231025696,
+          "lateral": 1.6918220520019531,
+          "positiveLeftErrorM": 765.931991078175,
+          "negativeLeftErrorM": 768.1374403813103,
+          "cacheParameterError": 11.238804690919084
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481917",
+          "node": 0,
+          "d": 0.44237399101257324,
+          "lateral": 1.6220378875732422,
+          "positiveLeftErrorM": 503.1937468505683,
+          "negativeLeftErrorM": 503.1834439813029,
+          "cacheParameterError": 11.256337856112678
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481919",
+          "node": 0,
+          "d": 0.44237399101257324,
+          "lateral": 1.6220378875732422,
+          "positiveLeftErrorM": 832.148005857995,
+          "negativeLeftErrorM": 832.287563048875,
+          "cacheParameterError": 11.256337856112678
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481921",
+          "node": 0,
+          "d": 0.4661640524864197,
+          "lateral": 1.7092682123184204,
+          "positiveLeftErrorM": 552.8707261868027,
+          "negativeLeftErrorM": 555.4964792822786,
+          "cacheParameterError": 11.234421379029254
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481923",
+          "node": 0,
+          "d": 0.4661640524864197,
+          "lateral": 1.7092682123184204,
+          "positiveLeftErrorM": 734.1766711175611,
+          "negativeLeftErrorM": 734.1545808571684,
+          "cacheParameterError": 11.234421379029254
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481925",
+          "node": 0,
+          "d": 0.4518900215625763,
+          "lateral": 1.6569299697875977,
+          "positiveLeftErrorM": 828.7308724608417,
+          "negativeLeftErrorM": 831.5520134485241,
+          "cacheParameterError": 11.24757125978826
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481927",
+          "node": 0,
+          "d": 0.4518900215625763,
+          "lateral": 1.6569299697875977,
+          "positiveLeftErrorM": 713.0527133671695,
+          "negativeLeftErrorM": 713.030349880573,
+          "cacheParameterError": 11.24757125978826
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481929",
+          "node": 0,
+          "d": 0.44713205099105835,
+          "lateral": 1.639484167098999,
+          "positiveLeftErrorM": 775.684224412771,
+          "negativeLeftErrorM": 777.9669863396883,
+          "cacheParameterError": 11.251954516767604
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481931",
+          "node": 0,
+          "d": 0.44713205099105835,
+          "lateral": 1.639484167098999,
+          "positiveLeftErrorM": 756.8154422748048,
+          "negativeLeftErrorM": 758.4979649100796,
+          "cacheParameterError": 11.251954516767604
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481933",
+          "node": 0,
+          "d": 0.4566480219364166,
+          "lateral": 1.6743760108947754,
+          "positiveLeftErrorM": 540.1473978155248,
+          "negativeLeftErrorM": 542.9407633656541,
+          "cacheParameterError": 11.243187975353672
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481935",
+          "node": 0,
+          "d": 0.4566480219364166,
+          "lateral": 1.6743760108947754,
+          "positiveLeftErrorM": 596.7826537024696,
+          "negativeLeftErrorM": 600.1313588273015,
+          "cacheParameterError": 11.243187975353672
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481937",
+          "node": 0,
+          "d": 0.4376160204410553,
+          "lateral": 1.6045920848846436,
+          "positiveLeftErrorM": 302.8323611101756,
+          "negativeLeftErrorM": 305.7030602953848,
+          "cacheParameterError": 11.260721113092021
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481939",
+          "node": 0,
+          "d": 0.4376160204410553,
+          "lateral": 1.6045920848846436,
+          "positiveLeftErrorM": 253.868651882232,
+          "negativeLeftErrorM": 256.348203716108,
+          "cacheParameterError": 11.260721113092021
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481943",
+          "node": 0,
+          "d": 0.43285802006721497,
+          "lateral": 1.5871460437774658,
+          "positiveLeftErrorM": 761.3433868615721,
+          "negativeLeftErrorM": 764.3270792076811,
+          "cacheParameterError": 11.26510439752661
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481945",
+          "node": 0,
+          "d": 0.44237399101257324,
+          "lateral": 1.6220378875732422,
+          "positiveLeftErrorM": 345.9939654120882,
+          "negativeLeftErrorM": 348.48318813847663,
+          "cacheParameterError": 11.256337856112678
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481941",
+          "node": 0,
+          "d": 0.43285802006721497,
+          "lateral": 1.5871460437774658,
+          "positiveLeftErrorM": 782.3408293834603,
+          "negativeLeftErrorM": 785.4259380443989,
+          "cacheParameterError": 11.26510439752661
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481948",
+          "node": 0,
+          "d": 0.44237399101257324,
+          "lateral": 1.6220378875732422,
+          "positiveLeftErrorM": 604.928318458485,
+          "negativeLeftErrorM": 608.1705288861593,
+          "cacheParameterError": 11.256337856112678
+        },
+        {
+          "car": "/Game/Cinematics/PreRace/PreRace_Med/Cine_PreRace_DriverOutOfCarGarage_004_Cam1.Cine_PreRace_DriverOutOfCarGarage_004_Cam1.MovieScene_0.CutsceneCar_0",
+          "node": 0,
+          "d": 0.3953280448913574,
+          "lateral": 1.7685198783874512,
+          "positiveLeftErrorM": 2252.366391104251,
+          "negativeLeftErrorM": 2255.664604330726,
+          "cacheParameterError": 11.69500674739769
+        }
+      ]
+    },
+    {
+      "kind": "actor",
+      "offset": "0x854",
+      "matches": 22,
+      "positiveLeftMedianErrorM": 734.5837034973855,
+      "negativeLeftMedianErrorM": 734.5837034973855,
+      "medianCacheParameterError": 11.733627077145767,
+      "samples": [
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481909",
+          "node": 0,
+          "d": 0.8857142925262451,
+          "lateral": 6.817317028940235e-42,
+          "positiveLeftErrorM": 317.1339698191867,
+          "negativeLeftErrorM": 317.1339698191867,
+          "cacheParameterError": 11.733627077145767
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481911",
+          "node": 0,
+          "d": 0.8857142925262451,
+          "lateral": 6.458584622073082e-42,
+          "positiveLeftErrorM": 820.6740061252607,
+          "negativeLeftErrorM": 820.6740061252607,
+          "cacheParameterError": 11.733627077145767
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481913",
+          "node": 0,
+          "d": 0.8857142925262451,
+          "lateral": 6.099852215205929e-42,
+          "positiveLeftErrorM": 792.1709137076382,
+          "negativeLeftErrorM": 792.1709137076382,
+          "cacheParameterError": 11.733627077145767
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481915",
+          "node": 0,
+          "d": 0.8857142925262451,
+          "lateral": 5.741119808338776e-42,
+          "positiveLeftErrorM": 767.3558852086153,
+          "negativeLeftErrorM": 767.3558852086153,
+          "cacheParameterError": 11.733627077145767
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481917",
+          "node": 0,
+          "d": 0.8857142925262451,
+          "lateral": 5.3823874014716224e-42,
+          "positiveLeftErrorM": 503.6298437663722,
+          "negativeLeftErrorM": 503.6298437663722,
+          "cacheParameterError": 11.733627077145767
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481919",
+          "node": 0,
+          "d": 0.8857142925262451,
+          "lateral": 5.023654994604469e-42,
+          "positiveLeftErrorM": 832.6596609967197,
+          "negativeLeftErrorM": 832.6596609967197,
+          "cacheParameterError": 11.733627077145767
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481921",
+          "node": 0,
+          "d": 0.8857142925262451,
+          "lateral": 4.666323886201641e-42,
+          "positiveLeftErrorM": 554.4516077790929,
+          "negativeLeftErrorM": 554.4516077790929,
+          "cacheParameterError": 11.733627077145767
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481923",
+          "node": 0,
+          "d": 0.8857142925262451,
+          "lateral": 4.306190180870163e-42,
+          "positiveLeftErrorM": 734.5837034973855,
+          "negativeLeftErrorM": 734.5837034973855,
+          "cacheParameterError": 11.733627077145767
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481925",
+          "node": 0,
+          "d": 0.8857142925262451,
+          "lateral": 3.94745777400301e-42,
+          "positiveLeftErrorM": 830.3689552632475,
+          "negativeLeftErrorM": 830.3689552632475,
+          "cacheParameterError": 11.733627077145767
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481927",
+          "node": 0,
+          "d": 0.8857142925262451,
+          "lateral": 3.5887253671358565e-42,
+          "positiveLeftErrorM": 713.4739463813231,
+          "negativeLeftErrorM": 713.4739463813231,
+          "cacheParameterError": 11.733627077145767
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481929",
+          "node": 0,
+          "d": 0.8857142925262451,
+          "lateral": 3.2299929602687033e-42,
+          "positiveLeftErrorM": 777.1399950122328,
+          "negativeLeftErrorM": 777.1399950122328,
+          "cacheParameterError": 11.733627077145767
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481931",
+          "node": 0,
+          "d": 0.8857142925262451,
+          "lateral": 2.87126055340155e-42,
+          "positiveLeftErrorM": 758.0323232169317,
+          "negativeLeftErrorM": 758.0323232169317,
+          "cacheParameterError": 11.733627077145767
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481933",
+          "node": 0,
+          "d": 0.8857142925262451,
+          "lateral": 2.512528146534397e-42,
+          "positiveLeftErrorM": 541.3064794219313,
+          "negativeLeftErrorM": 541.3064794219313,
+          "cacheParameterError": 11.733627077145767
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481935",
+          "node": 0,
+          "d": 0.8857142925262451,
+          "lateral": 2.1537957396672438e-42,
+          "positiveLeftErrorM": 598.4548894556896,
+          "negativeLeftErrorM": 598.4548894556896,
+          "cacheParameterError": 11.733627077145767
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481937",
+          "node": 0,
+          "d": 0.8857142925262451,
+          "lateral": 1.7950633328000907e-42,
+          "positiveLeftErrorM": 304.46767117105486,
+          "negativeLeftErrorM": 304.46767117105486,
+          "cacheParameterError": 11.733627077145767
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481939",
+          "node": 0,
+          "d": 0.8857142925262451,
+          "lateral": 1.4363309259329375e-42,
+          "positiveLeftErrorM": 255.39143206774725,
+          "negativeLeftErrorM": 255.39143206774725,
+          "cacheParameterError": 11.733627077145767
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481943",
+          "node": 0,
+          "d": 0.8857142925262451,
+          "lateral": 7.188661121986312e-43,
+          "positiveLeftErrorM": 762.6804253241423,
+          "negativeLeftErrorM": 762.6804253241423,
+          "cacheParameterError": 11.733627077145767
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481945",
+          "node": 0,
+          "d": 0.8857142925262451,
+          "lateral": 3.60133705331478e-43,
+          "positiveLeftErrorM": 347.52182430593615,
+          "negativeLeftErrorM": 347.52182430593615,
+          "cacheParameterError": 11.733627077145767
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481941",
+          "node": 0,
+          "d": 0.8857142925262451,
+          "lateral": 1.0775985190657843e-42,
+          "positiveLeftErrorM": 783.776707069647,
+          "negativeLeftErrorM": 783.776707069647,
+          "cacheParameterError": 11.733627077145767
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481948",
+          "node": 0,
+          "d": 0.8857142925262451,
+          "lateral": 1.401298464324817e-45,
+          "positiveLeftErrorM": 606.53453618047,
+          "negativeLeftErrorM": 606.53453618047,
+          "cacheParameterError": 11.733627077145767
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_SafetyCar2022_C_2147481949",
+          "node": 0,
+          "d": 1,
+          "lateral": 0,
+          "positiveLeftErrorM": 24.11624841561115,
+          "negativeLeftErrorM": 24.11624841561115,
+          "cacheParameterError": 11.74259428262963
+        },
+        {
+          "car": "/Game/Cinematics/PreRace/PreRace_Med/Cine_PreRace_DriverOutOfCarGarage_004_Cam1.Cine_PreRace_DriverOutOfCarGarage_004_Cam1.MovieScene_0.CutsceneCar_0",
+          "node": 0,
+          "d": 1,
+          "lateral": 0,
+          "positiveLeftErrorM": 2253.796911766505,
+          "negativeLeftErrorM": 2253.796911766505,
+          "cacheParameterError": 11.74259428262963
+        }
+      ]
+    },
+    {
+      "kind": "actor",
+      "offset": "0x60",
+      "matches": 22,
+      "positiveLeftMedianErrorM": 734.6978834809128,
+      "negativeLeftMedianErrorM": 734.6978834809128,
+      "medianCacheParameterError": 11.74259428262963,
+      "samples": [
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481909",
+          "node": 0,
+          "d": 1,
+          "lateral": 0,
+          "positiveLeftErrorM": 317.01978800440116,
+          "negativeLeftErrorM": 317.01978800440116,
+          "cacheParameterError": 11.74259428262963
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481911",
+          "node": 0,
+          "d": 1,
+          "lateral": 0,
+          "positiveLeftErrorM": 820.7317135061242,
+          "negativeLeftErrorM": 820.7317135061242,
+          "cacheParameterError": 11.74259428262963
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481913",
+          "node": 0,
+          "d": 1,
+          "lateral": 0,
+          "positiveLeftErrorM": 792.2259931744645,
+          "negativeLeftErrorM": 792.2259931744645,
+          "cacheParameterError": 11.74259428262963
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481915",
+          "node": 0,
+          "d": 1,
+          "lateral": 0,
+          "positiveLeftErrorM": 767.4425117420195,
+          "negativeLeftErrorM": 767.4425117420195,
+          "cacheParameterError": 11.74259428262963
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481917",
+          "node": 0,
+          "d": 1,
+          "lateral": 0,
+          "positiveLeftErrorM": 503.74402556082265,
+          "negativeLeftErrorM": 503.74402556082265,
+          "cacheParameterError": 11.74259428262963
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481919",
+          "node": 0,
+          "d": 1,
+          "lateral": 0,
+          "positiveLeftErrorM": 832.7737378623017,
+          "negativeLeftErrorM": 832.7737378623017,
+          "cacheParameterError": 11.74259428262963
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481921",
+          "node": 0,
+          "d": 1,
+          "lateral": 0,
+          "positiveLeftErrorM": 554.5247820804492,
+          "negativeLeftErrorM": 554.5247820804492,
+          "cacheParameterError": 11.74259428262963
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481923",
+          "node": 0,
+          "d": 1,
+          "lateral": 0,
+          "positiveLeftErrorM": 734.6978834809128,
+          "negativeLeftErrorM": 734.6978834809128,
+          "cacheParameterError": 11.74259428262963
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481925",
+          "node": 0,
+          "d": 1,
+          "lateral": 0,
+          "positiveLeftErrorM": 830.4289116954574,
+          "negativeLeftErrorM": 830.4289116954574,
+          "cacheParameterError": 11.74259428262963
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481927",
+          "node": 0,
+          "d": 1,
+          "lateral": 0,
+          "positiveLeftErrorM": 713.5881261484561,
+          "negativeLeftErrorM": 713.5881261484561,
+          "cacheParameterError": 11.74259428262963
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481929",
+          "node": 0,
+          "d": 1,
+          "lateral": 0,
+          "positiveLeftErrorM": 777.2219988130063,
+          "negativeLeftErrorM": 777.2219988130063,
+          "cacheParameterError": 11.74259428262963
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481931",
+          "node": 0,
+          "d": 1,
+          "lateral": 0,
+          "positiveLeftErrorM": 758.130347919795,
+          "negativeLeftErrorM": 758.130347919795,
+          "cacheParameterError": 11.74259428262963
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481933",
+          "node": 0,
+          "d": 1,
+          "lateral": 0,
+          "positiveLeftErrorM": 541.2435767169629,
+          "negativeLeftErrorM": 541.2435767169629,
+          "cacheParameterError": 11.74259428262963
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481935",
+          "node": 0,
+          "d": 1,
+          "lateral": 0,
+          "positiveLeftErrorM": 598.4543795834948,
+          "negativeLeftErrorM": 598.4543795834948,
+          "cacheParameterError": 11.74259428262963
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481937",
+          "node": 0,
+          "d": 1,
+          "lateral": 0,
+          "positiveLeftErrorM": 304.5188650413716,
+          "negativeLeftErrorM": 304.5188650413716,
+          "cacheParameterError": 11.74259428262963
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481939",
+          "node": 0,
+          "d": 1,
+          "lateral": 0,
+          "positiveLeftErrorM": 255.46405503870798,
+          "negativeLeftErrorM": 255.46405503870798,
+          "cacheParameterError": 11.74259428262963
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481943",
+          "node": 0,
+          "d": 1,
+          "lateral": 0,
+          "positiveLeftErrorM": 762.6415242671826,
+          "negativeLeftErrorM": 762.6415242671826,
+          "cacheParameterError": 11.74259428262963
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481945",
+          "node": 0,
+          "d": 1,
+          "lateral": 0,
+          "positiveLeftErrorM": 347.59514391447243,
+          "negativeLeftErrorM": 347.59514391447243,
+          "cacheParameterError": 11.74259428262963
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481941",
+          "node": 0,
+          "d": 1,
+          "lateral": 0,
+          "positiveLeftErrorM": 783.7499032111346,
+          "negativeLeftErrorM": 783.7499032111346,
+          "cacheParameterError": 11.74259428262963
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481948",
+          "node": 0,
+          "d": 1,
+          "lateral": 0,
+          "positiveLeftErrorM": 606.5307604374767,
+          "negativeLeftErrorM": 606.5307604374767,
+          "cacheParameterError": 11.74259428262963
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_SafetyCar2022_C_2147481949",
+          "node": 0,
+          "d": 1,
+          "lateral": 0,
+          "positiveLeftErrorM": 24.11624841561115,
+          "negativeLeftErrorM": 24.11624841561115,
+          "cacheParameterError": 11.74259428262963
+        },
+        {
+          "car": "/Game/Cinematics/PreRace/PreRace_Med/Cine_PreRace_DriverOutOfCarGarage_004_Cam1.Cine_PreRace_DriverOutOfCarGarage_004_Cam1.MovieScene_0.CutsceneCar_0",
+          "node": 0,
+          "d": 1,
+          "lateral": 0,
+          "positiveLeftErrorM": 2253.796911766505,
+          "negativeLeftErrorM": 2253.796911766505,
+          "cacheParameterError": 11.74259428262963
+        }
+      ]
+    },
+    {
+      "kind": "location",
+      "offset": "0x158",
+      "matches": 22,
+      "positiveLeftMedianErrorM": 735.572973378716,
+      "negativeLeftMedianErrorM": 735.572973378716,
+      "medianCacheParameterError": 9.93612481566182,
+      "samples": [
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481909",
+          "node": 0,
+          "d": 1.875,
+          "lateral": 0,
+          "positiveLeftErrorM": 316.14468406975925,
+          "negativeLeftErrorM": 316.14468406975925,
+          "cacheParameterError": 9.93612481566182
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481911",
+          "node": 0,
+          "d": 1.875,
+          "lateral": 0,
+          "positiveLeftErrorM": 821.1743930747764,
+          "negativeLeftErrorM": 821.1743930747764,
+          "cacheParameterError": 9.93612481566182
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481913",
+          "node": 0,
+          "d": 1.875,
+          "lateral": 0,
+          "positiveLeftErrorM": 792.6485587717873,
+          "negativeLeftErrorM": 792.6485587717873,
+          "cacheParameterError": 9.93612481566182
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481915",
+          "node": 0,
+          "d": 1.875,
+          "lateral": 0,
+          "positiveLeftErrorM": 768.1066755375365,
+          "negativeLeftErrorM": 768.1066755375365,
+          "cacheParameterError": 9.93612481566182
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481917",
+          "node": 0,
+          "d": 1.875,
+          "lateral": 0,
+          "positiveLeftErrorM": 504.6191293612475,
+          "negativeLeftErrorM": 504.6191293612475,
+          "cacheParameterError": 9.93612481566182
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481919",
+          "node": 0,
+          "d": 1.875,
+          "lateral": 0,
+          "positiveLeftErrorM": 833.648038978613,
+          "negativeLeftErrorM": 833.648038978613,
+          "cacheParameterError": 9.93612481566182
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481921",
+          "node": 0,
+          "d": 1.875,
+          "lateral": 0,
+          "positiveLeftErrorM": 555.0860680158274,
+          "negativeLeftErrorM": 555.0860680158274,
+          "cacheParameterError": 9.93612481566182
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481923",
+          "node": 0,
+          "d": 1.875,
+          "lateral": 0,
+          "positiveLeftErrorM": 735.572973378716,
+          "negativeLeftErrorM": 735.572973378716,
+          "cacheParameterError": 9.93612481566182
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481925",
+          "node": 0,
+          "d": 1.875,
+          "lateral": 0,
+          "positiveLeftErrorM": 830.8888129748235,
+          "negativeLeftErrorM": 830.8888129748235,
+          "cacheParameterError": 9.93612481566182
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481927",
+          "node": 0,
+          "d": 1.875,
+          "lateral": 0,
+          "positiveLeftErrorM": 714.4632143873773,
+          "negativeLeftErrorM": 714.4632143873773,
+          "cacheParameterError": 9.93612481566182
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481929",
+          "node": 0,
+          "d": 1.875,
+          "lateral": 0,
+          "positiveLeftErrorM": 777.8507642061771,
+          "negativeLeftErrorM": 777.8507642061771,
+          "cacheParameterError": 9.93612481566182
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481931",
+          "node": 0,
+          "d": 1.875,
+          "lateral": 0,
+          "positiveLeftErrorM": 758.8817779014862,
+          "negativeLeftErrorM": 758.8817779014862,
+          "cacheParameterError": 9.93612481566182
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481933",
+          "node": 0,
+          "d": 1.875,
+          "lateral": 0,
+          "positiveLeftErrorM": 540.7620499401512,
+          "negativeLeftErrorM": 540.7620499401512,
+          "cacheParameterError": 9.93612481566182
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481935",
+          "node": 0,
+          "d": 1.875,
+          "lateral": 0,
+          "positiveLeftErrorM": 598.4512071649733,
+          "negativeLeftErrorM": 598.4512071649733,
+          "cacheParameterError": 9.93612481566182
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481937",
+          "node": 0,
+          "d": 1.875,
+          "lateral": 0,
+          "positiveLeftErrorM": 304.9123663813962,
+          "negativeLeftErrorM": 304.9123663813962,
+          "cacheParameterError": 9.93612481566182
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481939",
+          "node": 0,
+          "d": 1.875,
+          "lateral": 0,
+          "positiveLeftErrorM": 256.0216627841046,
+          "negativeLeftErrorM": 256.0216627841046,
+          "cacheParameterError": 9.93612481566182
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481943",
+          "node": 0,
+          "d": 1.875,
+          "lateral": 0,
+          "positiveLeftErrorM": 762.3438948060967,
+          "negativeLeftErrorM": 762.3438948060967,
+          "cacheParameterError": 9.93612481566182
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481945",
+          "node": 0,
+          "d": 1.875,
+          "lateral": 0,
+          "positiveLeftErrorM": 348.1578145908267,
+          "negativeLeftErrorM": 348.1578145908267,
+          "cacheParameterError": 9.93612481566182
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481941",
+          "node": 0,
+          "d": 1.875,
+          "lateral": 0,
+          "positiveLeftErrorM": 783.5450087024011,
+          "negativeLeftErrorM": 783.5450087024011,
+          "cacheParameterError": 9.93612481566182
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481948",
+          "node": 0,
+          "d": 1.875,
+          "lateral": 0,
+          "positiveLeftErrorM": 606.5025475948289,
+          "negativeLeftErrorM": 606.5025475948289,
+          "cacheParameterError": 9.93612481566182
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_SafetyCar2022_C_2147481949",
+          "node": 0,
+          "d": 1.875,
+          "lateral": 0,
+          "positiveLeftErrorM": 24.143535767615557,
+          "negativeLeftErrorM": 24.143535767615557,
+          "cacheParameterError": 9.93612481566182
+        },
+        {
+          "car": "/Game/Cinematics/PreRace/PreRace_Med/Cine_PreRace_DriverOutOfCarGarage_004_Cam1.Cine_PreRace_DriverOutOfCarGarage_004_Cam1.MovieScene_0.CutsceneCar_0",
+          "node": 0,
+          "d": 1.875,
+          "lateral": 0,
+          "positiveLeftErrorM": 2253.4811760729863,
+          "negativeLeftErrorM": 2253.4811760729863,
+          "cacheParameterError": 9.93612481566182
+        }
+      ]
+    },
+    {
+      "kind": "location",
+      "offset": "0x160",
+      "matches": 22,
+      "positiveLeftMedianErrorM": 735.572973378716,
+      "negativeLeftMedianErrorM": 735.572973378716,
+      "medianCacheParameterError": 11.81112481566182,
+      "samples": [
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481909",
+          "node": 0,
+          "d": 1.875,
+          "lateral": 0,
+          "positiveLeftErrorM": 316.14468406975925,
+          "negativeLeftErrorM": 316.14468406975925,
+          "cacheParameterError": 11.81112481566182
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481911",
+          "node": 0,
+          "d": 1.875,
+          "lateral": 0,
+          "positiveLeftErrorM": 821.1743930747764,
+          "negativeLeftErrorM": 821.1743930747764,
+          "cacheParameterError": 11.81112481566182
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481913",
+          "node": 0,
+          "d": 1.875,
+          "lateral": 0,
+          "positiveLeftErrorM": 792.6485587717873,
+          "negativeLeftErrorM": 792.6485587717873,
+          "cacheParameterError": 11.81112481566182
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481915",
+          "node": 0,
+          "d": 1.875,
+          "lateral": 0,
+          "positiveLeftErrorM": 768.1066755375365,
+          "negativeLeftErrorM": 768.1066755375365,
+          "cacheParameterError": 11.81112481566182
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481917",
+          "node": 0,
+          "d": 1.875,
+          "lateral": 0,
+          "positiveLeftErrorM": 504.6191293612475,
+          "negativeLeftErrorM": 504.6191293612475,
+          "cacheParameterError": 11.81112481566182
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481919",
+          "node": 0,
+          "d": 1.875,
+          "lateral": 0,
+          "positiveLeftErrorM": 833.648038978613,
+          "negativeLeftErrorM": 833.648038978613,
+          "cacheParameterError": 11.81112481566182
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481921",
+          "node": 0,
+          "d": 1.875,
+          "lateral": 0,
+          "positiveLeftErrorM": 555.0860680158274,
+          "negativeLeftErrorM": 555.0860680158274,
+          "cacheParameterError": 11.81112481566182
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481923",
+          "node": 0,
+          "d": 1.875,
+          "lateral": 0,
+          "positiveLeftErrorM": 735.572973378716,
+          "negativeLeftErrorM": 735.572973378716,
+          "cacheParameterError": 11.81112481566182
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481925",
+          "node": 0,
+          "d": 1.875,
+          "lateral": 0,
+          "positiveLeftErrorM": 830.8888129748235,
+          "negativeLeftErrorM": 830.8888129748235,
+          "cacheParameterError": 11.81112481566182
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481927",
+          "node": 0,
+          "d": 1.875,
+          "lateral": 0,
+          "positiveLeftErrorM": 714.4632143873773,
+          "negativeLeftErrorM": 714.4632143873773,
+          "cacheParameterError": 11.81112481566182
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481929",
+          "node": 0,
+          "d": 1.875,
+          "lateral": 0,
+          "positiveLeftErrorM": 777.8507642061771,
+          "negativeLeftErrorM": 777.8507642061771,
+          "cacheParameterError": 11.81112481566182
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481931",
+          "node": 0,
+          "d": 1.875,
+          "lateral": 0,
+          "positiveLeftErrorM": 758.8817779014862,
+          "negativeLeftErrorM": 758.8817779014862,
+          "cacheParameterError": 11.81112481566182
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481933",
+          "node": 0,
+          "d": 1.875,
+          "lateral": 0,
+          "positiveLeftErrorM": 540.7620499401512,
+          "negativeLeftErrorM": 540.7620499401512,
+          "cacheParameterError": 11.81112481566182
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481935",
+          "node": 0,
+          "d": 1.875,
+          "lateral": 0,
+          "positiveLeftErrorM": 598.4512071649733,
+          "negativeLeftErrorM": 598.4512071649733,
+          "cacheParameterError": 11.81112481566182
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481937",
+          "node": 0,
+          "d": 1.875,
+          "lateral": 0,
+          "positiveLeftErrorM": 304.9123663813962,
+          "negativeLeftErrorM": 304.9123663813962,
+          "cacheParameterError": 11.81112481566182
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481939",
+          "node": 0,
+          "d": 1.875,
+          "lateral": 0,
+          "positiveLeftErrorM": 256.0216627841046,
+          "negativeLeftErrorM": 256.0216627841046,
+          "cacheParameterError": 11.81112481566182
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481943",
+          "node": 0,
+          "d": 1.875,
+          "lateral": 0,
+          "positiveLeftErrorM": 762.3438948060967,
+          "negativeLeftErrorM": 762.3438948060967,
+          "cacheParameterError": 11.81112481566182
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481945",
+          "node": 0,
+          "d": 1.875,
+          "lateral": 0,
+          "positiveLeftErrorM": 348.1578145908267,
+          "negativeLeftErrorM": 348.1578145908267,
+          "cacheParameterError": 11.81112481566182
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481941",
+          "node": 0,
+          "d": 1.875,
+          "lateral": 0,
+          "positiveLeftErrorM": 783.5450087024011,
+          "negativeLeftErrorM": 783.5450087024011,
+          "cacheParameterError": 11.81112481566182
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481948",
+          "node": 0,
+          "d": 1.875,
+          "lateral": 0,
+          "positiveLeftErrorM": 606.5025475948289,
+          "negativeLeftErrorM": 606.5025475948289,
+          "cacheParameterError": 11.81112481566182
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_SafetyCar2022_C_2147481949",
+          "node": 0,
+          "d": 1.875,
+          "lateral": 0,
+          "positiveLeftErrorM": 24.143535767615557,
+          "negativeLeftErrorM": 24.143535767615557,
+          "cacheParameterError": 11.81112481566182
+        },
+        {
+          "car": "/Game/Cinematics/PreRace/PreRace_Med/Cine_PreRace_DriverOutOfCarGarage_004_Cam1.Cine_PreRace_DriverOutOfCarGarage_004_Cam1.MovieScene_0.CutsceneCar_0",
+          "node": 0,
+          "d": 1.875,
+          "lateral": 0,
+          "positiveLeftErrorM": 2253.4811760729863,
+          "negativeLeftErrorM": 2253.4811760729863,
+          "cacheParameterError": 3.283050523083297
+        }
+      ]
+    },
+    {
+      "kind": "location",
+      "offset": "0x168",
+      "matches": 22,
+      "positiveLeftMedianErrorM": 735.572973378716,
+      "negativeLeftMedianErrorM": 735.572973378716,
+      "medianCacheParameterError": 11.81112481566182,
+      "samples": [
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481909",
+          "node": 0,
+          "d": 1.875,
+          "lateral": 0,
+          "positiveLeftErrorM": 316.14468406975925,
+          "negativeLeftErrorM": 316.14468406975925,
+          "cacheParameterError": 11.81112481566182
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481911",
+          "node": 0,
+          "d": 1.875,
+          "lateral": 0,
+          "positiveLeftErrorM": 821.1743930747764,
+          "negativeLeftErrorM": 821.1743930747764,
+          "cacheParameterError": 11.81112481566182
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481913",
+          "node": 0,
+          "d": 1.875,
+          "lateral": 0,
+          "positiveLeftErrorM": 792.6485587717873,
+          "negativeLeftErrorM": 792.6485587717873,
+          "cacheParameterError": 11.81112481566182
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481915",
+          "node": 0,
+          "d": 1.875,
+          "lateral": 0,
+          "positiveLeftErrorM": 768.1066755375365,
+          "negativeLeftErrorM": 768.1066755375365,
+          "cacheParameterError": 11.81112481566182
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481917",
+          "node": 0,
+          "d": 1.875,
+          "lateral": 0,
+          "positiveLeftErrorM": 504.6191293612475,
+          "negativeLeftErrorM": 504.6191293612475,
+          "cacheParameterError": 11.81112481566182
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481919",
+          "node": 0,
+          "d": 1.875,
+          "lateral": 0,
+          "positiveLeftErrorM": 833.648038978613,
+          "negativeLeftErrorM": 833.648038978613,
+          "cacheParameterError": 11.81112481566182
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481921",
+          "node": 0,
+          "d": 1.875,
+          "lateral": 0,
+          "positiveLeftErrorM": 555.0860680158274,
+          "negativeLeftErrorM": 555.0860680158274,
+          "cacheParameterError": 11.81112481566182
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481923",
+          "node": 0,
+          "d": 1.875,
+          "lateral": 0,
+          "positiveLeftErrorM": 735.572973378716,
+          "negativeLeftErrorM": 735.572973378716,
+          "cacheParameterError": 11.81112481566182
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481925",
+          "node": 0,
+          "d": 1.875,
+          "lateral": 0,
+          "positiveLeftErrorM": 830.8888129748235,
+          "negativeLeftErrorM": 830.8888129748235,
+          "cacheParameterError": 11.81112481566182
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481927",
+          "node": 0,
+          "d": 1.875,
+          "lateral": 0,
+          "positiveLeftErrorM": 714.4632143873773,
+          "negativeLeftErrorM": 714.4632143873773,
+          "cacheParameterError": 11.81112481566182
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481929",
+          "node": 0,
+          "d": 1.875,
+          "lateral": 0,
+          "positiveLeftErrorM": 777.8507642061771,
+          "negativeLeftErrorM": 777.8507642061771,
+          "cacheParameterError": 11.81112481566182
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481931",
+          "node": 0,
+          "d": 1.875,
+          "lateral": 0,
+          "positiveLeftErrorM": 758.8817779014862,
+          "negativeLeftErrorM": 758.8817779014862,
+          "cacheParameterError": 11.81112481566182
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481933",
+          "node": 0,
+          "d": 1.875,
+          "lateral": 0,
+          "positiveLeftErrorM": 540.7620499401512,
+          "negativeLeftErrorM": 540.7620499401512,
+          "cacheParameterError": 11.81112481566182
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481935",
+          "node": 0,
+          "d": 1.875,
+          "lateral": 0,
+          "positiveLeftErrorM": 598.4512071649733,
+          "negativeLeftErrorM": 598.4512071649733,
+          "cacheParameterError": 11.81112481566182
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481937",
+          "node": 0,
+          "d": 1.875,
+          "lateral": 0,
+          "positiveLeftErrorM": 304.9123663813962,
+          "negativeLeftErrorM": 304.9123663813962,
+          "cacheParameterError": 11.81112481566182
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481939",
+          "node": 0,
+          "d": 1.875,
+          "lateral": 0,
+          "positiveLeftErrorM": 256.0216627841046,
+          "negativeLeftErrorM": 256.0216627841046,
+          "cacheParameterError": 11.81112481566182
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481943",
+          "node": 0,
+          "d": 1.875,
+          "lateral": 0,
+          "positiveLeftErrorM": 762.3438948060967,
+          "negativeLeftErrorM": 762.3438948060967,
+          "cacheParameterError": 11.81112481566182
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481945",
+          "node": 0,
+          "d": 1.875,
+          "lateral": 0,
+          "positiveLeftErrorM": 348.1578145908267,
+          "negativeLeftErrorM": 348.1578145908267,
+          "cacheParameterError": 11.81112481566182
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481941",
+          "node": 0,
+          "d": 1.875,
+          "lateral": 0,
+          "positiveLeftErrorM": 783.5450087024011,
+          "negativeLeftErrorM": 783.5450087024011,
+          "cacheParameterError": 11.81112481566182
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_BaseCar2022_Actor_C_2147481948",
+          "node": 0,
+          "d": 1.875,
+          "lateral": 0,
+          "positiveLeftErrorM": 606.5025475948289,
+          "negativeLeftErrorM": 606.5025475948289,
+          "cacheParameterError": 11.81112481566182
+        },
+        {
+          "car": "/Game/Circuits/Bahrain/Lvl_Bahrain.Lvl_Bahrain.PersistentLevel.BP_SafetyCar2022_C_2147481949",
+          "node": 0,
+          "d": 1.875,
+          "lateral": 0,
+          "positiveLeftErrorM": 24.143535767615557,
+          "negativeLeftErrorM": 24.143535767615557,
+          "cacheParameterError": 11.81112481566182
+        },
+        {
+          "car": "/Game/Cinematics/PreRace/PreRace_Med/Cine_PreRace_DriverOutOfCarGarage_004_Cam1.Cine_PreRace_DriverOutOfCarGarage_004_Cam1.MovieScene_0.CutsceneCar_0",
+          "node": 0,
+          "d": 1.875,
+          "lateral": -8.981997591165606e-32,
+          "positiveLeftErrorM": 2253.4811760729863,
+          "negativeLeftErrorM": 2253.4811760729863,
+          "cacheParameterError": 26.02231408568135
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "package": "F1Manager24/Content/Circuits/Bahrain/Levels/Lvl_Bahrain_SplineReferences.umap",
+  "metadataOnly": true,
+  "Name": "/Game/Circuits/Bahrain/Levels/Lvl_Bahrain_SplineReferences",
+  "names": [
+    "/Script/NavigationSystem",
+    "NavigationSystemV1",
+    "PersistentLevel",
+    "Model",
+    "NavigationSystemModuleConfig",
+    "Lvl_Bahrain_SplineReferences",
+    "WorldSettings",
+    "/Game/Circuits/Bahrain/Levels/Lvl_Bahrain_SplineReferences"
+  ],
+  "exports": [
+    {
+      "index": 0,
+      "name": "PersistentLevel",
+      "type": "/Script/Engine.Level",
+      "outer": "/Game/Circuits/Bahrain/Levels/Lvl_Bahrain_SplineReferences.Lvl_Bahrain_SplineReferences",
+      "serialOffset": 1865,
+      "serialSize": 1745
+    },
+    {
+      "index": 1,
+      "name": "Model_0",
+      "type": "/Script/Engine.Model",
+      "outer": "/Game/Circuits/Bahrain/Levels/Lvl_Bahrain_SplineReferences.Lvl_Bahrain_SplineReferences:PersistentLevel",
+      "serialOffset": 3610,
+      "serialSize": 140
+    },
+    {
+      "index": 2,
+      "name": "NavigationSystemModuleConfig_0",
+      "type": "/Script/NavigationSystem.NavigationSystemModuleConfig",
+      "outer": "/Game/Circuits/Bahrain/Levels/Lvl_Bahrain_SplineReferences.Lvl_Bahrain_SplineReferences:PersistentLevel.WorldSettings",
+      "serialOffset": 3750,
+      "serialSize": 29
+    },
+    {
+      "index": 3,
+      "name": "Lvl_Bahrain_SplineReferences",
+      "type": "/Script/Engine.World",
+      "outer": null,
+      "serialOffset": 3779,
+      "serialSize": 18
+    },
+    {
+      "index": 4,
+      "name": "WorldSettings",
+      "type": "/Script/Engine.WorldSettings",
+      "outer": "/Game/Circuits/Bahrain/Levels/Lvl_Bahrain_SplineReferences.Lvl_Bahrain_SplineReferences:PersistentLevel",
+      "serialOffset": 3797,
+      "serialSize": 80
+    }
+  ],
+  "imports": [
+    "/Script/Engine.Level",
+    "/Script/Engine.Model",
+    "/Script/Engine.World",
+    "/Script/Engine.WorldSettings",
+    "/Script/NavigationSystem.NavigationSystemModuleConfig",
+    "/Script/Engine.Default__Level",
+    "/Script/Engine.Default__Model",
+    "/Script/NavigationSystem.Default__NavigationSystemModuleConfig",
+    "/Script/Engine",
+    "/Script/NavigationSystem",
+    "/Script/Engine.Default__World",
+    "/Script/Engine.Default__WorldSettings"
+  ],
+  "dependencies": []
+}

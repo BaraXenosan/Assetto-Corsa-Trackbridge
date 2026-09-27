@@ -1,0 +1,247 @@
+{
+  "installable": false,
+  "componentName": "RaceTrackSpline",
+  "componentClass": "/Script/RaceSim.RaceSimTrackComponent",
+  "counts": {
+    "raceNodes": 108,
+    "pitNodes": 17,
+    "edges": 338,
+    "grid": 22,
+    "garages": 22,
+    "pitStops": 11,
+    "drsZones": 3,
+    "sectorCheckpoints": 2,
+    "marshalCheckpoints": 31,
+    "pitLaneMappings": 1026
+  },
+  "references": {
+    "finishNode": 106,
+    "startNode": 107,
+    "pitEntryRaceNode": 103,
+    "pitExitRaceNode": 7,
+    "pitLoopNode": 113,
+    "lastRaceEdge": 308
+  },
+  "checks": {
+    "nodeCounts": true,
+    "nodeReferences": true,
+    "previousEdgeReferences": true,
+    "drsCounts": true,
+    "positionReferences": 1484
+  },
+  "geometry": {
+    "raceClosedChordLengthInStoredUnits": 533721.4283418341,
+    "metresIfCentimetres": 5337.214283418341,
+    "note": "Chord sum is not the game spline length. Spatial scale and spline-distance units must be verified separately."
+  },
+  "fieldShapes": {
+    "m_trackNodes": {
+      "kind": "array",
+      "count": 125,
+      "example": {
+        "m_pos": {
+          "X": -39004.285,
+          "Y": -23460.736,
+          "Z": -1599.0073
+        },
+        "m_maxSpeed": 400,
+        "m_nodeType": "ENodeType::AccelerateOut",
+        "m_cornerType": "EBendType::Straight",
+        "m_cornerNumber": 15,
+        "m_dynamicLineOffset": 0.00030627253,
+        "m_previousEdgeID": 2,
+        "m_highRiskKerb": false
+      }
+    },
+    "m_trackEdges": {
+      "kind": "array",
+      "count": 338,
+      "example": {
+        "m_edgeData": {
+          "m_insideEdge": 11.857853,
+          "m_outsideEdge": 3.2950158
+        },
+        "m_offTrackData": {
+          "m_insideEdgeOffset": 0,
+          "m_outsideEdgeOffset": 4.6799994,
+          "m_insideType": "EOffTrackType::Tarmac",
+          "m_outsideType": "EOffTrackType::Tarmac"
+        },
+        "m_trackNodeID": 106,
+        "m_splineDistance": 0,
+        "m_offRaceLineDistance": 0
+      }
+    },
+    "m_lastRaceTrackEdgeID": {
+      "kind": "number"
+    },
+    "m_pitStopPositions": {
+      "kind": "array",
+      "count": 11,
+      "example": {
+        "m_trackNodeID": 114,
+        "m_splineDistance": 24.227533,
+        "m_offRaceLineDistance": 7.7500396
+      }
+    },
+    "m_pitLaneRedFlagPositions": {
+      "kind": "array",
+      "count": 22,
+      "example": {
+        "m_trackNodeID": 116,
+        "m_splineDistance": 64,
+        "m_offRaceLineDistance": 0
+      }
+    },
+    "m_garagePositions": {
+      "kind": "array",
+      "count": 22,
+      "example": {
+        "m_trackNodeID": 114,
+        "m_splineDistance": 9.958344,
+        "m_offRaceLineDistance": 18.034147
+      }
+    },
+    "m_carStartPositions": {
+      "kind": "array",
+      "count": 22,
+      "example": {
+        "m_trackNodeID": 106,
+        "m_splineDistance": 243.43732,
+        "m_offRaceLineDistance": 0.5
+      }
+    },
+    "m_DRSDetection": {
+      "kind": "array",
+      "count": 3,
+      "example": {
+        "m_trackNodeID": 3,
+        "m_splineDistance": 1.4822807,
+        "m_offRaceLineDistance": -0.09999994
+      }
+    },
+    "m_DRSZoneStart": {
+      "kind": "array",
+      "count": 3,
+      "example": {
+        "m_trackNodeID": 13,
+        "m_splineDistance": 46.800007,
+        "m_offRaceLineDistance": -0.0000022184615
+      }
+    },
+    "m_DRSZoneEnd": {
+      "kind": "array",
+      "count": 3,
+      "example": {
+        "m_trackNodeID": 19,
+        "m_splineDistance": 3.942194,
+        "m_offRaceLineDistance": 0.09999962
+      }
+    },
+    "m_sectorCheckpoints": {
+      "kind": "array",
+      "count": 2,
+      "example": {
+        "m_trackNodeID": 26,
+        "m_splineDistance": 51.000004,
+        "m_offRaceLineDistance": -2.6355362e-11
+      }
+    },
+    "m_marshalSectorCheckpoints": {
+      "kind": "array",
+      "count": 31,
+      "example": {
+        "m_trackNodeID": 107,
+        "m_splineDistance": 21,
+        "m_offRaceLineDistance": 0
+      }
+    },
+    "m_safetyCarPositions": {
+      "kind": "array",
+      "count": 1,
+      "example": {
+        "m_trackNodeID": 117,
+        "m_splineDistance": 9.500002,
+        "m_offRaceLineDistance": 5.1
+      }
+    },
+    "m_trackNodesCount": {
+      "kind": "number"
+    },
+    "m_pitNodesCount": {
+      "kind": "number"
+    },
+    "m_cornerCount": {
+      "kind": "number"
+    },
+    "m_pitEntrance_RaceTrackNodeID": {
+      "kind": "number"
+    },
+    "m_pitExit_RaceTrackNodeID": {
+      "kind": "number"
+    },
+    "m_finishLineNodeID": {
+      "kind": "number"
+    },
+    "m_pitLoopNodeID": {
+      "kind": "number"
+    },
+    "m_startLineNodeID": {
+      "kind": "number"
+    },
+    "PitLaneStartTriggerNodeID": {
+      "kind": "number"
+    },
+    "m_pitLaneMapping": {
+      "kind": "array",
+      "count": 1026,
+      "example": {
+        "m_pitNodeID": 109,
+        "m_trackNodeID": 103,
+        "m_pitSplineDistance": 0,
+        "m_trackRaceSplineDistance": 0,
+        "m_offTrackDistance": 5.687117e-14,
+        "m_intersect": true
+      }
+    },
+    "m_nodeIncidentsMapping": {
+      "kind": "array",
+      "count": 28,
+      "example": {
+        "Key": "3",
+        "Value": {
+          "m_locked": false,
+          "m_incidents": "ENodeIncidentSeverity::None",
+          "m_incidents[1]": "ENodeIncidentSeverity::None",
+          "m_incidents[2]": "ENodeIncidentSeverity::Minor",
+          "m_incidents[3]": "ENodeIncidentSeverity::None",
+          "m_incidents[4]": "ENodeIncidentSeverity::None",
+          "m_incidents[5]": "ENodeIncidentSeverity::None",
+          "m_incidents[6]": "ENodeIncidentSeverity::None",
+          "m_incidents[7]": "ENodeIncidentSeverity::None",
+          "m_incidents[8]": "ENodeIncidentSeverity::None",
+          "m_incidents[9]": "ENodeIncidentSeverity::None"
+        }
+      }
+    },
+    "m_trackIncidentsData": {
+      "kind": "object"
+    },
+    "DynamicLinePaceDebugDraw": {
+      "kind": "string"
+    },
+    "BarrierSplines": {
+      "kind": "array",
+      "count": 208
+    }
+  },
+  "unresolved": [
+    "Spline interpolation and distance parameterization",
+    "Pit attachment and loop semantics",
+    "Speed/corner/edge generation for the new layout",
+    "Incident and barrier regeneration",
+    "Cooked asset writing, level assembly and in-game validation"
+  ],
+  "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\research\\bahrain_properties01\\properties\\F1Manager24\\Content\\Circuits\\Bahrain\\Lvl_Bahrain.umap.json",
+  "sourceSha256": "8c7d6c62b7da8b55a31eb03bfabbfcd3eec0f535ae3e134964a2b39c453f3cc6"
+}

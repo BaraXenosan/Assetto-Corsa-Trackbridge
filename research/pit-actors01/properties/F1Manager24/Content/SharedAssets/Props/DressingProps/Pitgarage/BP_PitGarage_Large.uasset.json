@@ -1,0 +1,1409 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "BP_PitGarage_Large_C",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Package": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large",
+    "Super": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PitGarageBase_C'",
+      "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarageBase.0"
+    },
+    "Properties": {
+      "SimpleConstructionScript": {
+        "ObjectName": "SimpleConstructionScript'BP_PitGarage_Large_C:SimpleConstructionScript_0'",
+        "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.27"
+      },
+      "InheritableComponentHandler": {
+        "ObjectName": "InheritableComponentHandler'BP_PitGarage_Large_C:InheritableComponentHandler'",
+        "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.10"
+      },
+      "UberGraphFunction": {
+        "ObjectName": "Function'BP_PitGarage_Large_C:ExecuteUbergraph_BP_PitGarage_Large'",
+        "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.7"
+      }
+    },
+    "Children": [
+      {
+        "ObjectName": "Function'BP_PitGarage_Large_C:UserConstructionScript'",
+        "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.9"
+      },
+      {
+        "ObjectName": "Function'BP_PitGarage_Large_C:ReceiveTick'",
+        "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.8"
+      },
+      {
+        "ObjectName": "Function'BP_PitGarage_Large_C:ExecuteUbergraph_BP_PitGarage_Large'",
+        "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.7"
+      }
+    ],
+    "ChildProperties": [
+      {
+        "Type": "StructProperty",
+        "Name": "UberGraphFrame",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 16,
+        "PropertyFlags": "Transient | DuplicateTransient",
+        "Struct": {
+          "ObjectName": "Class'PointerToUberGraphFrame'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "PostProcess",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 8,
+        "PropertyFlags": "BlueprintVisible | InstancedReference | NonTransactional",
+        "PropertyClass": {
+          "ObjectName": "Class'PostProcessComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Box",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 8,
+        "PropertyFlags": "BlueprintVisible | InstancedReference | NonTransactional",
+        "PropertyClass": {
+          "ObjectName": "Class'BoxComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "VLS_GarageRight",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 8,
+        "PropertyFlags": "BlueprintVisible | InstancedReference | NonTransactional",
+        "PropertyClass": {
+          "ObjectName": "Class'ChildActorComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "VLS_GarageLeft",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 8,
+        "PropertyFlags": "BlueprintVisible | InstancedReference | NonTransactional",
+        "PropertyClass": {
+          "ObjectName": "Class'ChildActorComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "StaticMesh",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 8,
+        "PropertyFlags": "BlueprintVisible | InstancedReference | NonTransactional",
+        "PropertyClass": {
+          "ObjectName": "Class'StaticMeshComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "FloatProperty",
+        "Name": "Tint",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 4,
+        "PropertyFlags": "Edit | BlueprintVisible"
+      },
+      {
+        "Type": "FloatProperty",
+        "Name": "Temp",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 4,
+        "PropertyFlags": "Edit | BlueprintVisible"
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "AmbientCubemapTexture",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 8,
+        "PropertyFlags": "Edit | BlueprintVisible | UObjectWrapper",
+        "PropertyClass": {
+          "ObjectName": "Class'TextureCube'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "FloatProperty",
+        "Name": "AmbientCubemapIntensity",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 4,
+        "PropertyFlags": "Edit | BlueprintVisible"
+      }
+    ],
+    "FuncMap": {
+      "ExecuteUbergraph_BP_PitGarage_Large": {
+        "ObjectName": "Function'BP_PitGarage_Large_C:ExecuteUbergraph_BP_PitGarage_Large'",
+        "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.7"
+      },
+      "ReceiveTick": {
+        "ObjectName": "Function'BP_PitGarage_Large_C:ReceiveTick'",
+        "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.8"
+      },
+      "UserConstructionScript": {
+        "ObjectName": "Function'BP_PitGarage_Large_C:UserConstructionScript'",
+        "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.9"
+      }
+    },
+    "ClassFlags": "CLASS_Config | CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint | CLASS_HasInstancedReference",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "BP_PitGarage_Large_C'Default__BP_PitGarage_Large_C'",
+      "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.2"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "BoxComponent",
+    "Name": "Box_GEN_VARIABLE",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'BoxComponent'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PitGarage_Large_C'",
+      "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.0"
+    },
+    "Properties": {
+      "BoxExtent": {
+        "X": 700.0,
+        "Y": 800.0,
+        "Z": 200.0
+      },
+      "RelativeLocation": {
+        "X": -317.0,
+        "Y": 100.0,
+        "Z": 150.0
+      }
+    }
+  },
+  {
+    "Type": "BP_PitGarage_Large_C",
+    "Name": "Default__BP_PitGarage_Large_C",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "BlueprintGeneratedClass'/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.BP_PitGarage_Large_C'",
+    "Package": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large",
+    "Template": {
+      "ObjectName": "BP_PitGarageBase_C'Default__BP_PitGarageBase_C'",
+      "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarageBase.1"
+    },
+    "Properties": {
+      "UberGraphFrame": {},
+      "Tint": 0.1,
+      "Temp": 5500.0,
+      "AmbientCubemapTexture": {
+        "ObjectName": "TextureCube'HDRI_Garage_Flat'",
+        "ObjectPath": "/Game/Lighting/HDRIs/HDRI_Garage_Flat.0"
+      },
+      "AmbientCubemapIntensity": 0.35,
+      "LightingActorDefault": {
+        "ObjectName": "BlueprintGeneratedClass'BP_PitGarage_Large_Lights_C'",
+        "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large_Lights.0"
+      },
+      "LightingActorSwitch": {
+        "ObjectName": "BlueprintGeneratedClass'BP_PitGarage_Large_Lights_Switch_C'",
+        "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large_Lights_Switch.0"
+      },
+      "Static Mesh Alts": [
+        {
+          "Key": "EF1Team::Ferrari",
+          "Value": {
+            "StaticMesh": {
+              "AssetPathName": "/Game/Environment/Props/PitLanes/PitGarage/BrandingMeshes/SM_PitGarage_Ferrari_Branding_Large.SM_PitGarage_Ferrari_Branding_Large",
+              "SubPathString": ""
+            },
+            "Offset": {
+              "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0,
+                "IsNormalized": true,
+                "Size": 1.0,
+                "SizeSquared": 1.0
+              },
+              "Translation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          }
+        },
+        {
+          "Key": "EF1Team::McLaren",
+          "Value": {
+            "StaticMesh": {
+              "AssetPathName": "/Game/Environment/Props/PitLanes/PitGarage/BrandingMeshes/SM_PitGarage_McLaren_Branding_Large.SM_PitGarage_McLaren_Branding_Large",
+              "SubPathString": ""
+            },
+            "Offset": {
+              "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0,
+                "IsNormalized": true,
+                "Size": 1.0,
+                "SizeSquared": 1.0
+              },
+              "Translation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          }
+        },
+        {
+          "Key": "EF1Team::RedBullRacing",
+          "Value": {
+            "StaticMesh": {
+              "AssetPathName": "/Game/Environment/Props/PitLanes/PitGarage/BrandingMeshes/SM_PitGarage_RedBull_Branding_Large.SM_PitGarage_RedBull_Branding_Large",
+              "SubPathString": ""
+            },
+            "Offset": {
+              "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0,
+                "IsNormalized": true,
+                "Size": 1.0,
+                "SizeSquared": 1.0
+              },
+              "Translation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          }
+        },
+        {
+          "Key": "EF1Team::MercedesAMGPetronasF1",
+          "Value": {
+            "StaticMesh": {
+              "AssetPathName": "/Game/Environment/Props/PitLanes/PitGarage/BrandingMeshes/SM_PitGarage_Mercedes_Branding_Large.SM_PitGarage_Mercedes_Branding_Large",
+              "SubPathString": ""
+            },
+            "Offset": {
+              "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0,
+                "IsNormalized": true,
+                "Size": 1.0,
+                "SizeSquared": 1.0
+              },
+              "Translation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          }
+        },
+        {
+          "Key": "EF1Team::Alpine",
+          "Value": {
+            "StaticMesh": {
+              "AssetPathName": "/Game/Environment/Props/PitLanes/PitGarage/BrandingMeshes/SM_PitGarage_Alpine_Branding_Large.SM_PitGarage_Alpine_Branding_Large",
+              "SubPathString": ""
+            },
+            "Offset": {
+              "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0,
+                "IsNormalized": true,
+                "Size": 1.0,
+                "SizeSquared": 1.0
+              },
+              "Translation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          }
+        },
+        {
+          "Key": "EF1Team::WilliamsRacing",
+          "Value": {
+            "StaticMesh": {
+              "AssetPathName": "/Game/Environment/Props/PitLanes/PitGarage/BrandingMeshes/SM_PitGarage_Williams_Branding_Large.SM_PitGarage_Williams_Branding_Large",
+              "SubPathString": ""
+            },
+            "Offset": {
+              "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0,
+                "IsNormalized": true,
+                "Size": 1.0,
+                "SizeSquared": 1.0
+              },
+              "Translation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          }
+        },
+        {
+          "Key": "EF1Team::HaasF1",
+          "Value": {
+            "StaticMesh": {
+              "AssetPathName": "/Game/Environment/Props/PitLanes/PitGarage/BrandingMeshes/SM_PitGarage_Haas_Branding_Large.SM_PitGarage_Haas_Branding_Large",
+              "SubPathString": ""
+            },
+            "Offset": {
+              "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0,
+                "IsNormalized": true,
+                "Size": 1.0,
+                "SizeSquared": 1.0
+              },
+              "Translation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          }
+        },
+        {
+          "Key": "EF1Team::AlphaTauri",
+          "Value": {
+            "StaticMesh": {
+              "AssetPathName": "/Game/Environment/Props/PitLanes/PitGarage/BrandingMeshes/SM_PitGarage_RacingBulls_Branding_Large.SM_PitGarage_RacingBulls_Branding_Large",
+              "SubPathString": ""
+            },
+            "Offset": {
+              "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0,
+                "IsNormalized": true,
+                "Size": 1.0,
+                "SizeSquared": 1.0
+              },
+              "Translation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          }
+        },
+        {
+          "Key": "EF1Team::AlfaRomeoRacing",
+          "Value": {
+            "StaticMesh": {
+              "AssetPathName": "/Game/Environment/Props/PitLanes/PitGarage/BrandingMeshes/SM_PitGarage_Sauber_Branding_Large.SM_PitGarage_Sauber_Branding_Large",
+              "SubPathString": ""
+            },
+            "Offset": {
+              "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0,
+                "IsNormalized": true,
+                "Size": 1.0,
+                "SizeSquared": 1.0
+              },
+              "Translation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          }
+        },
+        {
+          "Key": "EF1Team::AstonMartin",
+          "Value": {
+            "StaticMesh": {
+              "AssetPathName": "/Game/Environment/Props/PitLanes/PitGarage/BrandingMeshes/SM_PitGarage_AstonMartin_Branding_Large.SM_PitGarage_AstonMartin_Branding_Large",
+              "SubPathString": ""
+            },
+            "Offset": {
+              "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0,
+                "IsNormalized": true,
+                "Size": 1.0,
+                "SizeSquared": 1.0
+              },
+              "Translation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          }
+        },
+        {
+          "Key": "EF1Team::CustomTeam",
+          "Value": {
+            "StaticMesh": {
+              "AssetPathName": "/Game/Environment/Props/PitLanes/PitGarage/BrandingMeshes/SM_PitGarage_CustomTeam_Branding_Large.SM_PitGarage_CustomTeam_Branding_Large",
+              "SubPathString": ""
+            },
+            "Offset": {
+              "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0,
+                "IsNormalized": true,
+                "Size": 1.0,
+                "SizeSquared": 1.0
+              },
+              "Translation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          }
+        }
+      ],
+      "BaseMeshTransform": {
+        "Translation": {
+          "X": -318.22058,
+          "Y": 435.11844,
+          "Z": -3.722661
+        }
+      }
+    }
+  },
+  {
+    "Type": "ChildActorComponent",
+    "Name": "VLS_GarageLeft_GEN_VARIABLE",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'ChildActorComponent'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PitGarage_Large_C'",
+      "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.0"
+    },
+    "Properties": {
+      "ChildActorClass": {
+        "ObjectName": "Class'VoltaLevelSequenceActor'",
+        "ObjectPath": "/Script/RaceSim"
+      },
+      "ChildActorTemplate": {
+        "ObjectName": "VoltaLevelSequenceActor'BP_PitGarage_Large_C:VLS_GarageLeft_GEN_VARIABLE.ChildActor_GEN_VARIABLE_VoltaLevelSequenceActor_CAT'",
+        "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.32"
+      },
+      "RelativeLocation": {
+        "X": -958.0,
+        "Y": 466.0,
+        "Z": 1.0
+      }
+    }
+  },
+  {
+    "Type": "ChildActorComponent",
+    "Name": "VLS_GarageRight_GEN_VARIABLE",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'ChildActorComponent'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PitGarage_Large_C'",
+      "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.0"
+    },
+    "Properties": {
+      "ChildActorClass": {
+        "ObjectName": "Class'VoltaLevelSequenceActor'",
+        "ObjectPath": "/Script/RaceSim"
+      },
+      "ChildActorTemplate": {
+        "ObjectName": "VoltaLevelSequenceActor'BP_PitGarage_Large_C:VLS_GarageRight_GEN_VARIABLE.VLS_GarageLeft1_GEN_VARIABLE_VoltaLevelSequenceActor_CAT'",
+        "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.33"
+      },
+      "RelativeLocation": {
+        "X": -301.0,
+        "Y": 464.0,
+        "Z": 1.0
+      }
+    }
+  },
+  {
+    "Type": "DefaultLevelSequenceInstanceData",
+    "Name": "InstanceData",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_DefaultSubObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DefaultLevelSequenceInstanceData'",
+    "Outer": {
+      "ObjectName": "VoltaLevelSequenceActor'BP_PitGarage_Large_C:VLS_GarageLeft_GEN_VARIABLE.ChildActor_GEN_VARIABLE_VoltaLevelSequenceActor_CAT'",
+      "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.32"
+    },
+    "Properties": {
+      "TransformOriginActor": {
+        "ObjectName": "VoltaLevelSequenceActor'BP_PitGarage_Large_C:VLS_GarageLeft_GEN_VARIABLE.ChildActor_GEN_VARIABLE_VoltaLevelSequenceActor_CAT'",
+        "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.32"
+      }
+    }
+  },
+  {
+    "Type": "DefaultLevelSequenceInstanceData",
+    "Name": "InstanceData",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_DefaultSubObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DefaultLevelSequenceInstanceData'",
+    "Outer": {
+      "ObjectName": "VoltaLevelSequenceActor'BP_PitGarage_Large_C:VLS_GarageRight_GEN_VARIABLE.VLS_GarageLeft1_GEN_VARIABLE_VoltaLevelSequenceActor_CAT'",
+      "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.33"
+    },
+    "Properties": {
+      "TransformOriginActor": {
+        "ObjectName": "VoltaLevelSequenceActor'BP_PitGarage_Large_C:VLS_GarageRight_GEN_VARIABLE.VLS_GarageLeft1_GEN_VARIABLE_VoltaLevelSequenceActor_CAT'",
+        "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.33"
+      }
+    }
+  },
+  {
+    "Type": "Function",
+    "Name": "ExecuteUbergraph_BP_PitGarage_Large",
+    "Flags": "RF_Public | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Function'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PitGarage_Large_C'",
+      "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.0"
+    },
+    "ChildProperties": [
+      {
+        "Type": "IntProperty",
+        "Name": "EntryPoint",
+        "Flags": "RF_Public",
+        "ElementSize": 4,
+        "PropertyFlags": "BlueprintVisible | BlueprintReadOnly | Parm"
+      },
+      {
+        "Type": "FloatProperty",
+        "Name": "K2Node_Event_DeltaSeconds",
+        "Flags": "RF_Public",
+        "ElementSize": 4
+      }
+    ],
+    "FunctionFlags": "FUNC_Final | FUNC_UbergraphFunction"
+  },
+  {
+    "Type": "Function",
+    "Name": "ReceiveTick",
+    "Flags": "RF_Public | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Function'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PitGarage_Large_C'",
+      "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.0"
+    },
+    "Super": {
+      "ObjectName": "Function'BP_PitGarageBase_C:ReceiveTick'",
+      "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarageBase.12"
+    },
+    "ChildProperties": [
+      {
+        "Type": "FloatProperty",
+        "Name": "DeltaSeconds",
+        "Flags": "RF_Public",
+        "ElementSize": 4,
+        "PropertyFlags": "BlueprintVisible | BlueprintReadOnly | Parm"
+      }
+    ],
+    "FunctionFlags": "FUNC_Event | FUNC_Public | FUNC_BlueprintEvent"
+  },
+  {
+    "Type": "Function",
+    "Name": "UserConstructionScript",
+    "Flags": "RF_Public | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Function'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PitGarage_Large_C'",
+      "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.0"
+    },
+    "Super": {
+      "ObjectName": "Function'BP_PitGarageBase_C:UserConstructionScript'",
+      "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarageBase.16"
+    },
+    "FunctionFlags": "FUNC_Event | FUNC_Public | FUNC_BlueprintCallable | FUNC_BlueprintEvent"
+  },
+  {
+    "Type": "InheritableComponentHandler",
+    "Name": "InheritableComponentHandler",
+    "Flags": "RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'InheritableComponentHandler'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PitGarage_Large_C'",
+      "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.0"
+    },
+    "Properties": {
+      "Records": [
+        {
+          "ComponentClass": {
+            "ObjectName": "Class'StaticMeshComponent'",
+            "ObjectPath": "/Script/Engine"
+          },
+          "ComponentTemplate": {
+            "ObjectName": "StaticMeshComponent'BP_PitGarage_Large_C:BaseMesh_GEN_VARIABLE'",
+            "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.28"
+          },
+          "ComponentKey": {
+            "OwnerClass": {
+              "ObjectName": "BlueprintGeneratedClass'BP_GarageTeamBranding_Tool_C'",
+              "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_GarageTeamBranding_Tool.0"
+            },
+            "SCSVariableName": "BaseMesh",
+            "AssociatedGuid": "2D40432C-4872A803-A04455B8-36322A93"
+          },
+          "CookedComponentInstancingData": {
+            "ChangedPropertyList": [],
+            "bHasValidCookedData": false
+          }
+        },
+        {
+          "ComponentClass": {
+            "ObjectName": "Class'StaticMeshComponent'",
+            "ObjectPath": "/Script/Engine"
+          },
+          "ComponentTemplate": {
+            "ObjectName": "StaticMeshComponent'BP_PitGarage_Large_C:Branding_StaticMesh_GEN_VARIABLE'",
+            "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.29"
+          },
+          "ComponentKey": {
+            "OwnerClass": {
+              "ObjectName": "BlueprintGeneratedClass'BP_GarageTeamBranding_Tool_C'",
+              "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_GarageTeamBranding_Tool.0"
+            },
+            "SCSVariableName": "Branding_StaticMesh",
+            "AssociatedGuid": "8D6083D6-4907939A-81E5098B-27FA3C71"
+          },
+          "CookedComponentInstancingData": {
+            "ChangedPropertyList": [],
+            "bHasValidCookedData": false
+          }
+        },
+        {
+          "ComponentClass": {
+            "ObjectName": "Class'StaticMeshComponent'",
+            "ObjectPath": "/Script/Engine"
+          },
+          "ComponentTemplate": {
+            "ObjectName": "StaticMeshComponent'BP_PitGarage_Large_C:FloorCollision_GEN_VARIABLE'",
+            "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.30"
+          },
+          "ComponentKey": {
+            "OwnerClass": {
+              "ObjectName": "BlueprintGeneratedClass'BP_GarageTeamBranding_Tool_C'",
+              "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_GarageTeamBranding_Tool.0"
+            },
+            "SCSVariableName": "FloorCollision",
+            "AssociatedGuid": "9A090BBE-4A364D09-691A298C-1904D3F4"
+          },
+          "CookedComponentInstancingData": {
+            "ChangedPropertyList": [],
+            "bHasValidCookedData": false
+          }
+        }
+      ]
+    }
+  },
+  {
+    "Type": "LevelSequenceBurnInOptions",
+    "Name": "BurnInOptions",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_DefaultSubObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'LevelSequenceBurnInOptions'",
+    "Outer": {
+      "ObjectName": "VoltaLevelSequenceActor'BP_PitGarage_Large_C:VLS_GarageLeft_GEN_VARIABLE.ChildActor_GEN_VARIABLE_VoltaLevelSequenceActor_CAT'",
+      "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.32"
+    }
+  },
+  {
+    "Type": "LevelSequenceBurnInOptions",
+    "Name": "BurnInOptions",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_DefaultSubObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'LevelSequenceBurnInOptions'",
+    "Outer": {
+      "ObjectName": "VoltaLevelSequenceActor'BP_PitGarage_Large_C:VLS_GarageRight_GEN_VARIABLE.VLS_GarageLeft1_GEN_VARIABLE_VoltaLevelSequenceActor_CAT'",
+      "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.33"
+    }
+  },
+  {
+    "Type": "LevelSequencePlayer",
+    "Name": "AnimationPlayer",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_DefaultSubObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'LevelSequencePlayer'",
+    "Outer": {
+      "ObjectName": "VoltaLevelSequenceActor'BP_PitGarage_Large_C:VLS_GarageLeft_GEN_VARIABLE.ChildActor_GEN_VARIABLE_VoltaLevelSequenceActor_CAT'",
+      "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.32"
+    },
+    "Properties": {
+      "OnPlay": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "VoltaLevelSequenceActor'BP_PitGarage_Large_C:VLS_GarageLeft_GEN_VARIABLE.ChildActor_GEN_VARIABLE_VoltaLevelSequenceActor_CAT'",
+              "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.32"
+            },
+            "FunctionName": "ShowBurnin"
+          }
+        ]
+      },
+      "OnPlayReverse": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "VoltaLevelSequenceActor'BP_PitGarage_Large_C:VLS_GarageLeft_GEN_VARIABLE.ChildActor_GEN_VARIABLE_VoltaLevelSequenceActor_CAT'",
+              "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.32"
+            },
+            "FunctionName": "ShowBurnin"
+          }
+        ]
+      },
+      "OnStop": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "VoltaLevelSequenceActor'BP_PitGarage_Large_C:VLS_GarageLeft_GEN_VARIABLE.ChildActor_GEN_VARIABLE_VoltaLevelSequenceActor_CAT'",
+              "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.32"
+            },
+            "FunctionName": "HideBurnin"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "Type": "LevelSequencePlayer",
+    "Name": "AnimationPlayer",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_DefaultSubObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'LevelSequencePlayer'",
+    "Outer": {
+      "ObjectName": "VoltaLevelSequenceActor'BP_PitGarage_Large_C:VLS_GarageRight_GEN_VARIABLE.VLS_GarageLeft1_GEN_VARIABLE_VoltaLevelSequenceActor_CAT'",
+      "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.33"
+    },
+    "Properties": {
+      "OnPlay": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "VoltaLevelSequenceActor'BP_PitGarage_Large_C:VLS_GarageRight_GEN_VARIABLE.VLS_GarageLeft1_GEN_VARIABLE_VoltaLevelSequenceActor_CAT'",
+              "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.33"
+            },
+            "FunctionName": "ShowBurnin"
+          }
+        ]
+      },
+      "OnPlayReverse": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "VoltaLevelSequenceActor'BP_PitGarage_Large_C:VLS_GarageRight_GEN_VARIABLE.VLS_GarageLeft1_GEN_VARIABLE_VoltaLevelSequenceActor_CAT'",
+              "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.33"
+            },
+            "FunctionName": "ShowBurnin"
+          }
+        ]
+      },
+      "OnStop": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "VoltaLevelSequenceActor'BP_PitGarage_Large_C:VLS_GarageRight_GEN_VARIABLE.VLS_GarageLeft1_GEN_VARIABLE_VoltaLevelSequenceActor_CAT'",
+              "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.33"
+            },
+            "FunctionName": "HideBurnin"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "Type": "MovieSceneBindingOverrides",
+    "Name": "BindingOverrides",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_DefaultSubObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MovieSceneBindingOverrides'",
+    "Outer": {
+      "ObjectName": "VoltaLevelSequenceActor'BP_PitGarage_Large_C:VLS_GarageLeft_GEN_VARIABLE.ChildActor_GEN_VARIABLE_VoltaLevelSequenceActor_CAT'",
+      "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.32"
+    }
+  },
+  {
+    "Type": "MovieSceneBindingOverrides",
+    "Name": "BindingOverrides",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_DefaultSubObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MovieSceneBindingOverrides'",
+    "Outer": {
+      "ObjectName": "VoltaLevelSequenceActor'BP_PitGarage_Large_C:VLS_GarageRight_GEN_VARIABLE.VLS_GarageLeft1_GEN_VARIABLE_VoltaLevelSequenceActor_CAT'",
+      "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.33"
+    }
+  },
+  {
+    "Type": "PostProcessComponent",
+    "Name": "PostProcess_GEN_VARIABLE",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'PostProcessComponent'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PitGarage_Large_C'",
+      "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.0"
+    },
+    "Properties": {
+      "Settings": {
+        "bOverride_WhiteTemp": true,
+        "bOverride_FilmSlope": true,
+        "bOverride_FilmToe": true,
+        "bOverride_FilmShoulder": true,
+        "bOverride_SceneFringeIntensity": true,
+        "bOverride_AmbientCubemapIntensity": true,
+        "bOverride_BloomMethod": true,
+        "bOverride_BloomThreshold": true,
+        "bOverride_BloomDirtMaskIntensity": true,
+        "bOverride_BloomDirtMask": true,
+        "bOverride_AutoExposureMinBrightness": true,
+        "bOverride_AutoExposureMaxBrightness": true,
+        "bOverride_AutoExposureSpeedUp": true,
+        "bOverride_AutoExposureSpeedDown": true,
+        "bOverride_LensFlareIntensity": true,
+        "bOverride_VignetteIntensity": true,
+        "bOverride_FilmGrainIntensity": true,
+        "bOverride_FilmGrainIntensityShadows": true,
+        "bOverride_FilmGrainTexelSize": true,
+        "bOverride_AmbientOcclusionIntensity": true,
+        "bOverride_AmbientOcclusionRadius": true,
+        "bOverride_AmbientOcclusionRadiusInWS": true,
+        "bOverride_AmbientOcclusionPower": true,
+        "bOverride_AmbientOcclusionBias": true,
+        "WhiteTemp": 5500.0,
+        "FilmSlope": 1.0,
+        "FilmToe": 0.5,
+        "FilmShoulder": 1.0,
+        "SceneFringeIntensity": 0.5,
+        "BloomThreshold": 4.0,
+        "BloomDirtMask": {
+          "ObjectName": "Texture2D'LensDirtMask_Messy'",
+          "ObjectPath": "/Game/VFX/Textures/Camera/LensDirt/LensDirtMask_Messy.0"
+        },
+        "BloomDirtMaskIntensity": 50.0,
+        "AmbientCubemapIntensity": 0.5,
+        "AmbientCubemap": {
+          "ObjectName": "TextureCube'HDRI_Garage_Flat'",
+          "ObjectPath": "/Game/Lighting/HDRIs/HDRI_Garage_Flat.0"
+        },
+        "AutoExposureMinBrightness": 10.0,
+        "AutoExposureMaxBrightness": 13.0,
+        "LensFlareIntensity": 0.1,
+        "VignetteIntensity": 0.5,
+        "FilmGrainIntensity": 0.1,
+        "FilmGrainIntensityShadows": 5.0,
+        "FilmGrainTexelSize": 2.0,
+        "AmbientOcclusionIntensity": 1.0,
+        "AmbientOcclusionRadius": 10.0,
+        "AmbientOcclusionPower": 1.0
+      },
+      "Priority": 150.0,
+      "bUnbound": false,
+      "RelativeLocation": {
+        "X": 18.94014,
+        "Y": -5.5,
+        "Z": -30.0
+      },
+      "RelativeScale3D": {
+        "X": 0.059456334,
+        "Y": 0.038820136,
+        "Z": 0.18152817
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "DefaultSceneRoot_GEN_VARIABLE",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'SceneComponent'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PitGarage_Large_C'",
+      "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.0"
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComp",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_DefaultSubObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'SceneComponent'",
+    "Outer": {
+      "ObjectName": "VoltaLevelSequenceActor'BP_PitGarage_Large_C:VLS_GarageLeft_GEN_VARIABLE.ChildActor_GEN_VARIABLE_VoltaLevelSequenceActor_CAT'",
+      "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.32"
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComp",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_DefaultSubObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'SceneComponent'",
+    "Outer": {
+      "ObjectName": "VoltaLevelSequenceActor'BP_PitGarage_Large_C:VLS_GarageRight_GEN_VARIABLE.VLS_GarageLeft1_GEN_VARIABLE_VoltaLevelSequenceActor_CAT'",
+      "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.33"
+    }
+  },
+  {
+    "Type": "SCS_Node",
+    "Name": "SCS_Node_0",
+    "Flags": "RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'SCS_Node'",
+    "Outer": {
+      "ObjectName": "SimpleConstructionScript'BP_PitGarage_Large_C:SimpleConstructionScript_0'",
+      "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.27"
+    },
+    "Properties": {
+      "ComponentClass": {
+        "ObjectName": "Class'SceneComponent'",
+        "ObjectPath": "/Script/Engine"
+      },
+      "ComponentTemplate": {
+        "ObjectName": "SceneComponent'BP_PitGarage_Large_C:DefaultSceneRoot_GEN_VARIABLE'",
+        "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.18"
+      },
+      "VariableGuid": "73CAC716-448C59EB-263D3C97-DBDC3C5E",
+      "InternalVariableName": "DefaultSceneRoot"
+    }
+  },
+  {
+    "Type": "SCS_Node",
+    "Name": "SCS_Node_2",
+    "Flags": "RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'SCS_Node'",
+    "Outer": {
+      "ObjectName": "SimpleConstructionScript'BP_PitGarage_Large_C:SimpleConstructionScript_0'",
+      "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.27"
+    },
+    "Properties": {
+      "ComponentClass": {
+        "ObjectName": "Class'ChildActorComponent'",
+        "ObjectPath": "/Script/Engine"
+      },
+      "ComponentTemplate": {
+        "ObjectName": "ChildActorComponent'BP_PitGarage_Large_C:VLS_GarageLeft_GEN_VARIABLE'",
+        "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.3"
+      },
+      "ParentComponentOrVariableName": "Scene1",
+      "ParentComponentOwnerClassName": "BP_GarageTeamBranding_Tool_C",
+      "VariableGuid": "109C8695-477D5AB8-18D28C8B-54B21309",
+      "InternalVariableName": "VLS_GarageLeft"
+    }
+  },
+  {
+    "Type": "SCS_Node",
+    "Name": "SCS_Node_3",
+    "Flags": "RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'SCS_Node'",
+    "Outer": {
+      "ObjectName": "SimpleConstructionScript'BP_PitGarage_Large_C:SimpleConstructionScript_0'",
+      "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.27"
+    },
+    "Properties": {
+      "ComponentClass": {
+        "ObjectName": "Class'ChildActorComponent'",
+        "ObjectPath": "/Script/Engine"
+      },
+      "ComponentTemplate": {
+        "ObjectName": "ChildActorComponent'BP_PitGarage_Large_C:VLS_GarageRight_GEN_VARIABLE'",
+        "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.4"
+      },
+      "ParentComponentOrVariableName": "Scene1",
+      "ParentComponentOwnerClassName": "BP_GarageTeamBranding_Tool_C",
+      "VariableGuid": "EC6410AD-4D516A56-BEE464BC-645C0AC7",
+      "InternalVariableName": "VLS_GarageRight"
+    }
+  },
+  {
+    "Type": "SCS_Node",
+    "Name": "SCS_Node_5",
+    "Flags": "RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'SCS_Node'",
+    "Outer": {
+      "ObjectName": "SimpleConstructionScript'BP_PitGarage_Large_C:SimpleConstructionScript_0'",
+      "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.27"
+    },
+    "Properties": {
+      "ComponentClass": {
+        "ObjectName": "Class'PostProcessComponent'",
+        "ObjectPath": "/Script/Engine"
+      },
+      "ComponentTemplate": {
+        "ObjectName": "PostProcessComponent'BP_PitGarage_Large_C:PostProcess_GEN_VARIABLE'",
+        "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.17"
+      },
+      "VariableGuid": "EAEC0CD6-4BF439E5-4C088CA2-995C2012",
+      "InternalVariableName": "PostProcess"
+    }
+  },
+  {
+    "Type": "SCS_Node",
+    "Name": "SCS_Node_6",
+    "Flags": "RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'SCS_Node'",
+    "Outer": {
+      "ObjectName": "SimpleConstructionScript'BP_PitGarage_Large_C:SimpleConstructionScript_0'",
+      "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.27"
+    },
+    "Properties": {
+      "ComponentClass": {
+        "ObjectName": "Class'BoxComponent'",
+        "ObjectPath": "/Script/Engine"
+      },
+      "ComponentTemplate": {
+        "ObjectName": "BoxComponent'BP_PitGarage_Large_C:Box_GEN_VARIABLE'",
+        "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.1"
+      },
+      "ParentComponentOrVariableName": "Scene1",
+      "ParentComponentOwnerClassName": "BP_GarageTeamBranding_Tool_C",
+      "ChildNodes": [
+        {
+          "ObjectName": "SCS_Node'BP_PitGarage_Large_C:SimpleConstructionScript_0.SCS_Node_5'",
+          "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.24"
+        }
+      ],
+      "VariableGuid": "23005D4B-4288A0B5-7D932D87-FFFE7675",
+      "InternalVariableName": "Box"
+    }
+  },
+  {
+    "Type": "SCS_Node",
+    "Name": "SCS_Node_88",
+    "Flags": "RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'SCS_Node'",
+    "Outer": {
+      "ObjectName": "SimpleConstructionScript'BP_PitGarage_Large_C:SimpleConstructionScript_0'",
+      "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.27"
+    },
+    "Properties": {
+      "ComponentClass": {
+        "ObjectName": "Class'StaticMeshComponent'",
+        "ObjectPath": "/Script/Engine"
+      },
+      "ComponentTemplate": {
+        "ObjectName": "StaticMeshComponent'BP_PitGarage_Large_C:StaticMesh_GEN_VARIABLE'",
+        "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.31"
+      },
+      "ParentComponentOrVariableName": "Scene",
+      "ParentComponentOwnerClassName": "BP_GarageTeamBranding_Tool_C",
+      "VariableGuid": "AE97770C-428D582B-D2DDC3BE-1A24EBF0",
+      "InternalVariableName": "StaticMesh"
+    }
+  },
+  {
+    "Type": "SimpleConstructionScript",
+    "Name": "SimpleConstructionScript_0",
+    "Flags": "RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'SimpleConstructionScript'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PitGarage_Large_C'",
+      "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.0"
+    },
+    "Properties": {
+      "RootNodes": [
+        {
+          "ObjectName": "SCS_Node'BP_PitGarage_Large_C:SimpleConstructionScript_0.SCS_Node_88'",
+          "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.26"
+        },
+        {
+          "ObjectName": "SCS_Node'BP_PitGarage_Large_C:SimpleConstructionScript_0.SCS_Node_2'",
+          "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.22"
+        },
+        {
+          "ObjectName": "SCS_Node'BP_PitGarage_Large_C:SimpleConstructionScript_0.SCS_Node_3'",
+          "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.23"
+        },
+        {
+          "ObjectName": "SCS_Node'BP_PitGarage_Large_C:SimpleConstructionScript_0.SCS_Node_6'",
+          "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.25"
+        }
+      ],
+      "AllNodes": [
+        {
+          "ObjectName": "SCS_Node'BP_PitGarage_Large_C:SimpleConstructionScript_0.SCS_Node_88'",
+          "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.26"
+        },
+        {
+          "ObjectName": "SCS_Node'BP_PitGarage_Large_C:SimpleConstructionScript_0.SCS_Node_2'",
+          "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.22"
+        },
+        {
+          "ObjectName": "SCS_Node'BP_PitGarage_Large_C:SimpleConstructionScript_0.SCS_Node_3'",
+          "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.23"
+        },
+        {
+          "ObjectName": "SCS_Node'BP_PitGarage_Large_C:SimpleConstructionScript_0.SCS_Node_6'",
+          "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.25"
+        },
+        {
+          "ObjectName": "SCS_Node'BP_PitGarage_Large_C:SimpleConstructionScript_0.SCS_Node_5'",
+          "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.24"
+        }
+      ],
+      "DefaultSceneRootNode": {
+        "ObjectName": "SCS_Node'BP_PitGarage_Large_C:SimpleConstructionScript_0.SCS_Node_0'",
+        "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.21"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "BaseMesh_GEN_VARIABLE",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted | RF_InheritableComponentTemplate",
+    "Class": "UScriptClass'StaticMeshComponent'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PitGarage_Large_C'",
+      "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.0"
+    },
+    "Template": {
+      "ObjectName": "StaticMeshComponent'BP_GarageTeamBranding_Tool_C:BaseMesh_GEN_VARIABLE'",
+      "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_GarageTeamBranding_Tool.20"
+    },
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh'SM_PitGarage_Large'",
+        "ObjectPath": "/Game/Environment/Props/PitLanes/PitGarage/Models/SM_PitGarage_Large.2"
+      },
+      "bEvaluateWorldPositionOffsetInRayTracing": true,
+      "LDMaxDrawDistance": 50000.0,
+      "CachedMaxDrawDistance": 50000.0
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Branding_StaticMesh_GEN_VARIABLE",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted | RF_InheritableComponentTemplate",
+    "Class": "UScriptClass'StaticMeshComponent'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PitGarage_Large_C'",
+      "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.0"
+    },
+    "Template": {
+      "ObjectName": "StaticMeshComponent'BP_GarageTeamBranding_Tool_C:Branding_StaticMesh_GEN_VARIABLE'",
+      "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_GarageTeamBranding_Tool.21"
+    },
+    "Properties": {
+      "bEvaluateWorldPositionOffsetInRayTracing": true,
+      "LDMaxDrawDistance": 50000.0,
+      "CachedMaxDrawDistance": 50000.0
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "FloorCollision_GEN_VARIABLE",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted | RF_InheritableComponentTemplate",
+    "Class": "UScriptClass'StaticMeshComponent'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PitGarage_Large_C'",
+      "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.0"
+    },
+    "Template": {
+      "ObjectName": "StaticMeshComponent'BP_GarageTeamBranding_Tool_C:FloorCollision_GEN_VARIABLE'",
+      "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_GarageTeamBranding_Tool.22"
+    },
+    "Properties": {
+      "bEvaluateWorldPositionOffsetInRayTracing": true,
+      "RelativeLocation": {
+        "X": 0.0,
+        "Y": -506.0,
+        "Z": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 14.0,
+        "Y": 12.0,
+        "Z": 1.0
+      },
+      "bHiddenInGame": true
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMesh_GEN_VARIABLE",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StaticMeshComponent'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PitGarage_Large_C'",
+      "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.0"
+    },
+    "Properties": {
+      "bGenerateOverlapEvents": false,
+      "CanCharacterStepUpOn": "ECanBeCharacterBase::ECB_No",
+      "BodyInstance": {
+        "ObjectType": "ECollisionChannel::ECC_WorldStatic",
+        "CollisionEnabled": "ECollisionEnabled::NoCollision",
+        "CollisionProfileName": "NoCollision",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Visibility",
+              "Response": "ECollisionResponse::ECR_Ignore"
+            },
+            {
+              "Channel": "Camera",
+              "Response": "ECollisionResponse::ECR_Ignore"
+            }
+          ]
+        }
+      },
+      "PrimaryComponentTick": {
+        "TickGroup": "ETickingGroup::TG_PrePhysics"
+      }
+    }
+  },
+  {
+    "Type": "VoltaLevelSequenceActor",
+    "Name": "ChildActor_GEN_VARIABLE_VoltaLevelSequenceActor_CAT",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'VoltaLevelSequenceActor'",
+    "Outer": {
+      "ObjectName": "ChildActorComponent'BP_PitGarage_Large_C:VLS_GarageLeft_GEN_VARIABLE'",
+      "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.3"
+    },
+    "Properties": {
+      "CinematicPositionType": "EUseCinematicPosition::PerTeamStart",
+      "BurnInOptions": {
+        "ObjectName": "LevelSequenceBurnInOptions'BP_PitGarage_Large_C:VLS_GarageLeft_GEN_VARIABLE.ChildActor_GEN_VARIABLE_VoltaLevelSequenceActor_CAT.BurnInOptions'",
+        "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.11"
+      },
+      "BindingOverrides": {
+        "ObjectName": "MovieSceneBindingOverrides'BP_PitGarage_Large_C:VLS_GarageLeft_GEN_VARIABLE.ChildActor_GEN_VARIABLE_VoltaLevelSequenceActor_CAT.BindingOverrides'",
+        "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.15"
+      },
+      "bOverrideInstanceData": false,
+      "DefaultInstanceData": {
+        "ObjectName": "DefaultLevelSequenceInstanceData'BP_PitGarage_Large_C:VLS_GarageLeft_GEN_VARIABLE.ChildActor_GEN_VARIABLE_VoltaLevelSequenceActor_CAT.InstanceData'",
+        "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.5"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent'BP_PitGarage_Large_C:VLS_GarageLeft_GEN_VARIABLE.ChildActor_GEN_VARIABLE_VoltaLevelSequenceActor_CAT.SceneComp'",
+        "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.19"
+      }
+    },
+    "ActorLabel": "VoltaLevelSequenceActor"
+  },
+  {
+    "Type": "VoltaLevelSequenceActor",
+    "Name": "VLS_GarageLeft1_GEN_VARIABLE_VoltaLevelSequenceActor_CAT",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'VoltaLevelSequenceActor'",
+    "Outer": {
+      "ObjectName": "ChildActorComponent'BP_PitGarage_Large_C:VLS_GarageRight_GEN_VARIABLE'",
+      "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.4"
+    },
+    "Properties": {
+      "CinematicPositionType": "EUseCinematicPosition::PerTeamStart",
+      "BurnInOptions": {
+        "ObjectName": "LevelSequenceBurnInOptions'BP_PitGarage_Large_C:VLS_GarageRight_GEN_VARIABLE.VLS_GarageLeft1_GEN_VARIABLE_VoltaLevelSequenceActor_CAT.BurnInOptions'",
+        "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.12"
+      },
+      "BindingOverrides": {
+        "ObjectName": "MovieSceneBindingOverrides'BP_PitGarage_Large_C:VLS_GarageRight_GEN_VARIABLE.VLS_GarageLeft1_GEN_VARIABLE_VoltaLevelSequenceActor_CAT.BindingOverrides'",
+        "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.16"
+      },
+      "DefaultInstanceData": {
+        "ObjectName": "DefaultLevelSequenceInstanceData'BP_PitGarage_Large_C:VLS_GarageRight_GEN_VARIABLE.VLS_GarageLeft1_GEN_VARIABLE_VoltaLevelSequenceActor_CAT.InstanceData'",
+        "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.6"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent'BP_PitGarage_Large_C:VLS_GarageRight_GEN_VARIABLE.VLS_GarageLeft1_GEN_VARIABLE_VoltaLevelSequenceActor_CAT.SceneComp'",
+        "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.20"
+      }
+    },
+    "ActorLabel": "VoltaLevelSequenceActor"
+  },
+  {
+    "Type": "VoltaLevelSequencePlayer",
+    "Name": "VoltaAnimationPlayer",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_DefaultSubObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'VoltaLevelSequencePlayer'",
+    "Outer": {
+      "ObjectName": "VoltaLevelSequenceActor'BP_PitGarage_Large_C:VLS_GarageLeft_GEN_VARIABLE.ChildActor_GEN_VARIABLE_VoltaLevelSequenceActor_CAT'",
+      "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.32"
+    }
+  },
+  {
+    "Type": "VoltaLevelSequencePlayer",
+    "Name": "VoltaAnimationPlayer",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_DefaultSubObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'VoltaLevelSequencePlayer'",
+    "Outer": {
+      "ObjectName": "VoltaLevelSequenceActor'BP_PitGarage_Large_C:VLS_GarageRight_GEN_VARIABLE.VLS_GarageLeft1_GEN_VARIABLE_VoltaLevelSequenceActor_CAT'",
+      "ObjectPath": "/Game/SharedAssets/Props/DressingProps/Pitgarage/BP_PitGarage_Large.33"
+    }
+  }
+]

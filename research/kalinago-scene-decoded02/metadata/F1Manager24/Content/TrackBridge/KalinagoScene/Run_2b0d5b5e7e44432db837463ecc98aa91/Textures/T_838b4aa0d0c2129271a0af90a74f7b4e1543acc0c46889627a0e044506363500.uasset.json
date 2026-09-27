@@ -1,0 +1,32 @@
+{
+  "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_838b4aa0d0c2129271a0af90a74f7b4e1543acc0c46889627a0e044506363500.uasset",
+  "metadataOnly": false,
+  "Name": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_838b4aa0d0c2129271a0af90a74f7b4e1543acc0c46889627a0e044506363500",
+  "names": [
+    "Guid",
+    "ImportedSize",
+    "IntPoint",
+    "LightingGuid",
+    "None",
+    "PF_DXT1",
+    "StructProperty",
+    "T_838b4aa0d0c2129271a0af90a74f7b4e1543acc0c46889627a0e044506363500",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_838b4aa0d0c2129271a0af90a74f7b4e1543acc0c46889627a0e044506363500"
+  ],
+  "exports": [
+    {
+      "index": 0,
+      "name": "T_838b4aa0d0c2129271a0af90a74f7b4e1543acc0c46889627a0e044506363500",
+      "type": "/Script/Engine.Texture2D",
+      "outer": null,
+      "serialOffset": 0,
+      "serialSize": 1986
+    }
+  ],
+  "imports": [
+    "/Script/Engine.Texture2D",
+    "/Script/Engine",
+    "/Script/Engine.Default__Texture2D"
+  ],
+  "dependencies": []
+}

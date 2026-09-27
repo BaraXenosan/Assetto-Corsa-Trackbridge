@@ -1,0 +1,1086 @@
+{
+  "schemaVersion": 1,
+  "target": "F1 Manager 2024",
+  "installable": false,
+  "inspectedAt": "2026-09-19T13:49:47.079Z",
+  "paksDirectory": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks",
+  "scope": "Top-level container headers only; assets and dependencies have not been extracted or validated.",
+  "engineVersion": null,
+  "containers": [
+    {
+      "file": "global.utoc",
+      "bytes": 311,
+      "version": 5,
+      "headerSize": 144,
+      "entries": 1,
+      "compressedBlocks": 9,
+      "directoryIndexBytes": 0,
+      "partitionCount": 1,
+      "encrypted": false,
+      "compressed": false,
+      "signed": false,
+      "indexed": false,
+      "containerIdHex": "ffffffffffffffff",
+      "encryptionKeyGuidRawHex": "00000000000000000000000000000000",
+      "partitions": [
+        {
+          "file": "global.ucas",
+          "present": true,
+          "bytes": 2171920
+        }
+      ]
+    },
+    {
+      "file": "pakchunk0-Windows.utoc",
+      "bytes": 494443,
+      "version": 5,
+      "headerSize": 144,
+      "entries": 3677,
+      "compressedBlocks": 8419,
+      "directoryIndexBytes": 183648,
+      "partitionCount": 1,
+      "encrypted": true,
+      "compressed": true,
+      "signed": false,
+      "indexed": true,
+      "containerIdHex": "47e495953ddde481",
+      "encryptionKeyGuidRawHex": "00000000000000000000000000000000",
+      "partitions": [
+        {
+          "file": "pakchunk0-Windows.ucas",
+          "present": true,
+          "bytes": 524473840
+        }
+      ]
+    },
+    {
+      "file": "pakchunk0_s1-Windows.utoc",
+      "bytes": 96625,
+      "version": 5,
+      "headerSize": 144,
+      "entries": 613,
+      "compressedBlocks": 3798,
+      "directoryIndexBytes": 15930,
+      "partitionCount": 1,
+      "encrypted": false,
+      "compressed": true,
+      "signed": false,
+      "indexed": true,
+      "containerIdHex": "a6c948e3e658a26f",
+      "encryptionKeyGuidRawHex": "00000000000000000000000000000000",
+      "partitions": [
+        {
+          "file": "pakchunk0_s1-Windows.ucas",
+          "present": true,
+          "bytes": 318621104
+        }
+      ]
+    },
+    {
+      "file": "pakchunk0_s2-Windows.utoc",
+      "bytes": 97715,
+      "version": 5,
+      "headerSize": 144,
+      "entries": 293,
+      "compressedBlocks": 5868,
+      "directoryIndexBytes": 10420,
+      "partitionCount": 1,
+      "encrypted": false,
+      "compressed": true,
+      "signed": false,
+      "indexed": true,
+      "containerIdHex": "9693fa9616ec80cc",
+      "encryptionKeyGuidRawHex": "00000000000000000000000000000000",
+      "partitions": [
+        {
+          "file": "pakchunk0_s2-Windows.ucas",
+          "present": true,
+          "bytes": 487649456
+        }
+      ]
+    },
+    {
+      "file": "pakchunk0_s3-Windows.utoc",
+      "bytes": 2093562,
+      "version": 5,
+      "headerSize": 144,
+      "entries": 17826,
+      "compressedBlocks": 23094,
+      "directoryIndexBytes": 800176,
+      "partitionCount": 1,
+      "encrypted": true,
+      "compressed": true,
+      "signed": false,
+      "indexed": true,
+      "containerIdHex": "e028a21915f5a5ff",
+      "encryptionKeyGuidRawHex": "00000000000000000000000000000000",
+      "partitions": [
+        {
+          "file": "pakchunk0_s3-Windows.ucas",
+          "present": true,
+          "bytes": 382413696
+        }
+      ]
+    },
+    {
+      "file": "pakchunk0_s4-Windows.utoc",
+      "bytes": 368882,
+      "version": 5,
+      "headerSize": 144,
+      "entries": 3526,
+      "compressedBlocks": 8917,
+      "directoryIndexBytes": 60720,
+      "partitionCount": 1,
+      "encrypted": true,
+      "compressed": true,
+      "signed": false,
+      "indexed": true,
+      "containerIdHex": "a3c60c7b327fd28d",
+      "encryptionKeyGuidRawHex": "00000000000000000000000000000000",
+      "partitions": [
+        {
+          "file": "pakchunk0_s4-Windows.ucas",
+          "present": true,
+          "bytes": 221821248
+        }
+      ]
+    },
+    {
+      "file": "pakchunk1-Windows.utoc",
+      "bytes": 327122,
+      "version": 5,
+      "headerSize": 144,
+      "entries": 2114,
+      "compressedBlocks": 7284,
+      "directoryIndexBytes": 119040,
+      "partitionCount": 1,
+      "encrypted": true,
+      "compressed": true,
+      "signed": false,
+      "indexed": true,
+      "containerIdHex": "991277643b54e62f",
+      "encryptionKeyGuidRawHex": "00000000000000000000000000000000",
+      "partitions": [
+        {
+          "file": "pakchunk1-Windows.ucas",
+          "present": true,
+          "bytes": 332824736
+        }
+      ]
+    },
+    {
+      "file": "pakchunk1_s1-Windows.utoc",
+      "bytes": 164912,
+      "version": 5,
+      "headerSize": 144,
+      "entries": 780,
+      "compressedBlocks": 6295,
+      "directoryIndexBytes": 44736,
+      "partitionCount": 1,
+      "encrypted": true,
+      "compressed": true,
+      "signed": false,
+      "indexed": true,
+      "containerIdHex": "b68f666525486fa9",
+      "encryptionKeyGuidRawHex": "00000000000000000000000000000000",
+      "partitions": [
+        {
+          "file": "pakchunk1_s1-Windows.ucas",
+          "present": true,
+          "bytes": 542565616
+        }
+      ]
+    },
+    {
+      "file": "pakchunk1_s2-Windows.utoc",
+      "bytes": 173920,
+      "version": 5,
+      "headerSize": 144,
+      "entries": 836,
+      "compressedBlocks": 6309,
+      "directoryIndexBytes": 50384,
+      "partitionCount": 1,
+      "encrypted": true,
+      "compressed": true,
+      "signed": false,
+      "indexed": true,
+      "containerIdHex": "38a224e07dc1300f",
+      "encryptionKeyGuidRawHex": "00000000000000000000000000000000",
+      "partitions": [
+        {
+          "file": "pakchunk1_s2-Windows.ucas",
+          "present": true,
+          "bytes": 470642992
+        }
+      ]
+    },
+    {
+      "file": "pakchunk1_s3-Windows.utoc",
+      "bytes": 208466,
+      "version": 5,
+      "headerSize": 144,
+      "entries": 1150,
+      "compressedBlocks": 6555,
+      "directoryIndexBytes": 64080,
+      "partitionCount": 1,
+      "encrypted": true,
+      "compressed": true,
+      "signed": false,
+      "indexed": true,
+      "containerIdHex": "89e52012619e61bc",
+      "encryptionKeyGuidRawHex": "00000000000000000000000000000000",
+      "partitions": [
+        {
+          "file": "pakchunk1_s3-Windows.ucas",
+          "present": true,
+          "bytes": 632203728
+        }
+      ]
+    },
+    {
+      "file": "pakchunk1_s4-Windows.utoc",
+      "bytes": 270195,
+      "version": 5,
+      "headerSize": 144,
+      "entries": 1649,
+      "compressedBlocks": 6826,
+      "directoryIndexBytes": 94112,
+      "partitionCount": 1,
+      "encrypted": true,
+      "compressed": true,
+      "signed": false,
+      "indexed": true,
+      "containerIdHex": "4971c867f9c99370",
+      "encryptionKeyGuidRawHex": "00000000000000000000000000000000",
+      "partitions": [
+        {
+          "file": "pakchunk1_s4-Windows.ucas",
+          "present": true,
+          "bytes": 692827152
+        }
+      ]
+    },
+    {
+      "file": "pakchunk1_s5-Windows.utoc",
+      "bytes": 383165,
+      "version": 5,
+      "headerSize": 144,
+      "entries": 2491,
+      "compressedBlocks": 7294,
+      "directoryIndexBytes": 153472,
+      "partitionCount": 1,
+      "encrypted": true,
+      "compressed": true,
+      "signed": false,
+      "indexed": true,
+      "containerIdHex": "0381c22f07b349f6",
+      "encryptionKeyGuidRawHex": "00000000000000000000000000000000",
+      "partitions": [
+        {
+          "file": "pakchunk1_s5-Windows.ucas",
+          "present": true,
+          "bytes": 428294688
+        }
+      ]
+    },
+    {
+      "file": "pakchunk1_s6-Windows.utoc",
+      "bytes": 371937,
+      "version": 5,
+      "headerSize": 144,
+      "entries": 2531,
+      "compressedBlocks": 7791,
+      "directoryIndexBytes": 134000,
+      "partitionCount": 1,
+      "encrypted": true,
+      "compressed": true,
+      "signed": false,
+      "indexed": true,
+      "containerIdHex": "1747d0332846efca",
+      "encryptionKeyGuidRawHex": "00000000000000000000000000000000",
+      "partitions": [
+        {
+          "file": "pakchunk1_s6-Windows.ucas",
+          "present": true,
+          "bytes": 480643472
+        }
+      ]
+    },
+    {
+      "file": "pakchunk1_s7-Windows.utoc",
+      "bytes": 525087,
+      "version": 5,
+      "headerSize": 144,
+      "entries": 4821,
+      "compressedBlocks": 7020,
+      "directoryIndexBytes": 165872,
+      "partitionCount": 1,
+      "encrypted": true,
+      "compressed": true,
+      "signed": false,
+      "indexed": true,
+      "containerIdHex": "2a2c2f1dfb1c9876",
+      "encryptionKeyGuidRawHex": "00000000000000000000000000000000",
+      "partitions": [
+        {
+          "file": "pakchunk1_s7-Windows.ucas",
+          "present": true,
+          "bytes": 255967216
+        }
+      ]
+    },
+    {
+      "file": "pakchunk2_s2-Windows.utoc",
+      "bytes": 22371,
+      "version": 5,
+      "headerSize": 144,
+      "entries": 149,
+      "compressedBlocks": 667,
+      "directoryIndexBytes": 5696,
+      "partitionCount": 1,
+      "encrypted": true,
+      "compressed": true,
+      "signed": false,
+      "indexed": true,
+      "containerIdHex": "38e0227cd94aac70",
+      "encryptionKeyGuidRawHex": "00000000000000000000000000000000",
+      "partitions": [
+        {
+          "file": "pakchunk2_s2-Windows.ucas",
+          "present": true,
+          "bytes": 80213168
+        }
+      ]
+    },
+    {
+      "file": "pakchunk3-Windows.utoc",
+      "bytes": 23912,
+      "version": 5,
+      "headerSize": 144,
+      "entries": 80,
+      "compressedBlocks": 1232,
+      "directoryIndexBytes": 4384,
+      "partitionCount": 1,
+      "encrypted": true,
+      "compressed": true,
+      "signed": false,
+      "indexed": true,
+      "containerIdHex": "5e84c29de2e25b7a",
+      "encryptionKeyGuidRawHex": "00000000000000000000000000000000",
+      "partitions": [
+        {
+          "file": "pakchunk3-Windows.ucas",
+          "present": true,
+          "bytes": 22927280
+        }
+      ]
+    },
+    {
+      "file": "pakchunk3_s1-Windows.utoc",
+      "bytes": 6608,
+      "version": 5,
+      "headerSize": 144,
+      "entries": 88,
+      "compressedBlocks": 94,
+      "directoryIndexBytes": 288,
+      "partitionCount": 1,
+      "encrypted": true,
+      "compressed": true,
+      "signed": false,
+      "indexed": true,
+      "containerIdHex": "75ebbd8ea7a95642",
+      "encryptionKeyGuidRawHex": "00000000000000000000000000000000",
+      "partitions": [
+        {
+          "file": "pakchunk3_s1-Windows.ucas",
+          "present": true,
+          "bytes": 4676352
+        }
+      ]
+    },
+    {
+      "file": "pakchunk4-Windows.utoc",
+      "bytes": 738249,
+      "version": 5,
+      "headerSize": 144,
+      "entries": 5759,
+      "compressedBlocks": 8776,
+      "directoryIndexBytes": 304496,
+      "partitionCount": 1,
+      "encrypted": true,
+      "compressed": true,
+      "signed": false,
+      "indexed": true,
+      "containerIdHex": "30486dd38e056f08",
+      "encryptionKeyGuidRawHex": "00000000000000000000000000000000",
+      "partitions": [
+        {
+          "file": "pakchunk4-Windows.ucas",
+          "present": true,
+          "bytes": 338542688
+        }
+      ]
+    },
+    {
+      "file": "pakchunk4_s10-Windows.utoc",
+      "bytes": 568666,
+      "version": 5,
+      "headerSize": 144,
+      "entries": 4194,
+      "compressedBlocks": 8742,
+      "directoryIndexBytes": 224528,
+      "partitionCount": 1,
+      "encrypted": true,
+      "compressed": true,
+      "signed": false,
+      "indexed": true,
+      "containerIdHex": "430fd6429cd5dd3d",
+      "encryptionKeyGuidRawHex": "00000000000000000000000000000000",
+      "partitions": [
+        {
+          "file": "pakchunk4_s10-Windows.ucas",
+          "present": true,
+          "bytes": 317916448
+        }
+      ]
+    },
+    {
+      "file": "pakchunk4_s11-Windows.utoc",
+      "bytes": 449102,
+      "version": 5,
+      "headerSize": 144,
+      "entries": 3134,
+      "compressedBlocks": 8236,
+      "directoryIndexBytes": 171456,
+      "partitionCount": 1,
+      "encrypted": true,
+      "compressed": true,
+      "signed": false,
+      "indexed": true,
+      "containerIdHex": "b37b0fe23084a4f0",
+      "encryptionKeyGuidRawHex": "00000000000000000000000000000000",
+      "partitions": [
+        {
+          "file": "pakchunk4_s11-Windows.ucas",
+          "present": true,
+          "bytes": 421242608
+        }
+      ]
+    },
+    {
+      "file": "pakchunk4_s12-Windows.utoc",
+      "bytes": 289276,
+      "version": 5,
+      "headerSize": 144,
+      "entries": 1892,
+      "compressedBlocks": 7074,
+      "directoryIndexBytes": 96368,
+      "partitionCount": 1,
+      "encrypted": true,
+      "compressed": true,
+      "signed": false,
+      "indexed": true,
+      "containerIdHex": "1fec92bc7ce66137",
+      "encryptionKeyGuidRawHex": "00000000000000000000000000000000",
+      "partitions": [
+        {
+          "file": "pakchunk4_s12-Windows.ucas",
+          "present": true,
+          "bytes": 544045696
+        }
+      ]
+    },
+    {
+      "file": "pakchunk4_s13-Windows.utoc",
+      "bytes": 75937,
+      "version": 5,
+      "headerSize": 144,
+      "entries": 175,
+      "compressedBlocks": 4658,
+      "directoryIndexBytes": 9888,
+      "partitionCount": 1,
+      "encrypted": true,
+      "compressed": true,
+      "signed": false,
+      "indexed": true,
+      "containerIdHex": "cf38303382965b63",
+      "encryptionKeyGuidRawHex": "00000000000000000000000000000000",
+      "partitions": [
+        {
+          "file": "pakchunk4_s13-Windows.ucas",
+          "present": true,
+          "bytes": 595814432
+        }
+      ]
+    },
+    {
+      "file": "pakchunk4_s13optional-Windows.utoc",
+      "bytes": 1977,
+      "version": 5,
+      "headerSize": 144,
+      "entries": 2,
+      "compressedBlocks": 129,
+      "directoryIndexBytes": 139,
+      "partitionCount": 1,
+      "encrypted": false,
+      "compressed": true,
+      "signed": false,
+      "indexed": true,
+      "containerIdHex": "462155b271419019",
+      "encryptionKeyGuidRawHex": "00000000000000000000000000000000",
+      "partitions": [
+        {
+          "file": "pakchunk4_s13optional-Windows.ucas",
+          "present": true,
+          "bytes": 755152
+        }
+      ]
+    },
+    {
+      "file": "pakchunk4_s14-Windows.utoc",
+      "bytes": 198918,
+      "version": 5,
+      "headerSize": 144,
+      "entries": 1082,
+      "compressedBlocks": 6553,
+      "directoryIndexBytes": 58432,
+      "partitionCount": 1,
+      "encrypted": true,
+      "compressed": true,
+      "signed": false,
+      "indexed": true,
+      "containerIdHex": "fdc8ea33f4386d99",
+      "encryptionKeyGuidRawHex": "00000000000000000000000000000000",
+      "partitions": [
+        {
+          "file": "pakchunk4_s14-Windows.ucas",
+          "present": true,
+          "bytes": 662432736
+        }
+      ]
+    },
+    {
+      "file": "pakchunk4_s15-Windows.utoc",
+      "bytes": 2463145,
+      "version": 5,
+      "headerSize": 144,
+      "entries": 20903,
+      "compressedBlocks": 24242,
+      "directoryIndexBytes": 980592,
+      "partitionCount": 1,
+      "encrypted": true,
+      "compressed": true,
+      "signed": false,
+      "indexed": true,
+      "containerIdHex": "b31a0af0e70a1ab8",
+      "encryptionKeyGuidRawHex": "00000000000000000000000000000000",
+      "partitions": [
+        {
+          "file": "pakchunk4_s15-Windows.ucas",
+          "present": true,
+          "bytes": 361517008
+        }
+      ]
+    },
+    {
+      "file": "pakchunk4_s16-Windows.utoc",
+      "bytes": 113181,
+      "version": 5,
+      "headerSize": 144,
+      "entries": 651,
+      "compressedBlocks": 3242,
+      "directoryIndexBytes": 36992,
+      "partitionCount": 1,
+      "encrypted": true,
+      "compressed": true,
+      "signed": false,
+      "indexed": true,
+      "containerIdHex": "e225ad3a52397c76",
+      "encryptionKeyGuidRawHex": "00000000000000000000000000000000",
+      "partitions": [
+        {
+          "file": "pakchunk4_s16-Windows.ucas",
+          "present": true,
+          "bytes": 357046016
+        }
+      ]
+    },
+    {
+      "file": "pakchunk4_s17-Windows.utoc",
+      "bytes": 68523,
+      "version": 5,
+      "headerSize": 144,
+      "entries": 13,
+      "compressedBlocks": 5563,
+      "directoryIndexBytes": 848,
+      "partitionCount": 1,
+      "encrypted": true,
+      "compressed": true,
+      "signed": false,
+      "indexed": true,
+      "containerIdHex": "291e93617874cf4e",
+      "encryptionKeyGuidRawHex": "00000000000000000000000000000000",
+      "partitions": [
+        {
+          "file": "pakchunk4_s17-Windows.ucas",
+          "present": true,
+          "bytes": 317682320
+        }
+      ]
+    },
+    {
+      "file": "pakchunk4_s18-Windows.utoc",
+      "bytes": 63019,
+      "version": 5,
+      "headerSize": 144,
+      "entries": 13,
+      "compressedBlocks": 5111,
+      "directoryIndexBytes": 768,
+      "partitionCount": 1,
+      "encrypted": true,
+      "compressed": true,
+      "signed": false,
+      "indexed": true,
+      "containerIdHex": "ec496135b8356485",
+      "encryptionKeyGuidRawHex": "00000000000000000000000000000000",
+      "partitions": [
+        {
+          "file": "pakchunk4_s18-Windows.ucas",
+          "present": true,
+          "bytes": 185149168
+        }
+      ]
+    },
+    {
+      "file": "pakchunk4_s19-Windows.utoc",
+      "bytes": 68475,
+      "version": 5,
+      "headerSize": 144,
+      "entries": 13,
+      "compressedBlocks": 5563,
+      "directoryIndexBytes": 800,
+      "partitionCount": 1,
+      "encrypted": true,
+      "compressed": true,
+      "signed": false,
+      "indexed": true,
+      "containerIdHex": "9cf9f31ef643d823",
+      "encryptionKeyGuidRawHex": "00000000000000000000000000000000",
+      "partitions": [
+        {
+          "file": "pakchunk4_s19-Windows.ucas",
+          "present": true,
+          "bytes": 223854400
+        }
+      ]
+    },
+    {
+      "file": "pakchunk4_s2-Windows.utoc",
+      "bytes": 2013,
+      "version": 5,
+      "headerSize": 144,
+      "entries": 15,
+      "compressedBlocks": 15,
+      "directoryIndexBytes": 800,
+      "partitionCount": 1,
+      "encrypted": true,
+      "compressed": true,
+      "signed": false,
+      "indexed": true,
+      "containerIdHex": "a5986a8a55e1f9c7",
+      "encryptionKeyGuidRawHex": "00000000000000000000000000000000",
+      "partitions": [
+        {
+          "file": "pakchunk4_s2-Windows.ucas",
+          "present": true,
+          "bytes": 10304
+        }
+      ]
+    },
+    {
+      "file": "pakchunk4_s20-Windows.utoc",
+      "bytes": 309728,
+      "version": 5,
+      "headerSize": 144,
+      "entries": 2092,
+      "compressedBlocks": 6863,
+      "directoryIndexBytes": 107952,
+      "partitionCount": 1,
+      "encrypted": true,
+      "compressed": true,
+      "signed": false,
+      "indexed": true,
+      "containerIdHex": "33df2cdef6b6f74e",
+      "encryptionKeyGuidRawHex": "00000000000000000000000000000000",
+      "partitions": [
+        {
+          "file": "pakchunk4_s20-Windows.ucas",
+          "present": true,
+          "bytes": 295519792
+        }
+      ]
+    },
+    {
+      "file": "pakchunk4_s21-Windows.utoc",
+      "bytes": 666839,
+      "version": 5,
+      "headerSize": 144,
+      "entries": 4897,
+      "compressedBlocks": 8973,
+      "directoryIndexBytes": 279856,
+      "partitionCount": 1,
+      "encrypted": true,
+      "compressed": true,
+      "signed": false,
+      "indexed": true,
+      "containerIdHex": "8b8e37d0170287b5",
+      "encryptionKeyGuidRawHex": "00000000000000000000000000000000",
+      "partitions": [
+        {
+          "file": "pakchunk4_s21-Windows.ucas",
+          "present": true,
+          "bytes": 582918688
+        }
+      ]
+    },
+    {
+      "file": "pakchunk4_s22-Windows.utoc",
+      "bytes": 592192,
+      "version": 5,
+      "headerSize": 144,
+      "entries": 4492,
+      "compressedBlocks": 7779,
+      "directoryIndexBytes": 242624,
+      "partitionCount": 1,
+      "encrypted": true,
+      "compressed": true,
+      "signed": false,
+      "indexed": true,
+      "containerIdHex": "24af47cdd5aa8b29",
+      "encryptionKeyGuidRawHex": "00000000000000000000000000000000",
+      "partitions": [
+        {
+          "file": "pakchunk4_s22-Windows.ucas",
+          "present": true,
+          "bytes": 337881488
+        }
+      ]
+    },
+    {
+      "file": "pakchunk4_s23-Windows.utoc",
+      "bytes": 717057,
+      "version": 5,
+      "headerSize": 144,
+      "entries": 7039,
+      "compressedBlocks": 9030,
+      "directoryIndexBytes": 207296,
+      "partitionCount": 1,
+      "encrypted": true,
+      "compressed": true,
+      "signed": false,
+      "indexed": true,
+      "containerIdHex": "d8198ebf9971ac18",
+      "encryptionKeyGuidRawHex": "00000000000000000000000000000000",
+      "partitions": [
+        {
+          "file": "pakchunk4_s23-Windows.ucas",
+          "present": true,
+          "bytes": 306034960
+        }
+      ]
+    },
+    {
+      "file": "pakchunk4_s5-Windows.utoc",
+      "bytes": 10347,
+      "version": 5,
+      "headerSize": 144,
+      "entries": 61,
+      "compressedBlocks": 223,
+      "directoryIndexBytes": 4016,
+      "partitionCount": 1,
+      "encrypted": true,
+      "compressed": true,
+      "signed": false,
+      "indexed": true,
+      "containerIdHex": "38c20656a702bcbc",
+      "encryptionKeyGuidRawHex": "00000000000000000000000000000000",
+      "partitions": [
+        {
+          "file": "pakchunk4_s5-Windows.ucas",
+          "present": true,
+          "bytes": 21558576
+        }
+      ]
+    },
+    {
+      "file": "pakchunk4_s6-Windows.utoc",
+      "bytes": 222872,
+      "version": 5,
+      "headerSize": 144,
+      "entries": 1692,
+      "compressedBlocks": 2709,
+      "directoryIndexBytes": 93744,
+      "partitionCount": 1,
+      "encrypted": true,
+      "compressed": true,
+      "signed": false,
+      "indexed": true,
+      "containerIdHex": "fd2defebd29ae8b5",
+      "encryptionKeyGuidRawHex": "00000000000000000000000000000000",
+      "partitions": [
+        {
+          "file": "pakchunk4_s6-Windows.ucas",
+          "present": true,
+          "bytes": 90790336
+        }
+      ]
+    },
+    {
+      "file": "pakchunk4_s7-Windows.utoc",
+      "bytes": 881247,
+      "version": 5,
+      "headerSize": 144,
+      "entries": 6733,
+      "compressedBlocks": 10922,
+      "directoryIndexBytes": 366224,
+      "partitionCount": 1,
+      "encrypted": true,
+      "compressed": true,
+      "signed": false,
+      "indexed": true,
+      "containerIdHex": "7da6e1b4ea352e51",
+      "encryptionKeyGuidRawHex": "00000000000000000000000000000000",
+      "partitions": [
+        {
+          "file": "pakchunk4_s7-Windows.ucas",
+          "present": true,
+          "bytes": 413650208
+        }
+      ]
+    },
+    {
+      "file": "pakchunk4_s8-Windows.utoc",
+      "bytes": 446916,
+      "version": 5,
+      "headerSize": 144,
+      "entries": 3196,
+      "compressedBlocks": 7878,
+      "directoryIndexBytes": 170032,
+      "partitionCount": 1,
+      "encrypted": true,
+      "compressed": true,
+      "signed": false,
+      "indexed": true,
+      "containerIdHex": "fb4a00b51ad3de62",
+      "encryptionKeyGuidRawHex": "00000000000000000000000000000000",
+      "partitions": [
+        {
+          "file": "pakchunk4_s8-Windows.ucas",
+          "present": true,
+          "bytes": 344644976
+        }
+      ]
+    },
+    {
+      "file": "pakchunk4_s9-Windows.utoc",
+      "bytes": 505818,
+      "version": 5,
+      "headerSize": 144,
+      "entries": 3574,
+      "compressedBlocks": 8527,
+      "directoryIndexBytes": 199600,
+      "partitionCount": 1,
+      "encrypted": true,
+      "compressed": true,
+      "signed": false,
+      "indexed": true,
+      "containerIdHex": "44d3508d8214dccc",
+      "encryptionKeyGuidRawHex": "00000000000000000000000000000000",
+      "partitions": [
+        {
+          "file": "pakchunk4_s9-Windows.ucas",
+          "present": true,
+          "bytes": 429407200
+        }
+      ]
+    }
+  ],
+  "pakFiles": [
+    {
+      "file": "UI_NewRaceLeaderboard_P.pak",
+      "bytes": 160211
+    },
+    {
+      "file": "pakchunk0-Windows.pak",
+      "bytes": 4957918858
+    },
+    {
+      "file": "pakchunk0_s1-Windows.pak",
+      "bytes": 365
+    },
+    {
+      "file": "pakchunk0_s2-Windows.pak",
+      "bytes": 365
+    },
+    {
+      "file": "pakchunk0_s3-Windows.pak",
+      "bytes": 365
+    },
+    {
+      "file": "pakchunk0_s4-Windows.pak",
+      "bytes": 365
+    },
+    {
+      "file": "pakchunk1-Windows.pak",
+      "bytes": 365
+    },
+    {
+      "file": "pakchunk10-ModernUI_P.pak",
+      "bytes": 136149982
+    },
+    {
+      "file": "pakchunk1_s1-Windows.pak",
+      "bytes": 365
+    },
+    {
+      "file": "pakchunk1_s2-Windows.pak",
+      "bytes": 365
+    },
+    {
+      "file": "pakchunk1_s3-Windows.pak",
+      "bytes": 365
+    },
+    {
+      "file": "pakchunk1_s4-Windows.pak",
+      "bytes": 365
+    },
+    {
+      "file": "pakchunk1_s5-Windows.pak",
+      "bytes": 365
+    },
+    {
+      "file": "pakchunk1_s6-Windows.pak",
+      "bytes": 18099
+    },
+    {
+      "file": "pakchunk1_s7-Windows.pak",
+      "bytes": 365
+    },
+    {
+      "file": "pakchunk2_s2-Windows.pak",
+      "bytes": 365
+    },
+    {
+      "file": "pakchunk3-Windows.pak",
+      "bytes": 365
+    },
+    {
+      "file": "pakchunk3_s1-Windows.pak",
+      "bytes": 365
+    },
+    {
+      "file": "pakchunk4-Windows.pak",
+      "bytes": 365
+    },
+    {
+      "file": "pakchunk4_s10-Windows.pak",
+      "bytes": 365
+    },
+    {
+      "file": "pakchunk4_s11-Windows.pak",
+      "bytes": 365
+    },
+    {
+      "file": "pakchunk4_s12-Windows.pak",
+      "bytes": 365
+    },
+    {
+      "file": "pakchunk4_s13-Windows.pak",
+      "bytes": 365
+    },
+    {
+      "file": "pakchunk4_s13optional-Windows.pak",
+      "bytes": 365
+    },
+    {
+      "file": "pakchunk4_s14-Windows.pak",
+      "bytes": 365
+    },
+    {
+      "file": "pakchunk4_s15-Windows.pak",
+      "bytes": 365
+    },
+    {
+      "file": "pakchunk4_s16-Windows.pak",
+      "bytes": 365
+    },
+    {
+      "file": "pakchunk4_s17-Windows.pak",
+      "bytes": 365
+    },
+    {
+      "file": "pakchunk4_s18-Windows.pak",
+      "bytes": 365
+    },
+    {
+      "file": "pakchunk4_s19-Windows.pak",
+      "bytes": 365
+    },
+    {
+      "file": "pakchunk4_s2-Windows.pak",
+      "bytes": 365
+    },
+    {
+      "file": "pakchunk4_s20-Windows.pak",
+      "bytes": 365
+    },
+    {
+      "file": "pakchunk4_s21-Windows.pak",
+      "bytes": 365
+    },
+    {
+      "file": "pakchunk4_s22-Windows.pak",
+      "bytes": 365
+    },
+    {
+      "file": "pakchunk4_s23-Windows.pak",
+      "bytes": 365
+    },
+    {
+      "file": "pakchunk4_s5-Windows.pak",
+      "bytes": 365
+    },
+    {
+      "file": "pakchunk4_s6-Windows.pak",
+      "bytes": 365
+    },
+    {
+      "file": "pakchunk4_s7-Windows.pak",
+      "bytes": 365
+    },
+    {
+      "file": "pakchunk4_s8-Windows.pak",
+      "bytes": 365
+    },
+    {
+      "file": "pakchunk4_s9-Windows.pak",
+      "bytes": 365
+    },
+    {
+      "file": "pakchunk6-Locales-Ru-3-3.pak",
+      "bytes": 5581860
+    }
+  ],
+  "summary": {
+    "containers": 39,
+    "encrypted": 35,
+    "issues": 0
+  },
+  "issues": [],
+  "nextSteps": [
+    "Open the game Paks directory in FModel; configure the game version and key using verified settings for this installation.",
+    "Locate the chosen track level and export its asset listing, property JSON and referenced dependencies.",
+    "Identify race paths, pit entry/exit, sectors, grid, DRS and their game classes from exported assets.",
+    "Implement an adapter against those verified structures, then cook, package and test in game."
+  ]
+}

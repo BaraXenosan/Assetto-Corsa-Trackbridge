@@ -1,0 +1,30 @@
+{
+  "installable": false,
+  "experimentalTestOnly": true,
+  "offlineReadbackPassed": true,
+  "targetSlot": "Bahrain",
+  "weekendValidated": false,
+  "raceValidated": false,
+  "files": [
+    {
+      "name": "TrackBridge_Kalinago_Test_P.pak",
+      "bytes": 347,
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+    },
+    {
+      "name": "TrackBridge_Kalinago_Test_P.ucas",
+      "bytes": 496775982,
+      "sha256": "10820f7f01370fb01d3a4057d7b4af8d374446687663ddce9c986e47e3d1d8a0"
+    },
+    {
+      "name": "TrackBridge_Kalinago_Test_P.utoc",
+      "bytes": 142640,
+      "sha256": "6d7e3b99853b14ca59a3d2c9b62c18806503ee99ad8b17273404def7ee368d12"
+    }
+  ],
+  "remaining": [
+    "Pit triggers and loop timing unvalidated",
+    "Static cameras, minimap and residual main-level foliage still require adaptation",
+    "Practice, qualifying, race and pit stops not tested"
+  ]
+}

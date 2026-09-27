@@ -1,0 +1,7 @@
+{
+  "passed": true,
+  "map": "/Game/TrackBridge/Authoring/Kalinago_Editor",
+  "markers": 222,
+  "installable": false,
+  "note": "Editor-only anchors and preview cameras; runtime animation integration pending"
+}

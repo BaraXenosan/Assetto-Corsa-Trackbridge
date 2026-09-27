@@ -1,0 +1,18 @@
+{
+  "files": [
+    {
+      "Source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\tools\\CookWorkspace\\Saved\\Cooked\\Windows\\F1Manager24\\Content\\TrackBridge\\KalinagoPilot\\Run_fc07c325ea3d4a62b8b71ec94ad1aaf8\\KalinagoRoad.uasset",
+      "Relative": "F1Manager24\\Content\\TrackBridge\\KalinagoPilot\\Run_fc07c325ea3d4a62b8b71ec94ad1aaf8\\KalinagoRoad.uasset",
+      "Sha256": "9d6742da3baa0250e7a1e8cbb4446843746cae13f40f06d4b9b014d9598e40d1"
+    },
+    {
+      "Source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\tools\\CookWorkspace\\Saved\\Cooked\\Windows\\F1Manager24\\Content\\TrackBridge\\KalinagoPilot\\Run_fc07c325ea3d4a62b8b71ec94ad1aaf8\\KalinagoRoad.uexp",
+      "Relative": "F1Manager24\\Content\\TrackBridge\\KalinagoPilot\\Run_fc07c325ea3d4a62b8b71ec94ad1aaf8\\KalinagoRoad.uexp",
+      "Sha256": "9b581b6d32604fe62bdd3fb3d7a521a132e8fa5757b0f08e97065b5403053df1"
+    }
+  ],
+  "asset": "/Game/TrackBridge/KalinagoPilot/Run_fc07c325ea3d4a62b8b71ec94ad1aaf8/KalinagoRoad.KalinagoRoad",
+  "installable": false,
+  "scope": "Staging of cooked road mesh only; no game installation.",
+  "pilotReport": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\tools\\CookWorkspace\\Saved\\TrackBridge\\kalinago-pilot-fc07c325ea3d4a62b8b71ec94ad1aaf8.json"
+}

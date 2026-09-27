@@ -1,0 +1,13 @@
+[
+  "F1Manager24/Content/Circuits/Bahrain/Lvl_Bahrain.umap",
+  "F1Manager24/Content/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Props.umap",
+  "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/KalinagoVisual.umap",
+  "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_1_00_kalinago.uasset",
+  "F1Manager24/Content/UIGameface/img/minimap/minimapBahrainMinimap.svg",
+  "Engine/Content/BasicShapes/Cube.uasset",
+  "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_Map_road.uasset",
+  "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_Map_pit.uasset",
+  "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_Map_drs.uasset",
+  "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_Map_ground.uasset",
+  "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_OpenGarageDoors.uasset"
+]

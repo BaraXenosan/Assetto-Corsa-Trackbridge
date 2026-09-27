@@ -1,0 +1,25 @@
+{
+  "installable": false,
+  "offlineReadbackPassed": true,
+  "cameraEdits": 80,
+  "rayTestCameras": 32,
+  "visibleSamplePoints": 149,
+  "sourceTriangles": 2117525,
+  "menuVariants": 7,
+  "garageFrontClearanceM": [
+    0.35001415827463767,
+    0.3500121463337038,
+    0.35000518498363853,
+    0.3500009083908946,
+    0.350004198624811,
+    0.3500017605221011,
+    0.3500910501791452,
+    0.35001016705670907,
+    0.35000813986377466,
+    0.35000674482270533,
+    0.3500268517061276
+  ],
+  "splineCameraRemoved": true,
+  "garagePositions": 22,
+  "runtimeValidated": false
+}

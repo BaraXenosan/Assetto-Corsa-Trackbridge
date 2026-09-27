@@ -1,0 +1,18 @@
+{
+  "installable": false,
+  "passed": true,
+  "check": "live-track-identity-only",
+  "capturedUtc": "2026-09-25T06:19:27.4395671Z",
+  "maxPositionErrorCm": 0,
+  "failures": [],
+  "weekendValidated": false,
+  "raceValidated": false,
+  "limitations": [
+    "Identity check does not prove lap counting, pit stops, sectors, finish or visual correctness",
+    "ReadProcessMemory snapshot is not atomic"
+  ],
+  "inputs": [
+    "f351987d6aaa41af7644b420fba74455e8b8b22a0a9dd293232f0104c5d70779",
+    "ddf7f05a8acffd702cdfe263553b3f7717f1b4600aa13459cc6c01ae58b5405f"
+  ]
+}

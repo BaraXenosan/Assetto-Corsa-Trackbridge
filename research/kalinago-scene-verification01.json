@@ -1,0 +1,35 @@
+{
+  "passed": true,
+  "installable": false,
+  "packages": 285,
+  "meshes": 18,
+  "triangles": 2118425,
+  "materials": 155,
+  "textures": 111,
+  "maxBoundsErrorCm": 0.014765999978408217,
+  "shaderMaps": 155,
+  "shaderEntries": 2093,
+  "dependenciesChecked": 328,
+  "containers": [
+    {
+      "name": "TrackBridge_Kalinago_Scene_P.pak",
+      "bytes": 347,
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+    },
+    {
+      "name": "TrackBridge_Kalinago_Scene_P.ucas",
+      "bytes": 496363801,
+      "sha256": "21dbfe7ec7cfd74fa18b70b29cae9e587d4ce2a31ea5292fcf428575d42a9b64"
+    },
+    {
+      "name": "TrackBridge_Kalinago_Scene_P.utoc",
+      "bytes": 142411,
+      "sha256": "2705292d4010c9de9cbec40aa668e833aeba54287df0bfc884b0c8644729f168"
+    }
+  ],
+  "limitations": [
+    "CUE4Parse validation, not rendering in the game",
+    "Visual prototype has no RaceSim component",
+    "No Kalinago weekend or race validation; collision, advanced materials and cameras incomplete"
+  ]
+}

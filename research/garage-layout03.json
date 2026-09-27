@@ -1,0 +1,475 @@
+{
+  "installable": false,
+  "keepActors": [
+    "BP_PitGarage10_0",
+    "BP_PitGarage12_1",
+    "BP_PitGarage13_2",
+    "BP_PitGarage15_3",
+    "BP_PitGarage15_4",
+    "BP_PitGarage3_5",
+    "BP_PitGarage4_6",
+    "BP_PitGarage6_7",
+    "BP_PitGarage7_8",
+    "BP_PitGarage9_9",
+    "BP_PitGarage_10",
+    "WorldSettings"
+  ],
+  "exports": [
+    {
+      "index": 517,
+      "name": "Scene1",
+      "Properties": {
+        "RelativeLocation": {
+          "X": 2871.518803032287,
+          "Y": 5375.862412041551,
+          "Z": 48.147377198282015
+        },
+        "RelativeRotation": {
+          "Pitch": 0,
+          "Yaw": 405.30765605023936,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 519,
+      "name": "Scene1",
+      "Properties": {
+        "RelativeLocation": {
+          "X": 5117.898116419084,
+          "Y": 7621.501189089922,
+          "Z": 50.98921516331547
+        },
+        "RelativeRotation": {
+          "Pitch": 0,
+          "Yaw": 405.20599645762474,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 521,
+      "name": "Scene1",
+      "Properties": {
+        "RelativeLocation": {
+          "X": 6818.2584335848,
+          "Y": 9322.069196601811,
+          "Z": 51.233912366385326
+        },
+        "RelativeRotation": {
+          "Pitch": 0,
+          "Yaw": 405.167088668883,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 523,
+      "name": "Scene1",
+      "Properties": {
+        "RelativeLocation": {
+          "X": 8609.422356374043,
+          "Y": 11113.537007753113,
+          "Z": 52.22809426849828
+        },
+        "RelativeRotation": {
+          "Pitch": 0,
+          "Yaw": 405.1795254449983,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 525,
+      "name": "Scene1",
+      "Properties": {
+        "RelativeLocation": {
+          "X": 10711.561013687517,
+          "Y": 13214.484652780347,
+          "Z": 56.47467800526229
+        },
+        "RelativeRotation": {
+          "Pitch": 0,
+          "Yaw": 405.0841379540175,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 527,
+      "name": "Scene1",
+      "Properties": {
+        "RelativeLocation": {
+          "X": -5006.241139847657,
+          "Y": -2504.5782913758435,
+          "Z": 38.28400155668419
+        },
+        "RelativeRotation": {
+          "Pitch": 0,
+          "Yaw": 404.9859646594149,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 529,
+      "name": "Scene1",
+      "Properties": {
+        "RelativeLocation": {
+          "X": -8383.714388781262,
+          "Y": -5883.626446213507,
+          "Z": 31.176239843949283
+        },
+        "RelativeRotation": {
+          "Pitch": 0,
+          "Yaw": 405.38798214277307,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 531,
+      "name": "Scene1",
+      "Properties": {
+        "RelativeLocation": {
+          "X": -2816.5522814960245,
+          "Y": -313.4676149067354,
+          "Z": 39.48066729971771
+        },
+        "RelativeRotation": {
+          "Pitch": 0,
+          "Yaw": 405.164905387295,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 533,
+      "name": "Scene1",
+      "Properties": {
+        "RelativeLocation": {
+          "X": -1119.39570872324,
+          "Y": 1384.1840897611771,
+          "Z": 41.275697197646544
+        },
+        "RelativeRotation": {
+          "Pitch": 0,
+          "Yaw": 405.1999636068228,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 535,
+      "name": "Scene1",
+      "Properties": {
+        "RelativeLocation": {
+          "X": 596.0998110048099,
+          "Y": 3100.267371259141,
+          "Z": 42.581878462536515
+        },
+        "RelativeRotation": {
+          "Pitch": 0,
+          "Yaw": 405.26855338495807,
+          "Roll": 0
+        }
+      }
+    },
+    {
+      "index": 537,
+      "name": "Scene1",
+      "Properties": {
+        "RelativeLocation": {
+          "X": -6556.549559942296,
+          "Y": -4055.842167559131,
+          "Z": 31.539843392132205
+        },
+        "RelativeRotation": {
+          "Pitch": 0,
+          "Yaw": 404.97104844531003,
+          "Roll": 0
+        }
+      }
+    }
+  ],
+  "teams": [
+    {
+      "team": 6,
+      "actor": "BP_PitGarage10_0",
+      "nativeSpacingM": 6.300025848123762,
+      "targetCenterM": [
+        26.215796762454314,
+        51.729925762034156,
+        0.23818306549682017
+      ],
+      "rotationDeltaDegrees": 312.69301605023935,
+      "facadeAlignment": {
+        "frontOffsetM": -11.97812481145127,
+        "rearOffsetM": -31.178021792682323,
+        "carOffsetM": -21.578073302066798,
+        "shiftM": -13.790042688807187
+      },
+      "meshFacadeAlignment": {
+        "beforeMinM": -28.669640823579318,
+        "beforeMaxM": -17.007186279522813,
+        "shiftM": 4.679061468071543,
+        "afterMinM": -23.99058934469239,
+        "afterMaxM": -12.328138969725908,
+        "clearanceM": 0.35001415827463767
+      }
+    },
+    {
+      "team": 7,
+      "actor": "BP_PitGarage12_1",
+      "nativeSpacingM": 6.300024874896784,
+      "targetCenterM": [
+        48.67588970387067,
+        74.19063849843252,
+        0.2633089149939145
+      ],
+      "rotationDeltaDegrees": 312.5913564576247,
+      "facadeAlignment": {
+        "frontOffsetM": -12.052871119296576,
+        "rearOffsetM": -31.252830215722096,
+        "carOffsetM": -21.652850667509334,
+        "shiftM": -13.847379640090633
+      },
+      "meshFacadeAlignment": {
+        "beforeMinM": -28.743362767686065,
+        "beforeMaxM": -17.082791378261593,
+        "shiftM": 4.6799202589650175,
+        "afterMinM": -24.063450241010788,
+        "afterMaxM": -12.40288326563028,
+        "clearanceM": 0.3500121463337038
+      }
+    },
+    {
+      "team": 8,
+      "actor": "BP_PitGarage13_2",
+      "nativeSpacingM": 6.299769942090546,
+      "targetCenterM": [
+        65.67801343348927,
+        91.19792534497785,
+        0.27214720527109926
+      ],
+      "rotationDeltaDegrees": 312.552448668883,
+      "facadeAlignment": {
+        "frontOffsetM": -12.084330438531657,
+        "rearOffsetM": -31.28432714145588,
+        "carOffsetM": -21.684328789993767,
+        "shiftM": -13.844455145105488
+      },
+      "meshFacadeAlignment": {
+        "beforeMinM": -28.772956525184288,
+        "beforeMaxM": -17.118422316872095,
+        "shiftM": 4.684091878340439,
+        "afterMinM": -24.088871414213386,
+        "afterMaxM": -12.434335623515295,
+        "clearanceM": 0.35000518498363853
+      }
+    },
+    {
+      "team": 9,
+      "actor": "BP_PitGarage15_3",
+      "nativeSpacingM": 6.299775351576128,
+      "targetCenterM": [
+        83.59016001251081,
+        109.11205212615735,
+        0.27854093825499243
+      ],
+      "rotationDeltaDegrees": 312.5648854449983,
+      "facadeAlignment": {
+        "frontOffsetM": -12.131533568277547,
+        "rearOffsetM": -31.331496706532157,
+        "carOffsetM": -21.731515137404852,
+        "shiftM": -13.925031957812234
+      },
+      "meshFacadeAlignment": {
+        "beforeMinM": -28.815654418355056,
+        "beforeMaxM": -17.171191515129923,
+        "shiftM": 4.6896579468523765,
+        "afterMinM": -24.125999805398575,
+        "afterMaxM": -12.481534476668442,
+        "clearanceM": 0.3500009083908946
+      }
+    },
+    {
+      "team": 10,
+      "actor": "BP_PitGarage15_4",
+      "nativeSpacingM": 6.300002582830567,
+      "targetCenterM": [
+        104.60807069583694,
+        130.12562429192639,
+        0.2863356609255721
+      ],
+      "rotationDeltaDegrees": 312.46949795401747,
+      "facadeAlignment": {
+        "frontOffsetM": -12.209268486853325,
+        "rearOffsetM": -31.4091806629996,
+        "carOffsetM": -21.80922457492646,
+        "shiftM": -14.073341796354194
+      },
+      "meshFacadeAlignment": {
+        "beforeMinM": -28.896149257947783,
+        "beforeMaxM": -17.244677009964953,
+        "shiftM": 4.685408523111628,
+        "afterMinM": -24.210745528057195,
+        "afterMaxM": -12.559272685478136,
+        "clearanceM": 0.350004198624811
+      }
+    },
+    {
+      "team": 2,
+      "actor": "BP_PitGarage3_5",
+      "nativeSpacingM": 6.300020096356493,
+      "targetCenterM": [
+        -52.572866389644275,
+        -27.060224850237713,
+        0.24080077577305048
+      ],
+      "rotationDeltaDegrees": 312.3713246594149,
+      "facadeAlignment": {
+        "frontOffsetM": -11.82594093776224,
+        "rearOffsetM": -31.02587977686289,
+        "carOffsetM": -21.425910357312567,
+        "shiftM": -13.83196107403481
+      },
+      "meshFacadeAlignment": {
+        "beforeMinM": -28.52214013793072,
+        "beforeMaxM": -16.85938349161902,
+        "shiftM": 4.68344255385678,
+        "afterMinM": -23.838722236244376,
+        "afterMaxM": -12.175942698284342,
+        "clearanceM": 0.3500017605221011
+      }
+    },
+    {
+      "team": 0,
+      "actor": "BP_PitGarage4_6",
+      "nativeSpacingM": 6.2999179239142125,
+      "targetCenterM": [
+        -86.33354017109733,
+        -60.86838197932296,
+        0.24837621158825257
+      ],
+      "rotationDeltaDegrees": 312.77334214277306,
+      "facadeAlignment": {
+        "frontOffsetM": -11.942464643094944,
+        "rearOffsetM": -31.092374768518596,
+        "carOffsetM": -21.51741970580677,
+        "shiftM": -14.04333909558816
+      },
+      "meshFacadeAlignment": {
+        "beforeMinM": -28.611781423957215,
+        "beforeMaxM": -16.929543824573646,
+        "shiftM": 4.637079181478702,
+        "afterMinM": -23.974737954298195,
+        "afterMaxM": -12.292555693274089,
+        "clearanceM": 0.3500910501791452
+      }
+    },
+    {
+      "team": 3,
+      "actor": "BP_PitGarage6_7",
+      "nativeSpacingM": 6.300027316654552,
+      "targetCenterM": [
+        -30.669709813324538,
+        -5.15694450308753,
+        0.22329584320142382
+      ],
+      "rotationDeltaDegrees": 312.550265387295,
+      "facadeAlignment": {
+        "frontOffsetM": -11.80856579053859,
+        "rearOffsetM": -31.00857986656959,
+        "carOffsetM": -21.408572828554092,
+        "shiftM": -13.809698667357466
+      },
+      "meshFacadeAlignment": {
+        "beforeMinM": -28.502542050102946,
+        "beforeMaxM": -16.838329820490895,
+        "shiftM": 4.679764029952304,
+        "afterMinM": -23.822794246269826,
+        "afterMaxM": -12.1585759575953,
+        "clearanceM": 0.35001016705670907
+      }
+    },
+    {
+      "team": 4,
+      "actor": "BP_PitGarage7_8",
+      "nativeSpacingM": 6.299722188699596,
+      "targetCenterM": [
+        -13.69697833193123,
+        11.817971660497554,
+        0.2028607085937918
+      ],
+      "rotationDeltaDegrees": 312.5853236068228,
+      "facadeAlignment": {
+        "frontOffsetM": -11.83239245395703,
+        "rearOffsetM": -31.03237256125081,
+        "carOffsetM": -21.43238250760392,
+        "shiftM": -13.840230004818814
+      },
+      "meshFacadeAlignment": {
+        "beforeMinM": -28.524331599753122,
+        "beforeMaxM": -16.863795938689034,
+        "shiftM": 4.681403484732003,
+        "afterMinM": -23.842940488435907,
+        "afterMaxM": -12.182400593820805,
+        "clearanceM": 0.35000813986377466
+      }
+    },
+    {
+      "team": 5,
+      "actor": "BP_PitGarage9_9",
+      "nativeSpacingM": 6.300043689113022,
+      "targetCenterM": [
+        3.460378684646528,
+        28.975835515231708,
+        0.20305482913258668
+      ],
+      "rotationDeltaDegrees": 312.65391338495806,
+      "facadeAlignment": {
+        "frontOffsetM": -11.878838007178205,
+        "rearOffsetM": -31.078772023170842,
+        "carOffsetM": -21.478805015174522,
+        "shiftM": -13.891819442090908
+      },
+      "meshFacadeAlignment": {
+        "beforeMinM": -28.571415975894023,
+        "beforeMaxM": -16.910948438224246,
+        "shiftM": 4.682110431046041,
+        "afterMinM": -23.889320530619816,
+        "afterMaxM": -12.22884475200091,
+        "clearanceM": 0.35000674482270533
+      }
+    },
+    {
+      "team": 1,
+      "actor": "BP_PitGarage_10",
+      "nativeSpacingM": 6.300048706638092,
+      "targetCenterM": [
+        -68.07655365315887,
+        -42.57228979364603,
+        0.21997061324948117
+      ],
+      "rotationDeltaDegrees": 312.35640844531,
+      "facadeAlignment": {
+        "frontOffsetM": -11.89922652594505,
+        "rearOffsetM": -31.099122536896992,
+        "carOffsetM": -21.49917453142102,
+        "shiftM": -13.883045919835013
+      },
+      "meshFacadeAlignment": {
+        "beforeMinM": -28.59485916431002,
+        "beforeMaxM": -16.92172022137149,
+        "shiftM": 4.672493695426441,
+        "afterMinM": -23.92237783397856,
+        "afterMaxM": -12.249253377651177,
+        "clearanceM": 0.3500268517061276
+      }
+    }
+  ],
+  "limitations": [
+    "Mesh bounding box aligned 35 cm behind facade; doorway pillars and animations require visual verification"
+  ]
+}

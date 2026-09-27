@@ -1,0 +1,1512 @@
+{
+  "installable": false,
+  "targetSlot": "Bahrain",
+  "sourceFiles": [
+    {
+      "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\research\\kalinago-race-adapter02.json",
+      "sha256": "c8d5c82b136704bd5395c65c05f9c283e6bd5399d7bfe41eddf0b12eb4f2004f"
+    },
+    {
+      "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\research\\kalinago-fit02.json",
+      "sha256": "59eee4b63875a71d3b053b9ae8f66458ece2044564cbe7bdd23acca054f7d8e9"
+    }
+  ],
+  "distanceUnits": "metres",
+  "coordinateFrame": "Unreal axes from source transform",
+  "integrationSampleSpacingM": 0.1,
+  "raceSplineLengthM": 5715.858327471702,
+  "pitSplineLengthM": 889.915900588817,
+  "markers": [
+    {
+      "name": "AC_PIT_0",
+      "line": "pit",
+      "sourcePositionCm": [
+        -490.26031494140625,
+        3347.7127075195312,
+        10.000002384185791
+      ],
+      "segment": 11,
+      "parameter": 8.72367889023501,
+      "positionM": [
+        -10.356008363931538,
+        38.90375165050315,
+        0.20120767008428686
+      ],
+      "distanceM": 7.694031823609734,
+      "distanceAlongSegmentM": 7.568085400481141,
+      "signedLeftOffsetM": -7.693366149608285,
+      "heightDifferenceM": -0.10120764624242895
+    },
+    {
+      "name": "AC_START_0",
+      "line": "race",
+      "sourcePositionCm": [
+        -1377.9850959777832,
+        6131.7962646484375,
+        28.670653700828552
+      ],
+      "segment": 1,
+      "parameter": 15.739654130152278,
+      "positionM": [
+        -11.329518906784621,
+        59.07590717344005,
+        0.30209796948753104
+      ],
+      "distanceM": 3.321321545759714,
+      "distanceAlongSegmentM": 60.606583268994584,
+      "signedLeftOffsetM": 3.321285882571094,
+      "heightDifferenceM": -0.015391432479245515
+    },
+    {
+      "name": "AC_PIT_1",
+      "line": "pit",
+      "sourcePositionCm": [
+        2911.24267578125,
+        6740.385437011719,
+        10.000002384185791
+      ],
+      "segment": 11,
+      "parameter": 14.92535527954326,
+      "positionM": [
+        23.510549441567676,
+        72.97724835259672,
+        0.25200234094692003
+      ],
+      "distanceM": 7.9035975767116735,
+      "distanceAlongSegmentM": 55.60921063099726,
+      "signedLeftOffsetM": -7.902135783043959,
+      "heightDifferenceM": -0.15200231710506212
+    },
+    {
+      "name": "AC_START_1",
+      "line": "race",
+      "sourcePositionCm": [
+        -1372.718620300293,
+        4993.6187744140625,
+        27.486571669578552
+      ],
+      "segment": 1,
+      "parameter": 14.809863110185654,
+      "positionM": [
+        -16.97393367058121,
+        52.90875959924507,
+        0.2910237655505854
+      ],
+      "distanceM": 4.40202381121773,
+      "distanceAlongSegmentM": 52.246364938143174,
+      "signedLeftOffsetM": -4.4019941562300335,
+      "heightDifferenceM": -0.016158048854799878
+    },
+    {
+      "name": "AC_START_2",
+      "line": "race",
+      "sourcePositionCm": [
+        -2510.323905944824,
+        4998.067092895508,
+        23.452147841453552
+      ],
+      "segment": 1,
+      "parameter": 13.958755255697262,
+      "positionM": [
+        -22.142023372558334,
+        47.26668504371904,
+        0.28043668583457565
+      ],
+      "distanceM": 4.017041938518406,
+      "distanceAlongSegmentM": 44.595072905647385,
+      "signedLeftOffsetM": 4.016779521656143,
+      "heightDifferenceM": -0.04591520742004013
+    },
+    {
+      "name": "AC_START_3",
+      "line": "race",
+      "sourcePositionCm": [
+        -2509.61971282959,
+        3857.973098754883,
+        24.916991591453552
+      ],
+      "segment": 1,
+      "parameter": 13.024557612482115,
+      "positionM": [
+        -27.817984654046043,
+        41.07809572642101,
+        0.26947119399400865
+      ],
+      "distanceM": 3.6946401510378015,
+      "distanceAlongSegmentM": 36.197734148464896,
+      "signedLeftOffsetM": -3.6945843748876914,
+      "heightDifferenceM": -0.02030127807947313
+    },
+    {
+      "name": "AC_START_4",
+      "line": "race",
+      "sourcePositionCm": [
+        -3642.9569244384766,
+        3868.344497680664,
+        23.519286513328552
+      ],
+      "segment": 1,
+      "parameter": 12.179939337960237,
+      "positionM": [
+        -32.95431845266749,
+        35.487487966154305,
+        0.261151099432558
+      ],
+      "distanceM": 4.721459849368337,
+      "distanceAlongSegmentM": 28.605837570099464,
+      "signedLeftOffsetM": 4.721388490546252,
+      "heightDifferenceM": -0.025958234299272465
+    },
+    {
+      "name": "AC_START_5",
+      "line": "race",
+      "sourcePositionCm": [
+        -3638.222122192383,
+        2727.2628784179688,
+        18.715819716453552
+      ],
+      "segment": 1,
+      "parameter": 11.249545995570866,
+      "positionM": [
+        -38.61921435679278,
+        29.33492878746874,
+        0.2548746790459857
+      ],
+      "distanceM": 3.0433213946172786,
+      "distanceAlongSegmentM": 20.242520070181452,
+      "signedLeftOffsetM": -3.0425679265620516,
+      "heightDifferenceM": -0.06771648188145019
+    },
+    {
+      "name": "AC_START_6",
+      "line": "race",
+      "sourcePositionCm": [
+        -4772.641372680664,
+        2733.723258972168,
+        19.759520888328552
+      ],
+      "segment": 1,
+      "parameter": 10.398722696898004,
+      "positionM": [
+        -43.80764548908444,
+        23.71457813935897,
+        0.25279675774510174
+      ],
+      "distanceM": 5.336985757776559,
+      "distanceAlongSegmentM": 12.593456492528018,
+      "signedLeftOffsetM": 5.336700269615396,
+      "heightDifferenceM": -0.05520154886181622
+    },
+    {
+      "name": "AC_START_7",
+      "line": "race",
+      "sourcePositionCm": [
+        -4769.515228271484,
+        1604.1336059570312,
+        23.763427138328552
+      ],
+      "segment": 1,
+      "parameter": 9.47909213341748,
+      "positionM": [
+        -49.426098017791354,
+        17.646945143017906,
+        0.25560181319285336
+      ],
+      "distanceM": 2.3610329305597704,
+      "distanceAlongSegmentM": 4.324042607326658,
+      "signedLeftOffsetM": -2.36096456273148,
+      "heightDifferenceM": -0.017967541809567833
+    },
+    {
+      "name": "AC_START_8",
+      "line": "race",
+      "sourcePositionCm": [
+        -5906.512832641602,
+        1603.3393859863281,
+        19.722899794578552
+      ],
+      "segment": 0,
+      "parameter": 16.84748563021438,
+      "positionM": [
+        -54.703819380939116,
+        11.968756543956871,
+        0.2635435496630523
+      ],
+      "distanceM": 5.962104481433142,
+      "distanceAlongSegmentM": 77.54212250058062,
+      "signedLeftOffsetM": 5.96173567187593,
+      "heightDifferenceM": -0.0663145517172668
+    },
+    {
+      "name": "AC_START_9",
+      "line": "race",
+      "sourcePositionCm": [
+        -5901.904296875,
+        469.2959785461426,
+        20.168456435203552
+      ],
+      "segment": 0,
+      "parameter": 15.935772433116494,
+      "positionM": [
+        -60.343946182053166,
+        5.934876460609381,
+        0.27448024583842223
+      ],
+      "distanceM": 1.817422560626635,
+      "distanceAlongSegmentM": 69.28264891941963,
+      "signedLeftOffsetM": -1.8159640804548332,
+      "heightDifferenceM": -0.07279568148638671
+    },
+    {
+      "name": "AC_START_10",
+      "line": "race",
+      "sourcePositionCm": [
+        -7036.311340332031,
+        472.4559783935547,
+        22.097167372703552
+      ],
+      "segment": 0,
+      "parameter": 15.084956231929532,
+      "positionM": [
+        -65.647726348373,
+        0.28775356155556353,
+        0.2867182750055972
+      ],
+      "distanceM": 6.474909045576944,
+      "distanceAlongSegmentM": 61.535375168582306,
+      "signedLeftOffsetM": 6.474575238586099,
+      "heightDifferenceM": -0.06574660127856169
+    },
+    {
+      "name": "AC_START_11",
+      "line": "race",
+      "sourcePositionCm": [
+        -7032.080078125,
+        -660.9369277954102,
+        16.359862685203552
+      ],
+      "segment": 0,
+      "parameter": 14.184123646771777,
+      "positionM": [
+        -71.28751686966625,
+        -5.696750212471748,
+        0.30222963083606613
+      ],
+      "distanceM": 1.3366495836794008,
+      "distanceAlongSegmentM": 53.31212914275096,
+      "signedLeftOffsetM": -1.3294410376738666,
+      "heightDifferenceM": -0.1386310039840306
+    },
+    {
+      "name": "AC_START_12",
+      "line": "race",
+      "sourcePositionCm": [
+        -8169.289398193359,
+        -660.2045059204102,
+        20.937499403953552
+      ],
+      "segment": 0,
+      "parameter": 13.329148912593457,
+      "positionM": [
+        -76.64623940961623,
+        -11.370844697859908,
+        0.3197682388372276
+      ],
+      "distanceM": 6.9442320694539355,
+      "distanceAlongSegmentM": 45.50754289104,
+      "signedLeftOffsetM": 6.943354541798351,
+      "heightDifferenceM": -0.11039324479769208
+    },
+    {
+      "name": "AC_START_13",
+      "line": "race",
+      "sourcePositionCm": [
+        -8163.819885253906,
+        -1794.1349029541016,
+        17.623290419578552
+      ],
+      "segment": 0,
+      "parameter": 12.42814972433889,
+      "positionM": [
+        -82.28151321036414,
+        -17.33259582640863,
+        0.34163573855088814
+      ],
+      "distanceM": 0.9009949627609077,
+      "distanceAlongSegmentM": 37.303929856104965,
+      "signedLeftOffsetM": -0.8856825588497502,
+      "heightDifferenceM": -0.1654028343551026
+    },
+    {
+      "name": "AC_START_14",
+      "line": "race",
+      "sourcePositionCm": [
+        -9298.001098632812,
+        -1789.8189544677734,
+        18.367919325828552
+      ],
+      "segment": 0,
+      "parameter": 11.571958357818438,
+      "positionM": [
+        -87.60812214350062,
+        -22.969993799903452,
+        0.36602331743872935
+      ],
+      "distanceM": 7.390104026510279,
+      "distanceAlongSegmentM": 29.548053636390343,
+      "signedLeftOffsetM": 7.387854069955247,
+      "heightDifferenceM": -0.18234412418044382
+    },
+    {
+      "name": "AC_START_15",
+      "line": "race",
+      "sourcePositionCm": [
+        -9293.529510498047,
+        -2925.2077102661133,
+        28.713378310203552
+      ],
+      "segment": 0,
+      "parameter": 10.656842635150284,
+      "positionM": [
+        -93.25187041156845,
+        -28.95326823871137,
+        0.396404783236891
+      ],
+      "distanceM": 0.4488282671431154,
+      "distanceAlongSegmentM": 21.32294566699909,
+      "signedLeftOffsetM": -0.4353234093729179,
+      "heightDifferenceM": -0.10927100013485547
+    },
+    {
+      "name": "AC_START_16",
+      "line": "race",
+      "sourcePositionCm": [
+        -10430.792236328125,
+        -2919.934844970703,
+        28.560790419578552
+      ],
+      "segment": 0,
+      "parameter": 9.785988264405717,
+      "positionM": [
+        -98.55733976714001,
+        -34.595303720854275,
+        0.42986422572171146
+      ],
+      "distanceM": 7.88709980725263,
+      "distanceAlongSegmentM": 13.578159790322596,
+      "signedLeftOffsetM": 7.885780432710326,
+      "heightDifferenceM": -0.14425632152592593
+    },
+    {
+      "name": "AC_START_17",
+      "line": "race",
+      "sourcePositionCm": [
+        -10423.72817993164,
+        -4053.2577514648438,
+        44.35668885707855
+      ],
+      "segment": 0,
+      "parameter": 8.84946624395932,
+      "positionM": [
+        -104.17176617716395,
+        -40.59351514262509,
+        0.4712516970337221
+      ],
+      "distanceM": 0.09365970248230557,
+      "distanceAlongSegmentM": 5.362194587836938,
+      "signedLeftOffsetM": 0.08947440163533012,
+      "heightDifferenceM": -0.027684808462936583
+    },
+    {
+      "name": "AC_START_18",
+      "line": "race",
+      "sourcePositionCm": [
+        -11563.700866699219,
+        -4051.070785522461,
+        47.13378846645355
+      ],
+      "segment": 128,
+      "parameter": 15.543312078266561,
+      "positionM": [
+        -109.43271550144341,
+        -46.250990257194566,
+        0.5163777235859164
+      ],
+      "distanceM": 8.452580926884481,
+      "distanceAlongSegmentM": 65.3642536725076,
+      "signedLeftOffsetM": 8.452460923365408,
+      "heightDifferenceM": -0.04503983892138086
+    },
+    {
+      "name": "AC_START_19",
+      "line": "race",
+      "sourcePositionCm": [
+        -11559.72671508789,
+        -5189.987564086914,
+        46.52343690395355
+      ],
+      "segment": 128,
+      "parameter": 14.566221991096564,
+      "positionM": [
+        -115.07034100932655,
+        -52.38090578888901,
+        0.5703298609853718
+      ],
+      "distanceM": 0.7211700384670755,
+      "distanceAlongSegmentM": 57.03588122868523,
+      "signedLeftOffsetM": 0.7134708498066675,
+      "heightDifferenceM": -0.10509549194583623
+    },
+    {
+      "name": "AC_START_20",
+      "line": "race",
+      "sourcePositionCm": [
+        -12694.819641113281,
+        -5186.399078369141,
+        54.42749261856079
+      ],
+      "segment": 128,
+      "parameter": 13.664917247113298,
+      "positionM": [
+        -120.19167867093631,
+        -58.00075765492598,
+        0.6242161787536613
+      ],
+      "distanceM": 9.127805333667798,
+      "distanceAlongSegmentM": 49.43234270762891,
+      "signedLeftOffsetM": 9.127455245373673,
+      "heightDifferenceM": -0.0799412525680534
+    },
+    {
+      "name": "AC_START_21",
+      "line": "race",
+      "sourcePositionCm": [
+        -12687.110137939453,
+        -6322.312164306641,
+        60.54321527481079
+      ],
+      "segment": 128,
+      "parameter": 12.664467942857279,
+      "positionM": [
+        -125.80196252432657,
+        -64.18999037741865,
+        0.6890507722901342
+      ],
+      "distanceM": 1.4439131256478215,
+      "distanceAlongSegmentM": 41.07853449481645,
+      "signedLeftOffsetM": 1.441489707914193,
+      "heightDifferenceM": -0.08361861954202632
+    },
+    {
+      "name": "AC_START_22",
+      "line": "race",
+      "sourcePositionCm": [
+        -13823.25439453125,
+        -6315.882110595703,
+        64.71801996231079
+      ],
+      "segment": 128,
+      "parameter": 11.747316383227357,
+      "positionM": [
+        -130.88938336012518,
+        -69.80981677693961,
+        0.7534830329320571
+      ],
+      "distanceM": 9.908029626906004,
+      "distanceAlongSegmentM": 33.49773937464458,
+      "signedLeftOffsetM": 9.907459306284641,
+      "heightDifferenceM": -0.10630283330894919
+    },
+    {
+      "name": "AC_START_23",
+      "line": "race",
+      "sourcePositionCm": [
+        -13821.156311035156,
+        -7447.364807128906,
+        65.92041254043579
+      ],
+      "segment": 128,
+      "parameter": 10.723499662446864,
+      "positionM": [
+        -136.52084668933045,
+        -76.01154037491432,
+        0.8314718667934691
+      ],
+      "distanceM": 2.292010237451728,
+      "distanceAlongSegmentM": 25.12033602885369,
+      "signedLeftOffsetM": 2.2855266193081234,
+      "heightDifferenceM": -0.17226774138911116
+    },
+    {
+      "name": "AC_START_24",
+      "line": "race",
+      "sourcePositionCm": [
+        -14954.2724609375,
+        -7444.988250732422,
+        78.75610589981079
+      ],
+      "segment": 128,
+      "parameter": 9.777276397987732,
+      "positionM": [
+        -141.69498009974552,
+        -81.666256614853,
+        0.9096226755246442
+      ],
+      "distanceM": 10.661990817218916,
+      "distanceAlongSegmentM": 17.455240031216608,
+      "signedLeftOffsetM": 10.66129201641135,
+      "heightDifferenceM": -0.12206161652653624
+    },
+    {
+      "name": "AC_START_25",
+      "line": "race",
+      "sourcePositionCm": [
+        -14951.812744140625,
+        -8577.979278564453,
+        87.31323480606079
+      ],
+      "segment": 128,
+      "parameter": 8.736800232781148,
+      "positionM": [
+        -147.3670088155447,
+        -87.78760355859878,
+        1.0027373612678392
+      ],
+      "distanceM": 2.9454053883919062,
+      "distanceAlongSegmentM": 9.109472741347776,
+      "signedLeftOffsetM": 2.9425521488665494,
+      "heightDifferenceM": -0.12960501320723128
+    },
+    {
+      "name": "AC_START_26",
+      "line": "race",
+      "sourcePositionCm": [
+        -16086.236572265625,
+        -8583.96224975586,
+        105.28808832168579
+      ],
+      "segment": 128,
+      "parameter": 7.741876733854596,
+      "positionM": [
+        -152.78944143255288,
+        -93.535361562201,
+        1.099240784166835
+      ],
+      "distanceM": 11.153414525840075,
+      "distanceAlongSegmentM": 1.206983005489858,
+      "signedLeftOffsetM": 11.153318160783822,
+      "heightDifferenceM": -0.046359900949977106
+    },
+    {
+      "name": "AC_START_27",
+      "line": "race",
+      "sourcePositionCm": [
+        -16080.865478515625,
+        -9712.570190429688,
+        118.38012933731079
+      ],
+      "segment": 127,
+      "parameter": 11.529710690761284,
+      "positionM": [
+        -158.37381068925671,
+        -99.41797293367313,
+        1.2122326538724026
+      ],
+      "distanceM": 3.344215989692402,
+      "distanceAlongSegmentM": 50.73511523109769,
+      "signedLeftOffsetM": 3.344095102862607,
+      "heightDifferenceM": -0.028431360499294733
+    },
+    {
+      "name": "AC_START_28",
+      "line": "race",
+      "sourcePositionCm": [
+        -17221.485900878906,
+        -9710.624694824219,
+        136.0314965248108
+      ],
+      "segment": 127,
+      "parameter": 10.578143463282938,
+      "positionM": [
+        -163.69290993152907,
+        -105.08774554612519,
+        1.3376865730245728
+      ],
+      "distanceM": 11.67597738896215,
+      "distanceAlongSegmentM": 42.95983817002542,
+      "signedLeftOffsetM": 11.675955455385635,
+      "heightDifferenceM": 0.022628392223535077
+    },
+    {
+      "name": "AC_START_29",
+      "line": "race",
+      "sourcePositionCm": [
+        -17216.184997558594,
+        -10845.335388183594,
+        157.3205590248108
+      ],
+      "segment": 127,
+      "parameter": 9.57039174246658,
+      "positionM": [
+        -169.3473108039825,
+        -111.11050465358593,
+        1.483021412509494
+      ],
+      "distanceM": 3.871719793349734,
+      "distanceAlongSegmentM": 34.69744847244851,
+      "signedLeftOffsetM": 3.8706689738709823,
+      "heightDifferenceM": 0.09018417773861387
+    },
+    {
+      "name": "AC_START_30",
+      "line": "race",
+      "sourcePositionCm": [
+        -18348.599243164062,
+        -10843.743896484375,
+        169.9304223060608
+      ],
+      "segment": 127,
+      "parameter": 8.594134996791091,
+      "positionM": [
+        -174.7810349647185,
+        -116.81945848612793,
+        1.6279795814909919
+      ],
+      "distanceM": 12.084685472142317,
+      "distanceAlongSegmentM": 26.814615042926444,
+      "signedLeftOffsetM": 12.084474916255518,
+      "heightDifferenceM": 0.07132464156961604
+    },
+    {
+      "name": "AC_START_31",
+      "line": "race",
+      "sourcePositionCm": [
+        -18348.382568359375,
+        -11974.938201904297,
+        178.7072777748108
+      ],
+      "segment": 127,
+      "parameter": 7.537085546819927,
+      "positionM": [
+        -180.54117310320763,
+        -122.69662216965799,
+        1.7802789459792614
+      ],
+      "distanceM": 4.164789895108808,
+      "distanceAlongSegmentM": 18.583841341831583,
+      "signedLeftOffsetM": 4.16478435202014,
+      "heightDifferenceM": 0.006793831768846514
+    },
+    {
+      "name": "AC_START_32",
+      "line": "race",
+      "sourcePositionCm": [
+        -19485.203552246094,
+        -11967.591094970703,
+        190.7495141029358
+      ],
+      "segment": 127,
+      "parameter": 6.382016141823209,
+      "positionM": [
+        -186.59606244880808,
+        -128.5515385535593,
+        1.9296032324026442
+      ],
+      "distanceM": 12.121812798540063,
+      "distanceAlongSegmentM": 10.159388201667143,
+      "signedLeftOffsetM": 12.121792632091946,
+      "heightDifferenceM": -0.022108091373286287
+    },
+    {
+      "name": "AC_START_33",
+      "line": "race",
+      "sourcePositionCm": [
+        -19479.022216796875,
+        -13107.170104980469,
+        197.6098656654358
+      ],
+      "segment": 127,
+      "parameter": 5.174150068821451,
+      "positionM": [
+        -192.549082572329,
+        -133.79421128991316,
+        2.052799910396748
+      ],
+      "distanceM": 3.5271308137018984,
+      "distanceAlongSegmentM": 2.22475252134067,
+      "signedLeftOffsetM": 3.52629658302445,
+      "heightDifferenceM": -0.07670125374239012
+    },
+    {
+      "name": "AC_START_34",
+      "line": "race",
+      "sourcePositionCm": [
+        -20612.875366210938,
+        -13101.225280761719,
+        214.99266624450684
+      ],
+      "segment": 126,
+      "parameter": 7.893834540276818,
+      "positionM": [
+        -200.16970483780284,
+        -139.55853913053966,
+        2.1525334429235383
+      ],
+      "distanceM": 10.418698555920756,
+      "distanceAlongSegmentM": 15.833828625615727,
+      "signedLeftOffsetM": 10.418698229791397,
+      "heightDifferenceM": -0.002606780478469961
+    },
+    {
+      "name": "AC_START_35",
+      "line": "race",
+      "sourcePositionCm": [
+        -20612.51983642578,
+        -14238.958740234375,
+        217.40965843200684
+      ],
+      "segment": 126,
+      "parameter": 6.513049970988673,
+      "positionM": [
+        -205.71782388554124,
+        -143.1001496455167,
+        2.191702453212973
+      ],
+      "distanceM": 0.8192451610794189,
+      "distanceAlongSegmentM": 9.249410574257999,
+      "signedLeftOffsetM": 0.8190559561111604,
+      "heightDifferenceM": -0.01760586889290483
+    },
+    {
+      "name": "AC_PIT_2",
+      "line": "pit",
+      "sourcePositionCm": [
+        5180.614471435547,
+        9021.000671386719,
+        10.000002384185791
+      ],
+      "segment": 12,
+      "parameter": 11.333217945979253,
+      "positionM": [
+        46.22941396241511,
+        95.77301315613417,
+        0.26890847699705356
+      ],
+      "distanceM": 7.878800455772979,
+      "distanceAlongSegmentM": 27.784881223837537,
+      "signedLeftOffsetM": -7.876989688507563,
+      "heightDifferenceM": -0.16890845315519565
+    },
+    {
+      "name": "AC_PIT_3",
+      "line": "pit",
+      "sourcePositionCm": [
+        7349.690246582031,
+        11202.699279785156,
+        10.000002384185791
+      ],
+      "segment": 12,
+      "parameter": 15.30378278164983,
+      "positionM": [
+        67.94709336418305,
+        117.55425851546474,
+        0.27724663102424046
+      ],
+      "distanceM": 7.834696148382233,
+      "distanceAlongSegmentM": 58.54330080473454,
+      "signedLeftOffsetM": -7.832690940924508,
+      "heightDifferenceM": -0.17724660718238255
+    },
+    {
+      "name": "AC_PIT_4",
+      "line": "pit",
+      "sourcePositionCm": [
+        -2747.9660034179688,
+        1076.6510009765625,
+        10.000002384185791
+      ],
+      "segment": 10,
+      "parameter": 12.337877822109473,
+      "positionM": [
+        -32.95530207466339,
+        16.23077688888656,
+        0.21016631868708624
+      ],
+      "distanceM": 7.736472380503309,
+      "distanceAlongSegmentM": 35.56737317066417,
+      "signedLeftOffsetM": -7.73568796373032,
+      "heightDifferenceM": -0.11016629484522833
+    },
+    {
+      "name": "AC_PIT_6",
+      "line": "pit",
+      "sourcePositionCm": [
+        6300.899887084961,
+        10135.183715820312,
+        10.000002384185791
+      ],
+      "segment": 12,
+      "parameter": 13.372653737972968,
+      "positionM": [
+        57.38667245063711,
+        106.95849647089116,
+        0.2736560053286415
+      ],
+      "distanceM": 7.94199845277479,
+      "distanceAlongSegmentM": 43.58359880891727,
+      "signedLeftOffsetM": -7.940099685893683,
+      "heightDifferenceM": -0.17365598148678357
+    },
+    {
+      "name": "AC_PIT_7",
+      "line": "pit",
+      "sourcePositionCm": [
+        4041.259765625,
+        7873.6358642578125,
+        10.000002384185791
+      ],
+      "segment": 12,
+      "parameter": 9.245513089409535,
+      "positionM": [
+        34.8092953263253,
+        84.32164794771319,
+        0.2620547330293903
+      ],
+      "distanceM": 7.913198806510902,
+      "distanceAlongSegmentM": 11.612283242085713,
+      "signedLeftOffsetM": -7.911539269690584,
+      "heightDifferenceM": -0.1620547091875324
+    },
+    {
+      "name": "AC_PIT_8",
+      "line": "pit",
+      "sourcePositionCm": [
+        1786.1930847167969,
+        5618.457794189453,
+        10.000002384185791
+      ],
+      "segment": 11,
+      "parameter": 12.873581889707255,
+      "positionM": [
+        12.304959472271355,
+        61.705417013772525,
+        0.23492059912207905
+      ],
+      "distanceM": 7.834398412171095,
+      "distanceAlongSegmentM": 39.715194967347564,
+      "signedLeftOffsetM": -7.83323655276911,
+      "heightDifferenceM": -0.13492057528022114
+    },
+    {
+      "name": "AC_PIT_9",
+      "line": "pit",
+      "sourcePositionCm": [
+        -1629.5717239379883,
+        2212.4256134033203,
+        10.000002384185791
+      ],
+      "segment": 10,
+      "parameter": 14.394922198224577,
+      "positionM": [
+        -21.702285341856047,
+        27.513723760958534,
+        0.1997297436886683
+      ],
+      "distanceM": 7.634611055280393,
+      "distanceAlongSegmentM": 51.502723712306675,
+      "signedLeftOffsetM": -7.63395965061196,
+      "heightDifferenceM": -0.0997297198468104
+    },
+    {
+      "name": "AC_PIT_10",
+      "line": "pit",
+      "sourcePositionCm": [
+        -3892.361831665039,
+        -62.67738342285156,
+        10.000002384185791
+      ],
+      "segment": 10,
+      "parameter": 10.253987510316506,
+      "positionM": [
+        -44.361938046731424,
+        4.807199724707548,
+        0.22594643187671298
+      ],
+      "distanceM": 7.68890451387594,
+      "distanceAlongSegmentM": 19.42396220672197,
+      "signedLeftOffsetM": -7.687872924948825,
+      "heightDifferenceM": -0.12594640803485507
+    },
+    {
+      "name": "AC_PIT_11",
+      "line": "pit",
+      "sourcePositionCm": [
+        -5019.572830200195,
+        -1185.2611541748047,
+        10.000002384185791
+      ],
+      "segment": 10,
+      "parameter": 8.201124475680022,
+      "positionM": [
+        -55.60631221006239,
+        -6.438618707666969,
+        0.23971960137943488
+      ],
+      "distanceM": 7.6554071213744805,
+      "distanceAlongSegmentM": 3.520988099829441,
+      "signedLeftOffsetM": -7.654131996836811,
+      "heightDifferenceM": -0.13971957753757697
+    },
+    {
+      "name": "AC_PIT_12",
+      "line": "pit",
+      "sourcePositionCm": [
+        -6077.046966552734,
+        -2228.966522216797,
+        10.000002384185791
+      ],
+      "segment": 9,
+      "parameter": 14.12487268542627,
+      "positionM": [
+        -66.11007502278657,
+        -16.872093956716277,
+        0.2370001524155376
+      ],
+      "distanceM": 7.607905942028236,
+      "distanceAlongSegmentM": 48.72797241146988,
+      "signedLeftOffsetM": -7.606672318519351,
+      "heightDifferenceM": -0.13700012857367969
+    },
+    {
+      "name": "AC_PIT_13",
+      "line": "pit",
+      "sourcePositionCm": [
+        -7110.894012451172,
+        -3269.5240020751953,
+        10.000002384185791
+      ],
+      "segment": 9,
+      "parameter": 12.229782231126697,
+      "positionM": [
+        -76.56335499459811,
+        -27.145618228902812,
+        0.21485542119557757
+      ],
+      "distanceM": 7.782167780887774,
+      "distanceAlongSegmentM": 34.07133865829083,
+      "signedLeftOffsetM": -7.781320169416827,
+      "heightDifferenceM": -0.11485539735371966
+    },
+    {
+      "name": "AC_PIT_14",
+      "line": "pit",
+      "sourcePositionCm": [
+        -8140.364074707031,
+        -4263.243865966797,
+        49.99023675918579
+      ],
+      "segment": 9,
+      "parameter": 10.374483285852978,
+      "positionM": [
+        -86.77721787489959,
+        -37.238472035879916,
+        0.2043433214755509
+      ],
+      "distanceM": 7.6195513146779605,
+      "distanceAlongSegmentM": 19.712032685097167,
+      "signedLeftOffsetM": -7.613816853327604,
+      "heightDifferenceM": 0.295559046116307
+    },
+    {
+      "name": "AC_PIT_15",
+      "line": "pit",
+      "sourcePositionCm": [
+        9456.889343261719,
+        13335.905456542969,
+        10.000002384185791
+      ],
+      "segment": 13,
+      "parameter": 11.428945970507492,
+      "positionM": [
+        89.09400306492844,
+        138.80410581380463,
+        0.2829219125438282
+      ],
+      "distanceM": 7.723759968629705,
+      "distanceAlongSegmentM": 28.512691886829955,
+      "signedLeftOffsetM": -7.721593594275281,
+      "heightDifferenceM": -0.1829218887019703
+    },
+    {
+      "name": "AC_PIT_35",
+      "line": "pit",
+      "sourcePositionCm": [
+        -9473.806762695312,
+        -5592.932891845703,
+        40.37109613418579
+      ],
+      "segment": 9,
+      "parameter": 7.928731066078912,
+      "positionM": [
+        -100.10390310384341,
+        -50.76664439967897,
+        0.2586657282905119
+      ],
+      "distanceM": 7.447586181113715,
+      "distanceAlongSegmentM": 0.7217890986252293,
+      "signedLeftOffsetM": -7.446173585140871,
+      "heightDifferenceM": 0.14504523305134603
+    },
+    {
+      "name": "AC_PIT_17",
+      "line": "pit",
+      "sourcePositionCm": [
+        10813.059997558594,
+        14687.19482421875,
+        10.00000536441803
+      ],
+      "segment": 13,
+      "parameter": 13.900182016602574,
+      "positionM": [
+        102.59087810174918,
+        152.3786613336638,
+        0.28392613851094584
+      ],
+      "distanceM": 7.813209092043834,
+      "distanceAlongSegmentM": 47.655162915314655,
+      "signedLeftOffsetM": -7.8110439450354265,
+      "heightDifferenceM": -0.18392608486676554
+    },
+    {
+      "name": "AC_PIT_18",
+      "line": "pit",
+      "sourcePositionCm": [
+        10132.3486328125,
+        14012.136840820312,
+        10.000002384185791
+      ],
+      "segment": 13,
+      "parameter": 12.663022719801965,
+      "positionM": [
+        95.83267923757444,
+        145.58068634942003,
+        0.2837818272961355
+      ],
+      "distanceM": 7.745120440652556,
+      "distanceAlongSegmentM": 38.069459187993175,
+      "signedLeftOffsetM": -7.7429396800458505,
+      "heightDifferenceM": -0.18378180345427758
+    },
+    {
+      "name": "AC_PIT_19",
+      "line": "pit",
+      "sourcePositionCm": [
+        8059.844970703125,
+        11923.368835449219,
+        10.000002384185791
+      ],
+      "segment": 13,
+      "parameter": 8.863311843273152,
+      "positionM": [
+        75.08386111244154,
+        124.72256505502045,
+        0.2794963667556013
+      ],
+      "distanceM": 7.782716347028228,
+      "distanceAlongSegmentM": 8.648807954345322,
+      "signedLeftOffsetM": -7.780646168522244,
+      "heightDifferenceM": -0.1794963429137434
+    },
+    {
+      "name": "AC_PIT_28",
+      "line": "pit",
+      "sourcePositionCm": [
+        5538.6688232421875,
+        9399.311828613281,
+        10.000002384185791
+      ],
+      "segment": 12,
+      "parameter": 12.005395370808074,
+      "positionM": [
+        49.90689918648225,
+        99.45946727117222,
+        0.27063840521358395
+      ],
+      "distanceM": 7.741974985198439,
+      "distanceAlongSegmentM": 32.99197681652306,
+      "signedLeftOffsetM": -7.740094263724933,
+      "heightDifferenceM": -0.17063838137172604
+    },
+    {
+      "name": "AC_PIT_21",
+      "line": "pit",
+      "sourcePositionCm": [
+        3273.5366821289062,
+        7124.821472167969,
+        10.000002384185791
+      ],
+      "segment": 12,
+      "parameter": 7.86068946134132,
+      "positionM": [
+        27.237814080453987,
+        76.72201541316062,
+        0.25589951238597586
+      ],
+      "distanceM": 7.759502870599939,
+      "distanceAlongSegmentM": 0.8846654299935828,
+      "signedLeftOffsetM": -7.757936590242338,
+      "heightDifferenceM": -0.15589948854411795
+    },
+    {
+      "name": "AC_PIT_22",
+      "line": "pit",
+      "sourcePositionCm": [
+        2165.8676147460938,
+        6013.402938842773,
+        10.000002384185791
+      ],
+      "segment": 11,
+      "parameter": 13.580869037217687,
+      "positionM": [
+        16.166886828768256,
+        65.59188119392391,
+        0.2414455318722622
+      ],
+      "distanceM": 7.743894568200608,
+      "distanceAlongSegmentM": 45.194166530182706,
+      "signedLeftOffsetM": -7.742602677738639,
+      "heightDifferenceM": -0.1414455080304043
+    },
+    {
+      "name": "AC_PIT_23",
+      "line": "pit",
+      "sourcePositionCm": [
+        1020.789623260498,
+        4880.786895751953,
+        9.999987483024597
+      ],
+      "segment": 11,
+      "parameter": 11.501577987502253,
+      "positionM": [
+        4.814575549693336,
+        54.16540442749171,
+        0.22176529047395677
+      ],
+      "distanceM": 7.603020525894917,
+      "distanceAlongSegmentM": 29.087033591099054,
+      "signedLeftOffsetM": -7.602045400996659,
+      "heightDifferenceM": -0.1217654156437108
+    },
+    {
+      "name": "AC_PIT_24",
+      "line": "pit",
+      "sourcePositionCm": [
+        -1261.2442016601562,
+        2593.515396118164,
+        10.000002384185791
+      ],
+      "segment": 10,
+      "parameter": 15.078843144732115,
+      "positionM": [
+        -17.962220559186836,
+        31.26628892881871,
+        0.1985769626070925
+      ],
+      "distanceM": 7.553201169750799,
+      "distanceAlongSegmentM": 56.800820680109126,
+      "signedLeftOffsetM": -7.552557877819401,
+      "heightDifferenceM": -0.0985769387652346
+    },
+    {
+      "name": "AC_PIT_25",
+      "line": "pit",
+      "sourcePositionCm": [
+        -3531.8885803222656,
+        323.32043647766113,
+        10.000002384185791
+      ],
+      "segment": 10,
+      "parameter": 10.935146817316923,
+      "positionM": [
+        -40.63265514981728,
+        8.540408131068489,
+        0.22064525452566047
+      ],
+      "distanceM": 7.511132521626689,
+      "distanceAlongSegmentM": 24.700743815254977,
+      "signedLeftOffsetM": -7.510163544886544,
+      "heightDifferenceM": -0.12064523068380256
+    },
+    {
+      "name": "AC_PIT_26",
+      "line": "pit",
+      "sourcePositionCm": [
+        -5726.438522338867,
+        -1884.4118118286133,
+        10.000002384185791
+      ],
+      "segment": 9,
+      "parameter": 14.757889348339223,
+      "positionM": [
+        -62.62536916922908,
+        -13.430166216682798,
+        0.24144485716962052
+      ],
+      "distanceM": 7.620435072967165,
+      "distanceAlongSegmentM": 53.62593861091601,
+      "signedLeftOffsetM": -7.619122262658091,
+      "heightDifferenceM": -0.14144483332776261
+    },
+    {
+      "name": "AC_PIT_27",
+      "line": "pit",
+      "sourcePositionCm": [
+        -7800.18310546875,
+        -3935.5884552001953,
+        37.39258050918579
+      ],
+      "segment": 9,
+      "parameter": 10.987426630575989,
+      "positionM": [
+        -83.40894500997534,
+        -33.89397486294876,
+        0.20471377996719203
+      ],
+      "distanceM": 7.687520503145891,
+      "distanceAlongSegmentM": 24.458709756762534,
+      "signedLeftOffsetM": -7.6856579920225965,
+      "heightDifferenceM": 0.16921202512466588
+    },
+    {
+      "name": "AC_PIT_20",
+      "line": "pit",
+      "sourcePositionCm": [
+        6999.1363525390625,
+        10839.302062988281,
+        10.000002384185791
+      ],
+      "segment": 12,
+      "parameter": 14.652343201066634,
+      "positionM": [
+        64.3854725786924,
+        113.9791413021671,
+        0.27608195660344426
+      ],
+      "distanceM": 7.915918286505992,
+      "distanceAlongSegmentM": 53.49685579679368,
+      "signedLeftOffsetM": -7.913959658091497,
+      "heightDifferenceM": -0.17608193276158635
+    },
+    {
+      "name": "AC_PIT_29",
+      "line": "pit",
+      "sourcePositionCm": [
+        4396.893310546875,
+        8260.420227050781,
+        10.000002384185791
+      ],
+      "segment": 12,
+      "parameter": 9.923417826843032,
+      "positionM": [
+        38.517038674161896,
+        88.0405585446496,
+        0.2645630969586804
+      ],
+      "distanceM": 7.700922245715062,
+      "distanceAlongSegmentM": 16.863727151836155,
+      "signedLeftOffsetM": -7.699163748358609,
+      "heightDifferenceM": -0.1645630731168225
+    },
+    {
+      "name": "AC_PIT_30",
+      "line": "pit",
+      "sourcePositionCm": [
+        -122.17597961425781,
+        3747.8424072265625,
+        10.000002384185791
+      ],
+      "segment": 11,
+      "parameter": 9.424645980691146,
+      "positionM": [
+        -6.526500102809134,
+        42.75347053402004,
+        0.20490198818009397
+      ],
+      "distanceM": 7.4818038812149155,
+      "distanceAlongSegmentM": 12.998139091828058,
+      "signedLeftOffsetM": -7.48106843223343,
+      "heightDifferenceM": -0.10490196433823606
+    },
+    {
+      "name": "AC_PIT_31",
+      "line": "pit",
+      "sourcePositionCm": [
+        -2405.5416107177734,
+        1445.9625244140625,
+        10.000002384185791
+      ],
+      "segment": 10,
+      "parameter": 12.987384116570318,
+      "positionM": [
+        -29.40151963115732,
+        19.792690935744155,
+        0.20599167349973435
+      ],
+      "distanceM": 7.552062419621728,
+      "distanceAlongSegmentM": 40.598935439025894,
+      "signedLeftOffsetM": -7.55131859700739,
+      "heightDifferenceM": -0.10599164965787644
+    },
+    {
+      "name": "AC_PIT_32",
+      "line": "pit",
+      "sourcePositionCm": [
+        -4657.221984863281,
+        -797.686767578125,
+        10.000002384185791
+      ],
+      "segment": 10,
+      "parameter": 8.885399068783027,
+      "positionM": [
+        -51.857367429951545,
+        -2.6910013580684318,
+        0.23574797141769133
+      ],
+      "distanceM": 7.476068163835931,
+      "distanceAlongSegmentM": 8.821859607472732,
+      "signedLeftOffsetM": -7.474835628465909,
+      "heightDifferenceM": -0.13574794757583342
+    },
+    {
+      "name": "AC_PIT_33",
+      "line": "pit",
+      "sourcePositionCm": [
+        -6767.462921142578,
+        -2933.219528198242,
+        10.000002384185791
+      ],
+      "segment": 9,
+      "parameter": 12.851766590354371,
+      "positionM": [
+        -73.13153047662549,
+        -23.77489873803388,
+        0.22239642527474307
+      ],
+      "distanceM": 7.78949916070374,
+      "distanceAlongSegmentM": 38.88166367473148,
+      "signedLeftOffsetM": -7.788537491484345,
+      "heightDifferenceM": -0.12239640143288516
+    },
+    {
+      "name": "AC_PIT_34",
+      "line": "pit",
+      "sourcePositionCm": [
+        9128.317260742188,
+        12976.657104492188,
+        10.000002384185791
+      ],
+      "segment": 13,
+      "parameter": 10.800773163285196,
+      "positionM": [
+        85.66422471757402,
+        135.35584155426898,
+        0.2822576238102442
+      ],
+      "distanceM": 7.927530387720326,
+      "distanceAlongSegmentM": 23.64916370527752,
+      "signedLeftOffsetM": -7.925435017380875,
+      "heightDifferenceM": -0.1822575999683863
+    },
+    {
+      "name": "AC_PIT_16",
+      "line": "pit",
+      "sourcePositionCm": [
+        -9125.628662109375,
+        -5252.972793579102,
+        36.78222894668579
+      ],
+      "segment": 9,
+      "parameter": 8.560524412587657,
+      "positionM": [
+        -96.68327092308924,
+        -47.236703601042144,
+        0.23389551528339317
+      ],
+      "distanceM": 7.581965550119071,
+      "distanceAlongSegmentM": 5.637266532823576,
+      "signedLeftOffsetM": -7.580782605449524,
+      "heightDifferenceM": 0.13392677418346474
+    },
+    {
+      "name": "AC_PIT_5",
+      "line": "pit",
+      "sourcePositionCm": [
+        8765.546417236328,
+        12631.663513183594,
+        10.000002384185791
+      ],
+      "segment": 13,
+      "parameter": 10.154479009906794,
+      "positionM": [
+        82.13537622242387,
+        131.80861609286995,
+        0.2814420273243362
+      ],
+      "distanceM": 7.788847607448365,
+      "distanceAlongSegmentM": 18.645606884234805,
+      "signedLeftOffsetM": -7.786733965563098,
+      "heightDifferenceM": -0.1814420034824783
+    }
+  ],
+  "timingGates": [
+    {
+      "index": 0,
+      "segment": 0,
+      "parameter": 8.229577198177374,
+      "positionM": [
+        -107.8258746463747,
+        -44.517755120792245,
+        0.5019588588147021
+      ],
+      "distanceM": 5.602976947746745e-7,
+      "distanceAlongSegmentM": 5.602976947746745e-7,
+      "signedLeftOffsetM": -1.250816060306354e-13,
+      "heightDifferenceM": 3.3735632065656773e-9
+    },
+    {
+      "index": 1,
+      "segment": 49,
+      "parameter": 8.224199170731548,
+      "positionM": [
+        475.28214199298463,
+        329.82006057938156,
+        -4.693544108147798
+      ],
+      "distanceM": 8.459976572563457e-7,
+      "distanceAlongSegmentM": 4.410429385061517,
+      "signedLeftOffsetM": 4.7781981860218753e-14,
+      "heightDifferenceM": -1.354768386363503e-8
+    },
+    {
+      "index": 2,
+      "segment": 89,
+      "parameter": 16.00198275499791,
+      "positionM": [
+        -515.8846700216673,
+        1041.5069332176195,
+        35.333768900480976
+      ],
+      "distanceM": 5.232105853749412e-7,
+      "distanceAlongSegmentM": 49.12371689084639,
+      "signedLeftOffsetM": 2.543622749768866e-13,
+      "heightDifferenceM": 1.3243479202174058e-8
+    }
+  ],
+  "limitations": [
+    "signedLeftOffsetM is geometric left, not yet validated against native m_offRaceLineDistance sign",
+    "Segment distances use dense numerical integration, not exact native runtime tables",
+    "Pit endpoint control points are provisional",
+    "Source start/pit marker count must be mapped to F1M participant/team slots",
+    "Not a complete native RaceSim component"
+  ]
+}

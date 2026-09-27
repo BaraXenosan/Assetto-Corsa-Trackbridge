@@ -1,0 +1,90 @@
+{
+  "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_11_treewalls.uasset",
+  "metadataOnly": false,
+  "Name": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_11_treewalls",
+  "names": [
+    "ArrayProperty",
+    "bInitialized",
+    "BlockAll",
+    "BodyInstance",
+    "BoolProperty",
+    "bOverrideDensities",
+    "BoxExtent",
+    "BoxSphereBounds",
+    "ByteProperty",
+    "CollisionProfileName",
+    "DefaultInstance",
+    "DoubleProperty",
+    "ECC_WorldStatic",
+    "ECollisionChannel",
+    "ExtendedBounds",
+    "FloatProperty",
+    "ImportedMaterialSlotName",
+    "IntProperty",
+    "LightMapResolution",
+    "LightmapUVDensity",
+    "LocalUVDensities",
+    "material",
+    "MaterialInterface",
+    "MaterialSlotName",
+    "MeshUVChannelInfo",
+    "NameProperty",
+    "NavCollision_Chaos",
+    "None",
+    "ObjectProperty",
+    "ObjectType",
+    "Origin",
+    "PhysXPC",
+    "SphereRadius",
+    "StaticMaterial",
+    "StaticMaterials",
+    "StructProperty",
+    "UVChannelData",
+    "Vector",
+    "BodySetup",
+    "NavCollision",
+    "SM_11_treewalls",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_11_treewalls"
+  ],
+  "exports": [
+    {
+      "index": 0,
+      "name": "BodySetup_0",
+      "type": "/Script/Engine.BodySetup",
+      "outer": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_11_treewalls.SM_11_treewalls",
+      "serialOffset": 0,
+      "serialSize": 349473
+    },
+    {
+      "index": 1,
+      "name": "NavCollision_0",
+      "type": "/Script/NavigationSystem.NavCollision",
+      "outer": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_11_treewalls.SM_11_treewalls",
+      "serialOffset": 349473,
+      "serialSize": 97
+    },
+    {
+      "index": 2,
+      "name": "SM_11_treewalls",
+      "type": "/Script/Engine.StaticMesh",
+      "outer": null,
+      "serialOffset": 349570,
+      "serialSize": 454650
+    }
+  ],
+  "imports": [
+    "/Script/Engine.Default__BodySetup",
+    "/Script/Engine.BodySetup",
+    "/Script/Engine.StaticMesh",
+    "/Script/NavigationSystem.NavCollision",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_11_treewalls_0.M_11_treewalls_0",
+    "/Script/NavigationSystem.Default__NavCollision",
+    null,
+    "/Script/Engine",
+    "/Script/NavigationSystem",
+    "/Script/Engine.Default__StaticMesh"
+  ],
+  "dependencies": [
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_11_treewalls_0"
+  ]
+}

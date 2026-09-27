@@ -1,0 +1,24 @@
+{
+  "installable": false,
+  "passed": true,
+  "runId": "8e14530082d64dc795e1124b8c8611b1",
+  "engineVersion": "5.1.1-23901901+++UE5+Release-5.1",
+  "staging": {
+    "vertices": 4,
+    "normals": 0,
+    "faces": 4
+  },
+  "asset": "/Game/TrackBridge/Probes/Run_8e14530082d64dc795e1124b8c8611b1/CoordinateProbe.CoordinateProbe",
+  "minimumCm": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "maximumCm": [
+    100.0,
+    200.0,
+    300.0
+  ],
+  "triangles": 4,
+  "maxBoundsErrorCm": 0.0
+}

@@ -1,0 +1,29 @@
+{
+  "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_19_kunos_props_a_10.uasset",
+  "metadataOnly": false,
+  "Name": "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_19_kunos_props_a_10",
+  "names": [
+    "M_19_kunos_props_a",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_19_kunos_props_a"
+  ],
+  "exports": [
+    {
+      "index": 0,
+      "name": "M_19_kunos_props_a_10",
+      "type": "/Script/Engine.Material",
+      "outer": null,
+      "serialOffset": 0,
+      "serialSize": 36877
+    }
+  ],
+  "imports": [
+    "/Script/Engine.Material",
+    "/Script/Engine.Default__Material",
+    null,
+    "/Script/Engine",
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_06a8f68d74b3a594f07a3ee59560bf1953213f71c5fc9f48922745859ce6cf5d.T_06a8f68d74b3a594f07a3ee59560bf1953213f71c5fc9f48922745859ce6cf5d"
+  ],
+  "dependencies": [
+    "/Game/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_06a8f68d74b3a594f07a3ee59560bf1953213f71c5fc9f48922745859ce6cf5d"
+  ]
+}

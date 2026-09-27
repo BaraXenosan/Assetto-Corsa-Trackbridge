@@ -1,0 +1,2351 @@
+{
+  "markers": [
+    {
+      "label": "Grid_00",
+      "folder": "Grid",
+      "field": "m_carStartPositions",
+      "index": 0,
+      "positionCm": [
+        -1377.9863935589865,
+        6131.7948465115005,
+        30.20979694353135
+      ],
+      "yaw": 47.54179648596936
+    },
+    {
+      "label": "Grid_01",
+      "folder": "Grid",
+      "field": "m_carStartPositions",
+      "index": 1,
+      "positionCm": [
+        -1372.720133777918,
+        4993.61712135749,
+        29.102376553219788
+      ],
+      "yaw": 47.52393014082206
+    },
+    {
+      "label": "Grid_02",
+      "folder": "Grid",
+      "field": "m_carStartPositions",
+      "index": 2,
+      "positionCm": [
+        -2510.3281517630235,
+        4998.06246016019,
+        28.04366858149055
+      ],
+      "yaw": 47.495305127900764
+    },
+    {
+      "label": "Grid_03",
+      "folder": "Grid",
+      "field": "m_carStartPositions",
+      "index": 3,
+      "positionCm": [
+        -2509.6213759332063,
+        3857.9712869480936,
+        26.947119399013843
+      ],
+      "yaw": 47.45038522936524
+    },
+    {
+      "label": "Grid_04",
+      "folder": "Grid",
+      "field": "m_carStartPositions",
+      "index": 4,
+      "positionCm": [
+        -3642.9585913871592,
+        3868.3426850388273,
+        26.11510994379812
+      ],
+      "yaw": 47.39761825349053
+    },
+    {
+      "label": "Grid_05",
+      "folder": "Grid",
+      "field": "m_carStartPositions",
+      "index": 5,
+      "positionCm": [
+        -3638.224538985868,
+        2727.2602569646274,
+        25.487467905677285
+      ],
+      "yaw": 47.32614697081764
+    },
+    {
+      "label": "Grid_06",
+      "folder": "Grid",
+      "field": "m_carStartPositions",
+      "index": 6,
+      "positionCm": [
+        -4772.641358278152,
+        2733.7232745519314,
+        25.279675774510185
+      ],
+      "yaw": 47.24856009660956
+    },
+    {
+      "label": "Grid_07",
+      "folder": "Grid",
+      "field": "m_carStartPositions",
+      "index": 7,
+      "positionCm": [
+        -4769.514378850491,
+        1604.1345216950012,
+        25.560181316808645
+      ],
+      "yaw": 47.15158901035434
+    },
+    {
+      "label": "Grid_08",
+      "folder": "Grid",
+      "field": "m_carStartPositions",
+      "index": 8,
+      "positionCm": [
+        -5906.507300834859,
+        1603.3453213909816,
+        26.354354857081763
+      ],
+      "yaw": 47.01573992308346
+    },
+    {
+      "label": "Grid_09",
+      "folder": "Grid",
+      "field": "m_carStartPositions",
+      "index": 9,
+      "positionCm": [
+        -5901.897035278283,
+        469.30372627451754,
+        27.448024483836512
+      ],
+      "yaw": 46.85508401595535
+    },
+    {
+      "label": "Grid_10",
+      "folder": "Grid",
+      "field": "m_carStartPositions",
+      "index": 10,
+      "positionCm": [
+        -7036.3035766850035,
+        472.46422922016154,
+        28.67182747542066
+      ],
+      "yaw": 46.742469255225274
+    },
+    {
+      "label": "Grid_11",
+      "folder": "Grid",
+      "field": "m_carStartPositions",
+      "index": 11,
+      "positionCm": [
+        -7032.0604691334765,
+        -660.9161475031348,
+        30.22296308365181
+      ],
+      "yaw": 46.66112838175147
+    },
+    {
+      "label": "Grid_12",
+      "folder": "Grid",
+      "field": "m_carStartPositions",
+      "index": 12,
+      "positionCm": [
+        -8169.270868120526,
+        -660.1848977163629,
+        31.976823901241247
+      ],
+      "yaw": 46.61926355096126
+    },
+    {
+      "label": "Grid_13",
+      "folder": "Grid",
+      "field": "m_carStartPositions",
+      "index": 13,
+      "positionCm": [
+        -8163.7869351104755,
+        -1794.100044299891,
+        34.16357390755198
+      ],
+      "yaw": 46.61219128645172
+    },
+    {
+      "label": "Grid_14",
+      "folder": "Grid",
+      "field": "m_carStartPositions",
+      "index": 14,
+      "positionCm": [
+        -9297.958587964233,
+        -1789.7739361266827,
+        36.60233193133296
+      ],
+      "yaw": 46.64105319748915
+    },
+    {
+      "label": "Grid_15",
+      "folder": "Grid",
+      "field": "m_carStartPositions",
+      "index": 15,
+      "positionCm": [
+        -9293.49964351155,
+        -2925.1760037254708,
+        39.64047898136911
+      ],
+      "yaw": 46.71124432237724
+    },
+    {
+      "label": "Grid_16",
+      "folder": "Grid",
+      "field": "m_carStartPositions",
+      "index": 16,
+      "positionCm": [
+        -10430.746364559687,
+        -2919.8859668024897,
+        42.98642292381247
+      ],
+      "yaw": 46.817375866672656
+    },
+    {
+      "label": "Grid_17",
+      "folder": "Grid",
+      "field": "m_carStartPositions",
+      "index": 17,
+      "positionCm": [
+        -10423.718007971971,
+        -4053.246852189192,
+        47.12517056587101
+      ],
+      "yaw": 46.97689402074164
+    },
+    {
+      "label": "Grid_18",
+      "folder": "Grid",
+      "field": "m_carStartPositions",
+      "index": 18,
+      "positionCm": [
+        -11563.68207343044,
+        -4051.0504744573836,
+        51.637773300145696
+      ],
+      "yaw": 47.222763666884916
+    },
+    {
+      "label": "Grid_19",
+      "folder": "Grid",
+      "field": "m_carStartPositions",
+      "index": 19,
+      "positionCm": [
+        -11559.678657857556,
+        -5189.9350271691865,
+        57.032986797945185
+      ],
+      "yaw": 47.54982741303485
+    },
+    {
+      "label": "Grid_20",
+      "folder": "Grid",
+      "field": "m_carStartPositions",
+      "index": 20,
+      "positionCm": [
+        -12694.780019698808,
+        -5186.355461269884,
+        62.42161909141332
+      ],
+      "yaw": 47.74825034906682
+    },
+    {
+      "label": "Grid_21",
+      "folder": "Grid",
+      "field": "m_carStartPositions",
+      "index": 21,
+      "positionCm": [
+        -12687.064532694669,
+        -6322.261783004756,
+        68.9050778576833
+      ],
+      "yaw": 47.84854933280176
+    },
+    {
+      "label": "Garages_00",
+      "folder": "Garages",
+      "field": "m_garagePositions",
+      "index": 0,
+      "positionCm": [
+        -8412.122949732826,
+        -5862.585259137175,
+        23.573003135091934
+      ],
+      "yaw": 45.11170754963979
+    },
+    {
+      "label": "Garages_01",
+      "folder": "Garages",
+      "field": "m_garagePositions",
+      "index": 1,
+      "positionCm": [
+        -8852.332059755656,
+        -6308.811424094711,
+        26.24737036368505
+      ],
+      "yaw": 45.30405516733516
+    },
+    {
+      "label": "Garages_02",
+      "folder": "Garages",
+      "field": "m_garagePositions",
+      "index": 2,
+      "positionCm": [
+        -6583.893480870777,
+        -4033.6953540699683,
+        22.206034486509296
+      ],
+      "yaw": 44.78142424230373
+    },
+    {
+      "label": "Garages_03",
+      "folder": "Garages",
+      "field": "m_garagePositions",
+      "index": 3,
+      "positionCm": [
+        -7029.264425956724,
+        -4478.618834171402,
+        21.69649287051292
+      ],
+      "yaw": 44.81073721244669
+    },
+    {
+      "label": "Garages_04",
+      "folder": "Garages",
+      "field": "m_garagePositions",
+      "index": 4,
+      "positionCm": [
+        -5033.327459302462,
+        -2482.176381197171,
+        24.246395691875353
+      ],
+      "yaw": 44.887545441633236
+    },
+    {
+      "label": "Garages_05",
+      "folder": "Garages",
+      "field": "m_garagePositions",
+      "index": 5,
+      "positionCm": [
+        -5479.641902454952,
+        -2928.2689159292154,
+        23.878428350391186
+      ],
+      "yaw": 44.82332370625958
+    },
+    {
+      "label": "Garages_06",
+      "folder": "Garages",
+      "field": "m_garagePositions",
+      "index": 6,
+      "positionCm": [
+        -2844.0129605021957,
+        -291.4514379970855,
+        22.01310278830474
+      ],
+      "yaw": 45.037527108383955
+    },
+    {
+      "label": "Garages_07",
+      "folder": "Garages",
+      "field": "m_garagePositions",
+      "index": 7,
+      "positionCm": [
+        -3288.375014491556,
+        -738.3781541195376,
+        22.645291131512064
+      ],
+      "yaw": 45.02259481274171
+    },
+    {
+      "label": "Garages_08",
+      "folder": "Garages",
+      "field": "m_garagePositions",
+      "index": 8,
+      "positionCm": [
+        -1146.994078601923,
+        1406.058656859191,
+        20.06586375478134
+      ],
+      "yaw": 45.08690119210394
+    },
+    {
+      "label": "Garages_09",
+      "folder": "Garages",
+      "field": "m_garagePositions",
+      "index": 9,
+      "positionCm": [
+        -1591.0276561039182,
+        958.9163690046812,
+        20.43107792517434
+      ],
+      "yaw": 45.07508838997459
+    },
+    {
+      "label": "Garages_10",
+      "folder": "Garages",
+      "field": "m_garagePositions",
+      "index": 10,
+      "positionCm": [
+        568.5283505940143,
+        3122.1681123933886,
+        20.52527299178607
+      ],
+      "yaw": 45.16151636320241
+    },
+    {
+      "label": "Garages_11",
+      "folder": "Garages",
+      "field": "m_garagePositions",
+      "index": 11,
+      "positionCm": [
+        124.88442199923196,
+        2674.345938378891,
+        20.0973540802486
+      ],
+      "yaw": 45.13884430186387
+    },
+    {
+      "label": "Garages_12",
+      "folder": "Garages",
+      "field": "m_garagePositions",
+      "index": 12,
+      "positionCm": [
+        2843.7728221756674,
+        5397.583388910369,
+        24.19158321507237
+      ],
+      "yaw": 45.17548541284316
+    },
+    {
+      "label": "Garages_13",
+      "folder": "Garages",
+      "field": "m_garagePositions",
+      "index": 13,
+      "positionCm": [
+        2400.81218397424,
+        4949.839707890882,
+        23.44161403223143
+      ],
+      "yaw": 45.18616794277512
+    },
+    {
+      "label": "Garages_14",
+      "folder": "Garages",
+      "field": "m_garagePositions",
+      "index": 14,
+      "positionCm": [
+        5090.154037503243,
+        7643.2337991278555,
+        26.479769084685433
+      ],
+      "yaw": 45.08035301925977
+    },
+    {
+      "label": "Garages_15",
+      "folder": "Garages",
+      "field": "m_garagePositions",
+      "index": 15,
+      "positionCm": [
+        4646.420940610313,
+        7196.298061079407,
+        26.1786890773133
+      ],
+      "yaw": 45.092874852957074
+    },
+    {
+      "label": "Garages_16",
+      "folder": "Garages",
+      "field": "m_garagePositions",
+      "index": 16,
+      "positionCm": [
+        6790.461427005263,
+        9343.753952719268,
+        27.30888782087234
+      ],
+      "yaw": 45.076564424785175
+    },
+    {
+      "label": "Garages_17",
+      "folder": "Garages",
+      "field": "m_garagePositions",
+      "index": 17,
+      "positionCm": [
+        6346.236396273828,
+        8896.930839100503,
+        27.129887503378498
+      ],
+      "yaw": 45.07081727775428
+    },
+    {
+      "label": "Garages_18",
+      "folder": "Garages",
+      "field": "m_garagePositions",
+      "index": 18,
+      "positionCm": [
+        8581.40341195499,
+        11134.989411717766,
+        27.930365965350163
+      ],
+      "yaw": 45.13778748804889
+    },
+    {
+      "label": "Garages_19",
+      "folder": "Garages",
+      "field": "m_garagePositions",
+      "index": 19,
+      "positionCm": [
+        8137.167218763963,
+        10687.962610283965,
+        27.76846037794301
+      ],
+      "yaw": 45.12269874889875
+    },
+    {
+      "label": "Garages_20",
+      "folder": "Garages",
+      "field": "m_garagePositions",
+      "index": 20,
+      "positionCm": [
+        10682.768816435491,
+        13235.176153307086,
+        28.7044589819767
+      ],
+      "yaw": 45.165367588101844
+    },
+    {
+      "label": "Garages_21",
+      "folder": "Garages",
+      "field": "m_garagePositions",
+      "index": 21,
+      "positionCm": [
+        10237.916731719002,
+        12789.016074556508,
+        28.575121442642963
+      ],
+      "yaw": 45.16285240845742
+    },
+    {
+      "label": "PitStops_00",
+      "folder": "PitStops",
+      "field": "m_pitStopPositions",
+      "index": 0,
+      "positionCm": [
+        -9565.024942633821,
+        -5159.655420430646,
+        24.73082817602014
+      ],
+      "yaw": 45.200018188067354
+    },
+    {
+      "label": "PitStops_01",
+      "folder": "PitStops",
+      "field": "m_pitStopPositions",
+      "index": 1,
+      "positionCm": [
+        -7723.942140245113,
+        -3332.3551991830677,
+        21.916441798160175
+      ],
+      "yaw": 44.79263153495112
+    },
+    {
+      "label": "PitStops_02",
+      "folder": "PitStops",
+      "field": "m_pitStopPositions",
+      "index": 2,
+      "positionCm": [
+        -6169.541991231064,
+        -1787.5547114770438,
+        24.10752428215057
+      ],
+      "yaw": 44.85178870432622
+    },
+    {
+      "label": "PitStops_03",
+      "folder": "PitStops",
+      "field": "m_pitStopPositions",
+      "index": 3,
+      "positionCm": [
+        -3980.912201308603,
+        398.8458246513347,
+        22.3304978500885
+      ],
+      "yaw": 45.030163374182905
+    },
+    {
+      "label": "PitStops_04",
+      "folder": "PitStops",
+      "field": "m_pitStopPositions",
+      "index": 4,
+      "positionCm": [
+        -2286.335806499712,
+        2097.2262521324296,
+        20.229643863869
+      ],
+      "yaw": 45.08109719614068
+    },
+    {
+      "label": "PitStops_05",
+      "folder": "PitStops",
+      "field": "m_pitStopPositions",
+      "index": 5,
+      "positionCm": [
+        -575.1543506655051,
+        3815.304011278239,
+        20.28857568768146
+      ],
+      "yaw": 45.15099612647778
+    },
+    {
+      "label": "PitStops_06",
+      "folder": "PitStops",
+      "field": "m_pitStopPositions",
+      "index": 6,
+      "positionCm": [
+        1699.800508401885,
+        6090.402495063907,
+        23.82360910899613
+      ],
+      "yaw": 45.18164377118709
+    },
+    {
+      "label": "PitStops_07",
+      "folder": "PitStops",
+      "field": "m_pitStopPositions",
+      "index": 7,
+      "positionCm": [
+        3942.6830573904576,
+        8342.572512821884,
+        26.334668043978432
+      ],
+      "yaw": 45.08601544262959
+    },
+    {
+      "label": "PitStops_08",
+      "folder": "PitStops",
+      "field": "m_pitStopPositions",
+      "index": 8,
+      "positionCm": [
+        5642.237064569308,
+        10044.046968181836,
+        27.22193467763686
+      ],
+      "yaw": 45.07309278442105
+    },
+    {
+      "label": "PitStops_09",
+      "folder": "PitStops",
+      "field": "m_pitStopPositions",
+      "index": 9,
+      "positionCm": [
+        7428.174399312539,
+        11838.403084629941,
+        27.84617612643604
+      ],
+      "yaw": 45.13107500384529
+    },
+    {
+      "label": "PitStops_10",
+      "folder": "PitStops",
+      "field": "m_pitStopPositions",
+      "index": 10,
+      "positionCm": [
+        9520.335976200242,
+        13946.739792739683,
+        28.64452716050472
+      ],
+      "yaw": 45.16429401575696
+    },
+    {
+      "label": "DRSDetection_00",
+      "folder": "DRSDetection",
+      "field": "m_DRSDetection",
+      "index": 0,
+      "positionCm": [
+        -61961.99214666411,
+        115492.88563818709,
+        4213.269244649091
+      ],
+      "yaw": -150.4780371188838
+    },
+    {
+      "label": "DRSDetection_01",
+      "folder": "DRSDetection",
+      "field": "m_DRSDetection",
+      "index": 1,
+      "positionCm": [
+        -27735.750744220848,
+        -4674.912100908885,
+        226.33036586524975
+      ],
+      "yaw": -80.69823194671388
+    },
+    {
+      "label": "DRSStart_00",
+      "folder": "DRSStart",
+      "field": "m_DRSZoneStart",
+      "index": 0,
+      "positionCm": [
+        -61374.648646876776,
+        66345.17106756906,
+        3195.842861036231
+      ],
+      "yaw": -44.649119147362
+    },
+    {
+      "label": "DRSStart_01",
+      "folder": "DRSStart",
+      "field": "m_DRSZoneStart",
+      "index": 1,
+      "positionCm": [
+        -13687.127537942959,
+        -7639.6125097998765,
+        83.65650871802697
+      ],
+      "yaw": 47.65324830675996
+    },
+    {
+      "label": "DRSEnd_00",
+      "folder": "DRSEnd",
+      "field": "m_DRSZoneEnd",
+      "index": 0,
+      "positionCm": [
+        -27735.750744220848,
+        -4674.912100908885,
+        226.33036586524975
+      ],
+      "yaw": -80.69823194671388
+    },
+    {
+      "label": "DRSEnd_01",
+      "folder": "DRSEnd",
+      "field": "m_DRSZoneEnd",
+      "index": 1,
+      "positionCm": [
+        13984.18112840387,
+        22042.409921454244,
+        30.240779847115242
+      ],
+      "yaw": 45.86398390695867
+    },
+    {
+      "label": "Sectors_00",
+      "folder": "Sectors",
+      "field": "m_sectorCheckpoints",
+      "index": 0,
+      "positionCm": [
+        47528.214199872986,
+        32982.0060561972,
+        -469.354410785418
+      ],
+      "yaw": 108.26268409272306
+    },
+    {
+      "label": "Sectors_01",
+      "folder": "Sectors",
+      "field": "m_sectorCheckpoints",
+      "index": 1,
+      "positionCm": [
+        -51588.46700216353,
+        104150.69332177211,
+        3533.376890048366
+      ],
+      "yaw": 72.4984917256207
+    },
+    {
+      "label": "Node_0",
+      "folder": "RaceNodes",
+      "positionCm": [
+        -10782.587502770184,
+        -4451.775553129406,
+        50.19588621882654
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_1",
+      "folder": "RaceNodes",
+      "positionCm": [
+        -5236.824417114258,
+        1447.8175163269043,
+        25.954189896583557
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_2",
+      "folder": "RaceNodes",
+      "positionCm": [
+        233.80067348480225,
+        7401.299285888672,
+        31.94475769996643
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_3",
+      "folder": "RaceNodes",
+      "positionCm": [
+        5704.557037353516,
+        13399.696350097656,
+        31.19369149208069
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_4",
+      "folder": "RaceNodes",
+      "positionCm": [
+        11261.80191040039,
+        19212.564086914062,
+        27.958661317825317
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_5",
+      "folder": "RaceNodes",
+      "positionCm": [
+        16967.982482910156,
+        24849.183654785156,
+        32.54926800727844
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_6",
+      "folder": "RaceNodes",
+      "positionCm": [
+        20284.458923339844,
+        26911.123657226562,
+        29.091423749923706
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_7",
+      "folder": "RaceNodes",
+      "positionCm": [
+        24302.755737304688,
+        27469.140625,
+        77.44153141975403
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_8",
+      "folder": "RaceNodes",
+      "positionCm": [
+        28874.2919921875,
+        26065.750122070312,
+        201.13766193389893
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_9",
+      "folder": "RaceNodes",
+      "positionCm": [
+        30959.72900390625,
+        23644.125366210938,
+        248.16207885742188
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_10",
+      "folder": "RaceNodes",
+      "positionCm": [
+        31469.509887695312,
+        21544.325256347656,
+        252.30045318603516
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_11",
+      "folder": "RaceNodes",
+      "positionCm": [
+        31345.54402883738,
+        20002.265635971467,
+        256.8724348620209
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_12",
+      "folder": "RaceNodes",
+      "positionCm": [
+        30715.682983398438,
+        18073.971557617188,
+        250.96096992492676
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_13",
+      "folder": "RaceNodes",
+      "positionCm": [
+        29586.685180664062,
+        16030.488586425781,
+        195.15832662582397
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_14",
+      "folder": "RaceNodes",
+      "positionCm": [
+        27696.554565429688,
+        13153.607177734375,
+        98.14189672470093
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_15",
+      "folder": "RaceNodes",
+      "positionCm": [
+        25053.912353515625,
+        9441.748046875,
+        -55.30638098716736
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_16",
+      "folder": "RaceNodes",
+      "positionCm": [
+        23258.511352539062,
+        6277.397155761719,
+        -184.05407667160034
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_17",
+      "folder": "RaceNodes",
+      "positionCm": [
+        21914.044189453125,
+        2043.4185028076172,
+        -381.09683990478516
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_18",
+      "folder": "RaceNodes",
+      "positionCm": [
+        21828.021240234375,
+        -2692.3519134521484,
+        -476.7116069793701
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_19",
+      "folder": "RaceNodes",
+      "positionCm": [
+        22546.74530029297,
+        -5972.434234619141,
+        -399.7462272644043
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_20",
+      "folder": "RaceNodes",
+      "positionCm": [
+        25410.902404785156,
+        -13600.608825683594,
+        -20.33151537179947
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_21",
+      "folder": "RaceNodes",
+      "positionCm": [
+        28273.675537109375,
+        -21127.230834960938,
+        395.1457738876343
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_22",
+      "folder": "RaceNodes",
+      "positionCm": [
+        31231.893920898438,
+        -28583.94775390625,
+        530.5266857147217
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_23",
+      "folder": "RaceNodes",
+      "positionCm": [
+        32382.830810546875,
+        -30627.499389648438,
+        537.2531890869141
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_24",
+      "folder": "RaceNodes",
+      "positionCm": [
+        33897.84851074219,
+        -32157.077026367188,
+        537.7829551696777
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_25",
+      "folder": "RaceNodes",
+      "positionCm": [
+        35755.70373535156,
+        -32814.996337890625,
+        545.4531669616699
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_26",
+      "folder": "RaceNodes",
+      "positionCm": [
+        37216.72058105469,
+        -32462.826538085938,
+        557.3283195495605
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_27",
+      "folder": "RaceNodes",
+      "positionCm": [
+        37980.596923828125,
+        -31724.2919921875,
+        564.7789478302002
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_28",
+      "folder": "RaceNodes",
+      "positionCm": [
+        38431.15234375,
+        -30748.873901367188,
+        570.3460216522217
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_29",
+      "folder": "RaceNodes",
+      "positionCm": [
+        38742.87414550781,
+        -29394.686889648438,
+        576.7743110656738
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_30",
+      "folder": "RaceNodes",
+      "positionCm": [
+        38959.92126464844,
+        -27862.136840820312,
+        576.6002178192139
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_31",
+      "folder": "RaceNodes",
+      "positionCm": [
+        39919.42138671875,
+        -25071.705627441406,
+        580.6002140045166
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_32",
+      "folder": "RaceNodes",
+      "positionCm": [
+        41305.62438964844,
+        -22825.86669921875,
+        552.9877662658691
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_33",
+      "folder": "RaceNodes",
+      "positionCm": [
+        42589.495849609375,
+        -21437.440490722656,
+        505.9818744659424
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_34",
+      "folder": "RaceNodes",
+      "positionCm": [
+        44154.17785644531,
+        -20163.368225097656,
+        448.15587997436523
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_35",
+      "folder": "RaceNodes",
+      "positionCm": [
+        45329.81262207031,
+        -19302.218627929688,
+        400.5608558654785
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_36",
+      "folder": "RaceNodes",
+      "positionCm": [
+        47560.38513183594,
+        -16994.273376464844,
+        313.74428272247314
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_37",
+      "folder": "RaceNodes",
+      "positionCm": [
+        49625.689697265625,
+        -12644.194793701172,
+        230.7886838912964
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_38",
+      "folder": "RaceNodes",
+      "positionCm": [
+        50129.75158691406,
+        -8406.602478027344,
+        102.38206386566162
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_39",
+      "folder": "RaceNodes",
+      "positionCm": [
+        49718.93615722656,
+        -4659.630584716797,
+        0.16607544384896755
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_40",
+      "folder": "RaceNodes",
+      "positionCm": [
+        49825.189208984375,
+        -911.6869926452637,
+        -85.8799397945404
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_41",
+      "folder": "RaceNodes",
+      "positionCm": [
+        51060.28137207031,
+        3229.2625427246094,
+        -121.73728942871094
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_42",
+      "folder": "RaceNodes",
+      "positionCm": [
+        53448.876953125,
+        7942.250823974609,
+        -154.15499210357666
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_43",
+      "folder": "RaceNodes",
+      "positionCm": [
+        54514.5263671875,
+        10572.74169921875,
+        -167.4382448196411
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_44",
+      "folder": "RaceNodes",
+      "positionCm": [
+        55230.57861328125,
+        14370.024108886719,
+        -182.39227533340454
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_45",
+      "folder": "RaceNodes",
+      "positionCm": [
+        55048.4375,
+        18483.807373046875,
+        -235.59110164642334
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_46",
+      "folder": "RaceNodes",
+      "positionCm": [
+        53534.991455078125,
+        23224.64599609375,
+        -300.73556900024414
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_47",
+      "folder": "RaceNodes",
+      "positionCm": [
+        52040.63720703125,
+        25872.7783203125,
+        -351.869535446167
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_48",
+      "folder": "RaceNodes",
+      "positionCm": [
+        49476.483154296875,
+        29273.428344726562,
+        -415.7972812652588
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_49",
+      "folder": "RaceNodes",
+      "positionCm": [
+        47689.74914550781,
+        32572.161865234375,
+        -463.58842849731445
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_50",
+      "folder": "RaceNodes",
+      "positionCm": [
+        47528.2141727904,
+        32982.00613826628,
+        -469.35441216954825
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_51",
+      "folder": "RaceNodes",
+      "positionCm": [
+        46626.49230957031,
+        36344.00329589844,
+        -535.1135730743408
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_52",
+      "folder": "RaceNodes",
+      "positionCm": [
+        46438.00048828125,
+        40433.624267578125,
+        -684.4346523284912
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_53",
+      "folder": "RaceNodes",
+      "positionCm": [
+        46873.31848144531,
+        43133.03527832031,
+        -803.9203643798828
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_54",
+      "folder": "RaceNodes",
+      "positionCm": [
+        47537.93640136719,
+        45280.81359863281,
+        -897.9191780090332
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_55",
+      "folder": "RaceNodes",
+      "positionCm": [
+        48575.6103515625,
+        48226.934814453125,
+        -1015.8570289611816
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_56",
+      "folder": "RaceNodes",
+      "positionCm": [
+        48938.4521484375,
+        50212.31384277344,
+        -1080.6013107299805
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_57",
+      "folder": "RaceNodes",
+      "positionCm": [
+        48628.98864746094,
+        52180.322265625,
+        -1128.9361953735352
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_58",
+      "folder": "RaceNodes",
+      "positionCm": [
+        47617.72766113281,
+        53717.437744140625,
+        -1161.543369293213
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_59",
+      "folder": "RaceNodes",
+      "positionCm": [
+        45714.73083496094,
+        54669.012451171875,
+        -1167.4591064453125
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_60",
+      "folder": "RaceNodes",
+      "positionCm": [
+        42036.18469238281,
+        54369.07958984375,
+        -1070.4033851623535
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_61",
+      "folder": "RaceNodes",
+      "positionCm": [
+        37843.99719238281,
+        53137.451171875,
+        -912.7324104309082
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_62",
+      "folder": "RaceNodes",
+      "positionCm": [
+        30006.997680664062,
+        51501.251220703125,
+        -417.9548740386963
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_63",
+      "folder": "RaceNodes",
+      "positionCm": [
+        25143.365478515625,
+        50999.9267578125,
+        -198.71290922164917
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_64",
+      "folder": "RaceNodes",
+      "positionCm": [
+        21942.660522460938,
+        50938.65661621094,
+        -115.26761054992676
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_65",
+      "folder": "RaceNodes",
+      "positionCm": [
+        17121.238708496094,
+        51145.91979980469,
+        -79.27731275558472
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_66",
+      "folder": "RaceNodes",
+      "positionCm": [
+        13891.706848144531,
+        51491.168212890625,
+        -101.99227333068848
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_67",
+      "folder": "RaceNodes",
+      "positionCm": [
+        9146.393585205078,
+        51966.80908203125,
+        -141.41137599945068
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_68",
+      "folder": "RaceNodes",
+      "positionCm": [
+        5786.077880859375,
+        51751.312255859375,
+        -141.12975597381592
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_69",
+      "folder": "RaceNodes",
+      "positionCm": [
+        1895.577049255371,
+        50189.2578125,
+        -15.365305542945862
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_70",
+      "folder": "RaceNodes",
+      "positionCm": [
+        -1072.0842361450195,
+        47686.40441894531,
+        170.7439422607422
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_71",
+      "folder": "RaceNodes",
+      "positionCm": [
+        -3061.8175506591797,
+        45199.34997558594,
+        303.78408432006836
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_72",
+      "folder": "RaceNodes",
+      "positionCm": [
+        -4704.819488525391,
+        43524.639892578125,
+        386.1800193786621
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_73",
+      "folder": "RaceNodes",
+      "positionCm": [
+        -6836.3128662109375,
+        42216.015625,
+        475.41494369506836
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_74",
+      "folder": "RaceNodes",
+      "positionCm": [
+        -10627.860260009766,
+        41470.623779296875,
+        604.6483993530273
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_75",
+      "folder": "RaceNodes",
+      "positionCm": [
+        -14807.72705078125,
+        42238.63220214844,
+        774.7245788574219
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_76",
+      "folder": "RaceNodes",
+      "positionCm": [
+        -22300.42266845703,
+        45157.000732421875,
+        1067.9496765136719
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_77",
+      "folder": "RaceNodes",
+      "positionCm": [
+        -29665.591430664062,
+        48428.01818847656,
+        1347.4091529846191
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_78",
+      "folder": "RaceNodes",
+      "positionCm": [
+        -36773.06823730469,
+        52255.023193359375,
+        1666.561508178711
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_79",
+      "folder": "RaceNodes",
+      "positionCm": [
+        -42931.73522949219,
+        57416.845703125,
+        1975.223731994629
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_80",
+      "folder": "RaceNodes",
+      "positionCm": [
+        -48715.79895019531,
+        63004.302978515625,
+        2281.0876846313477
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_81",
+      "folder": "RaceNodes",
+      "positionCm": [
+        -51999.40185546875,
+        66242.0654296875,
+        2467.7536010742188
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_82",
+      "folder": "RaceNodes",
+      "positionCm": [
+        -54172.552490234375,
+        68871.28295898438,
+        2598.6101150512695
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_83",
+      "folder": "RaceNodes",
+      "positionCm": [
+        -56252.96630859375,
+        72463.90380859375,
+        2739.093589782715
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_84",
+      "folder": "RaceNodes",
+      "positionCm": [
+        -57487.158203125,
+        76096.7529296875,
+        2864.7727966308594
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_85",
+      "folder": "RaceNodes",
+      "positionCm": [
+        -57969.793701171875,
+        81136.03515625,
+        3045.1608657836914
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_86",
+      "folder": "RaceNodes",
+      "positionCm": [
+        -57656.378173828125,
+        84051.77001953125,
+        3138.496208190918
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_87",
+      "folder": "RaceNodes",
+      "positionCm": [
+        -56660.3515625,
+        88468.28002929688,
+        3239.398956298828
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_88",
+      "folder": "RaceNodes",
+      "positionCm": [
+        -55648.81591796875,
+        91803.47290039062,
+        3291.7388916015625
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_89",
+      "folder": "RaceNodes",
+      "positionCm": [
+        -53128.973388671875,
+        99487.65258789062,
+        3416.260528564453
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_90",
+      "folder": "RaceNodes",
+      "positionCm": [
+        -51588.46698643742,
+        104150.69337164509,
+        3533.3768913724457
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_91",
+      "folder": "RaceNodes",
+      "positionCm": [
+        -50668.10607910156,
+        107214.39208984375,
+        3619.0685272216797
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_92",
+      "folder": "RaceNodes",
+      "positionCm": [
+        -48483.12072753906,
+        115032.14111328125,
+        3892.5628662109375
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_93",
+      "folder": "RaceNodes",
+      "positionCm": [
+        -47816.15905761719,
+        117740.17333984375,
+        4010.6689453125
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_94",
+      "folder": "RaceNodes",
+      "positionCm": [
+        -47926.36413574219,
+        119552.197265625,
+        4058.5060119628906
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_95",
+      "folder": "RaceNodes",
+      "positionCm": [
+        -49118.243408203125,
+        120881.25,
+        4060.5228424072266
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_96",
+      "folder": "RaceNodes",
+      "positionCm": [
+        -50757.89794921875,
+        121095.7275390625,
+        4070.641326904297
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_97",
+      "folder": "RaceNodes",
+      "positionCm": [
+        -53397.613525390625,
+        120278.64990234375,
+        4091.3578033447266
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_98",
+      "folder": "RaceNodes",
+      "positionCm": [
+        -58025.7080078125,
+        117713.0615234375,
+        4172.4456787109375
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_99",
+      "folder": "RaceNodes",
+      "positionCm": [
+        -64994.708251953125,
+        113776.37939453125,
+        4227.622222900391
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_100",
+      "folder": "RaceNodes",
+      "positionCm": [
+        -69657.080078125,
+        111144.775390625,
+        4195.669937133789
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_101",
+      "folder": "RaceNodes",
+      "positionCm": [
+        -71826.91040039062,
+        109505.99365234375,
+        4172.048187255859
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_102",
+      "folder": "RaceNodes",
+      "positionCm": [
+        -74438.90991210938,
+        106569.05517578125,
+        4061.8831634521484
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_103",
+      "folder": "RaceNodes",
+      "positionCm": [
+        -76246.74072265625,
+        102831.40869140625,
+        3959.9903106689453
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_104",
+      "folder": "RaceNodes",
+      "positionCm": [
+        -76733.97827148438,
+        100133.88671875,
+        3989.4752502441406
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_105",
+      "folder": "RaceNodes",
+      "positionCm": [
+        -76767.74291992188,
+        94787.548828125,
+        4021.8460083007812
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_106",
+      "folder": "RaceNodes",
+      "positionCm": [
+        -76533.04443359375,
+        91370.39794921875,
+        4026.828384399414
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_107",
+      "folder": "RaceNodes",
+      "positionCm": [
+        -75592.64526367188,
+        86785.71166992188,
+        4007.4981689453125
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_108",
+      "folder": "RaceNodes",
+      "positionCm": [
+        -72598.92578125,
+        79368.95141601562,
+        3832.706832885742
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_109",
+      "folder": "RaceNodes",
+      "positionCm": [
+        -67793.54858398438,
+        72843.24340820312,
+        3552.2754669189453
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_110",
+      "folder": "RaceNodes",
+      "positionCm": [
+        -62114.691162109375,
+        67079.13818359375,
+        3242.7413940429688
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_111",
+      "folder": "RaceNodes",
+      "positionCm": [
+        -56382.354736328125,
+        61476.318359375,
+        2843.0862426757812
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_112",
+      "folder": "RaceNodes",
+      "positionCm": [
+        -50623.39782714844,
+        55877.5390625,
+        2376.0604858398438
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_113",
+      "folder": "RaceNodes",
+      "positionCm": [
+        -45019.53430175781,
+        50159.76257324219,
+        1979.4485092163086
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_114",
+      "folder": "RaceNodes",
+      "positionCm": [
+        -39967.626953125,
+        43875.06103515625,
+        1626.0356903076172
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_115",
+      "folder": "RaceNodes",
+      "positionCm": [
+        -35942.39807128906,
+        36949.57275390625,
+        1347.4228858947754
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_116",
+      "folder": "RaceNodes",
+      "positionCm": [
+        -33185.25390625,
+        29343.893432617188,
+        1125.6555557250977
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_117",
+      "folder": "RaceNodes",
+      "positionCm": [
+        -31475.991821289062,
+        21518.798828125,
+        996.7185974121094
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_118",
+      "folder": "RaceNodes",
+      "positionCm": [
+        -30372.900390625,
+        13522.254943847656,
+        684.2097759246826
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_119",
+      "folder": "RaceNodes",
+      "positionCm": [
+        -29278.204345703125,
+        5444.682312011719,
+        360.69326400756836
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_120",
+      "folder": "RaceNodes",
+      "positionCm": [
+        -28082.916259765625,
+        -2518.4810638427734,
+        236.4746332168579
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_121",
+      "folder": "RaceNodes",
+      "positionCm": [
+        -27018.71661304726,
+        -8979.87276835454,
+        230.873097152466
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_122",
+      "folder": "RaceNodes",
+      "positionCm": [
+        -26761.8896484375,
+        -10492.848205566406,
+        239.51129913330078
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_123",
+      "folder": "RaceNodes",
+      "positionCm": [
+        -26219.90966796875,
+        -12740.926361083984,
+        258.6259603500366
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_124",
+      "folder": "RaceNodes",
+      "positionCm": [
+        -25157.05108642578,
+        -14218.757629394531,
+        268.87004375457764
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_125",
+      "folder": "RaceNodes",
+      "positionCm": [
+        -23360.7177734375,
+        -15016.087341308594,
+        247.13640213012695
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_126",
+      "folder": "RaceNodes",
+      "positionCm": [
+        -21409.011840820312,
+        -14700.379943847656,
+        225.16770362854004
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_127",
+      "folder": "RaceNodes",
+      "positionCm": [
+        -19428.45458984375,
+        -13518.582153320312,
+        208.16493034362793
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_128",
+      "folder": "RaceNodes",
+      "positionCm": [
+        -15362.300109863281,
+        -9440.814208984375,
+        111.47335767745972
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_129",
+      "folder": "PitNodes",
+      "positionCm": [
+        -28082.916259765625,
+        -2518.4810638427734,
+        236.4746332168579
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_130",
+      "folder": "PitNodes",
+      "positionCm": [
+        -27018.71661304726,
+        -8979.87276835454,
+        230.873097152466
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_131",
+      "folder": "PitNodes",
+      "positionCm": [
+        -25975.86669921875,
+        -15003.172302246094,
+        259.8116636276245
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_132",
+      "folder": "PitNodes",
+      "positionCm": [
+        -25599.954223632812,
+        -16496.070861816406,
+        252.47721672058105
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_133",
+      "folder": "PitNodes",
+      "positionCm": [
+        -24695.452880859375,
+        -17906.06689453125,
+        243.1854486465454
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_134",
+      "folder": "PitNodes",
+      "positionCm": [
+        -23347.520446777344,
+        -18587.21160888672,
+        233.04667472839355
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_135",
+      "folder": "PitNodes",
+      "positionCm": [
+        -21986.849975585938,
+        -18484.054565429688,
+        229.56438064575195
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_136",
+      "folder": "PitNodes",
+      "positionCm": [
+        -18484.28497314453,
+        -16302.412414550781,
+        193.71116161346436
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_137",
+      "folder": "PitNodes",
+      "positionCm": [
+        -17318.614196777344,
+        -14847.200012207031,
+        184.55203771591187
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_138",
+      "folder": "PitNodes",
+      "positionCm": [
+        -15222.093528112833,
+        -11243.380058387029,
+        129.35396750048614
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_139",
+      "folder": "PitNodes",
+      "positionCm": [
+        -14214.84375,
+        -9649.683380126953,
+        100.65871477127075
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_140",
+      "folder": "PitNodes",
+      "positionCm": [
+        -12959.197998046875,
+        -8100.798034667969,
+        70.24555206298828
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_141",
+      "folder": "PitNodes",
+      "positionCm": [
+        -10060.411834716797,
+        -5128.69758605957,
+        26.306256651878357
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_142",
+      "folder": "PitNodes",
+      "positionCm": [
+        -5809.699249267578,
+        -892.7366256713867,
+        24.184520542621613
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_143",
+      "folder": "PitNodes",
+      "positionCm": [
+        -1569.5883750915527,
+        3354.076385498047,
+        19.86294388771057
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_144",
+      "folder": "PitNodes",
+      "positionCm": [
+        2661.362648010254,
+        7609.510040283203,
+        25.53231418132782
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_145",
+      "folder": "PitNodes",
+      "positionCm": [
+        6898.186492919922,
+        11859.333038330078,
+        27.758249640464783
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_146",
+      "folder": "PitNodes",
+      "positionCm": [
+        11130.038452148438,
+        16114.1357421875,
+        28.281062841415405
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_147",
+      "folder": "PitNodes",
+      "positionCm": [
+        11611.177112252988,
+        16597.268215763186,
+        26.556106326341073
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_148",
+      "folder": "PitNodes",
+      "positionCm": [
+        15389.695739746094,
+        20403.526306152344,
+        25.85410177707672
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_149",
+      "folder": "PitNodes",
+      "positionCm": [
+        19656.149291992188,
+        24704.757690429688,
+        23.452848196029663
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_150",
+      "folder": "PitNodes",
+      "positionCm": [
+        20545.310974121094,
+        25549.851989746094,
+        22.875621914863586
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_151",
+      "folder": "PitNodes",
+      "positionCm": [
+        21863.525390625,
+        26302.996826171875,
+        34.959593415260315
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_152",
+      "folder": "PitNodes",
+      "positionCm": [
+        23678.42559814453,
+        26548.641967773438,
+        66.67400002479553
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_153",
+      "folder": "PitNodes",
+      "positionCm": [
+        25202.197265625,
+        26331.234741210938,
+        93.90200972557068
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_154",
+      "folder": "PitNodes",
+      "positionCm": [
+        28648.13232421875,
+        25476.65252685547,
+        176.11455917358398
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_155",
+      "folder": "PitNodes",
+      "positionCm": [
+        30643.182373046875,
+        24083.963012695312,
+        235.16530990600586
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_156",
+      "folder": "PitNodes",
+      "positionCm": [
+        31373.019409179688,
+        22419.911193847656,
+        248.01361560821533
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_157",
+      "folder": "PitNodes",
+      "positionCm": [
+        31345.54402883738,
+        20002.265635971467,
+        256.8724348620209
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Node_158",
+      "folder": "PitNodes",
+      "positionCm": [
+        30715.682983398438,
+        18073.971557617188,
+        250.96096992492676
+      ],
+      "yaw": 0
+    }
+  ],
+  "installable": false
+}

@@ -1,0 +1,9 @@
+# Approximate diffuse only. AC shader settings in materials.json.
+newmtl material_0
+Kd 1 1 1
+map_Kd textures/0_ADS_ROLEXCLOCK.DDS
+
+newmtl material_1
+Kd 1 1 1
+map_Kd textures/2_ADS_ROLEX_TEXT.DDS
+

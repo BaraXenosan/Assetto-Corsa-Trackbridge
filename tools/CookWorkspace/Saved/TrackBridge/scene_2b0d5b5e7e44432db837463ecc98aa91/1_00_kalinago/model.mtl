@@ -1,0 +1,277 @@
+# Approximate diffuse only. AC shader settings in materials.json.
+newmtl material_0
+Kd 1 1 1
+map_Kd textures/0_CLASS.DDS
+
+newmtl material_1
+Kd 1 1 1
+map_Kd textures/1_WINDOW.DDS
+
+newmtl material_2
+Kd 1 1 1
+map_Kd textures/0_CLASS.DDS
+
+newmtl material_3
+Kd 1 1 1
+map_Kd textures/2_DIGIFLAGS.DDS
+
+newmtl material_4
+Kd 1 1 1
+map_Kd textures/3_FENCEC.DDS
+
+newmtl material_5
+Kd 1 1 1
+map_Kd textures/5_WALL_SAFER.DDS
+
+newmtl material_6
+Kd 1 1 1
+map_Kd textures/7_WALL_BRICKS.DDS
+
+newmtl material_7
+Kd 1 1 1
+map_Kd textures/9_WALLSTONE.DDS
+
+newmtl material_8
+Kd 1 1 1
+map_Kd textures/11_XCOLORS.DDS
+
+newmtl material_9
+Kd 1 1 1
+map_Kd textures/13_GAR_DOORA.DDS
+
+newmtl material_10
+Kd 1 1 1
+map_Kd textures/15_GAR_WALL.DDS
+
+newmtl material_11
+Kd 1 1 1
+map_Kd textures/17_METALPOLE.DDS
+
+newmtl material_12
+Kd 1 1 1
+map_Kd textures/18_WALL_TECPRO.DDS
+
+newmtl material_13
+Kd 1 1 1
+map_Kd textures/20_WALL_TIRES.DDS
+
+newmtl material_14
+Kd 1 1 1
+map_Kd textures/22_XGREY.DDS
+
+newmtl material_15
+Kd 1 1 1
+map_Kd textures/23_GRAIL.DDS
+
+newmtl material_16
+Kd 1 1 1
+map_Kd textures/25_WALLA.DDS
+
+newmtl material_17
+Kd 1 1 1
+map_Kd textures/27_CURBS.DDS
+
+newmtl material_18
+Kd 1 1 1
+map_Kd textures/29_ASTRO.DDS
+
+newmtl material_19
+Kd 1 1 1
+map_Kd textures/31_DIGIFLAG.DDS
+
+newmtl material_20
+Kd 1 1 1
+map_Kd textures/11_XCOLORS.DDS
+
+newmtl material_21
+Kd 1 1 1
+map_Kd textures/11_XCOLORS.DDS
+
+newmtl material_22
+Kd 1 1 1
+map_Kd textures/32_XPINK.dds
+
+newmtl material_23
+Kd 1 1 1
+map_Kd textures/33_WIN_FRAME.DDS
+
+newmtl material_24
+Kd 1 1 1
+map_Kd textures/34_XBLACK.DDS
+
+newmtl material_25
+Kd 1 1 1
+map_Kd textures/35_CEILING.DDS
+
+newmtl material_26
+Kd 1 1 1
+map_Kd textures/36_GAR_DOORB.DDS
+
+newmtl material_27
+Kd 1 1 1
+map_Kd textures/37_xBEIGE.DDS
+
+newmtl material_28
+Kd 1 1 1
+map_Kd textures/38_GAR_CONC.DDS
+
+newmtl material_29
+Kd 1 1 1
+map_Kd textures/31_DIGIFLAG.DDS
+
+newmtl material_30
+Kd 1 1 1
+map_Kd textures/31_DIGIFLAG.DDS
+
+newmtl material_31
+Kd 1 1 1
+map_Kd textures/31_DIGIFLAG.DDS
+
+newmtl material_32
+Kd 1 1 1
+map_Kd textures/39_BRKMARKERS.DDS
+
+newmtl material_33
+Kd 1 1 1
+map_Kd textures/31_DIGIFLAG.DDS
+
+newmtl material_34
+Kd 1 1 1
+map_Kd textures/40_STARTLIGHT.DDS
+
+newmtl material_35
+Kd 1 1 1
+map_Kd textures/41_NULL.dds
+
+newmtl material_36
+Kd 1 1 1
+map_Kd textures/42_MSTATION.DDS
+
+newmtl material_37
+Kd 1 1 1
+map_Kd textures/43_WALLB.DDS
+
+newmtl material_38
+Kd 1 1 1
+map_Kd textures/44_WALL_TIRESTOP.DDS
+
+newmtl material_39
+Kd 1 1 1
+map_Kd textures/45_GSTANDA.DDS
+
+newmtl material_40
+Kd 1 1 1
+map_Kd textures/46_WALLC.DDS
+
+newmtl material_41
+Kd 1 1 1
+map_Kd textures/47_DIRTWALL.DDS
+
+newmtl material_42
+Kd 1 1 1
+map_Kd textures/53_DIRT.DDS
+
+newmtl material_43
+Kd 1 1 1
+map_Kd textures/55_STRIPES.DDS
+
+newmtl material_44
+Kd 1 1 1
+map_Kd textures/58_DRAIN.DDS
+
+newmtl material_45
+Kd 1 1 1
+map_Kd textures/60_TARMAC.DDS
+
+newmtl material_46
+Kd 1 1 1
+map_Kd textures/61_ROADOLD.DDS
+
+newmtl material_47
+Kd 1 1 1
+map_Kd textures/63_ROADH.DDS
+
+newmtl material_48
+Kd 1 1 1
+map_Kd textures/64_GRASB.DDS
+
+newmtl material_49
+Kd 1 1 1
+map_Kd textures/66_PAINT.DDS
+
+newmtl material_50
+Kd 1 1 1
+map_Kd textures/67_CONCRETE.DDS
+
+newmtl material_51
+Kd 1 1 1
+map_Kd textures/69_ROADP.DDS
+
+newmtl material_52
+Kd 1 1 1
+map_Kd textures/70_ROADN.DDS
+
+newmtl material_53
+Kd 1 1 1
+map_Kd textures/71_GRASA.DDS
+
+newmtl material_54
+Kd 1 1 1
+map_Kd textures/72_ROADA.DDS
+
+newmtl material_55
+Kd 1 1 1
+map_Kd textures/73_GRAVEL.DDS
+
+newmtl material_56
+Kd 1 1 1
+map_Kd textures/75_RAILING.DDS
+
+newmtl material_57
+Kd 1 1 1
+map_Kd textures/77_GSTAND_SEATS.DDS
+
+newmtl material_58
+Kd 1 1 1
+map_Kd textures/79_alonso.dds
+
+newmtl material_59
+Kd 1 1 1
+map_Kd textures/80_EDGE_ROAD.DDS
+
+newmtl material_60
+Kd 1 1 1
+map_Kd textures/81_ROADLINES_A.DDS
+
+newmtl material_61
+Kd 1 1 1
+map_Kd textures/82_TREE_HEDGE.DDS
+
+newmtl material_62
+Kd 1 1 1
+map_Kd textures/83_FENCEB.dds
+
+newmtl material_63
+Kd 1 1 1
+map_Kd textures/84_FENCEPIT.DDS
+
+newmtl material_64
+Kd 1 1 1
+map_Kd textures/85_METALGIRDER.DDS
+
+newmtl material_65
+Kd 1 1 1
+map_Kd textures/86_GSTANDROOF.DDS
+
+newmtl material_66
+Kd 1 1 1
+map_Kd textures/87_FENCEA.dds
+
+newmtl material_67
+Kd 1 1 1
+map_Kd textures/88_EDGE_DIRT.DDS
+
+newmtl material_68
+Kd 1 1 1
+map_Kd textures/89_EDGE_GRAVEL.DDS
+

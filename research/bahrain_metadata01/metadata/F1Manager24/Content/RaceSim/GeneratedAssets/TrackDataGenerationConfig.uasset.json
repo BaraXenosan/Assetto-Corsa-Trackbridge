@@ -1,0 +1,25 @@
+{
+  "package": "F1Manager24/Content/RaceSim/GeneratedAssets/TrackDataGenerationConfig.uasset",
+  "metadataOnly": true,
+  "Name": "/Game/RaceSim/GeneratedAssets/TrackDataGenerationConfig",
+  "names": [
+    "TrackDataGenerationConfig",
+    "/Game/RaceSim/GeneratedAssets/TrackDataGenerationConfig"
+  ],
+  "exports": [
+    {
+      "index": 0,
+      "name": "TrackDataGenerationConfig",
+      "type": "/Script/RaceSim.TrackDataGenerationConfig",
+      "outer": null,
+      "serialOffset": 699,
+      "serialSize": 6
+    }
+  ],
+  "imports": [
+    "/Script/RaceSim.TrackDataGenerationConfig",
+    "/Script/RaceSim",
+    "/Script/RaceSim.Default__TrackDataGenerationConfig"
+  ],
+  "dependencies": []
+}

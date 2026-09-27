@@ -1,0 +1,1757 @@
+{
+  "installable": false,
+  "source": "bahrain_live04",
+  "buildSha256": "1198feb7b1f39653fe51f04c9b0acb4d125a67d0e8ba6bda1fa353b3368ab356",
+  "curve": "centripetal Catmull-Rom, alpha=0.5",
+  "evidence": {
+    "nodes": 125,
+    "activeSegments": 122,
+    "tableEntries": 6307,
+    "positionScaleError": 1.1368683772161603e-13,
+    "maxKnotError": 0.000002588839485895278,
+    "maxArcErrorM": 0.00009285595675123659,
+    "maxEndpointErrorM": 0.0017182396109760344,
+    "totalRaceLengthM": 5345.802498340607,
+    "carsObserved": 22,
+    "inverseReferences": 55,
+    "maxInverseParameterError": 9.465085604176693e-7
+  },
+  "observations": {
+    "serializedPositions": "centimetres",
+    "runtimePositionCache": "metres",
+    "runtimeArcLengths": "metres",
+    "raceWrap": 108,
+    "activePitSegments": [
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122
+    ]
+  },
+  "limitations": [
+    "Measured on this Bahrain build only",
+    "Lateral-offset sign and moving-car native track-position field require separate validation",
+    "Table sampling/float-rounding generation not yet reproduced exactly",
+    "No Kalinago game test"
+  ],
+  "segments": [
+    {
+      "node": 0,
+      "controls": [
+        107,
+        0,
+        1,
+        2
+      ],
+      "entries": 191,
+      "storedLengthM": 191.82691955566406,
+      "storedChainageM": 384.18353271484375,
+      "maxArcErrorM": 0.00003698393734907768,
+      "endpointErrorM": 0.0007525579403892481
+    },
+    {
+      "node": 1,
+      "controls": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "entries": 54,
+      "storedLengthM": 54.364078521728516,
+      "storedChainageM": 576.0104370117188,
+      "maxArcErrorM": 0.000004397971238745413,
+      "endpointErrorM": 5.684341886080802e-14
+    },
+    {
+      "node": 2,
+      "controls": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "entries": 41,
+      "storedLengthM": 41.81771469116211,
+      "storedChainageM": 630.37451171875,
+      "maxArcErrorM": 0.00000585188975321671,
+      "endpointErrorM": 5.684341886080802e-14
+    },
+    {
+      "node": 3,
+      "controls": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "entries": 33,
+      "storedLengthM": 33.03468322753906,
+      "storedChainageM": 672.1921997070312,
+      "maxArcErrorM": 0.000026045094308813077,
+      "endpointErrorM": 0
+    },
+    {
+      "node": 4,
+      "controls": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "entries": 15,
+      "storedLengthM": 15.649532318115234,
+      "storedChainageM": 705.2268676757812,
+      "maxArcErrorM": 0.0000016113736460710015,
+      "endpointErrorM": 1.7763568394002505e-15
+    },
+    {
+      "node": 5,
+      "controls": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "entries": 9,
+      "storedLengthM": 9.490017890930176,
+      "storedChainageM": 720.8764038085938,
+      "maxArcErrorM": 0.00000668710112350368,
+      "endpointErrorM": 0.000003815091922241864
+    },
+    {
+      "node": 6,
+      "controls": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "entries": 6,
+      "storedLengthM": 6.228688716888428,
+      "storedChainageM": 730.3663940429688,
+      "maxArcErrorM": 1.675517733445986e-7,
+      "endpointErrorM": 0
+    },
+    {
+      "node": 7,
+      "controls": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "entries": 14,
+      "storedLengthM": 14.368983268737793,
+      "storedChainageM": 736.5950927734375,
+      "maxArcErrorM": 0.000011946701789611325,
+      "endpointErrorM": 0.000004080852208749158
+    },
+    {
+      "node": 8,
+      "controls": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "entries": 28,
+      "storedLengthM": 28.761552810668945,
+      "storedChainageM": 750.9640502929688,
+      "maxArcErrorM": 0.000028483496372189165,
+      "endpointErrorM": 3.552713678800501e-15
+    },
+    {
+      "node": 9,
+      "controls": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "entries": 25,
+      "storedLengthM": 25.049428939819336,
+      "storedChainageM": 779.7255859375,
+      "maxArcErrorM": 0.000024823463260048584,
+      "endpointErrorM": 1.7763568394002505e-15
+    },
+    {
+      "node": 10,
+      "controls": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "entries": 21,
+      "storedLengthM": 21.531139373779297,
+      "storedChainageM": 804.7750244140625,
+      "maxArcErrorM": 0.000021389999218968114,
+      "endpointErrorM": 0.0000052245032811271245
+    },
+    {
+      "node": 11,
+      "controls": [
+        10,
+        11,
+        12,
+        13
+      ],
+      "entries": 49,
+      "storedLengthM": 49.403987884521484,
+      "storedChainageM": 826.30615234375,
+      "maxArcErrorM": 0.000007038334054243478,
+      "endpointErrorM": 1.1368683772161603e-13
+    },
+    {
+      "node": 12,
+      "controls": [
+        11,
+        12,
+        13,
+        14
+      ],
+      "entries": 57,
+      "storedLengthM": 57.70965576171875,
+      "storedChainageM": 875.7101440429688,
+      "maxArcErrorM": 0.0000038063421428091715,
+      "endpointErrorM": 0.00015575367197740388
+    },
+    {
+      "node": 13,
+      "controls": [
+        12,
+        13,
+        14,
+        15
+      ],
+      "entries": 80,
+      "storedLengthM": 80.87812042236328,
+      "storedChainageM": 933.4197998046875,
+      "maxArcErrorM": 0.00001707872764500351,
+      "endpointErrorM": 0.00024780102570048603
+    },
+    {
+      "node": 14,
+      "controls": [
+        13,
+        14,
+        15,
+        16
+      ],
+      "entries": 127,
+      "storedLengthM": 127.08592224121094,
+      "storedChainageM": 1014.2979125976562,
+      "maxArcErrorM": 0.0000317797250914964,
+      "endpointErrorM": 3.66205343881779e-15
+    },
+    {
+      "node": 15,
+      "controls": [
+        14,
+        15,
+        16,
+        17
+      ],
+      "entries": 103,
+      "storedLengthM": 103.93125915527344,
+      "storedChainageM": 1141.3837890625,
+      "maxArcErrorM": 0.000027972933793307675,
+      "endpointErrorM": 0.000060184548646907526
+    },
+    {
+      "node": 16,
+      "controls": [
+        15,
+        16,
+        17,
+        18
+      ],
+      "entries": 118,
+      "storedLengthM": 118.00262451171875,
+      "storedChainageM": 1245.3150634765625,
+      "maxArcErrorM": 0.000020347737091697127,
+      "endpointErrorM": 0.00045253783269173114
+    },
+    {
+      "node": 17,
+      "controls": [
+        16,
+        17,
+        18,
+        19
+      ],
+      "entries": 70,
+      "storedLengthM": 70.99472045898438,
+      "storedChainageM": 1363.317626953125,
+      "maxArcErrorM": 0.000004221585435004727,
+      "endpointErrorM": 5.684341886080802e-14
+    },
+    {
+      "node": 18,
+      "controls": [
+        17,
+        18,
+        19,
+        20
+      ],
+      "entries": 24,
+      "storedLengthM": 24.10906982421875,
+      "storedChainageM": 1434.3123779296875,
+      "maxArcErrorM": 0.0000032536840706143266,
+      "endpointErrorM": 0.000021718537792041952
+    },
+    {
+      "node": 19,
+      "controls": [
+        18,
+        19,
+        20,
+        21
+      ],
+      "entries": 18,
+      "storedLengthM": 18.152231216430664,
+      "storedChainageM": 1458.42138671875,
+      "maxArcErrorM": 0.000013422071369006972,
+      "endpointErrorM": 0
+    },
+    {
+      "node": 20,
+      "controls": [
+        19,
+        20,
+        21,
+        22
+      ],
+      "entries": 18,
+      "storedLengthM": 18.157917022705078,
+      "storedChainageM": 1476.5736083984375,
+      "maxArcErrorM": 0.000001727164214315735,
+      "endpointErrorM": 0
+    },
+    {
+      "node": 21,
+      "controls": [
+        20,
+        21,
+        22,
+        23
+      ],
+      "entries": 13,
+      "storedLengthM": 13.858189582824707,
+      "storedChainageM": 1494.7315673828125,
+      "maxArcErrorM": 7.773489762996633e-7,
+      "endpointErrorM": 0.000007140011924966597
+    },
+    {
+      "node": 22,
+      "controls": [
+        21,
+        22,
+        23,
+        24
+      ],
+      "entries": 15,
+      "storedLengthM": 15.29092788696289,
+      "storedChainageM": 1508.5897216796875,
+      "maxArcErrorM": 0.000009918363716110434,
+      "endpointErrorM": 0
+    },
+    {
+      "node": 23,
+      "controls": [
+        22,
+        23,
+        24,
+        25
+      ],
+      "entries": 35,
+      "storedLengthM": 35.27688217163086,
+      "storedChainageM": 1523.880615234375,
+      "maxArcErrorM": 0.00006924700372934467,
+      "endpointErrorM": 5.551115123125783e-17
+    },
+    {
+      "node": 24,
+      "controls": [
+        23,
+        24,
+        25,
+        26
+      ],
+      "entries": 34,
+      "storedLengthM": 34.16912078857422,
+      "storedChainageM": 1559.157470703125,
+      "maxArcErrorM": 0.0000025219467616466318,
+      "endpointErrorM": 0.000011448022775038477
+    },
+    {
+      "node": 25,
+      "controls": [
+        24,
+        25,
+        26,
+        27
+      ],
+      "entries": 40,
+      "storedLengthM": 40.27151870727539,
+      "storedChainageM": 1593.3265380859375,
+      "maxArcErrorM": 0.000006592035106223193,
+      "endpointErrorM": 0.000028090889987578023
+    },
+    {
+      "node": 26,
+      "controls": [
+        25,
+        26,
+        27,
+        28
+      ],
+      "entries": 77,
+      "storedLengthM": 77.44046783447266,
+      "storedChainageM": 1633.5980224609375,
+      "maxArcErrorM": 0.000019516293008337016,
+      "endpointErrorM": 0.00009275047300835684
+    },
+    {
+      "node": 27,
+      "controls": [
+        26,
+        27,
+        28,
+        29
+      ],
+      "entries": 56,
+      "storedLengthM": 56.95132827758789,
+      "storedChainageM": 1711.0384521484375,
+      "maxArcErrorM": 0.0000059494129871495716,
+      "endpointErrorM": 0.000053950886370434796
+    },
+    {
+      "node": 28,
+      "controls": [
+        27,
+        28,
+        29,
+        30
+      ],
+      "entries": 45,
+      "storedLengthM": 45.4864387512207,
+      "storedChainageM": 1767.98974609375,
+      "maxArcErrorM": 0.000012850056265278909,
+      "endpointErrorM": 0.00004707418938191416
+    },
+    {
+      "node": 29,
+      "controls": [
+        28,
+        29,
+        30,
+        31
+      ],
+      "entries": 32,
+      "storedLengthM": 32.97684860229492,
+      "storedChainageM": 1813.4761962890625,
+      "maxArcErrorM": 0.000010799677983897027,
+      "endpointErrorM": 0.0000053049573205702355
+    },
+    {
+      "node": 30,
+      "controls": [
+        29,
+        30,
+        31,
+        32
+      ],
+      "entries": 31,
+      "storedLengthM": 31.108877182006836,
+      "storedChainageM": 1846.4530029296875,
+      "maxArcErrorM": 0.000011689378972334907,
+      "endpointErrorM": 8.881784197001252e-16
+    },
+    {
+      "node": 31,
+      "controls": [
+        30,
+        31,
+        32,
+        33
+      ],
+      "entries": 20,
+      "storedLengthM": 20.212589263916016,
+      "storedChainageM": 1877.5618896484375,
+      "maxArcErrorM": 0.0000043448999269557476,
+      "endpointErrorM": 0
+    },
+    {
+      "node": 32,
+      "controls": [
+        31,
+        32,
+        33,
+        34
+      ],
+      "entries": 26,
+      "storedLengthM": 26.772411346435547,
+      "storedChainageM": 1897.7745361328125,
+      "maxArcErrorM": 0.000002506924985823389,
+      "endpointErrorM": 0
+    },
+    {
+      "node": 33,
+      "controls": [
+        32,
+        33,
+        34,
+        35
+      ],
+      "entries": 27,
+      "storedLengthM": 27.342838287353516,
+      "storedChainageM": 1924.5469970703125,
+      "maxArcErrorM": 0.000002093189330309997,
+      "endpointErrorM": 3.1776437161565096e-14
+    },
+    {
+      "node": 34,
+      "controls": [
+        33,
+        34,
+        35,
+        36
+      ],
+      "entries": 24,
+      "storedLengthM": 24.437013626098633,
+      "storedChainageM": 1951.889892578125,
+      "maxArcErrorM": 0.000004087797911722646,
+      "endpointErrorM": 0
+    },
+    {
+      "node": 35,
+      "controls": [
+        34,
+        35,
+        36,
+        37
+      ],
+      "entries": 31,
+      "storedLengthM": 31.584312438964844,
+      "storedChainageM": 1976.326904296875,
+      "maxArcErrorM": 0.0000022994527562048006,
+      "endpointErrorM": 0
+    },
+    {
+      "node": 36,
+      "controls": [
+        35,
+        36,
+        37,
+        38
+      ],
+      "entries": 33,
+      "storedLengthM": 33.39111328125,
+      "storedChainageM": 2007.9112548828125,
+      "maxArcErrorM": 0.000006997737003189286,
+      "endpointErrorM": 0.00005056271032957792
+    },
+    {
+      "node": 37,
+      "controls": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "entries": 37,
+      "storedLengthM": 37.141902923583984,
+      "storedChainageM": 2041.3023681640625,
+      "maxArcErrorM": 0.000004598069686778672,
+      "endpointErrorM": 0.000035632998867137874
+    },
+    {
+      "node": 38,
+      "controls": [
+        37,
+        38,
+        39,
+        40
+      ],
+      "entries": 41,
+      "storedLengthM": 41.030357360839844,
+      "storedChainageM": 2078.4443359375,
+      "maxArcErrorM": 0.0000038744479695651535,
+      "endpointErrorM": 0.00006200128888286043
+    },
+    {
+      "node": 39,
+      "controls": [
+        38,
+        39,
+        40,
+        41
+      ],
+      "entries": 43,
+      "storedLengthM": 43.59744644165039,
+      "storedChainageM": 2119.474609375,
+      "maxArcErrorM": 0.0000036478142604323693,
+      "endpointErrorM": 0
+    },
+    {
+      "node": 40,
+      "controls": [
+        39,
+        40,
+        41,
+        42
+      ],
+      "entries": 33,
+      "storedLengthM": 33.73992919921875,
+      "storedChainageM": 2163.072021484375,
+      "maxArcErrorM": 0.000004048953030633129,
+      "endpointErrorM": 0
+    },
+    {
+      "node": 41,
+      "controls": [
+        40,
+        41,
+        42,
+        43
+      ],
+      "entries": 31,
+      "storedLengthM": 31.309234619140625,
+      "storedChainageM": 2196.81201171875,
+      "maxArcErrorM": 0.00000696506172204181,
+      "endpointErrorM": 1.432144669219779e-14
+    },
+    {
+      "node": 42,
+      "controls": [
+        41,
+        42,
+        43,
+        44
+      ],
+      "entries": 14,
+      "storedLengthM": 14.516963958740234,
+      "storedChainageM": 2228.121337890625,
+      "maxArcErrorM": 8.388055316999043e-7,
+      "endpointErrorM": 1.7763568394002505e-15
+    },
+    {
+      "node": 43,
+      "controls": [
+        42,
+        43,
+        44,
+        45
+      ],
+      "entries": 14,
+      "storedLengthM": 14.472530364990234,
+      "storedChainageM": 2242.63818359375,
+      "maxArcErrorM": 0.0000028228556345766265,
+      "endpointErrorM": 0
+    },
+    {
+      "node": 44,
+      "controls": [
+        43,
+        44,
+        45,
+        46
+      ],
+      "entries": 16,
+      "storedLengthM": 16.10253143310547,
+      "storedChainageM": 2257.110595703125,
+      "maxArcErrorM": 0.000001958201572449525,
+      "endpointErrorM": 0.000013480124482016518
+    },
+    {
+      "node": 45,
+      "controls": [
+        44,
+        45,
+        46,
+        47
+      ],
+      "entries": 17,
+      "storedLengthM": 17.711389541625977,
+      "storedChainageM": 2273.213134765625,
+      "maxArcErrorM": 0.000005622598084897845,
+      "endpointErrorM": 1.7763568394002505e-15
+    },
+    {
+      "node": 46,
+      "controls": [
+        45,
+        46,
+        47,
+        48
+      ],
+      "entries": 35,
+      "storedLengthM": 35.03080749511719,
+      "storedChainageM": 2290.924560546875,
+      "maxArcErrorM": 0.0000044490033879185376,
+      "endpointErrorM": 2.0097183471152322e-14
+    },
+    {
+      "node": 47,
+      "controls": [
+        46,
+        47,
+        48,
+        49
+      ],
+      "entries": 42,
+      "storedLengthM": 42.10621643066406,
+      "storedChainageM": 2325.955322265625,
+      "maxArcErrorM": 0.0000025532979321951643,
+      "endpointErrorM": 0
+    },
+    {
+      "node": 48,
+      "controls": [
+        47,
+        48,
+        49,
+        50
+      ],
+      "entries": 57,
+      "storedLengthM": 57.94622039794922,
+      "storedChainageM": 2368.0615234375,
+      "maxArcErrorM": 0.00000292759825271105,
+      "endpointErrorM": 0
+    },
+    {
+      "node": 49,
+      "controls": [
+        48,
+        49,
+        50,
+        51
+      ],
+      "entries": 46,
+      "storedLengthM": 46.750396728515625,
+      "storedChainageM": 2426.0078125,
+      "maxArcErrorM": 0.000007369470722551341,
+      "endpointErrorM": 1.4210854715202004e-14
+    },
+    {
+      "node": 50,
+      "controls": [
+        49,
+        50,
+        51,
+        52
+      ],
+      "entries": 46,
+      "storedLengthM": 46.72739791870117,
+      "storedChainageM": 2472.75830078125,
+      "maxArcErrorM": 0.000009112159922608498,
+      "endpointErrorM": 0.0000900580493806318
+    },
+    {
+      "node": 51,
+      "controls": [
+        50,
+        51,
+        52,
+        53
+      ],
+      "entries": 27,
+      "storedLengthM": 27.14375877380371,
+      "storedChainageM": 2519.485595703125,
+      "maxArcErrorM": 0.0000010317257057579354,
+      "endpointErrorM": 0.000020469439743744863
+    },
+    {
+      "node": 52,
+      "controls": [
+        51,
+        52,
+        53,
+        54
+      ],
+      "entries": 30,
+      "storedLengthM": 30.7469482421875,
+      "storedChainageM": 2546.62939453125,
+      "maxArcErrorM": 0.000014932649577303891,
+      "endpointErrorM": 0.00003677887197030849
+    },
+    {
+      "node": 53,
+      "controls": [
+        52,
+        53,
+        54,
+        55
+      ],
+      "entries": 30,
+      "storedLengthM": 30.981143951416016,
+      "storedChainageM": 2577.37646484375,
+      "maxArcErrorM": 0.000013931579040615816,
+      "endpointErrorM": 0
+    },
+    {
+      "node": 54,
+      "controls": [
+        53,
+        54,
+        55,
+        56
+      ],
+      "entries": 26,
+      "storedLengthM": 26.214004516601562,
+      "storedChainageM": 2608.357666015625,
+      "maxArcErrorM": 0.00000786691249565763,
+      "endpointErrorM": 0.000004677794782760169
+    },
+    {
+      "node": 55,
+      "controls": [
+        54,
+        55,
+        56,
+        57
+      ],
+      "entries": 22,
+      "storedLengthM": 22.452272415161133,
+      "storedChainageM": 2634.57177734375,
+      "maxArcErrorM": 0.000005773522104846052,
+      "endpointErrorM": 1.4210854715202004e-14
+    },
+    {
+      "node": 56,
+      "controls": [
+        55,
+        56,
+        57,
+        58
+      ],
+      "entries": 21,
+      "storedLengthM": 21.543079376220703,
+      "storedChainageM": 2657.024169921875,
+      "maxArcErrorM": 0.0000023546482239567013,
+      "endpointErrorM": 0.00002028772450678216
+    },
+    {
+      "node": 57,
+      "controls": [
+        56,
+        57,
+        58,
+        59
+      ],
+      "entries": 17,
+      "storedLengthM": 17.73668098449707,
+      "storedChainageM": 2678.567138671875,
+      "maxArcErrorM": 0.000004204715753353128,
+      "endpointErrorM": 2.847716647714797e-14
+    },
+    {
+      "node": 58,
+      "controls": [
+        57,
+        58,
+        59,
+        60
+      ],
+      "entries": 29,
+      "storedLengthM": 29.935997009277344,
+      "storedChainageM": 2696.3037109375,
+      "maxArcErrorM": 0.000008212723022538171,
+      "endpointErrorM": 0.000005038431107614694
+    },
+    {
+      "node": 59,
+      "controls": [
+        58,
+        59,
+        60,
+        61
+      ],
+      "entries": 29,
+      "storedLengthM": 29.962360382080078,
+      "storedChainageM": 2726.23974609375,
+      "maxArcErrorM": 0.000014007418950967576,
+      "endpointErrorM": 0.000024119671142352285
+    },
+    {
+      "node": 60,
+      "controls": [
+        59,
+        60,
+        61,
+        62
+      ],
+      "entries": 22,
+      "storedLengthM": 22.24488639831543,
+      "storedChainageM": 2756.2021484375,
+      "maxArcErrorM": 0.000011366081221098057,
+      "endpointErrorM": 0.000018475483015714406
+    },
+    {
+      "node": 61,
+      "controls": [
+        60,
+        61,
+        62,
+        63
+      ],
+      "entries": 104,
+      "storedLengthM": 104.83480834960938,
+      "storedChainageM": 2778.447021484375,
+      "maxArcErrorM": 0.00002933163929341731,
+      "endpointErrorM": 6.355287432313019e-14
+    },
+    {
+      "node": 62,
+      "controls": [
+        61,
+        62,
+        63,
+        64
+      ],
+      "entries": 247,
+      "storedLengthM": 247.31178283691406,
+      "storedChainageM": 2883.28173828125,
+      "maxArcErrorM": 0.00004244886432047679,
+      "endpointErrorM": 0.0017182396109760344
+    },
+    {
+      "node": 63,
+      "controls": [
+        62,
+        63,
+        64,
+        65
+      ],
+      "entries": 162,
+      "storedLengthM": 162.28517150878906,
+      "storedChainageM": 3130.593505859375,
+      "maxArcErrorM": 0.000031273524797370555,
+      "endpointErrorM": 0.0007559025397104244
+    },
+    {
+      "node": 64,
+      "controls": [
+        63,
+        64,
+        65,
+        66
+      ],
+      "entries": 60,
+      "storedLengthM": 60.6506462097168,
+      "storedChainageM": 3292.878662109375,
+      "maxArcErrorM": 0.000005233159157569389,
+      "endpointErrorM": 0.000036772258788549095
+    },
+    {
+      "node": 65,
+      "controls": [
+        64,
+        65,
+        66,
+        67
+      ],
+      "entries": 30,
+      "storedLengthM": 30.08657455444336,
+      "storedChainageM": 3353.529296875,
+      "maxArcErrorM": 0.0000027645578875024057,
+      "endpointErrorM": 0.00005244035277583156
+    },
+    {
+      "node": 66,
+      "controls": [
+        65,
+        66,
+        67,
+        68
+      ],
+      "entries": 16,
+      "storedLengthM": 16.74468421936035,
+      "storedChainageM": 3383.615966796875,
+      "maxArcErrorM": 8.429717137659054e-7,
+      "endpointErrorM": 5.687116766346677e-14
+    },
+    {
+      "node": 67,
+      "controls": [
+        66,
+        67,
+        68,
+        69
+      ],
+      "entries": 24,
+      "storedLengthM": 24.64698028564453,
+      "storedChainageM": 3400.360595703125,
+      "maxArcErrorM": 0.000004144727817845251,
+      "endpointErrorM": 0.000014953538500796904
+    },
+    {
+      "node": 68,
+      "controls": [
+        67,
+        68,
+        69,
+        70
+      ],
+      "entries": 32,
+      "storedLengthM": 32.01213073730469,
+      "storedChainageM": 3425.007568359375,
+      "maxArcErrorM": 0.0000012850001507302977,
+      "endpointErrorM": 0.00003125644155054874
+    },
+    {
+      "node": 69,
+      "controls": [
+        68,
+        69,
+        70,
+        71
+      ],
+      "entries": 29,
+      "storedLengthM": 29.652902603149414,
+      "storedChainageM": 3457.019775390625,
+      "maxArcErrorM": 0.000007526819029379794,
+      "endpointErrorM": 5.684341886080802e-14
+    },
+    {
+      "node": 70,
+      "controls": [
+        69,
+        70,
+        71,
+        72
+      ],
+      "entries": 23,
+      "storedLengthM": 23.319726943969727,
+      "storedChainageM": 3486.672607421875,
+      "maxArcErrorM": 0.000011896123336185838,
+      "endpointErrorM": 1.4210854715202004e-14
+    },
+    {
+      "node": 71,
+      "controls": [
+        70,
+        71,
+        72,
+        73
+      ],
+      "entries": 31,
+      "storedLengthM": 31.26566505432129,
+      "storedChainageM": 3509.992431640625,
+      "maxArcErrorM": 0.00001252532915430038,
+      "endpointErrorM": 0.000005564246315154389
+    },
+    {
+      "node": 72,
+      "controls": [
+        71,
+        72,
+        73,
+        74
+      ],
+      "entries": 38,
+      "storedLengthM": 38.69075012207031,
+      "storedChainageM": 3541.258056640625,
+      "maxArcErrorM": 0.000013742762277502152,
+      "endpointErrorM": 0.00003694962267873474
+    },
+    {
+      "node": 73,
+      "controls": [
+        72,
+        73,
+        74,
+        75
+      ],
+      "entries": 25,
+      "storedLengthM": 25.592660903930664,
+      "storedChainageM": 3579.94873046875,
+      "maxArcErrorM": 0.000001282242653388721,
+      "endpointErrorM": 0.000023667559656669494
+    },
+    {
+      "node": 74,
+      "controls": [
+        73,
+        74,
+        75,
+        76
+      ],
+      "entries": 23,
+      "storedLengthM": 23.841442108154297,
+      "storedChainageM": 3605.54150390625,
+      "maxArcErrorM": 0.00000859125673713379,
+      "endpointErrorM": 2.864289338439558e-14
+    },
+    {
+      "node": 75,
+      "controls": [
+        74,
+        75,
+        76,
+        77
+      ],
+      "entries": 82,
+      "storedLengthM": 82.48136901855469,
+      "storedChainageM": 3629.383056640625,
+      "maxArcErrorM": 0.000008642084935672756,
+      "endpointErrorM": 0
+    },
+    {
+      "node": 76,
+      "controls": [
+        75,
+        76,
+        77,
+        78
+      ],
+      "entries": 47,
+      "storedLengthM": 47.99260711669922,
+      "storedChainageM": 3711.864501953125,
+      "maxArcErrorM": 0.000004258526594469458,
+      "endpointErrorM": 0
+    },
+    {
+      "node": 77,
+      "controls": [
+        76,
+        77,
+        78,
+        79
+      ],
+      "entries": 39,
+      "storedLengthM": 39.653568267822266,
+      "storedChainageM": 3759.857177734375,
+      "maxArcErrorM": 0.000005103222683544573,
+      "endpointErrorM": 0.000005799051725672276
+    },
+    {
+      "node": 78,
+      "controls": [
+        77,
+        78,
+        79,
+        80
+      ],
+      "entries": 36,
+      "storedLengthM": 36.484004974365234,
+      "storedChainageM": 3799.5107421875,
+      "maxArcErrorM": 0.000002458078448341894,
+      "endpointErrorM": 0
+    },
+    {
+      "node": 79,
+      "controls": [
+        78,
+        79,
+        80,
+        81
+      ],
+      "entries": 39,
+      "storedLengthM": 39.61214828491211,
+      "storedChainageM": 3835.99462890625,
+      "maxArcErrorM": 0.0000027586707957993895,
+      "endpointErrorM": 0
+    },
+    {
+      "node": 80,
+      "controls": [
+        79,
+        80,
+        81,
+        82
+      ],
+      "entries": 43,
+      "storedLengthM": 43.348079681396484,
+      "storedChainageM": 3875.606689453125,
+      "maxArcErrorM": 0.000006725366361592933,
+      "endpointErrorM": 0.000020169451274106028
+    },
+    {
+      "node": 81,
+      "controls": [
+        80,
+        81,
+        82,
+        83
+      ],
+      "entries": 19,
+      "storedLengthM": 19.67523193359375,
+      "storedChainageM": 3918.954833984375,
+      "maxArcErrorM": 0.000009926718707475857,
+      "endpointErrorM": 0.000014741964667317057
+    },
+    {
+      "node": 82,
+      "controls": [
+        81,
+        82,
+        83,
+        84
+      ],
+      "entries": 37,
+      "storedLengthM": 37.822174072265625,
+      "storedChainageM": 3938.630126953125,
+      "maxArcErrorM": 0.0000039877595270354504,
+      "endpointErrorM": 0
+    },
+    {
+      "node": 83,
+      "controls": [
+        82,
+        83,
+        84,
+        85
+      ],
+      "entries": 39,
+      "storedLengthM": 39.39512252807617,
+      "storedChainageM": 3976.452392578125,
+      "maxArcErrorM": 0.000004622361046813239,
+      "endpointErrorM": 0
+    },
+    {
+      "node": 84,
+      "controls": [
+        83,
+        84,
+        85,
+        86
+      ],
+      "entries": 38,
+      "storedLengthM": 38.19016647338867,
+      "storedChainageM": 4015.847412109375,
+      "maxArcErrorM": 0.000012049943741487823,
+      "endpointErrorM": 0
+    },
+    {
+      "node": 85,
+      "controls": [
+        84,
+        85,
+        86,
+        87
+      ],
+      "entries": 25,
+      "storedLengthM": 25.130157470703125,
+      "storedChainageM": 4054.03759765625,
+      "maxArcErrorM": 0.000008282549320171029,
+      "endpointErrorM": 2.220446049250313e-16
+    },
+    {
+      "node": 86,
+      "controls": [
+        85,
+        86,
+        87,
+        88
+      ],
+      "entries": 26,
+      "storedLengthM": 26.170391082763672,
+      "storedChainageM": 4079.167724609375,
+      "maxArcErrorM": 0.000006814635762353305,
+      "endpointErrorM": 0
+    },
+    {
+      "node": 87,
+      "controls": [
+        86,
+        87,
+        88,
+        89
+      ],
+      "entries": 25,
+      "storedLengthM": 25.959733963012695,
+      "storedChainageM": 4105.337890625,
+      "maxArcErrorM": 0.0000021093388991033635,
+      "endpointErrorM": 0.000020926212396154158
+    },
+    {
+      "node": 88,
+      "controls": [
+        87,
+        88,
+        89,
+        90
+      ],
+      "entries": 37,
+      "storedLengthM": 37.5224494934082,
+      "storedChainageM": 4131.2978515625,
+      "maxArcErrorM": 0.000004376564376684655,
+      "endpointErrorM": 0.000024824011846222592
+    },
+    {
+      "node": 89,
+      "controls": [
+        88,
+        89,
+        90,
+        91
+      ],
+      "entries": 223,
+      "storedLengthM": 223.45553588867188,
+      "storedChainageM": 4168.8203125,
+      "maxArcErrorM": 0.00003443325149987686,
+      "endpointErrorM": 5.684341886080802e-14
+    },
+    {
+      "node": 90,
+      "controls": [
+        89,
+        90,
+        91,
+        92
+      ],
+      "entries": 140,
+      "storedLengthM": 140.0827178955078,
+      "storedChainageM": 4392.27587890625,
+      "maxArcErrorM": 0.000035659416170119584,
+      "endpointErrorM": 5.684341886080802e-14
+    },
+    {
+      "node": 91,
+      "controls": [
+        90,
+        91,
+        92,
+        93
+      ],
+      "entries": 101,
+      "storedLengthM": 101.60455322265625,
+      "storedChainageM": 4532.3583984375,
+      "maxArcErrorM": 0.000018302464411590336,
+      "endpointErrorM": 0.00009287257196168662
+    },
+    {
+      "node": 92,
+      "controls": [
+        91,
+        92,
+        93,
+        94
+      ],
+      "entries": 88,
+      "storedLengthM": 88.74176788330078,
+      "storedChainageM": 4633.962890625,
+      "maxArcErrorM": 0.00003747941306642133,
+      "endpointErrorM": 0.00006147705167848134
+    },
+    {
+      "node": 93,
+      "controls": [
+        92,
+        93,
+        94,
+        95
+      ],
+      "entries": 49,
+      "storedLengthM": 49.56492233276367,
+      "storedChainageM": 4722.70458984375,
+      "maxArcErrorM": 0.0000048126534224479656,
+      "endpointErrorM": 0.00005533455587729832
+    },
+    {
+      "node": 94,
+      "controls": [
+        93,
+        94,
+        95,
+        96
+      ],
+      "entries": 24,
+      "storedLengthM": 24.352155685424805,
+      "storedChainageM": 4772.26953125,
+      "maxArcErrorM": 0.000023387235032146236,
+      "endpointErrorM": 0
+    },
+    {
+      "node": 95,
+      "controls": [
+        94,
+        95,
+        96,
+        97
+      ],
+      "entries": 26,
+      "storedLengthM": 26.491558074951172,
+      "storedChainageM": 4796.62158203125,
+      "maxArcErrorM": 0.000026685915027968576,
+      "endpointErrorM": 0
+    },
+    {
+      "node": 96,
+      "controls": [
+        95,
+        96,
+        97,
+        98
+      ],
+      "entries": 26,
+      "storedLengthM": 26.689708709716797,
+      "storedChainageM": 4823.11328125,
+      "maxArcErrorM": 0.000023332711624135527,
+      "endpointErrorM": 0.000009278347276349763
+    },
+    {
+      "node": 97,
+      "controls": [
+        96,
+        97,
+        98,
+        99
+      ],
+      "entries": 22,
+      "storedLengthM": 22.89950942993164,
+      "storedChainageM": 4849.80322265625,
+      "maxArcErrorM": 0.000018153882908933383,
+      "endpointErrorM": 0.000013374882448954139
+    },
+    {
+      "node": 98,
+      "controls": [
+        97,
+        98,
+        99,
+        100
+      ],
+      "entries": 23,
+      "storedLengthM": 23.758563995361328,
+      "storedChainageM": 4872.70263671875,
+      "maxArcErrorM": 0.0000024300572336599657,
+      "endpointErrorM": 0
+    },
+    {
+      "node": 99,
+      "controls": [
+        98,
+        99,
+        100,
+        101
+      ],
+      "entries": 23,
+      "storedLengthM": 23.622344970703125,
+      "storedChainageM": 4896.46142578125,
+      "maxArcErrorM": 0.000007634674277667841,
+      "endpointErrorM": 0
+    },
+    {
+      "node": 100,
+      "controls": [
+        99,
+        100,
+        101,
+        102
+      ],
+      "entries": 36,
+      "storedLengthM": 36.79926300048828,
+      "storedChainageM": 4920.083984375,
+      "maxArcErrorM": 0.0000139538378043369,
+      "endpointErrorM": 0.000012160621927066608
+    },
+    {
+      "node": 101,
+      "controls": [
+        100,
+        101,
+        102,
+        103
+      ],
+      "entries": 48,
+      "storedLengthM": 48.811466217041016,
+      "storedChainageM": 4956.88330078125,
+      "maxArcErrorM": 0.000004511922185201911,
+      "endpointErrorM": 8.038873388460929e-14
+    },
+    {
+      "node": 102,
+      "controls": [
+        101,
+        102,
+        103,
+        104
+      ],
+      "entries": 51,
+      "storedLengthM": 51.355323791503906,
+      "storedChainageM": 5005.69482421875,
+      "maxArcErrorM": 0.000005732829784221849,
+      "endpointErrorM": 0.00007663455790645973
+    },
+    {
+      "node": 103,
+      "controls": [
+        102,
+        103,
+        104,
+        105
+      ],
+      "entries": 83,
+      "storedLengthM": 83.6575698852539,
+      "storedChainageM": 5057.05029296875,
+      "maxArcErrorM": 0.000049842902874353,
+      "endpointErrorM": 0
+    },
+    {
+      "node": 104,
+      "controls": [
+        103,
+        104,
+        105,
+        106
+      ],
+      "entries": 111,
+      "storedLengthM": 111.96902465820312,
+      "storedChainageM": 5140.7080078125,
+      "maxArcErrorM": 0.000035416597484072554,
+      "endpointErrorM": 0
+    },
+    {
+      "node": 105,
+      "controls": [
+        104,
+        105,
+        106,
+        107
+      ],
+      "entries": 93,
+      "storedLengthM": 93.12628173828125,
+      "storedChainageM": 5252.67724609375,
+      "maxArcErrorM": 0.000020494373373480812,
+      "endpointErrorM": 2.842170943040401e-14
+    },
+    {
+      "node": 106,
+      "controls": [
+        105,
+        106,
+        107,
+        0
+      ],
+      "entries": 248,
+      "storedLengthM": 248.13731384277344,
+      "storedChainageM": 0,
+      "maxArcErrorM": 0.00009285595675123659,
+      "endpointErrorM": 0
+    },
+    {
+      "node": 107,
+      "controls": [
+        106,
+        107,
+        0,
+        1
+      ],
+      "entries": 136,
+      "storedLengthM": 136.04620361328125,
+      "storedChainageM": 248.13731384277344,
+      "maxArcErrorM": 0.000033553708902900325,
+      "endpointErrorM": 1.7763568394002505e-15
+    },
+    {
+      "node": 109,
+      "controls": [
+        108,
+        109,
+        110,
+        111
+      ],
+      "entries": 131,
+      "storedLengthM": 131.74801635742188,
+      "storedChainageM": 5057.91650390625,
+      "maxArcErrorM": 0.000018149276968415506,
+      "endpointErrorM": 0
+    },
+    {
+      "node": 110,
+      "controls": [
+        109,
+        110,
+        111,
+        112
+      ],
+      "entries": 68,
+      "storedLengthM": 68.46394348144531,
+      "storedChainageM": 5189.66455078125,
+      "maxArcErrorM": 0.000012857314743541792,
+      "endpointErrorM": 0.00024656040936838576
+    },
+    {
+      "node": 111,
+      "controls": [
+        110,
+        111,
+        112,
+        113
+      ],
+      "entries": 49,
+      "storedLengthM": 49.50365447998047,
+      "storedChainageM": 5258.12841796875,
+      "maxArcErrorM": 0.000007921670380994783,
+      "endpointErrorM": 2.847716647714797e-14
+    },
+    {
+      "node": 112,
+      "controls": [
+        111,
+        112,
+        113,
+        114
+      ],
+      "entries": 39,
+      "storedLengthM": 39.94098663330078,
+      "storedChainageM": 5307.6318359375,
+      "maxArcErrorM": 0.0000049301098385967634,
+      "endpointErrorM": 0.000052246190222552724
+    },
+    {
+      "node": 113,
+      "controls": [
+        112,
+        113,
+        114,
+        115
+      ],
+      "entries": 55,
+      "storedLengthM": 55.84206008911133,
+      "storedChainageM": 5347.57275390625,
+      "maxArcErrorM": 0.0000031489309044729907,
+      "endpointErrorM": 0.00010436503212714928
+    },
+    {
+      "node": 114,
+      "controls": [
+        113,
+        114,
+        115,
+        116
+      ],
+      "entries": 92,
+      "storedLengthM": 92.8747787475586,
+      "storedChainageM": 5403.4150390625,
+      "maxArcErrorM": 0.000017563004234943946,
+      "endpointErrorM": 0.00022312966296424803
+    },
+    {
+      "node": 115,
+      "controls": [
+        114,
+        115,
+        116,
+        117
+      ],
+      "entries": 140,
+      "storedLengthM": 140.73452758789062,
+      "storedChainageM": 5496.2900390625,
+      "maxArcErrorM": 0.000036946029410955816,
+      "endpointErrorM": 3.552713678800501e-15
+    },
+    {
+      "node": 116,
+      "controls": [
+        115,
+        116,
+        117,
+        118
+      ],
+      "entries": 85,
+      "storedLengthM": 85.91366577148438,
+      "storedChainageM": 5637.0244140625,
+      "maxArcErrorM": 0.000017185389864948775,
+      "endpointErrorM": 0
+    },
+    {
+      "node": 117,
+      "controls": [
+        116,
+        117,
+        118,
+        119
+      ],
+      "entries": 54,
+      "storedLengthM": 54.75612258911133,
+      "storedChainageM": 5722.93798828125,
+      "maxArcErrorM": 0.000005200530424076533,
+      "endpointErrorM": 5.684341886080802e-14
+    },
+    {
+      "node": 118,
+      "controls": [
+        117,
+        118,
+        119,
+        120
+      ],
+      "entries": 34,
+      "storedLengthM": 34.90758514404297,
+      "storedChainageM": 5777.6943359375,
+      "maxArcErrorM": 0.000020558178839280572,
+      "endpointErrorM": 0.000021590192387748668
+    },
+    {
+      "node": 119,
+      "controls": [
+        118,
+        119,
+        120,
+        121
+      ],
+      "entries": 109,
+      "storedLengthM": 109.0494384765625,
+      "storedChainageM": 5812.60205078125,
+      "maxArcErrorM": 0.0000377513664915341,
+      "endpointErrorM": 0.00020622508727331646
+    },
+    {
+      "node": 120,
+      "controls": [
+        119,
+        120,
+        121,
+        122
+      ],
+      "entries": 86,
+      "storedLengthM": 86.3709945678711,
+      "storedChainageM": 5921.6513671875,
+      "maxArcErrorM": 0.000008087373856824343,
+      "endpointErrorM": 0.0002572489401329184
+    },
+    {
+      "node": 121,
+      "controls": [
+        120,
+        121,
+        122,
+        123
+      ],
+      "entries": 59,
+      "storedLengthM": 59.79962921142578,
+      "storedChainageM": 6008.0224609375,
+      "maxArcErrorM": 0.000007514921584572676,
+      "endpointErrorM": 0
+    },
+    {
+      "node": 122,
+      "controls": [
+        121,
+        122,
+        123,
+        124
+      ],
+      "entries": 14,
+      "storedLengthM": 14.576342582702637,
+      "storedChainageM": 6067.822265625,
+      "maxArcErrorM": 0.0000017158440339670733,
+      "endpointErrorM": 0
+    }
+  ]
+}

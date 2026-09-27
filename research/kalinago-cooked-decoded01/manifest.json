@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "installable": false,
+  "root": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks",
+  "overlayDirectory": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\research\\kalinago-cooked-pack01",
+  "version": "GAME_UE5_1",
+  "cue4Parse": "1.2.2.0",
+  "createdUtc": "2026-09-23T09:48:07.4089951Z",
+  "files": 116198,
+  "metadataOnly": false,
+  "mappingFile": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\research\\runtime_20260921\\5.1.1-498643+++volta24+game+1.11.0-F1Manager24\\Mappings\\5.1.1-498643+++volta24+game+1.11.0-F1Manager24.usmap",
+  "mappingSha256": "5f6b0a3d8a2517ef2a6b442c897d68d5f3104f3c40e68bd9a7f53d0e37ac4dc2",
+  "results": [
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoPilot/Run_fc07c325ea3d4a62b8b71ec94ad1aaf8/KalinagoRoad.uasset",
+      "container": "TrackBridge_Kalinago_Pilot_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoPilot/Run_fc07c325ea3d4a62b8b71ec94ad1aaf8/KalinagoRoad.uasset.json",
+      "exports": 3
+    }
+  ],
+  "scope": "Property export for research; no cooking, packaging or game validation."
+}

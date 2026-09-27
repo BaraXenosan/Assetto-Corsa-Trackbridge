@@ -1,0 +1,21 @@
+{
+  "installable": false,
+  "passed": false,
+  "check": "live-track-identity-only",
+  "capturedUtc": "2026-09-24T11:39:39.3865609Z",
+  "maxPositionErrorCm": null,
+  "failures": [
+    "Race/pit node counts differ from Kalinago",
+    "Total node count differs from Kalinago"
+  ],
+  "weekendValidated": false,
+  "raceValidated": false,
+  "limitations": [
+    "Identity check does not prove lap counting, pit stops, sectors, finish or visual correctness",
+    "ReadProcessMemory snapshot is not atomic"
+  ],
+  "inputs": [
+    "f351987d6aaa41af7644b420fba74455e8b8b22a0a9dd293232f0104c5d70779",
+    "3c80fde91eaae1be9b7d0da63656a188379634e0482fd3fe4b146a3219132a78"
+  ]
+}

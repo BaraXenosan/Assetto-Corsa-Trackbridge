@@ -1,0 +1,1102 @@
+{
+  "package": "F1Manager24/Content/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.umap",
+  "metadataOnly": false,
+  "Name": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture",
+  "names": [
+    "/Script/NavigationSystem",
+    "Camera",
+    "E_AssemblyDetailLevel::NewEnumerator0",
+    "MI_TarpWall_02",
+    "NavigationSystemV1",
+    "NoCollision",
+    "RelativeLocation",
+    "RelativeRotation",
+    "Visibility",
+    "Actor",
+    "BoxComponent0",
+    "BP_BAH_GrandStand_01_AssemblyData",
+    "BP_BAH_PitBuilding_01_AssemblyData_Baked",
+    "BP_BAH_PitBuilding_02_AssemblyData_Baked",
+    "BP_BAH_PitBuilding_03_AssemblyData_Baked",
+    "BP_TarpWall_02_902_Baked",
+    "BP_TarpWall_02_903_Baked",
+    "InstancedStaticMeshComponent",
+    "NODE_AddInstancedStaticMeshComponent-4",
+    "NODE_AddInstancedStaticMeshComponent-2",
+    "PersistentLevel",
+    "LevelBounds",
+    "Model",
+    "NavigationSystemModuleConfig",
+    "DefaultSceneRoot",
+    "SM_BAH_DomeTent_01",
+    "SM_BAH_DomeTent_02",
+    "SM_BAH_Garages_01a_01",
+    "SM_BAH_Garages_01a",
+    "SM_BAH_Garages_01b_01",
+    "SM_BAH_PaddockBuilding_02_01",
+    "SM_BAH_PaddockBuilding_02_02",
+    "SM_BAH_PaddockBuilding_02_03",
+    "SM_BAH_PaddockBuilding_02_04",
+    "SM_BAH_PaddockBuilding_02_05",
+    "SM_BAH_PaddockBuilding_02_06",
+    "SM_BAH_Tunnel_01",
+    "SM_Generator",
+    "SM_Lorry_02",
+    "SM_Marquee",
+    "SM_Planter_Balcony_01_C11",
+    "SM_Planter_Balcony_01_C12",
+    "SM_Planter_Balcony_01_C13",
+    "SM_Planter_Balcony_01_C14",
+    "SM_Planter_Balcony_01_C2",
+    "SM_Planter_Balcony_01_C3",
+    "SM_Planter_Balcony_01_C4",
+    "SM_Planter_Balcony_01_C5",
+    "SM_Planter_Balcony_01_C6",
+    "SM_Planter_Balcony_01_C",
+    "SM_ShippingContainer_01",
+    "SM_Tent",
+    "StaticMeshComponent0",
+    "Lvl_Bahrain_Section01_Architecture",
+    "WorldSettings",
+    "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture"
+  ],
+  "exports": [
+    {
+      "index": 0,
+      "name": "Actor_0",
+      "type": "/Script/Engine.Actor",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel",
+      "serialOffset": 26397,
+      "serialSize": 61
+    },
+    {
+      "index": 1,
+      "name": "BoxComponent0",
+      "type": "/Script/Engine.BoxComponent",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel.LevelBounds_0",
+      "serialOffset": 26458,
+      "serialSize": 75
+    },
+    {
+      "index": 2,
+      "name": "BP_BAH_GrandStand_01_AssemblyData_2",
+      "type": "/Game/Circuits/Bahrain/Architecture/BAH_Grandstand_01/BP_BAH_GrandStand_01_AssemblyData.BP_BAH_GrandStand_01_AssemblyData_C",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel",
+      "serialOffset": 26533,
+      "serialSize": 387
+    },
+    {
+      "index": 3,
+      "name": "BP_BAH_PitBuilding_01_AssemblyData_Baked",
+      "type": "/Game/Circuits/Bahrain/Architecture/BAH_PitBuilding_01/BP_BAH_PitBuilding_01_AssemblyData.BP_BAH_PitBuilding_01_AssemblyData_C",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel",
+      "serialOffset": 26920,
+      "serialSize": 196
+    },
+    {
+      "index": 4,
+      "name": "BP_BAH_PitBuilding_02_AssemblyData_Baked",
+      "type": "/Game/Circuits/Bahrain/Architecture/BAH_PitBuilding_02/BP_BAH_PitBuilding_02_AssemblyData.BP_BAH_PitBuilding_02_AssemblyData_C",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel",
+      "serialOffset": 27116,
+      "serialSize": 484
+    },
+    {
+      "index": 5,
+      "name": "BP_BAH_PitBuilding_03_AssemblyData_Baked",
+      "type": "/Game/Circuits/Bahrain/Architecture/BAH_PitBuilding_03/BP_BAH_PitBuilding_03_AssemblyData.BP_BAH_PitBuilding_03_AssemblyData_C",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel",
+      "serialOffset": 27600,
+      "serialSize": 184
+    },
+    {
+      "index": 6,
+      "name": "BP_TarpWall_02_902_Baked",
+      "type": "/Game/Actors/SplineProps/BP_TarpWall_02_3.BP_TarpWall_02_3_C",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel",
+      "serialOffset": 27784,
+      "serialSize": 170
+    },
+    {
+      "index": 7,
+      "name": "BP_TarpWall_02_903_Baked",
+      "type": "/Game/Actors/SplineProps/BP_TarpWall_02_3.BP_TarpWall_02_3_C",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel",
+      "serialOffset": 27954,
+      "serialSize": 170
+    },
+    {
+      "index": 8,
+      "name": "InstancedStaticMeshComponent_0",
+      "type": "/Script/Engine.InstancedStaticMeshComponent",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel.Actor_0",
+      "serialOffset": 28124,
+      "serialSize": 1896
+    },
+    {
+      "index": 9,
+      "name": "InstancedStaticMeshComponent_1",
+      "type": "/Script/Engine.InstancedStaticMeshComponent",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel.Actor_0",
+      "serialOffset": 30020,
+      "serialSize": 614
+    },
+    {
+      "index": 10,
+      "name": "InstancedStaticMeshComponent_2",
+      "type": "/Script/Engine.InstancedStaticMeshComponent",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel.Actor_0",
+      "serialOffset": 30634,
+      "serialSize": 614
+    },
+    {
+      "index": 11,
+      "name": "NODE_AddInstancedStaticMeshComponent-4_18",
+      "type": "/Script/Engine.InstancedStaticMeshComponent",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel.BP_BAH_GrandStand_01_AssemblyData_2",
+      "serialOffset": 31248,
+      "serialSize": 311
+    },
+    {
+      "index": 12,
+      "name": "NODE_AddInstancedStaticMeshComponent-4_19",
+      "type": "/Script/Engine.InstancedStaticMeshComponent",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel.BP_BAH_GrandStand_01_AssemblyData_2",
+      "serialOffset": 31559,
+      "serialSize": 1195
+    },
+    {
+      "index": 13,
+      "name": "NODE_AddInstancedStaticMeshComponent-4_20",
+      "type": "/Script/Engine.InstancedStaticMeshComponent",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel.BP_BAH_GrandStand_01_AssemblyData_2",
+      "serialOffset": 32754,
+      "serialSize": 2603
+    },
+    {
+      "index": 14,
+      "name": "NODE_AddInstancedStaticMeshComponent-4_21",
+      "type": "/Script/Engine.InstancedStaticMeshComponent",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel.BP_BAH_GrandStand_01_AssemblyData_2",
+      "serialOffset": 35357,
+      "serialSize": 1371
+    },
+    {
+      "index": 15,
+      "name": "NODE_AddInstancedStaticMeshComponent-4_22",
+      "type": "/Script/Engine.InstancedStaticMeshComponent",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel.BP_BAH_GrandStand_01_AssemblyData_2",
+      "serialOffset": 36728,
+      "serialSize": 667
+    },
+    {
+      "index": 16,
+      "name": "NODE_AddInstancedStaticMeshComponent-4_23",
+      "type": "/Script/Engine.InstancedStaticMeshComponent",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel.BP_BAH_GrandStand_01_AssemblyData_2",
+      "serialOffset": 37395,
+      "serialSize": 315
+    },
+    {
+      "index": 17,
+      "name": "NODE_AddInstancedStaticMeshComponent-4_24",
+      "type": "/Script/Engine.InstancedStaticMeshComponent",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel.BP_BAH_GrandStand_01_AssemblyData_2",
+      "serialOffset": 37710,
+      "serialSize": 315
+    },
+    {
+      "index": 18,
+      "name": "NODE_AddInstancedStaticMeshComponent-4_25",
+      "type": "/Script/Engine.InstancedStaticMeshComponent",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel.BP_BAH_GrandStand_01_AssemblyData_2",
+      "serialOffset": 38025,
+      "serialSize": 315
+    },
+    {
+      "index": 19,
+      "name": "NODE_AddInstancedStaticMeshComponent-4_26",
+      "type": "/Script/Engine.InstancedStaticMeshComponent",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel.BP_BAH_GrandStand_01_AssemblyData_2",
+      "serialOffset": 38340,
+      "serialSize": 315
+    },
+    {
+      "index": 20,
+      "name": "NODE_AddInstancedStaticMeshComponent-4_4",
+      "type": "/Script/Engine.InstancedStaticMeshComponent",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel.BP_BAH_PitBuilding_01_AssemblyData_Baked",
+      "serialOffset": 38655,
+      "serialSize": 311
+    },
+    {
+      "index": 21,
+      "name": "NODE_AddInstancedStaticMeshComponent-4_5",
+      "type": "/Script/Engine.InstancedStaticMeshComponent",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel.BP_BAH_PitBuilding_01_AssemblyData_Baked",
+      "serialOffset": 38966,
+      "serialSize": 1195
+    },
+    {
+      "index": 22,
+      "name": "NODE_AddInstancedStaticMeshComponent-4_16",
+      "type": "/Script/Engine.InstancedStaticMeshComponent",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel.BP_BAH_PitBuilding_02_AssemblyData_Baked",
+      "serialOffset": 40161,
+      "serialSize": 311
+    },
+    {
+      "index": 23,
+      "name": "NODE_AddInstancedStaticMeshComponent-4_17",
+      "type": "/Script/Engine.InstancedStaticMeshComponent",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel.BP_BAH_PitBuilding_02_AssemblyData_Baked",
+      "serialOffset": 40472,
+      "serialSize": 13867
+    },
+    {
+      "index": 24,
+      "name": "NODE_AddInstancedStaticMeshComponent-4_18",
+      "type": "/Script/Engine.InstancedStaticMeshComponent",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel.BP_BAH_PitBuilding_02_AssemblyData_Baked",
+      "serialOffset": 54339,
+      "serialSize": 843
+    },
+    {
+      "index": 25,
+      "name": "NODE_AddInstancedStaticMeshComponent-4_19",
+      "type": "/Script/Engine.InstancedStaticMeshComponent",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel.BP_BAH_PitBuilding_02_AssemblyData_Baked",
+      "serialOffset": 55182,
+      "serialSize": 6475
+    },
+    {
+      "index": 26,
+      "name": "NODE_AddInstancedStaticMeshComponent-4_20",
+      "type": "/Script/Engine.InstancedStaticMeshComponent",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel.BP_BAH_PitBuilding_02_AssemblyData_Baked",
+      "serialOffset": 61657,
+      "serialSize": 1195
+    },
+    {
+      "index": 27,
+      "name": "NODE_AddInstancedStaticMeshComponent-4_21",
+      "type": "/Script/Engine.InstancedStaticMeshComponent",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel.BP_BAH_PitBuilding_02_AssemblyData_Baked",
+      "serialOffset": 62852,
+      "serialSize": 3307
+    },
+    {
+      "index": 28,
+      "name": "NODE_AddInstancedStaticMeshComponent-4_22",
+      "type": "/Script/Engine.InstancedStaticMeshComponent",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel.BP_BAH_PitBuilding_02_AssemblyData_Baked",
+      "serialOffset": 66159,
+      "serialSize": 315
+    },
+    {
+      "index": 29,
+      "name": "NODE_AddInstancedStaticMeshComponent-4_23",
+      "type": "/Script/Engine.InstancedStaticMeshComponent",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel.BP_BAH_PitBuilding_02_AssemblyData_Baked",
+      "serialOffset": 66474,
+      "serialSize": 315
+    },
+    {
+      "index": 30,
+      "name": "NODE_AddInstancedStaticMeshComponent-4_6",
+      "type": "/Script/Engine.InstancedStaticMeshComponent",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel.BP_BAH_PitBuilding_03_AssemblyData_Baked",
+      "serialOffset": 66789,
+      "serialSize": 311
+    },
+    {
+      "index": 31,
+      "name": "NODE_AddInstancedStaticMeshComponent-4_7",
+      "type": "/Script/Engine.InstancedStaticMeshComponent",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel.BP_BAH_PitBuilding_03_AssemblyData_Baked",
+      "serialOffset": 67100,
+      "serialSize": 667
+    },
+    {
+      "index": 32,
+      "name": "NODE_AddInstancedStaticMeshComponent-4_8",
+      "type": "/Script/Engine.InstancedStaticMeshComponent",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel.BP_BAH_PitBuilding_03_AssemblyData_Baked",
+      "serialOffset": 67767,
+      "serialSize": 843
+    },
+    {
+      "index": 33,
+      "name": "NODE_AddInstancedStaticMeshComponent-2_0",
+      "type": "/Script/Engine.InstancedStaticMeshComponent",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel.BP_TarpWall_02_902_Baked",
+      "serialOffset": 68610,
+      "serialSize": 1361
+    },
+    {
+      "index": 34,
+      "name": "NODE_AddInstancedStaticMeshComponent-2_0",
+      "type": "/Script/Engine.InstancedStaticMeshComponent",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel.BP_TarpWall_02_903_Baked",
+      "serialOffset": 69971,
+      "serialSize": 1361
+    },
+    {
+      "index": 35,
+      "name": "PersistentLevel",
+      "type": "/Script/Engine.Level",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture",
+      "serialOffset": 71332,
+      "serialSize": 405
+    },
+    {
+      "index": 36,
+      "name": "LevelBounds_0",
+      "type": "/Script/Engine.LevelBounds",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel",
+      "serialOffset": 71737,
+      "serialSize": 36
+    },
+    {
+      "index": 37,
+      "name": "Model_0",
+      "type": "/Script/Engine.Model",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel",
+      "serialOffset": 71773,
+      "serialSize": 140
+    },
+    {
+      "index": 38,
+      "name": "NavigationSystemModuleConfig_0",
+      "type": "/Script/NavigationSystem.NavigationSystemModuleConfig",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel.WorldSettings",
+      "serialOffset": 71913,
+      "serialSize": 29
+    },
+    {
+      "index": 39,
+      "name": "DefaultSceneRoot",
+      "type": "/Script/Engine.SceneComponent",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel.BP_BAH_GrandStand_01_AssemblyData_2",
+      "serialOffset": 71942,
+      "serialSize": 121
+    },
+    {
+      "index": 40,
+      "name": "DefaultSceneRoot",
+      "type": "/Script/Engine.SceneComponent",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel.BP_BAH_PitBuilding_01_AssemblyData_Baked",
+      "serialOffset": 72063,
+      "serialSize": 121
+    },
+    {
+      "index": 41,
+      "name": "DefaultSceneRoot",
+      "type": "/Script/Engine.SceneComponent",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel.BP_BAH_PitBuilding_02_AssemblyData_Baked",
+      "serialOffset": 72184,
+      "serialSize": 121
+    },
+    {
+      "index": 42,
+      "name": "DefaultSceneRoot",
+      "type": "/Script/Engine.SceneComponent",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel.BP_BAH_PitBuilding_03_AssemblyData_Baked",
+      "serialOffset": 72305,
+      "serialSize": 121
+    },
+    {
+      "index": 43,
+      "name": "DefaultSceneRoot",
+      "type": "/Script/Engine.SceneComponent",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel.BP_TarpWall_02_902_Baked",
+      "serialOffset": 72426,
+      "serialSize": 121
+    },
+    {
+      "index": 44,
+      "name": "DefaultSceneRoot",
+      "type": "/Script/Engine.SceneComponent",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel.BP_TarpWall_02_903_Baked",
+      "serialOffset": 72547,
+      "serialSize": 121
+    },
+    {
+      "index": 45,
+      "name": "SM_BAH_DomeTent_01_2",
+      "type": "/Script/Engine.StaticMeshActor",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel",
+      "serialOffset": 72668,
+      "serialSize": 43
+    },
+    {
+      "index": 46,
+      "name": "SM_BAH_DomeTent_02_2",
+      "type": "/Script/Engine.StaticMeshActor",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel",
+      "serialOffset": 72711,
+      "serialSize": 43
+    },
+    {
+      "index": 47,
+      "name": "SM_BAH_Garages_01a_01",
+      "type": "/Script/Engine.StaticMeshActor",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel",
+      "serialOffset": 72754,
+      "serialSize": 46
+    },
+    {
+      "index": 48,
+      "name": "SM_BAH_Garages_01a_2",
+      "type": "/Script/Engine.StaticMeshActor",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel",
+      "serialOffset": 72800,
+      "serialSize": 43
+    },
+    {
+      "index": 49,
+      "name": "SM_BAH_Garages_01b_01",
+      "type": "/Script/Engine.StaticMeshActor",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel",
+      "serialOffset": 72843,
+      "serialSize": 46
+    },
+    {
+      "index": 50,
+      "name": "SM_BAH_PaddockBuilding_02_01",
+      "type": "/Script/Engine.StaticMeshActor",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel",
+      "serialOffset": 72889,
+      "serialSize": 53
+    },
+    {
+      "index": 51,
+      "name": "SM_BAH_PaddockBuilding_02_02",
+      "type": "/Script/Engine.StaticMeshActor",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel",
+      "serialOffset": 72942,
+      "serialSize": 53
+    },
+    {
+      "index": 52,
+      "name": "SM_BAH_PaddockBuilding_02_03",
+      "type": "/Script/Engine.StaticMeshActor",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel",
+      "serialOffset": 72995,
+      "serialSize": 53
+    },
+    {
+      "index": 53,
+      "name": "SM_BAH_PaddockBuilding_02_04",
+      "type": "/Script/Engine.StaticMeshActor",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel",
+      "serialOffset": 73048,
+      "serialSize": 53
+    },
+    {
+      "index": 54,
+      "name": "SM_BAH_PaddockBuilding_02_05",
+      "type": "/Script/Engine.StaticMeshActor",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel",
+      "serialOffset": 73101,
+      "serialSize": 53
+    },
+    {
+      "index": 55,
+      "name": "SM_BAH_PaddockBuilding_02_06",
+      "type": "/Script/Engine.StaticMeshActor",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel",
+      "serialOffset": 73154,
+      "serialSize": 53
+    },
+    {
+      "index": 56,
+      "name": "SM_BAH_Tunnel_01_2",
+      "type": "/Script/Engine.StaticMeshActor",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel",
+      "serialOffset": 73207,
+      "serialSize": 41
+    },
+    {
+      "index": 57,
+      "name": "SM_Generator_12",
+      "type": "/Script/Engine.StaticMeshActor",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel",
+      "serialOffset": 73248,
+      "serialSize": 40
+    },
+    {
+      "index": 58,
+      "name": "SM_Generator_30",
+      "type": "/Script/Engine.StaticMeshActor",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel",
+      "serialOffset": 73288,
+      "serialSize": 40
+    },
+    {
+      "index": 59,
+      "name": "SM_Generator_36",
+      "type": "/Script/Engine.StaticMeshActor",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel",
+      "serialOffset": 73328,
+      "serialSize": 40
+    },
+    {
+      "index": 60,
+      "name": "SM_Lorry_02_16",
+      "type": "/Script/Engine.StaticMeshActor",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel",
+      "serialOffset": 73368,
+      "serialSize": 36
+    },
+    {
+      "index": 61,
+      "name": "SM_Marquee_14",
+      "type": "/Script/Engine.StaticMeshActor",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel",
+      "serialOffset": 73404,
+      "serialSize": 38
+    },
+    {
+      "index": 62,
+      "name": "SM_Planter_Balcony_01_C11",
+      "type": "/Script/Engine.StaticMeshActor",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel",
+      "serialOffset": 73442,
+      "serialSize": 50
+    },
+    {
+      "index": 63,
+      "name": "SM_Planter_Balcony_01_C12",
+      "type": "/Script/Engine.StaticMeshActor",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel",
+      "serialOffset": 73492,
+      "serialSize": 50
+    },
+    {
+      "index": 64,
+      "name": "SM_Planter_Balcony_01_C13",
+      "type": "/Script/Engine.StaticMeshActor",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel",
+      "serialOffset": 73542,
+      "serialSize": 50
+    },
+    {
+      "index": 65,
+      "name": "SM_Planter_Balcony_01_C14",
+      "type": "/Script/Engine.StaticMeshActor",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel",
+      "serialOffset": 73592,
+      "serialSize": 50
+    },
+    {
+      "index": 66,
+      "name": "SM_Planter_Balcony_01_C2",
+      "type": "/Script/Engine.StaticMeshActor",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel",
+      "serialOffset": 73642,
+      "serialSize": 49
+    },
+    {
+      "index": 67,
+      "name": "SM_Planter_Balcony_01_C3",
+      "type": "/Script/Engine.StaticMeshActor",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel",
+      "serialOffset": 73691,
+      "serialSize": 49
+    },
+    {
+      "index": 68,
+      "name": "SM_Planter_Balcony_01_C4",
+      "type": "/Script/Engine.StaticMeshActor",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel",
+      "serialOffset": 73740,
+      "serialSize": 49
+    },
+    {
+      "index": 69,
+      "name": "SM_Planter_Balcony_01_C5",
+      "type": "/Script/Engine.StaticMeshActor",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel",
+      "serialOffset": 73789,
+      "serialSize": 49
+    },
+    {
+      "index": 70,
+      "name": "SM_Planter_Balcony_01_C6",
+      "type": "/Script/Engine.StaticMeshActor",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel",
+      "serialOffset": 73838,
+      "serialSize": 49
+    },
+    {
+      "index": 71,
+      "name": "SM_Planter_Balcony_01_C_9",
+      "type": "/Script/Engine.StaticMeshActor",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel",
+      "serialOffset": 73887,
+      "serialSize": 48
+    },
+    {
+      "index": 72,
+      "name": "SM_ShippingContainer_01_46",
+      "type": "/Script/Engine.StaticMeshActor",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel",
+      "serialOffset": 73935,
+      "serialSize": 48
+    },
+    {
+      "index": 73,
+      "name": "SM_Tent_26",
+      "type": "/Script/Engine.StaticMeshActor",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel",
+      "serialOffset": 73983,
+      "serialSize": 35
+    },
+    {
+      "index": 74,
+      "name": "StaticMeshComponent0",
+      "type": "/Script/Engine.StaticMeshComponent",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel.SM_BAH_DomeTent_01_2",
+      "serialOffset": 74018,
+      "serialSize": 138
+    },
+    {
+      "index": 75,
+      "name": "StaticMeshComponent0",
+      "type": "/Script/Engine.StaticMeshComponent",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel.SM_BAH_DomeTent_02_2",
+      "serialOffset": 74156,
+      "serialSize": 138
+    },
+    {
+      "index": 76,
+      "name": "StaticMeshComponent0",
+      "type": "/Script/Engine.StaticMeshComponent",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel.SM_BAH_Garages_01a_01",
+      "serialOffset": 74294,
+      "serialSize": 138
+    },
+    {
+      "index": 77,
+      "name": "StaticMeshComponent0",
+      "type": "/Script/Engine.StaticMeshComponent",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel.SM_BAH_Garages_01a_2",
+      "serialOffset": 74432,
+      "serialSize": 114
+    },
+    {
+      "index": 78,
+      "name": "StaticMeshComponent0",
+      "type": "/Script/Engine.StaticMeshComponent",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel.SM_BAH_Garages_01b_01",
+      "serialOffset": 74546,
+      "serialSize": 160
+    },
+    {
+      "index": 79,
+      "name": "StaticMeshComponent0",
+      "type": "/Script/Engine.StaticMeshComponent",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel.SM_BAH_PaddockBuilding_02_01",
+      "serialOffset": 74706,
+      "serialSize": 138
+    },
+    {
+      "index": 80,
+      "name": "StaticMeshComponent0",
+      "type": "/Script/Engine.StaticMeshComponent",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel.SM_BAH_PaddockBuilding_02_02",
+      "serialOffset": 74844,
+      "serialSize": 138
+    },
+    {
+      "index": 81,
+      "name": "StaticMeshComponent0",
+      "type": "/Script/Engine.StaticMeshComponent",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel.SM_BAH_PaddockBuilding_02_03",
+      "serialOffset": 74982,
+      "serialSize": 138
+    },
+    {
+      "index": 82,
+      "name": "StaticMeshComponent0",
+      "type": "/Script/Engine.StaticMeshComponent",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel.SM_BAH_PaddockBuilding_02_04",
+      "serialOffset": 75120,
+      "serialSize": 138
+    },
+    {
+      "index": 83,
+      "name": "StaticMeshComponent0",
+      "type": "/Script/Engine.StaticMeshComponent",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel.SM_BAH_PaddockBuilding_02_05",
+      "serialOffset": 75258,
+      "serialSize": 138
+    },
+    {
+      "index": 84,
+      "name": "StaticMeshComponent0",
+      "type": "/Script/Engine.StaticMeshComponent",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel.SM_BAH_PaddockBuilding_02_06",
+      "serialOffset": 75396,
+      "serialSize": 138
+    },
+    {
+      "index": 85,
+      "name": "StaticMeshComponent0",
+      "type": "/Script/Engine.StaticMeshComponent",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel.SM_BAH_Tunnel_01_2",
+      "serialOffset": 75534,
+      "serialSize": 138
+    },
+    {
+      "index": 86,
+      "name": "StaticMeshComponent0",
+      "type": "/Script/Engine.StaticMeshComponent",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel.SM_Generator_12",
+      "serialOffset": 75672,
+      "serialSize": 138
+    },
+    {
+      "index": 87,
+      "name": "StaticMeshComponent0",
+      "type": "/Script/Engine.StaticMeshComponent",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel.SM_Generator_30",
+      "serialOffset": 75810,
+      "serialSize": 138
+    },
+    {
+      "index": 88,
+      "name": "StaticMeshComponent0",
+      "type": "/Script/Engine.StaticMeshComponent",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel.SM_Generator_36",
+      "serialOffset": 75948,
+      "serialSize": 138
+    },
+    {
+      "index": 89,
+      "name": "StaticMeshComponent0",
+      "type": "/Script/Engine.StaticMeshComponent",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel.SM_Lorry_02_16",
+      "serialOffset": 76086,
+      "serialSize": 162
+    },
+    {
+      "index": 90,
+      "name": "StaticMeshComponent0",
+      "type": "/Script/Engine.StaticMeshComponent",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel.SM_Marquee_14",
+      "serialOffset": 76248,
+      "serialSize": 138
+    },
+    {
+      "index": 91,
+      "name": "StaticMeshComponent0",
+      "type": "/Script/Engine.StaticMeshComponent",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel.SM_Planter_Balcony_01_C11",
+      "serialOffset": 76386,
+      "serialSize": 144
+    },
+    {
+      "index": 92,
+      "name": "StaticMeshComponent0",
+      "type": "/Script/Engine.StaticMeshComponent",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel.SM_Planter_Balcony_01_C12",
+      "serialOffset": 76530,
+      "serialSize": 168
+    },
+    {
+      "index": 93,
+      "name": "StaticMeshComponent0",
+      "type": "/Script/Engine.StaticMeshComponent",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel.SM_Planter_Balcony_01_C13",
+      "serialOffset": 76698,
+      "serialSize": 144
+    },
+    {
+      "index": 94,
+      "name": "StaticMeshComponent0",
+      "type": "/Script/Engine.StaticMeshComponent",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel.SM_Planter_Balcony_01_C14",
+      "serialOffset": 76842,
+      "serialSize": 168
+    },
+    {
+      "index": 95,
+      "name": "StaticMeshComponent0",
+      "type": "/Script/Engine.StaticMeshComponent",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel.SM_Planter_Balcony_01_C2",
+      "serialOffset": 77010,
+      "serialSize": 168
+    },
+    {
+      "index": 96,
+      "name": "StaticMeshComponent0",
+      "type": "/Script/Engine.StaticMeshComponent",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel.SM_Planter_Balcony_01_C3",
+      "serialOffset": 77178,
+      "serialSize": 144
+    },
+    {
+      "index": 97,
+      "name": "StaticMeshComponent0",
+      "type": "/Script/Engine.StaticMeshComponent",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel.SM_Planter_Balcony_01_C4",
+      "serialOffset": 77322,
+      "serialSize": 168
+    },
+    {
+      "index": 98,
+      "name": "StaticMeshComponent0",
+      "type": "/Script/Engine.StaticMeshComponent",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel.SM_Planter_Balcony_01_C5",
+      "serialOffset": 77490,
+      "serialSize": 144
+    },
+    {
+      "index": 99,
+      "name": "StaticMeshComponent0",
+      "type": "/Script/Engine.StaticMeshComponent",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel.SM_Planter_Balcony_01_C6",
+      "serialOffset": 77634,
+      "serialSize": 168
+    },
+    {
+      "index": 100,
+      "name": "StaticMeshComponent0",
+      "type": "/Script/Engine.StaticMeshComponent",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel.SM_Planter_Balcony_01_C_9",
+      "serialOffset": 77802,
+      "serialSize": 168
+    },
+    {
+      "index": 101,
+      "name": "StaticMeshComponent0",
+      "type": "/Script/Engine.StaticMeshComponent",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel.SM_ShippingContainer_01_46",
+      "serialOffset": 77970,
+      "serialSize": 138
+    },
+    {
+      "index": 102,
+      "name": "StaticMeshComponent0",
+      "type": "/Script/Engine.StaticMeshComponent",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel.SM_Tent_26",
+      "serialOffset": 78108,
+      "serialSize": 162
+    },
+    {
+      "index": 103,
+      "name": "Lvl_Bahrain_Section01_Architecture",
+      "type": "/Script/Engine.World",
+      "outer": null,
+      "serialOffset": 78270,
+      "serialSize": 18
+    },
+    {
+      "index": 104,
+      "name": "WorldSettings",
+      "type": "/Script/Engine.WorldSettings",
+      "outer": "/Game/Circuits/Bahrain/Levels/Section_01/Lvl_Bahrain_Section01_Architecture.Lvl_Bahrain_Section01_Architecture:PersistentLevel",
+      "serialOffset": 78288,
+      "serialSize": 80
+    }
+  ],
+  "imports": [
+    "/Script/Engine.Default__Actor",
+    "/Game/Actors/Assemblies/BP_assemblyActor_LodTest.BP_assemblyActor_LodTest_C",
+    "/Game/Actors/BaseActors/BP_SplineMesh.BP_SplineMesh_C",
+    "/Game/Actors/BaseActors/BP_SplineMesh_InstancedMeshes.BP_SplineMesh_InstancedMeshes_C",
+    "/Game/Actors/SplineProps/BP_TarpWall_02_3.BP_TarpWall_02_3_C",
+    "/Game/Circuits/Bahrain/Architecture/BAH_Grandstand_01/BP_BAH_GrandStand_01_AssemblyData.BP_BAH_GrandStand_01_AssemblyData_C",
+    "/Game/Circuits/Bahrain/Architecture/BAH_PitBuilding_01/BP_BAH_PitBuilding_01_AssemblyData.BP_BAH_PitBuilding_01_AssemblyData_C",
+    "/Game/Circuits/Bahrain/Architecture/BAH_PitBuilding_02/BP_BAH_PitBuilding_02_AssemblyData.BP_BAH_PitBuilding_02_AssemblyData_C",
+    "/Game/Circuits/Bahrain/Architecture/BAH_PitBuilding_03/BP_BAH_PitBuilding_03_AssemblyData.BP_BAH_PitBuilding_03_AssemblyData_C",
+    "/Script/Engine.Default__LevelBounds:BoxComponent0",
+    "/Game/Actors/Assemblies/BP_assemblyActor_LodTest.Default__BP_assemblyActor_LodTest_C",
+    "/Game/Circuits/Bahrain/Architecture/BAH_Grandstand_01/BP_BAH_GrandStand_01_AssemblyData.Default__BP_BAH_GrandStand_01_AssemblyData_C",
+    "/Game/Circuits/Bahrain/Architecture/BAH_PitBuilding_01/BP_BAH_PitBuilding_01_AssemblyData.Default__BP_BAH_PitBuilding_01_AssemblyData_C",
+    "/Game/Circuits/Bahrain/Architecture/BAH_PitBuilding_02/BP_BAH_PitBuilding_02_AssemblyData.Default__BP_BAH_PitBuilding_02_AssemblyData_C",
+    "/Game/Circuits/Bahrain/Architecture/BAH_PitBuilding_03/BP_BAH_PitBuilding_03_AssemblyData.Default__BP_BAH_PitBuilding_03_AssemblyData_C",
+    "/Game/Actors/BaseActors/BP_SplineMesh.Default__BP_SplineMesh_C",
+    "/Game/Actors/BaseActors/BP_SplineMesh_InstancedMeshes.Default__BP_SplineMesh_InstancedMeshes_C",
+    "/Game/Actors/SplineProps/BP_TarpWall_02_3.Default__BP_TarpWall_02_3_C",
+    "/Script/Engine.Actor",
+    "/Script/Engine.BoxComponent",
+    "/Script/Engine.InstancedStaticMeshComponent",
+    "/Script/Engine.Level",
+    "/Script/Engine.LevelBounds",
+    "/Script/Engine.Model",
+    "/Script/Engine.SceneComponent",
+    "/Script/Engine.StaticMeshActor",
+    "/Script/Engine.StaticMeshComponent",
+    "/Script/Engine.World",
+    "/Script/Engine.WorldSettings",
+    "/Script/NavigationSystem.NavArea_Obstacle",
+    "/Script/NavigationSystem.NavigationSystemModuleConfig",
+    "/Game/Actors/Assemblies/BP_assemblyActor_LodTest.BP_assemblyActor_LodTest_C:NODE_AddInstancedStaticMeshComponent-4",
+    "/Game/Actors/BaseActors/BP_SplineMesh_InstancedMeshes.BP_SplineMesh_InstancedMeshes_C:NODE_AddInstancedStaticMeshComponent-1",
+    "/Game/Actors/BaseActors/BP_SplineMesh_InstancedMeshes.BP_SplineMesh_InstancedMeshes_C:NODE_AddInstancedStaticMeshComponent-2",
+    "/Script/Engine.Default__InstancedStaticMeshComponent",
+    "/Script/Engine.Default__Level",
+    "/Script/Engine.Default__LevelBounds",
+    "/Game/MaterialLibrary/Concrete/ConcreteBrick_03_Mat_07.ConcreteBrick_03_Mat_07",
+    "/Game/SharedAssets/Props/DressingProps/Generator_20/Materials/MI_Generator_20.MI_Generator_20",
+    "/Game/SharedAssets/Props/DressingProps/Generator_22/Materials/MI_Generator_22.MI_Generator_22",
+    "/Game/SharedAssets/Props/DressingProps/Generator_26/Materials/MI_Generator_26.MI_Generator_26",
+    "/Script/Engine.Default__Model",
+    "/Script/NavigationSystem.Default__NavigationSystemModuleConfig",
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "/Script/Engine",
+    "/Script/NavigationSystem",
+    "/Game/Actors/Assemblies/BP_assemblyActor_LodTest.BP_assemblyActor_LodTest_C:DefaultSceneRoot_GEN_VARIABLE",
+    "/Game/Actors/Assemblies/BP_assemblyActor_LodTest.BP_assemblyActor_LodTest_C:ICH-DefaultSceneRoot_GEN_VARIABLE",
+    "/Game/Actors/BaseActors/BP_SplineMesh.BP_SplineMesh_C:DefaultSceneRoot_GEN_VARIABLE",
+    "/Game/Actors/BaseActors/BP_SplineMesh.BP_SplineMesh_C:ICH-DefaultSceneRoot_GEN_VARIABLE",
+    "/Game/Actors/BaseActors/BP_SplineMesh_InstancedMeshes.BP_SplineMesh_InstancedMeshes_C:DefaultSceneRoot_GEN_VARIABLE",
+    "/Game/Actors/SplineProps/BP_TarpWall_02_3.BP_TarpWall_02_3_C:DefaultSceneRoot_GEN_VARIABLE",
+    "/Game/Circuits/Bahrain/Architecture/BAH_Grandstand_01/BP_BAH_GrandStand_01_AssemblyData.BP_BAH_GrandStand_01_AssemblyData_C:DefaultSceneRoot_GEN_VARIABLE",
+    "/Game/Circuits/Bahrain/Architecture/BAH_PitBuilding_01/BP_BAH_PitBuilding_01_AssemblyData.BP_BAH_PitBuilding_01_AssemblyData_C:DefaultSceneRoot_GEN_VARIABLE",
+    "/Game/Circuits/Bahrain/Architecture/BAH_PitBuilding_02/BP_BAH_PitBuilding_02_AssemblyData.BP_BAH_PitBuilding_02_AssemblyData_C:DefaultSceneRoot_GEN_VARIABLE",
+    "/Game/Circuits/Bahrain/Architecture/BAH_PitBuilding_03/BP_BAH_PitBuilding_03_AssemblyData.BP_BAH_PitBuilding_03_AssemblyData_C:DefaultSceneRoot_GEN_VARIABLE",
+    "/Game/Actors/BaseActors/BP_SplineMesh.BP_SplineMesh_C:NODE_AddSplineComponent-0",
+    "/Game/Actors/BaseActors/BP_SplineMesh.BP_SplineMesh_C:NODE_AddSplineMeshComponent-0",
+    "/Game/Circuits/Bahrain/Architecture/BAH_DomeTent_01/Models/SM_BAH_DomeTent_01.SM_BAH_DomeTent_01",
+    "/Game/Circuits/Bahrain/Architecture/BAH_DomeTent_02/Models/SM_BAH_DomeTent_02.SM_BAH_DomeTent_02",
+    "/Game/Circuits/Bahrain/Architecture/BAH_Garages_01/Models/SM_BAH_Garages_01a.SM_BAH_Garages_01a",
+    "/Game/Circuits/Bahrain/Architecture/BAH_Grandstand_01/Models/SM_BAH_GrandStand_01_c001.SM_BAH_GrandStand_01_c001",
+    "/Game/Circuits/Bahrain/Architecture/BAH_Grandstand_01/Models/SM_BAH_GrandStand_01_c002.SM_BAH_GrandStand_01_c002",
+    "/Game/Circuits/Bahrain/Architecture/BAH_Grandstand_01/Models/SM_BAH_GrandStand_01_c003.SM_BAH_GrandStand_01_c003",
+    "/Game/Circuits/Bahrain/Architecture/BAH_Grandstand_01/Models/SM_BAH_GrandStand_01_c004.SM_BAH_GrandStand_01_c004",
+    "/Game/Circuits/Bahrain/Architecture/BAH_Grandstand_01/Models/SM_BAH_GrandStand_01_c005.SM_BAH_GrandStand_01_c005",
+    "/Game/Circuits/Bahrain/Architecture/BAH_Grandstand_01/Models/SM_BAH_GrandStand_01_c006.SM_BAH_GrandStand_01_c006",
+    "/Game/Circuits/Bahrain/Architecture/BAH_Grandstand_01/Models/SM_BAH_GrandStand_01_c007.SM_BAH_GrandStand_01_c007",
+    "/Game/Circuits/Bahrain/Architecture/BAH_Grandstand_01/Models/SM_BAH_GrandStand_01_c008.SM_BAH_GrandStand_01_c008",
+    "/Game/Circuits/Bahrain/Architecture/BAH_Grandstand_01/Models/SM_BAH_GrandStand_01_c009.SM_BAH_GrandStand_01_c009",
+    "/Game/Circuits/Bahrain/Architecture/BAH_PaddockBuilding_02/Models/SM_BAH_PaddockBuilding_02.SM_BAH_PaddockBuilding_02",
+    "/Game/Circuits/Bahrain/Architecture/BAH_PitBuilding_01/Models/SM_BAH_PitBuilding_01.SM_BAH_PitBuilding_01",
+    "/Game/Circuits/Bahrain/Architecture/BAH_PitBuilding_01/Models/SM_Spotlight.SM_Spotlight",
+    "/Game/Circuits/Bahrain/Architecture/BAH_PitBuilding_02/Models/SM_BAH_PitBuilding_02_c001.SM_BAH_PitBuilding_02_c001",
+    "/Game/Circuits/Bahrain/Architecture/BAH_PitBuilding_02/Models/SM_BAH_PitBuilding_02_c002.SM_BAH_PitBuilding_02_c002",
+    "/Game/Circuits/Bahrain/Architecture/BAH_PitBuilding_02/Models/SM_BAH_PitBuilding_02_c003.SM_BAH_PitBuilding_02_c003",
+    "/Game/Circuits/Bahrain/Architecture/BAH_PitBuilding_02/Models/SM_BAH_PitBuilding_02_c004.SM_BAH_PitBuilding_02_c004",
+    "/Game/Circuits/Bahrain/Architecture/BAH_PitBuilding_02/Models/SM_BAH_PitBuilding_02_c005.SM_BAH_PitBuilding_02_c005",
+    "/Game/Circuits/Bahrain/Architecture/BAH_PitBuilding_02/Models/SM_BAH_PitBuilding_02_c006.SM_BAH_PitBuilding_02_c006",
+    "/Game/Circuits/Bahrain/Architecture/BAH_PitBuilding_03/Models/SM_BAH_PitBuilding_03_c001.SM_BAH_PitBuilding_03_c001",
+    "/Game/Circuits/Bahrain/Architecture/BAH_PitBuilding_03/Models/SM_BAH_PitBuilding_03_c002.SM_BAH_PitBuilding_03_c002",
+    "/Game/Circuits/Bahrain/Architecture/BAH_Tunnel_01/Models/SM_BAH_Tunnel_01.SM_BAH_Tunnel_01",
+    "/Game/SharedAssets/Foliage/Plants/Plant_Dracaena/Models/SM_Plant_Dracaena_01.SM_Plant_Dracaena_01",
+    "/Game/SharedAssets/Props/DressingProps/Generator_20/Models/SM_Generator_20.SM_Generator_20",
+    "/Game/SharedAssets/Props/DressingProps/Generator_22/Models/SM_Generator_22.SM_Generator_22",
+    "/Game/SharedAssets/Props/DressingProps/Generator_26/Models/SM_Generator_26.SM_Generator_26",
+    "/Game/SharedAssets/Props/DressingProps/Lorry_02/Models/SM_Lorry_02.SM_Lorry_02",
+    "/Game/SharedAssets/Props/DressingProps/Marquee_13/Models/SM_Marquee_13.SM_Marquee_13",
+    "/Game/SharedAssets/Props/DressingProps/Planter_Balcony_01/Models/SM_Planter_Balcony_01_C.SM_Planter_Balcony_01_C",
+    "/Game/SharedAssets/Props/DressingProps/ShippingContainer_01/Models/SM_ShippingContainer_01.SM_ShippingContainer_01",
+    "/Game/SharedAssets/Props/DressingProps/TarpWall_02/Models/TarpWall_02_3.TarpWall_02_3",
+    "/Game/SharedAssets/Props/DressingProps/Tent_11/Models/SM_Tent_11.SM_Tent_11",
+    "/Game/SharedAssets/Props/LightingProps/FluorescentLight_01/Models/SM_FluorescentLight_01.SM_FluorescentLight_01",
+    "/Script/Engine.Default__StaticMeshActor",
+    "/Game/Actors/Assemblies/BP_assemblyActor_LodTest.BP_assemblyActor_LodTest_C:NODE_AddStaticMeshComponent-0",
+    "/Game/Actors/BaseActors/BP_SplineMesh.BP_SplineMesh_C:NODE_AddStaticMeshComponent-4",
+    "/Game/Actors/BaseActors/BP_SplineMesh.BP_SplineMesh_C:NODE_AddStaticMeshComponent-6",
+    "/Script/Engine.Default__StaticMeshActor:StaticMeshComponent0",
+    "/Script/Engine.Default__World",
+    "/Script/Engine.Default__WorldSettings"
+  ],
+  "dependencies": [
+    "/Game/Circuits/Bahrain/Architecture/BAH_Grandstand_01/Models/SM_BAH_GrandStand_01_c004",
+    "/Game/Circuits/Bahrain/Architecture/BAH_Grandstand_01/Models/SM_BAH_GrandStand_01_c001",
+    "/Game/SharedAssets/Props/DressingProps/Marquee_13/Models/SM_Marquee_13",
+    "/Game/SharedAssets/Props/DressingProps/Lorry_02/Models/SM_Lorry_02",
+    "/Game/Actors/SplineProps/BP_TarpWall_02_3",
+    "/Game/Circuits/Bahrain/Architecture/BAH_PitBuilding_03/BP_BAH_PitBuilding_03_AssemblyData",
+    "/Game/Circuits/Bahrain/Architecture/BAH_PitBuilding_02/Models/SM_BAH_PitBuilding_02_c003",
+    "/Game/Circuits/Bahrain/Architecture/BAH_Grandstand_01/Models/SM_BAH_GrandStand_01_c005",
+    "/Game/MaterialLibrary/Concrete/ConcreteBrick_03_Mat_07",
+    "/Game/Circuits/Bahrain/Architecture/BAH_Grandstand_01/Models/SM_BAH_GrandStand_01_c003",
+    "/Game/Circuits/Bahrain/Architecture/BAH_Grandstand_01/Models/SM_BAH_GrandStand_01_c008",
+    "/Game/Circuits/Bahrain/Architecture/BAH_Tunnel_01/Models/SM_BAH_Tunnel_01",
+    "/Game/SharedAssets/Props/DressingProps/TarpWall_02/Models/TarpWall_02_3",
+    "/Game/Circuits/Bahrain/Architecture/BAH_DomeTent_01/Models/SM_BAH_DomeTent_01",
+    "/Game/SharedAssets/Props/DressingProps/Generator_26/Models/SM_Generator_26",
+    "/Game/SharedAssets/Foliage/Plants/Plant_Dracaena/Models/SM_Plant_Dracaena_01",
+    "/Game/Circuits/Bahrain/Architecture/BAH_PitBuilding_01/Models/SM_BAH_PitBuilding_01",
+    "/Game/SharedAssets/Props/LightingProps/FluorescentLight_01/Models/SM_FluorescentLight_01",
+    "/Game/Circuits/Bahrain/Architecture/BAH_PaddockBuilding_02/Models/SM_BAH_PaddockBuilding_02",
+    "/Game/Circuits/Bahrain/Architecture/BAH_DomeTent_02/Models/SM_BAH_DomeTent_02",
+    "/Game/SharedAssets/Props/DressingProps/Generator_26/Materials/MI_Generator_26",
+    "/Game/Circuits/Bahrain/Architecture/BAH_PitBuilding_02/Models/SM_BAH_PitBuilding_02_c002",
+    "/Game/Circuits/Bahrain/Architecture/BAH_PitBuilding_02/Models/SM_BAH_PitBuilding_02_c004",
+    "/Game/Circuits/Bahrain/Architecture/BAH_Grandstand_01/BP_BAH_GrandStand_01_AssemblyData",
+    "/Game/Circuits/Bahrain/Architecture/BAH_PitBuilding_02/Models/SM_BAH_PitBuilding_02_c001",
+    "/Game/SharedAssets/Props/DressingProps/Generator_20/Materials/MI_Generator_20",
+    "/Game/Circuits/Bahrain/Architecture/BAH_Grandstand_01/Models/SM_BAH_GrandStand_01_c002",
+    "/Game/Circuits/Bahrain/Architecture/BAH_PitBuilding_02/BP_BAH_PitBuilding_02_AssemblyData",
+    "/Game/SharedAssets/Props/DressingProps/Planter_Balcony_01/Models/SM_Planter_Balcony_01_C",
+    "/Game/Circuits/Bahrain/Architecture/BAH_PitBuilding_01/Models/SM_Spotlight",
+    "/Game/SharedAssets/Props/DressingProps/Tent_11/Models/SM_Tent_11",
+    "/Game/Actors/Assemblies/BP_assemblyActor_LodTest",
+    "/Game/Circuits/Bahrain/Architecture/BAH_Grandstand_01/Models/SM_BAH_GrandStand_01_c009",
+    "/Game/SharedAssets/Props/DressingProps/Generator_20/Models/SM_Generator_20",
+    "/Game/Actors/BaseActors/BP_SplineMesh_InstancedMeshes",
+    "/Game/SharedAssets/Props/DressingProps/Generator_22/Materials/MI_Generator_22",
+    "/Game/SharedAssets/Props/DressingProps/Generator_22/Models/SM_Generator_22",
+    "/Game/Actors/BaseActors/BP_SplineMesh",
+    "/Game/Circuits/Bahrain/Architecture/BAH_PitBuilding_02/Models/SM_BAH_PitBuilding_02_c005",
+    "/Game/Circuits/Bahrain/Architecture/BAH_PitBuilding_03/Models/SM_BAH_PitBuilding_03_c001",
+    "/Game/Circuits/Bahrain/Architecture/BAH_Grandstand_01/Models/SM_BAH_GrandStand_01_c006",
+    "/Game/Circuits/Bahrain/Architecture/BAH_Grandstand_01/Models/SM_BAH_GrandStand_01_c007",
+    "/Game/Circuits/Bahrain/Architecture/BAH_Garages_01/Models/SM_BAH_Garages_01a",
+    "/Game/Circuits/Bahrain/Architecture/BAH_PitBuilding_01/BP_BAH_PitBuilding_01_AssemblyData",
+    "/Game/Circuits/Bahrain/Architecture/BAH_PitBuilding_03/Models/SM_BAH_PitBuilding_03_c002",
+    "/Game/Circuits/Bahrain/Architecture/BAH_PitBuilding_02/Models/SM_BAH_PitBuilding_02_c006",
+    "/Game/SharedAssets/Props/DressingProps/ShippingContainer_01/Models/SM_ShippingContainer_01"
+  ]
+}

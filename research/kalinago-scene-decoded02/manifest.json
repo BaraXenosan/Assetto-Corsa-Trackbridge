@@ -1,0 +1,1726 @@
+{
+  "schemaVersion": 1,
+  "installable": false,
+  "root": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks",
+  "overlayDirectory": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\research\\kalinago-scene-pack02",
+  "version": "GAME_UE5_1",
+  "cue4Parse": "1.2.2.0",
+  "createdUtc": "2026-09-23T15:06:53.0014892Z",
+  "files": 116589,
+  "metadataOnly": false,
+  "mappingFile": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\F1 Manager 2024\\F1Manager24\\Content\\Paks\\AC_TrackBridge_v0.2\\research\\runtime_20260921\\5.1.1-498643+++volta24+game+1.11.0-F1Manager24\\Mappings\\5.1.1-498643+++volta24+game+1.11.0-F1Manager24.usmap",
+  "mappingSha256": "5f6b0a3d8a2517ef2a6b442c897d68d5f3104f3c40e68bd9a7f53d0e37ac4dc2",
+  "results": [
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_10_trees_3d.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_10_trees_3d.uasset.json",
+      "exports": 3
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_11_treewalls.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_11_treewalls.uasset.json",
+      "exports": 3
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_14_skidmarks.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_14_skidmarks.uasset.json",
+      "exports": 3
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_15_lights.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_15_lights.uasset.json",
+      "exports": 3
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_16_layout_gp.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_16_layout_gp.uasset.json",
+      "exports": 3
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_17_ads_f1.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_17_ads_f1.uasset.json",
+      "exports": 3
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_18_rolex_clock.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_18_rolex_clock.uasset.json",
+      "exports": 3
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_19_kunos_props_a.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_19_kunos_props_a.uasset.json",
+      "exports": 3
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_1_00_kalinago.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_1_00_kalinago.uasset.json",
+      "exports": 3
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_20_kunos_props_b.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_20_kunos_props_b.uasset.json",
+      "exports": 3
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_21_2024.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_21_2024.uasset.json",
+      "exports": 3
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_22_flags_f1.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_22_flags_f1.uasset.json",
+      "exports": 3
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_4_timing_gp.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_4_timing_gp.uasset.json",
+      "exports": 3
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_5_startlights.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_5_startlights.uasset.json",
+      "exports": 3
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_6_mountains.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_6_mountains.uasset.json",
+      "exports": 3
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_7_grase.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_7_grase.uasset.json",
+      "exports": 3
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_8_trees_1.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_8_trees_1.uasset.json",
+      "exports": 3
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_9_trees_2.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Meshes/SM_9_trees_2.uasset.json",
+      "exports": 3
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_10_trees_3d_0.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_10_trees_3d_0.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_10_trees_3d_1.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_10_trees_3d_1.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_10_trees_3d_2.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_10_trees_3d_2.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_10_trees_3d_3.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_10_trees_3d_3.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_10_trees_3d_4.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_10_trees_3d_4.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_10_trees_3d_5.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_10_trees_3d_5.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_11_treewalls_0.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_11_treewalls_0.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_14_skidmarks_0.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_14_skidmarks_0.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_14_skidmarks_1.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_14_skidmarks_1.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_15_lights_0.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_15_lights_0.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_15_lights_1.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_15_lights_1.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_15_lights_2.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_15_lights_2.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_15_lights_3.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_15_lights_3.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_15_lights_4.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_15_lights_4.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_15_lights_5.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_15_lights_5.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_15_lights_6.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_15_lights_6.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_15_lights_7.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_15_lights_7.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_15_lights_8.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_15_lights_8.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_15_lights_9.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_15_lights_9.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_15_lights_10.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_15_lights_10.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_15_lights_11.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_15_lights_11.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_15_lights_12.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_15_lights_12.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_15_lights_13.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_15_lights_13.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_15_lights_14.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_15_lights_14.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_15_lights_15.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_15_lights_15.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_16_layout_gp_0.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_16_layout_gp_0.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_16_layout_gp_1.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_16_layout_gp_1.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_16_layout_gp_2.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_16_layout_gp_2.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_16_layout_gp_3.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_16_layout_gp_3.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_17_ads_f1_0.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_17_ads_f1_0.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_17_ads_f1_1.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_17_ads_f1_1.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_17_ads_f1_2.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_17_ads_f1_2.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_17_ads_f1_3.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_17_ads_f1_3.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_17_ads_f1_4.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_17_ads_f1_4.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_17_ads_f1_5.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_17_ads_f1_5.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_17_ads_f1_6.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_17_ads_f1_6.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_17_ads_f1_7.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_17_ads_f1_7.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_17_ads_f1_8.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_17_ads_f1_8.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_17_ads_f1_9.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_17_ads_f1_9.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_17_ads_f1_10.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_17_ads_f1_10.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_17_ads_f1_11.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_17_ads_f1_11.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_17_ads_f1_12.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_17_ads_f1_12.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_17_ads_f1_13.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_17_ads_f1_13.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_18_rolex_clock_0.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_18_rolex_clock_0.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_18_rolex_clock_1.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_18_rolex_clock_1.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_19_kunos_props_a_0.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_19_kunos_props_a_0.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_19_kunos_props_a_1.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_19_kunos_props_a_1.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_19_kunos_props_a_2.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_19_kunos_props_a_2.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_19_kunos_props_a_3.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_19_kunos_props_a_3.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_19_kunos_props_a_4.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_19_kunos_props_a_4.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_19_kunos_props_a_5.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_19_kunos_props_a_5.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_19_kunos_props_a_6.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_19_kunos_props_a_6.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_19_kunos_props_a_7.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_19_kunos_props_a_7.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_19_kunos_props_a_8.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_19_kunos_props_a_8.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_19_kunos_props_a_9.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_19_kunos_props_a_9.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_19_kunos_props_a_10.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_19_kunos_props_a_10.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_0.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_0.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_1.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_1.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_2.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_2.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_3.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_3.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_4.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_4.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_5.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_5.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_6.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_6.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_7.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_7.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_8.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_8.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_9.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_9.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_10.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_10.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_11.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_11.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_12.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_12.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_13.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_13.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_14.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_14.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_15.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_15.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_16.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_16.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_17.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_17.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_18.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_18.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_19.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_19.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_20.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_20.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_21.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_21.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_23.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_23.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_24.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_24.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_25.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_25.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_26.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_26.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_27.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_27.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_28.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_28.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_29.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_29.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_30.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_30.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_31.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_31.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_32.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_32.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_33.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_33.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_34.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_34.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_35.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_35.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_36.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_36.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_37.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_37.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_38.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_38.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_39.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_39.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_40.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_40.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_41.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_41.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_42.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_42.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_43.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_43.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_44.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_44.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_45.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_45.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_46.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_46.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_47.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_47.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_48.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_48.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_49.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_49.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_50.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_50.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_51.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_51.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_52.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_52.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_53.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_53.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_54.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_54.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_55.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_55.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_56.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_56.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_57.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_57.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_58.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_58.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_59.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_59.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_60.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_60.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_61.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_61.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_62.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_62.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_63.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_63.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_64.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_64.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_65.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_65.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_66.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_66.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_67.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_67.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_68.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_1_00_kalinago_68.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_20_kunos_props_b_0.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_20_kunos_props_b_0.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_20_kunos_props_b_1.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_20_kunos_props_b_1.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_20_kunos_props_b_2.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_20_kunos_props_b_2.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_20_kunos_props_b_3.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_20_kunos_props_b_3.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_20_kunos_props_b_4.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_20_kunos_props_b_4.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_20_kunos_props_b_5.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_20_kunos_props_b_5.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_20_kunos_props_b_6.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_20_kunos_props_b_6.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_20_kunos_props_b_7.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_20_kunos_props_b_7.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_20_kunos_props_b_8.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_20_kunos_props_b_8.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_20_kunos_props_b_9.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_20_kunos_props_b_9.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_20_kunos_props_b_10.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_20_kunos_props_b_10.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_20_kunos_props_b_11.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_20_kunos_props_b_11.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_20_kunos_props_b_12.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_20_kunos_props_b_12.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_20_kunos_props_b_13.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_20_kunos_props_b_13.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_21_2024_0.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_21_2024_0.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_21_2024_1.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_21_2024_1.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_22_flags_f1_0.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_22_flags_f1_0.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_22_flags_f1_1.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_22_flags_f1_1.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_22_flags_f1_2.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_22_flags_f1_2.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_22_flags_f1_3.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_22_flags_f1_3.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_4_timing_gp_0.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_4_timing_gp_0.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_5_startlights_0.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_5_startlights_0.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_6_mountains_0.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_6_mountains_0.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_7_grase_0.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_7_grase_0.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_7_grase_1.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_7_grase_1.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_7_grase_2.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_7_grase_2.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_7_grase_3.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_7_grase_3.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_7_grase_4.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_7_grase_4.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_8_trees_1_0.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_8_trees_1_0.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_8_trees_1_1.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_8_trees_1_1.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_9_trees_2_0.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Materials/M_9_trees_2_0.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_7a71915ffb4d1c47777cf6dbee99d996facff226e620539647e5a021f00a13bb.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_7a71915ffb4d1c47777cf6dbee99d996facff226e620539647e5a021f00a13bb.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_c457166a007208f833b9545bfab2a401fad135023ab61e4f0473dcd587fdc060.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_c457166a007208f833b9545bfab2a401fad135023ab61e4f0473dcd587fdc060.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_2591349cd2192cf9f590673eb6cce8915bbb5709c0373a283e21d69e5f0269b4.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_2591349cd2192cf9f590673eb6cce8915bbb5709c0373a283e21d69e5f0269b4.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_6212ab95589fa68dcff925fd9b708b91c2fdec8be7dcc94fe56f1666010e9201.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_6212ab95589fa68dcff925fd9b708b91c2fdec8be7dcc94fe56f1666010e9201.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_02d20cf3e6d1b54552d5d82bbe0d23adff67c7664b56a879d4aaaa09dc8ca7c8.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_02d20cf3e6d1b54552d5d82bbe0d23adff67c7664b56a879d4aaaa09dc8ca7c8.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_e85327c466cb24a44a78667f022d4e010382ccbd33e53d77f128f100f4d7949d.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_e85327c466cb24a44a78667f022d4e010382ccbd33e53d77f128f100f4d7949d.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_521d2dda1ea05890c1fdd271d88d92faff1cfe92a472334d16835bb4df569031.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_521d2dda1ea05890c1fdd271d88d92faff1cfe92a472334d16835bb4df569031.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_3b8622e1294f28f285bb300f8cae1ae6b92abdc8777030f915a6163e3835cb6e.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_3b8622e1294f28f285bb300f8cae1ae6b92abdc8777030f915a6163e3835cb6e.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_fb0ef631a813cd3d7105a089ef4b68a3d065cb2dcf5767e67830a271ba0b257e.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_fb0ef631a813cd3d7105a089ef4b68a3d065cb2dcf5767e67830a271ba0b257e.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_af769555cc104e3d873919daaaa8d82737f60c9cab3d6fd616a4d27c2f4aca81.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_af769555cc104e3d873919daaaa8d82737f60c9cab3d6fd616a4d27c2f4aca81.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_7bf0652ea9ec0a86dc8b688c89867377c2a38035cb501b65a9e6ff2f70da3fdc.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_7bf0652ea9ec0a86dc8b688c89867377c2a38035cb501b65a9e6ff2f70da3fdc.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_e4cb402a8d2f6c25e1b71523fbedc8e9ca936ba97485d04419c59558a9e4cdb2.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_e4cb402a8d2f6c25e1b71523fbedc8e9ca936ba97485d04419c59558a9e4cdb2.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_be76ab452ca3b624b45708426fc611a652ac4bf81eb5275c779ebd70ba9098a2.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_be76ab452ca3b624b45708426fc611a652ac4bf81eb5275c779ebd70ba9098a2.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_337b6ad1ddbfe47e4aaecfca84c3182f7088750f20e8acb2a5942bd4525f6df2.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_337b6ad1ddbfe47e4aaecfca84c3182f7088750f20e8acb2a5942bd4525f6df2.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_674b292ba42556246d2c203450c4d5e695b17a913c144dd61945db0999683d9a.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_674b292ba42556246d2c203450c4d5e695b17a913c144dd61945db0999683d9a.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_7c80dab196aa77a2fb7fbefe177b145a19bb43ab3d315b81bcf4d7658ca931bc.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_7c80dab196aa77a2fb7fbefe177b145a19bb43ab3d315b81bcf4d7658ca931bc.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_73b425c69fe5993225b922da8b8590fee2ed32611c8d8d2763fe2db5dbd7ddba.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_73b425c69fe5993225b922da8b8590fee2ed32611c8d8d2763fe2db5dbd7ddba.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_f5336fb0ff09e1347bae4960503fc9df045ccab93e57f8f37282340d5b7e504f.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_f5336fb0ff09e1347bae4960503fc9df045ccab93e57f8f37282340d5b7e504f.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_9906dea78f49087f11ee9b2aa3072dbd46b59193c7c5cefd86868e1119457e9e.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_9906dea78f49087f11ee9b2aa3072dbd46b59193c7c5cefd86868e1119457e9e.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_c1800b9e7c6760f8e21fc2b2183a85afd2f8f9dace29ecd3857ab7feea0ac5e9.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_c1800b9e7c6760f8e21fc2b2183a85afd2f8f9dace29ecd3857ab7feea0ac5e9.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_17e8b98a860c87dd5a7504206d02e5d8fbfd61c1b99d1b263ada4071226bb644.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_17e8b98a860c87dd5a7504206d02e5d8fbfd61c1b99d1b263ada4071226bb644.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_d841256e6ce9f851e904f8938e3fcd5e49baa5173481d2c7fab182ffae43b0e4.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_d841256e6ce9f851e904f8938e3fcd5e49baa5173481d2c7fab182ffae43b0e4.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_838b4aa0d0c2129271a0af90a74f7b4e1543acc0c46889627a0e044506363500.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_838b4aa0d0c2129271a0af90a74f7b4e1543acc0c46889627a0e044506363500.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_d77efef76f22163e9459046a56a10a42fe2be6a8e18000fa5a6cbb296cdcde54.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_d77efef76f22163e9459046a56a10a42fe2be6a8e18000fa5a6cbb296cdcde54.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_7d64ca281b395e4067a9f7579819dcbf61858886784b52d96745b11761dc1b2d.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_7d64ca281b395e4067a9f7579819dcbf61858886784b52d96745b11761dc1b2d.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_9327bb66746905fba423cbf293529dcb8a89d954790deab6128eb25814662ad2.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_9327bb66746905fba423cbf293529dcb8a89d954790deab6128eb25814662ad2.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_d42a708d552ab8bbbb9589537bcb966dc054206654dc1e79fa8e30068ed3e2e3.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_d42a708d552ab8bbbb9589537bcb966dc054206654dc1e79fa8e30068ed3e2e3.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_ae64f89a879afbb83739452f11be58f8a42020bf87ff714e242de9824bb649aa.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_ae64f89a879afbb83739452f11be58f8a42020bf87ff714e242de9824bb649aa.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_10208cc6c56db38cf84d007053ea6691595eeac0c4740ef6f5b0c21d8fd1fa73.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_10208cc6c56db38cf84d007053ea6691595eeac0c4740ef6f5b0c21d8fd1fa73.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_feec423375d5d8f7c9887af5aeb38b6ff87d422b192698013a4164e1a956b4d6.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_feec423375d5d8f7c9887af5aeb38b6ff87d422b192698013a4164e1a956b4d6.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_27a6a3f00358a760cf6e36f0c3356159d090d4a0bd7cdd97e5699fdebf14c043.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_27a6a3f00358a760cf6e36f0c3356159d090d4a0bd7cdd97e5699fdebf14c043.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_e57232df19172c2f258b796cd521a4bdaac52bb90e1a9a00e58ae90ee078e1cd.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_e57232df19172c2f258b796cd521a4bdaac52bb90e1a9a00e58ae90ee078e1cd.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_5295bf624a79d42e652aca935f8676f897ba169c3f1b1add8698dd9e3f8e2ed0.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_5295bf624a79d42e652aca935f8676f897ba169c3f1b1add8698dd9e3f8e2ed0.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_89967d8c5890b18335eb9defa55e9e458cd45ede081eea201130d3abeea587b8.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_89967d8c5890b18335eb9defa55e9e458cd45ede081eea201130d3abeea587b8.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_a140c25ee09a436869fe41194ff7e0ef6c913c27b5390cee85bd5b21534f0e48.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_a140c25ee09a436869fe41194ff7e0ef6c913c27b5390cee85bd5b21534f0e48.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_3dce0ade9e5d9f185da7d3bd149abef56509ad6711ae4b15ebab39bf9c36be64.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_3dce0ade9e5d9f185da7d3bd149abef56509ad6711ae4b15ebab39bf9c36be64.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_e17deed0ea2024f2bd77807b6bc1dd9a896e151ca686508d01a1ca9356268054.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_e17deed0ea2024f2bd77807b6bc1dd9a896e151ca686508d01a1ca9356268054.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_35b4ea3dca1b07acb115571d1e2aaae241b69209e7846d45b9d1babfc86a2ed6.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_35b4ea3dca1b07acb115571d1e2aaae241b69209e7846d45b9d1babfc86a2ed6.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_211541c46fe7a431a059f290301f8bbb428bce9ac301b89c587d091a1fc735e2.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_211541c46fe7a431a059f290301f8bbb428bce9ac301b89c587d091a1fc735e2.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_f9c0365f6d7aa0a6cc330741f0c6fd16a044b8f244a7921a7fac7994f430371c.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_f9c0365f6d7aa0a6cc330741f0c6fd16a044b8f244a7921a7fac7994f430371c.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_c8e6dd26bc9fae85eca0e0a82a340695cfe74adf9fbe55625dd8f70a98c7fba7.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_c8e6dd26bc9fae85eca0e0a82a340695cfe74adf9fbe55625dd8f70a98c7fba7.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_c57ea59bf6a8e57f6b2af1a77553233580849251d937ba4881744a369de855f5.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_c57ea59bf6a8e57f6b2af1a77553233580849251d937ba4881744a369de855f5.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_6d9344f178b17a74535a07ab7af8b1fc8e2abd36e699994689b3b8976e2ef2cb.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_6d9344f178b17a74535a07ab7af8b1fc8e2abd36e699994689b3b8976e2ef2cb.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_06a8f68d74b3a594f07a3ee59560bf1953213f71c5fc9f48922745859ce6cf5d.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_06a8f68d74b3a594f07a3ee59560bf1953213f71c5fc9f48922745859ce6cf5d.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_e68d15a62f5d3dfe8d1a81df72b2a941972962d89954a403a8f21147ff26e6f8.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_e68d15a62f5d3dfe8d1a81df72b2a941972962d89954a403a8f21147ff26e6f8.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_633f0a781e045198a87bf079e39e08d711cb1894d9fda03c64beec26fd375a05.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_633f0a781e045198a87bf079e39e08d711cb1894d9fda03c64beec26fd375a05.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_7deb60f3c36df5475363fe463bcfb03bf816d2b41fd5680545e351a4328e1eae.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_7deb60f3c36df5475363fe463bcfb03bf816d2b41fd5680545e351a4328e1eae.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_1552f1c847d895bd61b14dcaa7b706d7dc5b812f3f99c7bc6083a0099b2db7da.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_1552f1c847d895bd61b14dcaa7b706d7dc5b812f3f99c7bc6083a0099b2db7da.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_3f51fabb16c5f09aa0ddb5a12dd031459f1cf5f9e063f0b7cac8e058a5c36a4b.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_3f51fabb16c5f09aa0ddb5a12dd031459f1cf5f9e063f0b7cac8e058a5c36a4b.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_d920144432a37cb92322b6a9be03579dadd5d2a4bbe7300c3482bf10ab491005.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_d920144432a37cb92322b6a9be03579dadd5d2a4bbe7300c3482bf10ab491005.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_7d84c72fb878a48d36de3e80717e200808c1a7c1edf100caa081a04f22c60416.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_7d84c72fb878a48d36de3e80717e200808c1a7c1edf100caa081a04f22c60416.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_c6e73f591313bbf143f4a87285adb385d484b46a862cc816b60d3cd721e480d2.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_c6e73f591313bbf143f4a87285adb385d484b46a862cc816b60d3cd721e480d2.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_d036f9c57abda8c08af27ad388824bdef975ea46ab20c67233e824766bc03df3.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_d036f9c57abda8c08af27ad388824bdef975ea46ab20c67233e824766bc03df3.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_1d951e04b01070579ecf3fdde131336437ed98e8435b6fd554f2a52dc10bff49.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_1d951e04b01070579ecf3fdde131336437ed98e8435b6fd554f2a52dc10bff49.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_d4d6905add58258e1315c9a06b187697994c2f4d2283580fc412d9c8ebf1a3cf.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_d4d6905add58258e1315c9a06b187697994c2f4d2283580fc412d9c8ebf1a3cf.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_ec348e31a43217081904311e08e333b30817f68eabeb46bc020d84f8f6b35b8a.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_ec348e31a43217081904311e08e333b30817f68eabeb46bc020d84f8f6b35b8a.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_9a8fe251e4e2f5170bbea04bab79278b086d51f38ab8070474d43d8da26b4e3f.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_9a8fe251e4e2f5170bbea04bab79278b086d51f38ab8070474d43d8da26b4e3f.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_521b09bfd032973591113dc212312c1a7380b86bf96459d61676e24e4ea5ff93.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_521b09bfd032973591113dc212312c1a7380b86bf96459d61676e24e4ea5ff93.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_b8be2b2c9d8985680e6f98bee596dfddf171bda171f629a06b55a62422505ccc.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_b8be2b2c9d8985680e6f98bee596dfddf171bda171f629a06b55a62422505ccc.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_da80c91d3b0b803f2eb420150ef792fa3209a85e4519eb6e17449c43527cc192.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_da80c91d3b0b803f2eb420150ef792fa3209a85e4519eb6e17449c43527cc192.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_537da1f630168004a0c8e3d1e849e659a39c8997ec333b1e921bd69d4c4349e8.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_537da1f630168004a0c8e3d1e849e659a39c8997ec333b1e921bd69d4c4349e8.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_cf80d04a51c4a78c1af946ba28a90abfa3f33f8749d327352efb933e3a3facde.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_cf80d04a51c4a78c1af946ba28a90abfa3f33f8749d327352efb933e3a3facde.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_07ae7653653fef09eb495c45594158285f79c8c2482bca98b5beabbace133b00.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_07ae7653653fef09eb495c45594158285f79c8c2482bca98b5beabbace133b00.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_4e9528bdef928511591fdbf63584af8ae592f801fe6cf0be7ffe67f41d5fe83f.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_4e9528bdef928511591fdbf63584af8ae592f801fe6cf0be7ffe67f41d5fe83f.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_075e4936f86fa0a5fdaac61517eb0202c5697c8408290f10e9dcf0bc3e417044.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_075e4936f86fa0a5fdaac61517eb0202c5697c8408290f10e9dcf0bc3e417044.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_389b8e81d558b5d3e69172c9d5e1ec46c9adfc88bc1b0a5e60b5a54526a3425d.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_389b8e81d558b5d3e69172c9d5e1ec46c9adfc88bc1b0a5e60b5a54526a3425d.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_6bfc8f826e0e72cc5b35e521b485a29045bc8322486c00c126cfba8f03aef172.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_6bfc8f826e0e72cc5b35e521b485a29045bc8322486c00c126cfba8f03aef172.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_851539f805f04ea9a529d81c576fa61e43c3899e1ac09753f53e4a339ca0beb7.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_851539f805f04ea9a529d81c576fa61e43c3899e1ac09753f53e4a339ca0beb7.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_c0cd950093ab5ede3326de64cd43d04c4aa77b98dbe8452ab0f46b0d56dfdab5.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_c0cd950093ab5ede3326de64cd43d04c4aa77b98dbe8452ab0f46b0d56dfdab5.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_46c9df4b58938b920bce9672022deeb9556b150e919962b2a95da4c0da36090b.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_46c9df4b58938b920bce9672022deeb9556b150e919962b2a95da4c0da36090b.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_a4eb8f2417f89e74ef01f10a22f0747479ee08906c3e8fe066043e72b5632d9e.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_a4eb8f2417f89e74ef01f10a22f0747479ee08906c3e8fe066043e72b5632d9e.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_0ae36a664e43ec84caab2edcf0ead0b6cd1b43c021750ec375b9bbad3344e568.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_0ae36a664e43ec84caab2edcf0ead0b6cd1b43c021750ec375b9bbad3344e568.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_2054a0b221eaaa8dd9301729d7427757ba822fe307cbd698b7e9fea299bd4dc3.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_2054a0b221eaaa8dd9301729d7427757ba822fe307cbd698b7e9fea299bd4dc3.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_e05e135c37555e6a049f9ffad2a75f365f230da03b712ef0fe761db58aefe244.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_e05e135c37555e6a049f9ffad2a75f365f230da03b712ef0fe761db58aefe244.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_ebf53ea6a375716338cd47a7c8d4558cc6a108a812bf6c23fc07dd28db475c1a.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_ebf53ea6a375716338cd47a7c8d4558cc6a108a812bf6c23fc07dd28db475c1a.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_51df91fba5154cd473292e5ff91109c04d01ae71e386120b71cc10f9b7cda66c.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_51df91fba5154cd473292e5ff91109c04d01ae71e386120b71cc10f9b7cda66c.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_b6b41b4667199d33eb620be9969bbbfb6cfaf3fab178a6ffb13ac1e4f1b5e8dc.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_b6b41b4667199d33eb620be9969bbbfb6cfaf3fab178a6ffb13ac1e4f1b5e8dc.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_842d6682d31b081f6a6c4325668745ab68259ab485aeedc35eea69c3e8a7f9a4.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_842d6682d31b081f6a6c4325668745ab68259ab485aeedc35eea69c3e8a7f9a4.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_9fef1aa93ebe8e517e9e3c09a76c4e72ce23e97b6e39efd2b741f6f55d0a2ca5.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_9fef1aa93ebe8e517e9e3c09a76c4e72ce23e97b6e39efd2b741f6f55d0a2ca5.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_7d9735044d831c239ae2ea238d0611aa8648c5f2d6becfbf5d03a59bd69b1d33.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_7d9735044d831c239ae2ea238d0611aa8648c5f2d6becfbf5d03a59bd69b1d33.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_9a252a02c316d9724621c32c2d14a7de08d9a0984a4989999fcc159f116061c3.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_9a252a02c316d9724621c32c2d14a7de08d9a0984a4989999fcc159f116061c3.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_2ac230280deead1d7e2a061f0de4ff4da3bff38b7bbc42982b48f0d2970a8a02.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_2ac230280deead1d7e2a061f0de4ff4da3bff38b7bbc42982b48f0d2970a8a02.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_d570f9ecb3ed9d0994b81946503affa2cb67d6a25e4c5621722fcb881cab640d.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_d570f9ecb3ed9d0994b81946503affa2cb67d6a25e4c5621722fcb881cab640d.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_6a9399189fd16d78a8e2276a665ac232b93016e30a343d173841cce6b637c5d3.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_6a9399189fd16d78a8e2276a665ac232b93016e30a343d173841cce6b637c5d3.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_3e9c3f5d0bc81774dbef6c7bfdb9ed3f0b73d5d7a30581640c3be11cb1545e99.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_3e9c3f5d0bc81774dbef6c7bfdb9ed3f0b73d5d7a30581640c3be11cb1545e99.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_a5d0d53aef6e4fedfcc82f07c033facf21d378aaa63d932c9137aaa7fb99dc8c.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_a5d0d53aef6e4fedfcc82f07c033facf21d378aaa63d932c9137aaa7fb99dc8c.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_28bbaeb0530ad01f330bae020f4454aa6e78de954091e056d5ba2e6298aecf33.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_28bbaeb0530ad01f330bae020f4454aa6e78de954091e056d5ba2e6298aecf33.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_23f5358e968fc30a10bb9dda75c0fafbbe888c641b44ddb00d77fc3a46c88b99.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_23f5358e968fc30a10bb9dda75c0fafbbe888c641b44ddb00d77fc3a46c88b99.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_59abf800cade531eba394382d992a3c02ba5a24ad87726d596b3ec3467c9ab30.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_59abf800cade531eba394382d992a3c02ba5a24ad87726d596b3ec3467c9ab30.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_26260766a7b9b592dae5c862277d7b6e87b5694b85f7cb6ebc357d9d61ab0f61.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_26260766a7b9b592dae5c862277d7b6e87b5694b85f7cb6ebc357d9d61ab0f61.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_91ab4faa1fd3448050040018a121518da817e64f94436b57f13356ed466a0a12.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_91ab4faa1fd3448050040018a121518da817e64f94436b57f13356ed466a0a12.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_ff12e732b9082fd169a0556af375c59532fb956dd331a0ee1988d34c31df3cb9.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_ff12e732b9082fd169a0556af375c59532fb956dd331a0ee1988d34c31df3cb9.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_1dd5c148cf696632c5d05bc42fa0738d54696220f919ef03d0c072ca65943295.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_1dd5c148cf696632c5d05bc42fa0738d54696220f919ef03d0c072ca65943295.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_61f90ee6f4dd2b40152722c95960be24b92032e5199c202155771a6f0209f0a3.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_61f90ee6f4dd2b40152722c95960be24b92032e5199c202155771a6f0209f0a3.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_8d6e3453ae52bf2b006f1bf998cf221ad36c85a52edd6a1360a5e64040cc1702.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_8d6e3453ae52bf2b006f1bf998cf221ad36c85a52edd6a1360a5e64040cc1702.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_658b32bfa3d5b7072159b4c6402daaad5e98c5ca6e034751347fd04e4c2eb88f.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_658b32bfa3d5b7072159b4c6402daaad5e98c5ca6e034751347fd04e4c2eb88f.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_9ae69a64258e903f520d4c68ad304f57cbcf49ad7ac7741bf7f404e96428650e.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_9ae69a64258e903f520d4c68ad304f57cbcf49ad7ac7741bf7f404e96428650e.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_4f31913f9bd0ffbdb0ee95da18c23eb6beee73b8751994fa456d6dffe4d085d6.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_4f31913f9bd0ffbdb0ee95da18c23eb6beee73b8751994fa456d6dffe4d085d6.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_c3afcb45f88c6d97a189267d58ee70053c5ecbe90ca4ff60c0516d3c60f73a1e.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_c3afcb45f88c6d97a189267d58ee70053c5ecbe90ca4ff60c0516d3c60f73a1e.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_f8f597be17812bccbb2f8a05aa5ae11b0e06f3196927482d63ae88ca0df13af2.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_f8f597be17812bccbb2f8a05aa5ae11b0e06f3196927482d63ae88ca0df13af2.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_5835ec49cac59afb4d60ba6a430da97bf66a302c86cd498f636ff8fef4384fcd.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_5835ec49cac59afb4d60ba6a430da97bf66a302c86cd498f636ff8fef4384fcd.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_3afa03810a530b8a3f1d2e4699b7cf9fd0c148b80473de5c8bda734e5b99f942.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_3afa03810a530b8a3f1d2e4699b7cf9fd0c148b80473de5c8bda734e5b99f942.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_8cdd99eacc300c541323f0b38fb46e9786c272a642bd57ebc0121c24e2e02a81.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_8cdd99eacc300c541323f0b38fb46e9786c272a642bd57ebc0121c24e2e02a81.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_85bbf3afd272218aeb91ddd14f8bb52d652a1cdb8633db422c6623873f5a0fae.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_85bbf3afd272218aeb91ddd14f8bb52d652a1cdb8633db422c6623873f5a0fae.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_6e945f6b4c8f4e22421a6d6caa77ffac0867fbad0288723c2167da8013708528.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_6e945f6b4c8f4e22421a6d6caa77ffac0867fbad0288723c2167da8013708528.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_77fda584e480b9a94a3c5347efeb257e896e143f087fd8816aed50ce472a528d.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_77fda584e480b9a94a3c5347efeb257e896e143f087fd8816aed50ce472a528d.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_1b6e0dd0daeaf8f60de955481910d22b66964baec016668da33c8401175e967c.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_1b6e0dd0daeaf8f60de955481910d22b66964baec016668da33c8401175e967c.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_361980156ccdf6b076abeb5a5195c7e9007c882b89c32e9f6a65f2826692f396.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_361980156ccdf6b076abeb5a5195c7e9007c882b89c32e9f6a65f2826692f396.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_402b3b01fa722b0fb9e43208d1b68d1e3d731f0befcc5c5175de02a3fa01da97.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_402b3b01fa722b0fb9e43208d1b68d1e3d731f0befcc5c5175de02a3fa01da97.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_a4c3ab9ffda6691d3369b00b75fa463cb3e4e33e0f6edf8a50abb4deabf8a2a0.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_a4c3ab9ffda6691d3369b00b75fa463cb3e4e33e0f6edf8a50abb4deabf8a2a0.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_f598826db63e7e564985dd28f4e6a53b65a3c5e869cbdc90b73074a252a0fa18.uasset",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/Textures/T_f598826db63e7e564985dd28f4e6a53b65a3c5e869cbdc90b73074a252a0fa18.uasset.json",
+      "exports": 1
+    },
+    {
+      "package": "F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/KalinagoVisual.umap",
+      "container": "TrackBridge_Kalinago_Scene_P.utoc",
+      "output": "properties/F1Manager24/Content/TrackBridge/KalinagoScene/Run_2b0d5b5e7e44432db837463ecc98aa91/KalinagoVisual.umap.json",
+      "exports": 41
+    }
+  ],
+  "scope": "Property export for research; no cooking, packaging or game validation."
+}

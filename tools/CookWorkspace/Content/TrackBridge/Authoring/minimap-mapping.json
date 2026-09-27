@@ -1,0 +1,13 @@
+{
+  "worldUnits": "metres",
+  "center": [
+    -107.68582153320312,
+    441.4036560058594
+  ],
+  "span": 1539.1072387695312,
+  "pixelsPerMetre": 0.5977491215852585,
+  "imageSize": 1024,
+  "flipY": true,
+  "runtimeIntegrated": false,
+  "DRSRendering": "node-level preview; endpoints approximate"
+}

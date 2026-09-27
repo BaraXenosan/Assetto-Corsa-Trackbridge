@@ -1,0 +1,134 @@
+[
+  {
+    "Type": "RaceSimPitStopDataAsset",
+    "Name": "RaceSimPitStopDataAsset",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'RaceSimPitStopDataAsset'",
+    "Package": "/Game/RaceSim/RaceSimPitStopDataAsset",
+    "Properties": {
+      "GarageEntranceDistanceStart": 35.0,
+      "PitDistanceStart": 25.0,
+      "PitDistanceEnd": 40.0,
+      "RaiseCarMistakeSeverityTime": [
+        {
+          "Key": "EPitStopMistakeSeverity::Low",
+          "Value": 4.0
+        },
+        {
+          "Key": "EPitStopMistakeSeverity::Medium",
+          "Value": 6.0
+        },
+        {
+          "Key": "EPitStopMistakeSeverity::High",
+          "Value": 8.0
+        }
+      ],
+      "LoosenWheelsMistakeSeverityTime": [
+        {
+          "Key": "EPitStopMistakeSeverity::Low",
+          "Value": 1.1
+        },
+        {
+          "Key": "EPitStopMistakeSeverity::Medium",
+          "Value": 6.0
+        },
+        {
+          "Key": "EPitStopMistakeSeverity::High",
+          "Value": 10.0
+        }
+      ],
+      "WheelsOffMistakeSeverityTime": [
+        {
+          "Key": "EPitStopMistakeSeverity::Low",
+          "Value": 1.8333
+        },
+        {
+          "Key": "EPitStopMistakeSeverity::Medium",
+          "Value": 3.0
+        },
+        {
+          "Key": "EPitStopMistakeSeverity::High",
+          "Value": 5.0
+        }
+      ],
+      "WheelsOnMistakeSeverityTime": [
+        {
+          "Key": "EPitStopMistakeSeverity::Low",
+          "Value": 1.0
+        },
+        {
+          "Key": "EPitStopMistakeSeverity::Medium",
+          "Value": 3.0
+        },
+        {
+          "Key": "EPitStopMistakeSeverity::High",
+          "Value": 5.0
+        }
+      ],
+      "TightenWheelsMistakeSeverityTime": [
+        {
+          "Key": "EPitStopMistakeSeverity::Low",
+          "Value": 2.0
+        },
+        {
+          "Key": "EPitStopMistakeSeverity::Medium",
+          "Value": 6.0
+        },
+        {
+          "Key": "EPitStopMistakeSeverity::High",
+          "Value": 10.0
+        }
+      ],
+      "WingReplacementMistakeSeverityTime": [
+        {
+          "Key": "EPitStopMistakeSeverity::Low",
+          "Value": 6.0
+        },
+        {
+          "Key": "EPitStopMistakeSeverity::Medium",
+          "Value": 8.0
+        },
+        {
+          "Key": "EPitStopMistakeSeverity::High",
+          "Value": 10.0
+        }
+      ],
+      "LowerCarMistakeSeverityTime": [
+        {
+          "Key": "EPitStopMistakeSeverity::Low",
+          "Value": 2.0
+        },
+        {
+          "Key": "EPitStopMistakeSeverity::Medium",
+          "Value": 3.0
+        },
+        {
+          "Key": "EPitStopMistakeSeverity::High",
+          "Value": 4.0
+        }
+      ],
+      "ReleaseMistakeSeverityTime": [
+        {
+          "Key": "EPitStopMistakeSeverity::Low",
+          "Value": 4.0
+        },
+        {
+          "Key": "EPitStopMistakeSeverity::Medium",
+          "Value": 6.0
+        },
+        {
+          "Key": "EPitStopMistakeSeverity::High",
+          "Value": 8.0
+        }
+      ],
+      "MediumSeverityMistakeChance": {
+        "ObjectName": "CurveFloat'PitStopError_SeverityCurve_Medium'",
+        "ObjectPath": "/Game/Management/PitStopError_SeverityCurve_Medium.0"
+      },
+      "HighSeverityMistakeChance": {
+        "ObjectName": "CurveFloat'PitStopError_SeverityCurve_High'",
+        "ObjectPath": "/Game/Management/PitStopError_SeverityCurve_High.0"
+      }
+    }
+  }
+]
